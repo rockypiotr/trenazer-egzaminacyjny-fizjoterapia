@@ -41,15 +41,15 @@ ID pytania musi być unikalne, np. `F-V-900`. Zachowaj ID istniejących pytań, 
 
 ## Dodanie zestawu
 
-1. Utwórz `data/sets/wyklad-vii.json`, np. z jedną fiszką i jednym pytaniem testowym.
+1. Utwórz `data/sets/wyklad-viii.json`, np. z jedną fiszką i jednym pytaniem testowym.
 
    ```json
    {
      "cards": [
        {
-         "id": "F-VII-001",
+         "id": "F-VIII-001",
          "kind": "card",
-         "lecture": "VII",
+         "lecture": "VIII",
          "slide": "3",
          "topic": "Terminologia",
          "difficulty": "basic",
@@ -60,9 +60,9 @@ ID pytania musi być unikalne, np. `F-V-900`. Zachowaj ID istniejących pytań, 
      ],
      "quizzes": [
        {
-         "id": "Q-VII-001",
+         "id": "Q-VIII-001",
          "kind": "quiz",
-         "lecture": "VII",
+         "lecture": "VIII",
          "slide": "3",
          "topic": "Terminologia",
          "difficulty": "basic",
@@ -81,16 +81,16 @@ ID pytania musi być unikalne, np. `F-V-900`. Zachowaj ID istniejących pytań, 
 
    ```json
    {
-     "id": "VII",
-     "label": "Wykład VII",
+     "id": "VIII",
+     "label": "Wykład VIII",
      "title": "Terminologia",
-     "file": "sets/wyklad-vii.json"
+     "file": "sets/wyklad-viii.json"
    }
    ```
 
-3. Odśwież stronę. Wybierz „Wykład VII” w banku pytań, fiszkach, quizie lub próbnym egzaminie. Pojawią się pytania pasujące do trybu.
+3. Odśwież stronę. Wybierz „Wykład VIII” w banku pytań, fiszkach, quizie lub próbnym egzaminie. Pojawią się pytania pasujące do trybu.
 
-Aby dodać ilustrację, umieść plik w `images/` i dopisz wpis do tablicy `images` w JSON zestawu. Skopiuj format z wykładu V. Pole `src` jest ścieżką względem pliku zestawu, np. `../../images/wyklad-vii-slajd-3.jpg`.
+Aby dodać ilustrację, umieść plik w `images/` i dopisz wpis do tablicy `images` w JSON zestawu. Skopiuj format z wykładu V. Pole `src` jest ścieżką względem pliku zestawu, np. `../../images/wyklad-viii-slajd-3.jpg`.
 
 ## Publikacja w GitHub Pages
 

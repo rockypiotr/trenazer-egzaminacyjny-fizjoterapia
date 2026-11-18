@@ -1,0 +1,3677 @@
+{
+  "cards": [
+    {
+      "id": "F-VII-001",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "2",
+      "topic": "Ortopedia, urazy i opatrunki",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Czym zajmuje się ortopedia?",
+      "answer": "Diagnostyką, leczeniem zachowawczym i operacyjnym oraz profilaktyką chorób, wad i urazów narządu ruchu. Obejmuje m.in. kości, stawy i więzadła, ścięgna, mięśnie oraz nerwy obwodowe."
+    },
+    {
+      "id": "F-VII-002",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "3",
+      "topic": "Ortopedia, urazy i opatrunki",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Co bada traumatologia i jakich działań dotyczy?",
+      "answer": "Bada przyczyny, objawy i skutki urazów, a także sposoby zapobiegania im i ich leczenia."
+    },
+    {
+      "id": "F-VII-003",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "4",
+      "topic": "Ortopedia, urazy i opatrunki",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Z czym wykład wiąże nazwiska Ambroise’a Parégo i Antoniego Mathijsena?",
+      "answer": "Paré wprowadził podwiązywanie uszkodzonych naczyń i stosował protezy kończyn dolnych. Mathijsen pokazał, jak impregnować bandaże gipsem."
+    },
+    {
+      "id": "F-VII-004",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "5",
+      "topic": "Ortopedia, urazy i opatrunki",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Jaki materiał syntetyczny wykład wymienia jako alternatywę dla opatrunku gipsowego?",
+      "answer": "Opaski z włókna szklanego impregnowanego żywicami poliuretanowymi."
+    },
+    {
+      "id": "F-VII-005",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "6",
+      "topic": "Ortopedia, urazy i opatrunki",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Co chroni skórę i wyniosłości kostne pod opatrunkiem gipsowym?",
+      "answer": "Wata prasowana, materacyki z waty i gazy, filc (zwłaszcza pod gorset) lub bawełniany trykot."
+    },
+    {
+      "id": "F-VII-006",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "7",
+      "topic": "Ortopedia, urazy i opatrunki",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "W jakim ustawieniu wykład zaleca unieruchomić kończynę w gipsie?",
+      "answer": "W ustawieniu czynnościowym, w pozycji leżącej lub siedzącej. Przykładem błędu w wykładzie jest niepotrzebny pełny wyprost kolana lub palców ręki."
+    },
+    {
+      "id": "F-VII-007",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "8",
+      "topic": "Ortopedia, urazy i opatrunki",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Czemu służy obcas dogipsowany w opisywanym zaopatrzeniu?",
+      "answer": "Umożliwia obciążanie w opatrunku według wskazań. Wykład opisuje jego umiejscowienie w osi statycznej kończyny, przy twardym już opatrunku."
+    },
+    {
+      "id": "F-VII-008",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "9",
+      "topic": "Ortopedia, urazy i opatrunki",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Z jakim mechanizmem wiąże się przykurcz Volkmanna?",
+      "answer": "Z niedokrwienną martwicą mięśni. Wykład podaje jako przykład późne powikłanie zaburzeń krążenia przy złamaniu nadkłykciowym, najczęściej w obrębie przedramienia i ręki."
+    },
+    {
+      "id": "F-VII-009",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "10",
+      "topic": "Ortopedia, urazy i opatrunki",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jak powstaje odleżyna pod gipsem?",
+      "answer": "Długotrwały ucisk na wyniosłość kostną prowadzi do miejscowej martwicy skóry, czasem także powięzi."
+    },
+    {
+      "id": "F-VII-010",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "10",
+      "topic": "Ortopedia, urazy i opatrunki",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Które okolice narażone na ucisk opisano przy dużych opatrunkach gipsowych?",
+      "answer": "Przy opatrunku obejmującym obręcz biodrową i udo: okolica krzyżowa, kostki i pięta. Przy obejmującym obręcz barkową: łopatka, wyrostek barkowy, obojczyk i wyrostek łokciowy."
+    },
+    {
+      "id": "F-VII-011",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "11",
+      "topic": "Ortopedia, urazy i opatrunki",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Jakie oznaki mogą sugerować odleżynę pod opatrunkiem gipsowym?",
+      "answer": "Ciągły piekący lub pulsujący ból, gnilny zapach, wilgoć lub sączenie, zaczerwienienie przy krawędzi gipsu. Mogą wystąpić osłabienie, podwyższona temperatura i dreszcze."
+    },
+    {
+      "id": "F-VII-012",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "14",
+      "topic": "Amputacje i poziomy odjęcia",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Czym różni się wyłuszczenie w stawie od amputacji z przecięciem kości?",
+      "answer": "W wyłuszczeniu oddziela się kości w obrębie stawu. W amputacji przez kość przecina się ją pomiędzy stawami."
+    },
+    {
+      "id": "F-VII-013",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "15",
+      "topic": "Amputacje i poziomy odjęcia",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jakie przykłady pierwotnych i wtórnych wskazań bezwzględnych do amputacji podano w wykładzie?",
+      "answer": "Pierwotne: urazowe odjęcie, masywne zmiażdżenie lub gwałtowna zgorzel gazowa. Wtórne: m.in. głębokie odmrożenie oraz postępujące niedokrwienie z martwicą."
+    },
+    {
+      "id": "F-VII-014",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "15–16",
+      "topic": "Amputacje i poziomy odjęcia",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie względne wskazania i ogólne przyczyny amputacji wymieniono?",
+      "answer": "Wskazania względne obejmują m.in. wady wrodzone, uporczywy ból, zniekształcenie uniemożliwiające obciążenie i rozległe rany. Wśród ogólnych przyczyn są choroby naczyń, urazy, guzy złośliwe, zakażenia i dysfunkcje kończyny."
+    },
+    {
+      "id": "F-VII-015",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "17",
+      "topic": "Amputacje i poziomy odjęcia",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Jaki jest funkcjonalny cel uformowania kikuta kończyny dolnej?",
+      "answer": "Uzyskanie wygodnego połączenia z protezą i jak najbardziej oszczędnego energetycznie chodu."
+    },
+    {
+      "id": "F-VII-016",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "18–19",
+      "topic": "Amputacje i poziomy odjęcia",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Co w materiale wskazuje na niedokrwienie stopy i gorsze gojenie w przebiegu cukrzycy?",
+      "answer": "Zaburzone ukrwienie utrudnia gojenie ran i owrzodzeń. Wśród opisanych cech są chłodna, blada lub sina skóra, słabe lub niewyczuwalne tętno, zanik owłosienia, ból nocny i martwica."
+    },
+    {
+      "id": "F-VII-017",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "20",
+      "topic": "Amputacje i poziomy odjęcia",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jakie sytuacje w stopie cukrzycowej wykład wymienia jako wskazania do amputacji?",
+      "answer": "Ciężki przewlekły ból spoczynkowy z niedokrwienia przy niedrożności tętnic i braku możliwości rekonstrukcji, zakażenie zagrażające życiu lub niszcząca tkanki martwica w następstwie niedrożności naczyń."
+    },
+    {
+      "id": "F-VII-018",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "22",
+      "topic": "Amputacje i poziomy odjęcia",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jak usunięcie palucha lub drugiego palca wpływa na biomechanikę stopy?",
+      "answer": "Usunięcie palucha pogarsza stanie i propulsję, czyli przetoczenie stopy przed odbiciem. Po utracie drugiego palca paluch traci boczne podparcie, co sprzyja jego koślawieniu."
+    },
+    {
+      "id": "F-VII-019",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "22",
+      "topic": "Amputacje i poziomy odjęcia",
+      "difficulty": "hard",
+      "priority": false,
+      "question": "Dlaczego wykład wyróżnia podstawę paliczka bliższego palucha?",
+      "answer": "Zachowanie tej podstawy pozwala zachować przyczep krótkiego zginacza palucha i związany z nim aparat trzeszczkowy."
+    },
+    {
+      "id": "F-VII-020",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "23",
+      "topic": "Amputacje i poziomy odjęcia",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie ustawienie kikuta stopy slajd wymienia jako możliwą deformację po częściowym odjęciu?",
+      "answer": "Ustawienie końskie. Slajd opisuje przeniesienie przyczepu mięśnia piszczelowego przedniego na szyjkę kości skokowej jako metodę przeciwdziałania tej deformacji."
+    },
+    {
+      "id": "F-VII-021",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "24",
+      "topic": "Amputacje i poziomy odjęcia",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jaki warunek dotyczący pięty podano dla amputacji metodą Syme’a?",
+      "answer": "Obecność zdrowego płata skórno-tłuszczowego pięty."
+    },
+    {
+      "id": "F-VII-022",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "25–26",
+      "topic": "Amputacje i poziomy odjęcia",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jak różnią się poziomy amputacji podudzia i uda?",
+      "answer": "Amputacja podudzia przebiega przez kości piszczelową i strzałkową poniżej zachowanego kolana. Amputacja uda przebiega przez kość udową między kolanem a biodrem i wymaga miejsca na moduł kolanowy protezy."
+    },
+    {
+      "id": "F-VII-023",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "27",
+      "topic": "Amputacje i poziomy odjęcia",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jak dzielono kikuty uda według zachowanej długości kości udowej?",
+      "answer": "Krótki do 35%, średni 35–60%, długi powyżej 60%. Wykład podaje wspólną granicę 35% dla dwóch pierwszych kategorii."
+    },
+    {
+      "id": "F-VII-024",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "28",
+      "topic": "Amputacje i poziomy odjęcia",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Dlaczego w wykładzie podkreśla się oszczędzanie tkanek podczas amputacji ręki?",
+      "answer": "Czucie i precyzyjne ruchy ręki mają dużą wartość funkcjonalną i trudno je w pełni zastąpić."
+    },
+    {
+      "id": "F-VII-025",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "29",
+      "topic": "Amputacje i poziomy odjęcia",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jaką ruchomość może zachować kikut przy wyłuszczeniu w stawie promieniowo-nadgarstkowym?",
+      "answer": "Pronację i supinację przedramienia. Przy amputacji przedramienia zgięcie w łokciu zależy od zachowania przyczepów mięśni dwugłowego ramienia i ramiennego."
+    },
+    {
+      "id": "F-VII-026",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "29",
+      "topic": "Amputacje i poziomy odjęcia",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Na czym polega zasada kikuta Krukenberga?",
+      "answer": "Rozdzielone kości przedramienia tworzą dwa ramiona chwytne. Wykład jako przykład zastosowania wymienia osoby niewidome po utracie obu rąk."
+    },
+    {
+      "id": "F-VII-027",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "30",
+      "topic": "Amputacje i poziomy odjęcia",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie zagadnienia funkcjonalne rozważa wykład na poziomie łokcia i ramienia?",
+      "answer": "Przy wyłuszczeniu w łokciu znaczenie ma zachowanie chrząstki wzrostowej u dzieci. Przy protezie ramiennej trzeba przewidzieć miejsce na mechanizm łokciowy."
+    },
+    {
+      "id": "F-VII-028",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "31",
+      "topic": "Amputacje i poziomy odjęcia",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jak wzrost dziecka wpływa na kikut?",
+      "answer": "Kikut skraca się względnie wobec rosnącej zdrowej kończyny. Wzrost kości może wyprzedzać wzrost tkanek miękkich, przez co jej koniec staje się bardziej wydatny."
+    },
+    {
+      "id": "F-VII-029",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "32",
+      "topic": "Amputacje i poziomy odjęcia",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Jak odróżnić odczucie kończyny fantomowej od bólu fantomowego?",
+      "answer": "Odczucie fantomowe to wrażenie obecności utraconej kończyny. Ból fantomowy jest lokalizowany w utraconej kończynie i może mieć charakter piekący, rwący lub kłujący."
+    },
+    {
+      "id": "F-VII-030",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "33",
+      "topic": "Rehabilitacja po amputacji",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Jakie są podstawowe cele rehabilitacji po amputacji?",
+      "answer": "Wspomaganie gojenia i redukcja bólu, utrzymanie siły i gibkości, poprawa równowagi i wytrzymałości, reedukacja chodu oraz nauka obsługi i używania protezy."
+    },
+    {
+      "id": "F-VII-031",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "33",
+      "topic": "Rehabilitacja po amputacji",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Co oznacza prehabilitacja w kontekście amputacji?",
+      "answer": "Przygotowanie pacjenta do planowanego zabiegu amputacji."
+    },
+    {
+      "id": "F-VII-032",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "34–35",
+      "topic": "Rehabilitacja po amputacji",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Co trzeba wziąć pod uwagę, planując powrót do sportu po amputacji?",
+      "answer": "Przyczynę amputacji, tolerancję wysiłku, zagojenie blizny i uformowanie kikuta, profilaktykę przykurczów oraz dopasowanie leja i stan protezy."
+    },
+    {
+      "id": "F-VII-033",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "36–37",
+      "topic": "Rehabilitacja po amputacji",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jaką progresję stymulacji czuciowej kikuta przedstawia wykład?",
+      "answer": "Po wygojeniu rany od delikatnego dotyku i głaskania do mocniejszych bodźców, takich jak lekkie oklepywanie, rozcieranie czy zróżnicowane faktury. Kontrolowane obciążanie osiowe pojawia się w późniejszym etapie."
+    },
+    {
+      "id": "F-VII-034",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "38–40",
+      "topic": "Rehabilitacja po amputacji",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jakie są cele kompresji kikuta i jaki kierunek stopniowania ucisku podano?",
+      "answer": "Kompresja ma ograniczać obrzęk i formować kikut do leja. Ucisk jest największy dystalnie i maleje proksymalnie."
+    },
+    {
+      "id": "F-VII-035",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "39–40",
+      "topic": "Rehabilitacja po amputacji",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jaką technikę bandażowania kikuta omawia wykład?",
+      "answer": "Bandaż elastyczny szerokości około 10–12 cm prowadzony w jodełkę, z unikaniem przewężających opasek. Wśród innych możliwości podano linery i pokrowce uciskowe."
+    },
+    {
+      "id": "F-VII-036",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "41",
+      "topic": "Rehabilitacja po amputacji",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jak wykład porządkuje okresy po amputacji przed protezą docelową?",
+      "answer": "Najpierw okres pooperacyjny do zagojenia rany i zdjęcia szwów. Następnie okres ambulatoryjnego formowania kikuta, w którym wykład opisuje korzystanie z protezy tymczasowej."
+    },
+    {
+      "id": "F-VII-037",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "42",
+      "topic": "Rehabilitacja po amputacji",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie grupy mięśni wzmacnia się w przygotowaniu do lokomocji o kulach?",
+      "answer": "Stabilizatory i przywodziciele w obrębie barku, prostowniki łokcia, stabilizatory nadgarstka, mięśnie chwytne ręki oraz mięśnie brzucha i grzbietu."
+    },
+    {
+      "id": "F-VII-038",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "43",
+      "topic": "Rehabilitacja po amputacji",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jaką pozycję wykład wymienia w profilaktyce przykurczu zgięciowego przed protezowaniem?",
+      "answer": "Leżenie na brzuchu. Wykład łączy profilaktykę z pracą nad prostownikami biodra i stabilizacją miednicy."
+    },
+    {
+      "id": "F-VII-039",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "43",
+      "topic": "Rehabilitacja po amputacji",
+      "difficulty": "hard",
+      "priority": false,
+      "question": "Jakie mięśnie wymieniono do wzmacniania po amputacji podudzia i uda?",
+      "answer": "Po amputacji podudzia: mięsień czworogłowy i pośladkowe. Po amputacji uda: prostowniki, przywodziciele i rotatory wewnętrzne biodra."
+    },
+    {
+      "id": "F-VII-040",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "44",
+      "topic": "Rehabilitacja po amputacji",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Jak zgodnie z prezentacją powinno być odczuwane rozciąganie w ćwiczeniach po amputacji?",
+      "answer": "Jako wyraźny bodziec rozciągania bez bólu. Aktywację pompy mięśniowej omówiono w związku z poprawą krążenia i zmniejszaniem obrzęku."
+    },
+    {
+      "id": "F-VII-041",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "45–47",
+      "topic": "Rehabilitacja po amputacji",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jakie jest przejście od pracy nad równowagą do trudniejszych zadań chodu po amputacji?",
+      "answer": "Stabilizacja w siadzie, potem stanie i przenoszenie ciężaru z asekuracją, ćwiczenia przy poręczy i chód z przyrządem. W protezie tymczasowej stopniuje się dystans, zwroty, chód w bok i tył, schody i nierówne podłoże."
+    },
+    {
+      "id": "F-VII-042",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "48",
+      "topic": "Rehabilitacja po amputacji",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie parametry wykład zaleca obserwować podczas treningu wytrzymałościowego po amputacji?",
+      "answer": "Tętno, ciśnienie tętnicze i częstość oddechów."
+    },
+    {
+      "id": "F-VII-043",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "50–51",
+      "topic": "Urazy miednicy i biodra",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Czym różni się złamanie stabilne pierścienia miednicy od niestabilnego w opisie wykładu?",
+      "answer": "Uszkodzenie stabilne dotyczy jednej strony pierścienia. Niestabilne obejmuje przerwanie pierścienia w dwóch miejscach przez złamania lub rozerwanie więzadeł. Przykład drugiego typu to uraz typu otwartej księgi."
+    },
+    {
+      "id": "F-VII-044",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "52–53",
+      "topic": "Urazy miednicy i biodra",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Co uwzględniono w rozpoznawaniu złamania miednicy?",
+      "answer": "Tkliwość uciskową, możliwą niestabilność i uszkodzenia towarzyszące. W obrazowaniu RTG miednicy w projekcji przednio-tylnej, dodatkowe projekcje i TK."
+    },
+    {
+      "id": "F-VII-045",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "54–55",
+      "topic": "Urazy miednicy i biodra",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jak stabilność złamania pierścienia miednicy wpływa na obciążanie i leczenie w wykładzie?",
+      "answer": "W stabilnych złamaniach wykład opisuje leczenie zachowawcze i czasowe odciążenie. W niestabilnych dopuszcza dłuższą ochronę lub repozycję i zespolenie. W schemacie slajdu 55 naukę chodu z odciążeniem rozpoczyna się po 6 tygodniach w urazie stabilnym i po 3–6 miesiącach w niestabilnym."
+    },
+    {
+      "id": "F-VII-046",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "55",
+      "topic": "Urazy miednicy i biodra",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Co przewiduje schemat w pierwszych 1–3 tygodniach po złamaniu miednicy?",
+      "answer": "Ćwiczenia izometryczne, przeciwzakrzepowe, oddechowe oraz czynne kończyn górnych."
+    },
+    {
+      "id": "F-VII-047",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "55",
+      "topic": "Urazy miednicy i biodra",
+      "difficulty": "hard",
+      "priority": false,
+      "question": "Co różni etap 4.–6. tygodnia od wcześniejszego w schemacie usprawniania po złamaniu miednicy?",
+      "answer": "Dołącza się m.in. ruch czynno-bierny i czynny, wzmacnianie brzucha i kończyn górnych oraz pionizację do siadu. Nauka chodu z odciążeniem jest w schemacie późniejszym etapem."
+    },
+    {
+      "id": "F-VII-048",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "56",
+      "topic": "Urazy miednicy i biodra",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Funkcję których nerwów należy skontrolować przy złamaniu panewki według wykładu?",
+      "answer": "Nerwy kulszowy, udowy i zasłonowy. Wśród skojarzonych urazów wymieniono też zwichnięcie biodra i złamanie głowy kości udowej."
+    },
+    {
+      "id": "F-VII-049",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "57",
+      "topic": "Urazy miednicy i biodra",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie obrazowanie wymieniono przy podejrzeniu złamania panewki?",
+      "answer": "RTG miednicy przednio-tylne, wewnętrzny i zewnętrzny rzut Judeta oraz TK, szczególnie przy złamaniach śródstawowych."
+    },
+    {
+      "id": "F-VII-050",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "58",
+      "topic": "Urazy miednicy i biodra",
+      "difficulty": "hard",
+      "priority": false,
+      "question": "Jaki jest cel leczenia złamania panewki i kiedy wykład omawia leczenie operacyjne?",
+      "answer": "Celem jest ograniczenie ryzyka wtórnej artrozy. Otwartą repozycję i zespolenie wewnętrzne omówiono przy znacznym uszkodzeniu sklepienia lub przemieszczeniu powierzchni stawowej powyżej 2 mm."
+    },
+    {
+      "id": "F-VII-051",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "59–60",
+      "topic": "Urazy miednicy i biodra",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jak różnią się trzy etapy rehabilitacji po złamaniu panewki?",
+      "answer": "W unieruchomieniu ćwiczenia izometryczne, oddechowe i przeciwzakrzepowe oraz ruch kończyn zdrowych. Po zdjęciu unieruchomienia i kontrolnym RTG praca nad bólem, obrzękiem, blizną i ruchem. Następnie stopniowe obciążanie i stabilizacja."
+    },
+    {
+      "id": "F-VII-052",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "61–62",
+      "topic": "Urazy miednicy i biodra",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Jak pozycja kończyny odróżnia zwichnięcie tylne biodra od przedniego?",
+      "answer": "Tylne: zgięcie, przywiedzenie i rotacja wewnętrzna. Przednie: odwiedzenie i rotacja zewnętrzna. Wykład podaje, że większość zwichnięć jest tylna."
+    },
+    {
+      "id": "F-VII-053",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "61",
+      "topic": "Urazy miednicy i biodra",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie urazy mogą współistnieć przy zwichnięciu tylnym biodra?",
+      "answer": "Złamanie tylnej krawędzi panewki lub uszkodzenie głowy kości udowej, jej unaczynienia i nerwu kulszowego."
+    },
+    {
+      "id": "F-VII-054",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "63–65",
+      "topic": "Urazy miednicy i biodra",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Co w wykładzie następuje po rozpoznaniu zwichnięcia biodra?",
+      "answer": "Szybkie nastawienie w znieczuleniu ogólnym i kontrolne RTG. Po skutecznej repozycji wykład opisuje czasowe odciążenie, ćwiczenia i stopniowy powrót do obciążania."
+    },
+    {
+      "id": "F-VII-055",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "66",
+      "topic": "Urazy miednicy i biodra",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jaki typowy mechanizm i tło złamania szyjki kości udowej podaje wykład?",
+      "answer": "Upadek z wysokości własnego biodra, np. po poślizgnięciu. Złamanie jest częstsze u osób starszych oraz przy osteoporozie."
+    },
+    {
+      "id": "F-VII-056",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "67–68",
+      "topic": "Urazy miednicy i biodra",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jak opisano obraz kliniczny i diagnostykę złamania szyjki kości udowej?",
+      "answer": "Ból w okolicy krętarza większego, bolesny ruch oraz kończyna skrócona, przywiedziona, zgięta i zrotowana na zewnątrz. Wykład wymienia RTG w projekcji przednio-tylnej i innych projekcjach oraz TK."
+    },
+    {
+      "id": "F-VII-057",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "69–70",
+      "topic": "Urazy miednicy i biodra",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie kategorie leczenia złamania szyjki kości udowej omawia prezentacja?",
+      "answer": "Leczenie operacyjne obejmuje różne zespolenia, osteotomie i alloplastykę. Leczenie zachowawcze wykład wiąże z rzadkimi przypadkami, w których są przeciwwskazania do operacji."
+    },
+    {
+      "id": "F-VII-058",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "71–72",
+      "topic": "Urazy miednicy i biodra",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Jakie są pierwsze zadania usprawniania po złamaniu kości udowej w wykładzie?",
+      "answer": "Ćwiczenia przeciwzakrzepowe, oddechowe i izometryczne. Dalsze postępowanie zależy od zastosowanego sposobu leczenia."
+    },
+    {
+      "id": "F-VII-059",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "73",
+      "topic": "Alloplastyka biodra",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Na czym polega alloplastyka biodra i jak klasyfikuje się ją według zakresu?",
+      "answer": "Zastępuje uszkodzone elementy stawu implantem. Wykład wyróżnia alloplastykę częściową i całkowitą."
+    },
+    {
+      "id": "F-VII-060",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "73",
+      "topic": "Alloplastyka biodra",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Czym różnią się warianty cementowy, bezcementowy i hybrydowy w wykładzie?",
+      "answer": "Cementowy wykorzystuje cement kostny, bezcementowy mocuje implant w kości bez cementu, a przedstawiona hybryda łączy panewkę bezcementową z cementowym trzpieniem."
+    },
+    {
+      "id": "F-VII-061",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "75",
+      "topic": "Alloplastyka biodra",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Co ma osiągnąć usprawnianie przed alloplastyką biodra?",
+      "answer": "Utrzymanie lub wzmocnienie prostowników i odwodzicieli biodra, ogólne przygotowanie sprawności i zapobieganie powikłaniom po operacji."
+    },
+    {
+      "id": "F-VII-062",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "76",
+      "topic": "Alloplastyka biodra",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Na czym polega wczesna szpitalna faza usprawniania po alloplastyce biodra?",
+      "answer": "Kontrola bólu i obrzęku, ćwiczenia mięśni czworogłowych i pośladkowych oraz nauka siadu przy uchwytach i wstawania z pomocą."
+    },
+    {
+      "id": "F-VII-063",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "77–78",
+      "topic": "Alloplastyka biodra",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Co odróżnia późną fazę szpitalną od ambulatoryjnej?",
+      "answer": "W późnej szpitalnej rozwija się ćwiczenia, chód z balkonikiem lub kulą i naukę schodów oraz przygotowuje zalecenia przy wypisie. Faza ambulatoryjna kontynuuje usprawnianie poza oddziałem szpitalnym."
+    },
+    {
+      "id": "F-VII-064",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "79",
+      "topic": "Alloplastyka biodra",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jakie ograniczenia ruchowe podano w wykładowym schemacie po alloplastyce biodra?",
+      "answer": "Wykład wymienia unikanie zgięcia biodra powyżej 90°, krzyżowania nóg, przysiadów, gwałtownych ruchów i rotacji. Są to elementy schematu omawianego na slajdzie."
+    },
+    {
+      "id": "F-VII-065",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "79",
+      "topic": "Alloplastyka biodra",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Od której kończyny w schemacie po alloplastyce biodra zaczyna się zakładanie spodni i skarpet?",
+      "answer": "Od kończyny operowanej. Przy obuwiu wykład proponuje skorzystanie z łyżki do butów."
+    },
+    {
+      "id": "F-VII-066",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "81–82",
+      "topic": "Goleń, staw skokowy i stopa",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Jak powstaje złamanie trzonów kości goleni i co sprawdza się w badaniu?",
+      "answer": "Uraz może być bezpośredni lub pośredni. Poza bólem, obrzękiem i ruchomością patologiczną ocenia się ukrwienie i unerwienie kończyny oraz wykonuje RTG."
+    },
+    {
+      "id": "F-VII-067",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "83",
+      "topic": "Goleń, staw skokowy i stopa",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie metody leczenia złamań trzonów kości goleni omówiono?",
+      "answer": "Nieoperacyjnie nastawienie i gips udowy. Operacyjnie m.in. gwoździowanie i stabilizacja zewnętrzna, szczególnie w złamaniach otwartych."
+    },
+    {
+      "id": "F-VII-068",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "84–85",
+      "topic": "Goleń, staw skokowy i stopa",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jak zmienia się usprawnianie po złamaniu goleni między unieruchomieniem a stopniowym obciążaniem?",
+      "answer": "W unieruchomieniu wykład podaje m.in. izometrię, ćwiczenia oddechowe, przeciwzakrzepowe i naukę chodu z odciążeniem. Po zdjęciu gipsu i kontroli RTG rozwija się ruch czynny i wspomagany, następnie obciążanie i stabilizację."
+    },
+    {
+      "id": "F-VII-069",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "86",
+      "topic": "Goleń, staw skokowy i stopa",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Czym różnią się otwarty i zamknięty mechanizm uszkodzenia ścięgna Achillesa?",
+      "answer": "Zamknięte uszkodzenie może powstać przy nagłym obciążeniu stopy, np. podczas sportu. Otwarte wiąże się z bezpośrednim przecięciem."
+    },
+    {
+      "id": "F-VII-070",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "87–88",
+      "topic": "Goleń, staw skokowy i stopa",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Jakie objawy i badania wykład wiąże z uszkodzeniem ścięgna Achillesa?",
+      "answer": "Utrudnione lub niemożliwe stanięcie na palcach, osłabienie zgięcia podeszwowego, wyczuwalny ubytek oraz ból i obrzęk przy pięcie lub w dystalnej goleni. Wykład wymienia USG i RTG stawu skokowego."
+    },
+    {
+      "id": "F-VII-071",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "89",
+      "topic": "Goleń, staw skokowy i stopa",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie dwie drogi leczenia uszkodzenia ścięgna Achillesa omawia wykład?",
+      "answer": "Leczenie nieoperacyjne z unieruchomieniem przedstawia przy wybranych uszkodzeniach mięśniowo-ścięgnistych. Leczenie operacyjne omawia przy całkowitym przerwaniu ścięgna."
+    },
+    {
+      "id": "F-VII-072",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "90",
+      "topic": "Goleń, staw skokowy i stopa",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie cele usprawniania po uszkodzeniu Achillesa wymieniono w wykładzie?",
+      "answer": "Kontrolę bólu i obrzęku, profilaktykę przeciwzakrzepową, odzyskiwanie zakresu ruchu stawu skokowego, wzmacnianie mięśni łydki i stopniową naukę chodu."
+    },
+    {
+      "id": "F-VII-073",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "91",
+      "topic": "Goleń, staw skokowy i stopa",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Jaki mechanizm skręcenia stawu skokowego jest według prezentacji najczęstszy?",
+      "answer": "Nadmierna supinacja, która może uszkodzić boczny aparat więzadłowy. Pronacja jest wymieniona jako rzadszy mechanizm."
+    },
+    {
+      "id": "F-VII-074",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "91",
+      "topic": "Goleń, staw skokowy i stopa",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Które więzadła boczne wykład wymienia przy skręceniu stawu skokowego?",
+      "answer": "Skokowo-strzałkowe przednie i tylne oraz piętowo-strzałkowe. Wymienia także więzadło skokowo-piętowe i zwraca uwagę na możliwość przeoczenia uszkodzenia więzozrostu piszczelowo-strzałkowego."
+    },
+    {
+      "id": "F-VII-075",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "92–93",
+      "topic": "Goleń, staw skokowy i stopa",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie objawy i badania przedstawiono przy skręceniu stawu skokowego?",
+      "answer": "Ból, obrzęk i możliwy krwiak. Wykład wymienia ocenę stabilności, RTG przednio-tylne i boczne oraz USG."
+    },
+    {
+      "id": "F-VII-076",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "94",
+      "topic": "Goleń, staw skokowy i stopa",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Co oznacza skrót RICE w tej prezentacji?",
+      "answer": "Rest – odpoczynek, Ice – chłodzenie, Compression – kompresja, Elevation – uniesienie kończyny. Slajd podaje chłodzenie przez około 15–20 minut i uniesienie ponad poziom serca."
+    },
+    {
+      "id": "F-VII-077",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "95",
+      "topic": "Goleń, staw skokowy i stopa",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie zadania wykład przypisuje ostrej fazie rehabilitacji po skręceniu?",
+      "answer": "Do 2 tygodni schemat obejmuje RICE, ćwiczenia czynne do granicy tolerancji, ćwiczenia przeciwzakrzepowe i naukę chodu z odciążeniem."
+    },
+    {
+      "id": "F-VII-078",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "95",
+      "topic": "Goleń, staw skokowy i stopa",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Co odróżnia fazę podostrą po skręceniu od zaawansowanej według wykładu?",
+      "answer": "W podostrej (3–6 tygodni) rośnie obciążanie, wraca ruchomość, dochodzą ćwiczenia mięśni i równowagi. W zaawansowanej (ponad 6 tygodni) schemat wskazuje pełne obciążenie w chodzie, propriocepcję, stabilizację, wzmacnianie i koordynację."
+    },
+    {
+      "id": "F-VII-079",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "96–98",
+      "topic": "Goleń, staw skokowy i stopa",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jak wykład opisuje mechanizm, objawy i obrazowanie złamania okolicy stawu skokowego?",
+      "answer": "Zwykle uraz pośredni z siłą pionową lub pionowo-rotacyjną. Możliwe są obrzęk, wylew, ból, ograniczenie ruchu i deformacja. Wykład wymienia RTG przednio-tylne i boczne, czasem TK."
+    },
+    {
+      "id": "F-VII-080",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "99–100",
+      "topic": "Goleń, staw skokowy i stopa",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie zasady leczenia i usprawniania podano przy złamaniach okolicy kostek?",
+      "answer": "Wykład opisuje unieruchomienie przy złamaniach bez przemieszczenia lub po anatomicznym nastawieniu, a operację przy braku możliwości nastawienia. W usprawnianiu omawia chód o kulach, stopniowy powrót do obciążania, równowagę i propriocepcję."
+    },
+    {
+      "id": "F-VII-081",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "101–102",
+      "topic": "Goleń, staw skokowy i stopa",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie cechy i różnice w leczeniu złamań palców stopy wskazuje prezentacja?",
+      "answer": "Zwykle uraz bezpośredni, punktowy ból, obrzęk lub krwiak, czasem deformacja i trudności w chodzeniu. Dla palców II–V bez przemieszczenia slajd omawia unieruchomienie, a dla złamań z przemieszczeniem – nastawienie i zespolenie."
+    },
+    {
+      "id": "F-VII-082",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "103",
+      "topic": "Goleń, staw skokowy i stopa",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Jakie elementy usprawniania po złamaniu palca stopy wymieniono?",
+      "answer": "RICE, sztywny but ortopedyczny, odciążenie i chód z kulami oraz ćwiczenia przeciwzakrzepowe, izometryczne i ekscentryczne."
+    },
+    {
+      "id": "F-VII-083",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "105–106",
+      "topic": "Dysplazja biodra",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Co oznacza rozwojowa dysplazja biodra i jakie postacie wyróżnia wykład?",
+      "answer": "Zaburzenie rozwoju składowych biodra. Wykład wymienia dysplazję panewki, podwichnięcie oraz zwichnięcie. Niestabilność dotyczy postaci z podwichnięciem lub zwichnięciem."
+    },
+    {
+      "id": "F-VII-084",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "107",
+      "topic": "Dysplazja biodra",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie grupy czynników rozwojowej dysplazji biodra omawia wykład?",
+      "answer": "Mechaniczne, hormonalne i genetyczne. Przykłady mechaniczne to położenie miednicowe, małowodzie i duża masa płodu."
+    },
+    {
+      "id": "F-VII-085",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "108",
+      "topic": "Dysplazja biodra",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Jaką metodę ultrasonograficzną wymieniono w rozpoznawaniu dysplazji biodra?",
+      "answer": "Metodę Grafa. Wśród metod obrazowania wymieniono także RTG i TK."
+    },
+    {
+      "id": "F-VII-086",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "109–110",
+      "topic": "Dysplazja biodra",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Czym różnią się dodatnie wyniki prób Ortolaniego i Barlowa?",
+      "answer": "Ortolani: wyczuwalny powrót przemieszczonej głowy kości udowej do panewki. Barlow: wyczuwalne wysuwanie się głowy z panewki niestabilnego biodra."
+    },
+    {
+      "id": "F-VII-087",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "111",
+      "topic": "Dysplazja biodra",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Na czym polega dodatni objaw Galeazziego w wykładzie?",
+      "answer": "Wskazuje na asymetrię długości kończyn dolnych w ocenie niemowlęcia. Slajd wymienia też ograniczone odwiedzenie i asymetrię fałdów pachwinowych."
+    },
+    {
+      "id": "F-VII-088",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "112",
+      "topic": "Dysplazja biodra",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie oznaki dysplazji biodra mogą być widoczne w późniejszym okresie rozwoju?",
+      "answer": "Utykanie, chód kaczkowaty i dodatnie objawy Trendelenburga i Duchenne’a."
+    },
+    {
+      "id": "F-VII-089",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "113–114",
+      "topic": "Dysplazja biodra",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jaki cel ma zaopatrzenie ortotyczne przy dysplazji biodra?",
+      "answer": "Utrzymać głowę kości udowej koncentrycznie w panewce i umożliwić przebudowę stawu. Przykłady zaopatrzenia w zgięciu i odwiedzeniu to szelki Pavlika i poduszka Frejki."
+    },
+    {
+      "id": "F-VII-090",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "114–115",
+      "topic": "Dysplazja biodra",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie metody poza aparatami odwodzącymi wymieniono przy dysplazji?",
+      "answer": "Wyciągi typu overhead, opatrunki gipsowe i leczenie operacyjne dobierane do przypadku, które ma odtworzyć właściwe stosunki anatomiczne i ograniczyć późne zmiany zwyrodnieniowe."
+    },
+    {
+      "id": "F-VII-091",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "116–117",
+      "topic": "Dysplazja biodra",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jak wiek zmienia akcenty usprawniania przy dysplazji biodra?",
+      "answer": "U niemowląt i małych dzieci wykład akcentuje pozycje ułożeniowe i zaopatrzenie utrzymujące zgięcie z odwiedzeniem. U starszych dzieci i młodzieży wymienia stabilizację tułowia, wzmacnianie rotatorów, pracę nad ruchem czynnym i elastycznością."
+    },
+    {
+      "id": "F-VII-092",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "118",
+      "topic": "Perthes i młodzieńcze złuszczenie",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Czym jest choroba Perthesa i w jakim wieku wykład podaje najczęstsze rozpoznanie?",
+      "answer": "Jałową martwicą głowy kości udowej wskutek zaburzenia ukrwienia nasady w okresie wzrostu. Wykład podaje najczęściej wiek 5–8 lat."
+    },
+    {
+      "id": "F-VII-093",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "119",
+      "topic": "Perthes i młodzieńcze złuszczenie",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie hipotezy dotyczące przyczyn choroby Perthesa przedstawiono?",
+      "answer": "Wśród hipotez są uraz, zmienność naczyń, wzrost ciśnienia śródstawowego, zaburzenia krzepnięcia i fibrynolizy oraz czynniki genetyczne i rozwojowe."
+    },
+    {
+      "id": "F-VII-094",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "120",
+      "topic": "Perthes i młodzieńcze złuszczenie",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Na czym polega objaw kolanowy w chorobie Perthesa?",
+      "answer": "Ból jest odczuwany w kolanie lub z przodu uda mimo choroby biodra. Wykład łączy go m.in. z utykaniem i ograniczeniem odwiedzenia oraz rotacji wewnętrznej biodra."
+    },
+    {
+      "id": "F-VII-095",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "121",
+      "topic": "Perthes i młodzieńcze złuszczenie",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie metody obrazowania wymienia prezentacja przy chorobie Perthesa?",
+      "answer": "RTG przednio-tylne i osiowe, USG, scyntygrafię, rezonans magnetyczny i tomografię komputerową."
+    },
+    {
+      "id": "F-VII-096",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "122",
+      "topic": "Perthes i młodzieńcze złuszczenie",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jaka jest kolejność okresów radiologicznych choroby Perthesa według Reinberga?",
+      "answer": "Zmiany początkowe, sklerotyzacja, fragmentacja i odbudowa."
+    },
+    {
+      "id": "F-VII-097",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "122",
+      "topic": "Perthes i młodzieńcze złuszczenie",
+      "difficulty": "hard",
+      "priority": false,
+      "question": "Jakie wczesne zmiany obrazu RTG wymieniono przy chorobie Perthesa?",
+      "answer": "M.in. odwapnienie głowy kości udowej, zatarcie jej struktury beleczkowej, obniżenie nasady, poszerzenie szpary stawowej i linia przejaśnienia związana ze złamaniem podchrzęstnym."
+    },
+    {
+      "id": "F-VII-098",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "122",
+      "topic": "Perthes i młodzieńcze złuszczenie",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Co dzieje się w okresach fragmentacji i odbudowy choroby Perthesa?",
+      "answer": "W fragmentacji tkanka martwa ulega resorpcji i może dojść do bocznego przemieszczenia głowy. W odbudowie nowa kość stopniowo zastępuje obszary martwicy."
+    },
+    {
+      "id": "F-VII-099",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "123",
+      "topic": "Perthes i młodzieńcze złuszczenie",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Które kliniczne czynniki zwiększają ryzyko deformacji głowy kości udowej w chorobie Perthesa według wykładu?",
+      "answer": "Postępujące ograniczenie ruchu, przykurcz przywiedzeniowy, zgięcie połączone z przywiedzeniem oraz nadwaga dziecka."
+    },
+    {
+      "id": "F-VII-100",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "124–125",
+      "topic": "Perthes i młodzieńcze złuszczenie",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie metody leczenia i cele kinezyterapii podano w chorobie Perthesa?",
+      "answer": "Zachowawczo wykład wymienia aparaty ortopedyczne, gips ćwiczebny i wyciągi. Operacyjnie m.in. osteotomie kości udowej lub miednicy. Kinezyterapia dotyczy siły, ruchomości biodra i chodu."
+    },
+    {
+      "id": "F-VII-101",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "126",
+      "topic": "Perthes i młodzieńcze złuszczenie",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "W jakiej strukturze dochodzi do złuszczenia głowy kości udowej i jak zdefiniowano postać ostrą?",
+      "answer": "W chrząstce wzrostowej, gdzie zmieniają się stosunki między głową i szyjką. Wykład nazywa postać ostrą, gdy objawy trwają do 3 tygodni, a przewlekłą przy dłuższym czasie."
+    },
+    {
+      "id": "F-VII-102",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "127–128",
+      "topic": "Perthes i młodzieńcze złuszczenie",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Kogo najczęściej dotyczy młodzieńcze złuszczenie głowy kości udowej w obrazie z wykładu?",
+      "answer": "Młodzieży w okresie szybkiego wzrostu i pokwitania, częściej chłopców. Wśród cech opisywanego obrazu pojawiają się nadwaga i zaburzenia hormonalne, a zmiany mogą być obustronne."
+    },
+    {
+      "id": "F-VII-103",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "129",
+      "topic": "Perthes i młodzieńcze złuszczenie",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Co oznacza dodatni objaw Drehmanna?",
+      "answer": "Podczas zginania biodra udo ustawia się w odwiedzeniu i rotacji zewnętrznej. Objaw omówiono przy młodzieńczym złuszczeniu głowy kości udowej."
+    },
+    {
+      "id": "F-VII-104",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "129–130",
+      "topic": "Perthes i młodzieńcze złuszczenie",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Co może sugerować młodzieńcze złuszczenie i jakie RTG wymieniono?",
+      "answer": "Utykanie, ból biodra promieniujący do kolana, ograniczenie rotacji wewnętrznej, odwiedzenia lub wyprostu i ustawienie kończyny w rotacji zewnętrznej. Wykład podaje RTG obu bioder w projekcjach przednio-tylnej i osiowej."
+    },
+    {
+      "id": "F-VII-105",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "130",
+      "topic": "Perthes i młodzieńcze złuszczenie",
+      "difficulty": "hard",
+      "priority": false,
+      "question": "Jakie cechy obrazu RTG wymienia prezentacja dla młodzieńczego złuszczenia?",
+      "answer": "Poszerzenie chrząstki nasadowej, przebudowę przynasady, odwapnienie głowy, obniżenie jej wysokości i zmianę relacji szyjki względem panewki."
+    },
+    {
+      "id": "F-VII-106",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "131–132",
+      "topic": "Perthes i młodzieńcze złuszczenie",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie postępowanie po rozpoznaniu złuszczenia przedstawiono w wykładzie?",
+      "answer": "Leczenie operacyjne, m.in. stabilizacja śrubą kaniulowaną. W usprawnianiu m.in. ćwiczenia przeciwzakrzepowe, izometryczne, oddechowe, mobilizacja blizny, reedukacja chodu i wzmacnianie stabilizatorów miednicy."
+    },
+    {
+      "id": "F-VII-107",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "134–135",
+      "topic": "Zwyrodnienia stawów i kręgosłupa",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Jak zdefiniowano chorobę zwyrodnieniową stawów?",
+      "answer": "Jako przewlekły proces wieloczynnikowy z zaburzeniem równowagi między regeneracją a degradacją chrząstki stawowej i kości podchrzęstnej. Częstość rośnie z wiekiem."
+    },
+    {
+      "id": "F-VII-108",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "136–141",
+      "topic": "Zwyrodnienia stawów i kręgosłupa",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Czym różnią się pierwotna i wtórna choroba zwyrodnieniowa stawów?",
+      "answer": "W pierwotnej przyczyna pozostaje nieustalona. Wtórna wynika z określonego wrodzonego lub nabytego zaburzenia budowy albo funkcji stawu i może wystąpić także u osób młodszych."
+    },
+    {
+      "id": "F-VII-109",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "138",
+      "topic": "Zwyrodnienia stawów i kręgosłupa",
+      "difficulty": "hard",
+      "priority": false,
+      "question": "Jakie teorie powstawania pierwotnej choroby zwyrodnieniowej wymienia wykład?",
+      "answer": "Genetyczną, mechaniczną, biochemiczną, hormonalno-naczyniową i immunologiczną."
+    },
+    {
+      "id": "F-VII-110",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "141",
+      "topic": "Zwyrodnienia stawów i kręgosłupa",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie czynniki sprzyjające wtórnym zmianom zwyrodnieniowym wymieniono?",
+      "answer": "M.in. zaburzenie osi kończyny, wady wrodzone, urazy i mikrourazy, przeciążenia, stany zapalne, krwiaki śródstawowe, zaburzenia metaboliczne i jałowe martwice."
+    },
+    {
+      "id": "F-VII-111",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "142",
+      "topic": "Zwyrodnienia stawów i kręgosłupa",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jakie zmiany w chrząstce i kości podchrzęstnej zachodzą w zwyrodnieniu?",
+      "answer": "Chrząstka traci gładkość, tworzą się w niej szczeliny i ubytki, a chrząstka może ulec starciu. W kości podchrzęstnej rozwija się sklerotyzacja, a na brzegach nasad powstają osteofity."
+    },
+    {
+      "id": "F-VII-112",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "142",
+      "topic": "Zwyrodnienia stawów i kręgosłupa",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Czym są myszki stawowe w opisie wykładu?",
+      "answer": "Wolnymi ciałami w jamie stawu, np. oderwanymi fragmentami chrząstki lub zwapniałymi bądź skostniałymi kosmkami błony maziowej."
+    },
+    {
+      "id": "F-VII-113",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "143",
+      "topic": "Zwyrodnienia stawów i kręgosłupa",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Jakie objawy ogólne opisano w chorobie zwyrodnieniowej?",
+      "answer": "Ból przy obciążaniu, ograniczenie ruchu, sztywność, trzaski albo tarcie, zmianę obrysu stawu i zanik mięśni."
+    },
+    {
+      "id": "F-VII-114",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "144–146",
+      "topic": "Zwyrodnienia stawów i kręgosłupa",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie stany predysponują do wtórnego zwyrodnienia biodra i jakie objawy podano?",
+      "answer": "Wykład wymienia dysplazję, przebyte zwichnięcie, uraz, zapalenie, martwicę aseptyczną i młodzieńcze złuszczenie. Objawy obejmują ból ruchu, ograniczenie ruchomości i osłabienie, a wolne ciało może blokować staw."
+    },
+    {
+      "id": "F-VII-115",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "147, 159",
+      "topic": "Zwyrodnienia stawów i kręgosłupa",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jak wykład stopniuje kinezyterapię zwyrodnień po ustąpieniu fazy ostrej?",
+      "answer": "Od izometrii i ćwiczeń w odciążeniu do ćwiczeń czynnych, oporowych i zwiększających ruchomość. W zwyrodnieniu kręgosłupa dochodzi m.in. stabilizacja tułowia."
+    },
+    {
+      "id": "F-VII-116",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "148",
+      "topic": "Zwyrodnienia stawów i kręgosłupa",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Jakie trzy przedziały może objąć zwyrodnienie kolana?",
+      "answer": "Przyśrodkowy, boczny i rzepkowo-udowy."
+    },
+    {
+      "id": "F-VII-117",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "149–150",
+      "topic": "Zwyrodnienia stawów i kręgosłupa",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jakie cechy kliniczne i obrazowe wykład podaje dla gonartrozy?",
+      "answer": "Ból przez większość dni miesiąca, ograniczenie ruchomości, możliwy wysięk lub torbiel Bakera, osteofity w RTG i poranna sztywność do 30 minut."
+    },
+    {
+      "id": "F-VII-118",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "151",
+      "topic": "Zwyrodnienia stawów i kręgosłupa",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Który staw obręczy barkowej wykład wyróżnia jako częstsze miejsce zwyrodnień i jakie są objawy?",
+      "answer": "Staw barkowo-obojczykowy. Slajd wymienia ból promieniujący do łopatki, szyi lub ramienia, bolesny ruch z trzaskami i ograniczenie odwiedzenia oraz rotacji wewnętrznej."
+    },
+    {
+      "id": "F-VII-119",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "152–153",
+      "topic": "Zwyrodnienia stawów i kręgosłupa",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie struktury kręgosłupa mogą podlegać zmianom zwyrodnieniowym?",
+      "answer": "Krążki międzykręgowe, trzony kręgów, stawy międzykręgowe, wyrostki kolczyste i stawy krzyżowo-biodrowe."
+    },
+    {
+      "id": "F-VII-120",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "154",
+      "topic": "Zwyrodnienia stawów i kręgosłupa",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jak proces zwyrodnieniowy zmienia jądro miażdżyste i pierścień włóknisty?",
+      "answer": "Jądro traci wodę i elastyczność, może zmniejszyć się i fragmentować. W pierścieniu spada spoistość włókien, powstają szczeliny i może dojść do uwypuklenia lub przerwania pierścienia."
+    },
+    {
+      "id": "F-VII-121",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "155",
+      "topic": "Zwyrodnienia stawów i kręgosłupa",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jak według terminologii slajdu odróżnić wypuklinę, protruzję, ekstruzję i sekwestrację?",
+      "answer": "Wypuklina: uwypuklenie przy zachowanej ciągłości pierścienia. Protruzja: przepuklina bez pełnego uszkodzenia pierścienia. Ekstruzja: przerwanie pierścienia. Sekwestracja: fragment jądra oddzielony od reszty."
+    },
+    {
+      "id": "F-VII-122",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "156",
+      "topic": "Zwyrodnienia stawów i kręgosłupa",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Co łączy utratę amortyzacji krążka, zmiany w więzadłach i osteofity w wykładzie?",
+      "answer": "Obniżenie krążka zbliża trzony i zmienia napięcie więzadeł. Może pojawić się niestabilność, a powtarzające się przeciążenia sprzyjają tworzeniu osteofitów."
+    },
+    {
+      "id": "F-VII-123",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "157",
+      "topic": "Zwyrodnienia stawów i kręgosłupa",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Czego dotyczy choroba Baastrupa?",
+      "answer": "Ocierania o siebie wyrostków kolczystych przy ruchu, opisywanego w wykładzie w związku z pogłębioną lordozą lędźwiową."
+    },
+    {
+      "id": "F-VII-124",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "158",
+      "topic": "Zwyrodnienia stawów i kręgosłupa",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie cechy RTG kręgosłupa towarzyszą zwyrodnieniu w wykładzie?",
+      "answer": "M.in. osteofity trzonów i wyrostków stawowych, zwężenie przestrzeni międzykręgowych i szpar stawowych, sklerotyzacja płytek granicznych oraz możliwe zwapnienia w krążku."
+    },
+    {
+      "id": "F-VII-125",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "161–164",
+      "topic": "Choroba Scheuermanna",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Co wykład nazywa chorobą Scheuermanna i co pogłębia kifozę?",
+      "answer": "Młodzieńczą kifozę z zaburzeniami wzrostu trzonów kręgów. Przednie klinowacenie trzonów pogłębia fizjologiczną kifozę piersiową."
+    },
+    {
+      "id": "F-VII-126",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "163",
+      "topic": "Choroba Scheuermanna",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Czym są guzki Schmorla?",
+      "answer": "Wpukleniami fragmentów krążka przez płytkę graniczną do trzonu sąsiedniego kręgu. Wykład omawia ich obraz m.in. w MRI."
+    },
+    {
+      "id": "F-VII-127",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "164–165",
+      "topic": "Choroba Scheuermanna",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie dolegliwości i zmiany sylwetki opisano przy chorobie Scheuermanna?",
+      "answer": "Tępy rozlany ból po wysiłku i przy dłuższym pochyleniu, mniejszy po odpoczynku z odciążeniem. Typowe cechy sylwetki to pogłębiona kifoza, barki i głowa wysunięte w przód, odstające dolne kąty łopatek i możliwa hiperlordoza."
+    },
+    {
+      "id": "F-VII-128",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "167",
+      "topic": "Choroba Scheuermanna",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jakie są trzy fazy choroby Scheuermanna według prezentacji?",
+      "answer": "Wczesna z niewielkim pogłębieniem kifozy i klinowaceniem, czynna z utrwaloną kifozą, bólem i guzkami Schmorla oraz późna z zakończoną przebudową, utrwaloną deformacją i możliwymi osteofitami."
+    },
+    {
+      "id": "F-VII-129",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "168",
+      "topic": "Choroba Scheuermanna",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie są cele usprawniania w chorobie Scheuermanna?",
+      "answer": "Ograniczenie narastania deformacji i bólu, zapobieganie wtórnym następstwom hiperkifozy i poprawa równowagi mięśniowej."
+    },
+    {
+      "id": "F-VII-130",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "169–170",
+      "topic": "Choroba Scheuermanna",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jakie ćwiczenia przedstawiono w leczeniu zachowawczym choroby Scheuermanna?",
+      "answer": "Rozciąganie przykurczonych mięśni, wzmacnianie osłabionych grup, ćwiczenia oddechowe i naukę prawidłowej postawy. Przykładowe grupy wzmacniane to mięśnie równoległoboczne, odcinek piersiowy prostownika grzbietu, rotatory zewnętrzne ramienia, mięśnie brzucha i pośladkowe."
+    },
+    {
+      "id": "F-VII-131",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "171–172",
+      "topic": "Choroba Scheuermanna",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jaka jest rola gorsetu w młodzieńczej kifozie według wykładu?",
+      "answer": "Ma korygować hiperkifozę przy stabilizacji miednicy i ograniczeniu lordozy lędźwiowej oraz umożliwiać kinezyterapię. Wykład wymienia gorset Milwaukee i gorsety gipsowe ekstensywne."
+    },
+    {
+      "id": "F-VII-132",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "173",
+      "topic": "Choroba Scheuermanna",
+      "difficulty": "hard",
+      "priority": false,
+      "question": "Jakie kryteria omówiono przy rozważaniu operacyjnego leczenia choroby Scheuermanna?",
+      "answer": "Według wykładu m.in. kifoza ponad 75° po zakończeniu wzrostu lub ponad 65° z progresją mimo leczenia zachowawczego przy trwającym wzroście, silny ból utrzymujący się mimo leczenia zachowawczego albo pojawiające się lub narastające zaburzenia neurologiczne związane ze zwężeniem kanału kręgowego."
+    },
+    {
+      "id": "F-VII-133",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "176",
+      "topic": "Więzadła krzyżowe i łąkotki",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Jakie objawy mogą towarzyszyć uszkodzeniu ACL?",
+      "answer": "Uciekanie kolana, niepewność i niestabilność, ból, obrzęk lub wysięk, czasem obecność krwi w stawie, oraz dodatni test Lachmana."
+    },
+    {
+      "id": "F-VII-134",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "177",
+      "topic": "Więzadła krzyżowe i łąkotki",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jak klasyfikowano stopnie uszkodzenia ACL?",
+      "answer": "I – naciągnięcie i minimalne uszkodzenie włókien, II – naderwanie, III – całkowite zerwanie, IV – oderwanie z przyczepem (awulsja) jako dodatkowa kategoria."
+    },
+    {
+      "id": "F-VII-135",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "178",
+      "topic": "Więzadła krzyżowe i łąkotki",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie mechanizmy urazu ACL omawia slajd?",
+      "answer": "Skręt przy ustalonej stopie, przeprost, silne zgięcie, gwałtowne zatrzymanie i przewlekle powtarzane obciążenia."
+    },
+    {
+      "id": "F-VII-136",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "179",
+      "topic": "Więzadła krzyżowe i łąkotki",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie przykłady tkanek wykład podaje na przeszczep w rekonstrukcji ACL?",
+      "answer": "Ścięgno mięśnia półścięgnistego oraz odcinek więzadła właściwego rzepki z bloczkami kostnymi."
+    },
+    {
+      "id": "F-VII-137",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "180",
+      "topic": "Więzadła krzyżowe i łąkotki",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Dlaczego po rekonstrukcji ACL wykład akcentuje wyprost i mobilność rzepki?",
+      "answer": "Pełny wyprost wspiera prawidłowy wzorzec chodu. Ograniczony ślizg rzepki może utrudniać zgięcie i wyprost. Wśród zadań wymieniono też redukcję obrzęku i izometrię."
+    },
+    {
+      "id": "F-VII-138",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "176, 181",
+      "topic": "Więzadła krzyżowe i łąkotki",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "W jakim ustawieniu badający wykonuje test Lachmana i w jakim kierunku ocenia przemieszczenie piszczeli?",
+      "answer": "Przy rozluźnionej kończynie i zgięciu kolana około 20–30°, ze stabilizacją uda i oceną przemieszczenia piszczeli ku przodowi."
+    },
+    {
+      "id": "F-VII-139",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "182–183",
+      "topic": "Więzadła krzyżowe i łąkotki",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Czym niestabilność po uszkodzeniu PCL różni się od nierzadkiego uciekania kolana po urazie ACL?",
+      "answer": "PCL wiąże się z nadmiernym tylnym przesuwaniem piszczeli i rzadszymi epizodami uciekania kolana. Mogą wystąpić głęboki lub tylny ból, obrzęk i trudność w chodzeniu."
+    },
+    {
+      "id": "F-VII-140",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "182",
+      "topic": "Więzadła krzyżowe i łąkotki",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie następstwo przewlekłej niewydolności PCL wyróżniono w wykładzie?",
+      "answer": "Możliwy rozwój zmian zwyrodnieniowych stawu rzepkowo-udowego, z przewlekłym bólem przedniej i przyśrodkowej części kolana."
+    },
+    {
+      "id": "F-VII-141",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "184",
+      "topic": "Więzadła krzyżowe i łąkotki",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie kształty uszkodzeń łąkotki wymienia slajd?",
+      "answer": "Podłużne (w tym rączka od wiadra), poprzeczne, skośne, poziome i brzeżne (np. języczek lub dziób papugi)."
+    },
+    {
+      "id": "F-VII-142",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "185",
+      "topic": "Więzadła krzyżowe i łąkotki",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Co wspiera podejrzenie uszkodzenia łąkotki i jakie obrazowanie podano?",
+      "answer": "Ból w rzucie szpary stawowej z obrzękiem, blokowanie lub uciekanie kolana oraz dodatnie próby funkcjonalne. Wykład wymienia USG lub MRI."
+    },
+    {
+      "id": "F-VII-143",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "186–187",
+      "topic": "Przeciążenia kolana",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Gdzie i przy jakich czynnościach pojawia się ból przy zespole pasma biodrowo-piszczelowego?",
+      "answer": "Po bocznej stronie kolana, w czasie lub po biegu, często mocniej przy zbieganiu albo schodzeniu po schodach."
+    },
+    {
+      "id": "F-VII-144",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "186, 188",
+      "topic": "Przeciążenia kolana",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie mięśnie mają znaczenie dla pasma biodrowo-piszczelowego i kontroli miednicy?",
+      "answer": "Z pasmem łączą się napinacz powięzi szerokiej i pośladkowy wielki. Pośladkowy średni wspiera stabilizację miednicy przy staniu na jednej nodze."
+    },
+    {
+      "id": "F-VII-145",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "188–189",
+      "topic": "Przeciążenia kolana",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie czynniki sprzyjające i kierunki terapii wymieniono w zespole pasma biodrowo-piszczelowego?",
+      "answer": "Wykład omawia osłabienie odwodzicieli biodra, asymetrię miednicy i zaburzenia osi kończyny. W ćwiczeniach podaje przywracanie wzorca ruchu, wzmacnianie stabilizatorów, rozciąganie i pracę nad czynną ruchomością."
+    },
+    {
+      "id": "F-VII-146",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "190–191",
+      "topic": "Przeciążenia kolana",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Która struktura jest przeciążona w kolanie skoczka i kiedy typowo boli?",
+      "answer": "Więzadło rzepki przy jej wierzchołku. Ból z przodu kolana, zwykle tuż poniżej rzepki, nasila się przy skokach, lądowaniu lub innych zadaniach obciążających aparat wyprostny."
+    },
+    {
+      "id": "F-VII-147",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "192",
+      "topic": "Przeciążenia kolana",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jak opisano cztery stopnie kolana skoczka?",
+      "answer": "I: ból wyłącznie po aktywności. II: ból podczas rozgrzewki, mija w trakcie wysiłku i wraca po nim. III: ból w czasie wysiłku utrudniający aktywność. IV: naderwanie z osłabieniem aparatu wyprostnego aż do zerwania więzadła."
+    },
+    {
+      "id": "F-VII-148",
+      "kind": "card",
+      "lecture": "VII",
+      "slide": "193",
+      "topic": "Przeciążenia kolana",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Co zawiera schemat leczenia zachowawczego pierwszych dwóch stopni kolana skoczka w wykładzie?",
+      "answer": "RICE, wzmacnianie i rozciąganie mięśnia czworogłowego, rozciąganie zginaczy oraz niekiedy stabilizator więzadła rzepki. Slajd wymienia również chłodzenie i leczenie farmakologiczne."
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "Q-VII-001",
+      "kind": "quiz",
+      "lecture": "VII",
+      "slide": "6–7",
+      "topic": "Ortopedia, urazy i opatrunki",
+      "difficulty": "basic",
+      "priority": false,
+      "qtype": "multi",
+      "question": "Które elementy odpowiadają zasadom przygotowania kończyny do gipsowania przedstawionym w wykładzie?",
+      "options": [
+        "Ochrona kostnych wyniosłości podkładem",
+        "Ustawienie czynnościowe",
+        "Możliwość założenia bawełnianego trykotu",
+        "Rutynowe ustawienie wszystkich stawów w pełnym wyproście"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ],
+      "why": "Podkłady chronią skórę przed uciskiem. Wykład podaje pełny wyprost kolana lub palców jako przykład błędu."
+    },
+    {
+      "id": "Q-VII-002",
+      "kind": "quiz",
+      "lecture": "VII",
+      "slide": "9–11",
+      "topic": "Ortopedia, urazy i opatrunki",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "single",
+      "question": "Która para mechanizmów odpowiada kolejno przykurczowi Volkmanna i odleżynie pod gipsem?",
+      "options": [
+        "Miejscowy ucisk na skórę i zakażenie stawu",
+        "Niedokrwienie mięśni i długotrwały miejscowy ucisk na tkanki",
+        "Rozerwanie ścięgna i niedokrwienie mięśni",
+        "Złamanie podchrzęstne i wysięk w stawie"
+      ],
+      "correct": 1,
+      "why": "Przykurcz Volkmanna wiąże się z niedokrwieniem mięśni, a w odleżynie kluczowy jest przedłużony ucisk tkanek na wyniosłości kostnej."
+    },
+    {
+      "id": "Q-VII-003",
+      "kind": "quiz",
+      "lecture": "VII",
+      "slide": "11",
+      "topic": "Ortopedia, urazy i opatrunki",
+      "difficulty": "basic",
+      "priority": true,
+      "qtype": "multi",
+      "question": "Które objawy wymieniono jako możliwe oznaki odleżyny pod gipsem?",
+      "options": [
+        "Ciągły ból piekący lub pulsujący",
+        "Gnilny zapach",
+        "Krótkotrwały świąd bez innych zmian",
+        "Utrzymująca się wilgoć albo sączenie"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ],
+      "why": "Poza objawami miejscowymi w materiale wspomniano zaczerwienienie, osłabienie, podwyższoną temperaturę i dreszcze."
+    },
+    {
+      "id": "Q-VII-004",
+      "kind": "quiz",
+      "lecture": "VII",
+      "slide": "14–15",
+      "topic": "Amputacje i poziomy odjęcia",
+      "difficulty": "basic",
+      "priority": false,
+      "qtype": "tf",
+      "question": "Wyłuszczenie oznacza rozdzielenie kości w stawie.",
+      "options": [],
+      "correct": true,
+      "why": "To określenie dotyczy odjęcia przez staw."
+    },
+    {
+      "id": "Q-VII-005",
+      "kind": "quiz",
+      "lecture": "VII",
+      "slide": "15",
+      "topic": "Amputacje i poziomy odjęcia",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "single",
+      "question": "Który stan wykład klasyfikuje jako wtórne wskazanie bezwzględne do amputacji?",
+      "options": [
+        "Wrodzona wada kończyny bez dalszych danych",
+        "Uporczywy ból bez niedokrwienia",
+        "Uraz, który już spowodował amputację",
+        "Postępujące niedokrwienie kończyny z martwicą"
+      ],
+      "correct": 3,
+      "why": "Postępujące niedokrwienie z martwicą wymieniono w grupie wtórnych wskazań bezwzględnych."
+    },
+    {
+      "id": "Q-VII-006",
+      "kind": "quiz",
+      "lecture": "VII",
+      "slide": "19–20",
+      "topic": "Amputacje i poziomy odjęcia",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "single",
+      "question": "Która sytuacja odpowiada opisanemu w wykładzie wskazaniu do amputacji z przyczyn naczyniowych w stopie cukrzycowej?",
+      "options": [
+        "Modzel bez owrzodzenia i bez bólu",
+        "Cienka skóra i zanik owłosienia bez dalszych danych",
+        "Ciężki, przewlekły ból spoczynkowy, niedrożność tętnic i brak możliwości rekonstrukcji",
+        "Samo osłabienie tętna na stopie"
+      ],
+      "correct": 2,
+      "why": "Slajd 20 łączy ból spoczynkowy z udokumentowaną niedrożnością i brakiem możliwości rekonstrukcji."
+    },
+    {
+      "id": "Q-VII-007",
+      "kind": "quiz",
+      "lecture": "VII",
+      "slide": "22–25",
+      "topic": "Amputacje i poziomy odjęcia",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "single",
+      "question": "Które stwierdzenie trafnie opisuje jeden z poziomów amputacji kończyny dolnej?",
+      "options": [
+        "Odjęcie palucha nie wpływa na odbicie w chodzie",
+        "Metoda Syme’a wymaga zdrowego płata skórno-tłuszczowego pięty",
+        "Przy amputacji podudzia przecina się kość udową",
+        "Utrata drugiego palca przywraca boczne podparcie palucha"
+      ],
+      "correct": 1,
+      "why": "Metoda Syme’a wykorzystuje zdrowy płat w obrębie pięty."
+    },
+    {
+      "id": "Q-VII-008",
+      "kind": "quiz",
+      "lecture": "VII",
+      "slide": "27",
+      "topic": "Amputacje i poziomy odjęcia",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "single",
+      "question": "Zachowano 50% długości kości udowej. Jak klasyfikuje się kikut w wykładzie?",
+      "options": [
+        "Krótki",
+        "Średni",
+        "Długi",
+        "Z klasyfikacji nie wynika kategoria"
+      ],
+      "correct": 1,
+      "why": "Kikut średni obejmuje w wykładzie 35–60% długości kości udowej."
+    },
+    {
+      "id": "Q-VII-009",
+      "kind": "quiz",
+      "lecture": "VII",
+      "slide": "31–32",
+      "topic": "Amputacje i poziomy odjęcia",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "tf",
+      "question": "Wrażenie obecności amputowanej kończyny bez bólu jest już bólem fantomowym.",
+      "options": [],
+      "correct": false,
+      "why": "Wykład rozróżnia zwykłe wrażenie fantomowe i ból odczuwany w brakującej kończynie."
+    },
+    {
+      "id": "Q-VII-010",
+      "kind": "quiz",
+      "lecture": "VII",
+      "slide": "33, 35",
+      "topic": "Rehabilitacja po amputacji",
+      "difficulty": "basic",
+      "priority": false,
+      "qtype": "multi",
+      "question": "Które cele lub warunki wymienia wykład przy rehabilitacji po amputacji?",
+      "options": [
+        "Optymalizacja gojenia rany",
+        "Powrót do treningu sportowego przed zagojeniem blizny",
+        "Utrzymanie siły i gibkości",
+        "Nauka posługiwania się protezą"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ],
+      "why": "Aktywność sportową wykład wiąże z wygojoną blizną, uformowanym kikutem i sprawną protezą."
+    },
+    {
+      "id": "Q-VII-011",
+      "kind": "quiz",
+      "lecture": "VII",
+      "slide": "36–39",
+      "topic": "Rehabilitacja po amputacji",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "single",
+      "question": "Które zestawienie odpowiada wykładowemu opisowi stymulacji czuciowej i kompresji kikuta?",
+      "options": [
+        "Intensywna stymulacja przed zagojeniem, stały ucisk na całości",
+        "Najpierw mocne tarcie, największy ucisk proksymalnie",
+        "Po zagojeniu delikatny dotyk, największy ucisk dystalnie",
+        "Obciążanie osiowe przed prostą stymulacją, ucisk wyłącznie na brzegu leja"
+      ],
+      "correct": 2,
+      "why": "Po zagojeniu wprowadza się łagodny dotyk, a bandażowanie stopniuje ucisk od największego dystalnie ku mniejszemu proksymalnie."
+    },
+    {
+      "id": "Q-VII-012",
+      "kind": "quiz",
+      "lecture": "VII",
+      "slide": "41, 45–47",
+      "topic": "Rehabilitacja po amputacji",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "order",
+      "question": "Ułóż etapy usprawniania po amputacji zgodnie z ogólną kolejnością z wykładu.",
+      "options": [
+        "Okres pooperacyjny do zagojenia rany",
+        "Podstawowa nauka chodu w protezie tymczasowej",
+        "Trudniejsze zadania chodu po zwiększeniu dystansu"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ],
+      "why": "Wygojenie rany poprzedza okres z protezą tymczasową. Po opanowaniu podstaw wykład wprowadza trudniejsze warianty chodu."
+    },
+    {
+      "id": "Q-VII-013",
+      "kind": "quiz",
+      "lecture": "VII",
+      "slide": "42–43",
+      "topic": "Rehabilitacja po amputacji",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "multi",
+      "question": "Które grupy mięśniowe wykład uwzględnia przed zaprotezowaniem po amputacji kończyny dolnej?",
+      "options": [
+        "Wyłącznie zginacze palców stopy odjętej kończyny",
+        "Prostowniki łokcia",
+        "Prostowniki biodra",
+        "Stabilizatory tułowia"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ],
+      "why": "Trening uwzględnia podparcie na pomocach, stabilność tułowia i miednicy oraz profilaktykę przykurczów."
+    },
+    {
+      "id": "Q-VII-014",
+      "kind": "quiz",
+      "lecture": "VII",
+      "slide": "48",
+      "topic": "Rehabilitacja po amputacji",
+      "difficulty": "basic",
+      "priority": false,
+      "qtype": "multi",
+      "question": "Które parametry wykład wskazuje do monitorowania w treningu wytrzymałościowym po amputacji?",
+      "options": [
+        "Tętno",
+        "Ciśnienie tętnicze",
+        "Częstość oddechów",
+        "Obwód ramienia"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ],
+      "why": "Wymieniono obserwację odpowiedzi krążeniowo-oddechowej."
+    },
+    {
+      "id": "Q-VII-015",
+      "kind": "quiz",
+      "lecture": "VII",
+      "slide": "51",
+      "topic": "Urazy miednicy i biodra",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "single",
+      "question": "Które uszkodzenie pierścienia miednicy podano jako przykład niestabilnego?",
+      "options": [
+        "Izolowane złamanie skrzydła kości biodrowej",
+        "Izolowane złamanie jednej gałęzi kości łonowej",
+        "Złamanie typu otwartej księgi",
+        "Izolowane złamanie kości guzicznej"
+      ],
+      "correct": 2,
+      "why": "Uraz typu otwartej księgi wymieniono przy przerwaniu pierścienia w dwóch miejscach."
+    },
+    {
+      "id": "Q-VII-016",
+      "kind": "quiz",
+      "lecture": "VII",
+      "slide": "55",
+      "topic": "Urazy miednicy i biodra",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "single",
+      "question": "Który element pojawia się w schemacie złamania miednicy w 4.–6. tygodniu po urazie?",
+      "options": [
+        "Pionizacja do siadu",
+        "Ćwiczenie zwrotów w protezie",
+        "Pełne obciążenie obu nóg",
+        "Rozpoczęcie treningu biegu"
+      ],
+      "correct": 0,
+      "why": "W tym etapie wykład podaje pionizację do siadu, ruch czynno-bierny i czynny oraz dalsze wzmacnianie."
+    },
+    {
+      "id": "Q-VII-017",
+      "kind": "quiz",
+      "lecture": "VII",
+      "slide": "56–57",
+      "topic": "Urazy miednicy i biodra",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "multi",
+      "question": "Co obejmuje postępowanie diagnostyczne omawiane przy złamaniu panewki?",
+      "options": [
+        "Wewnętrzny i zewnętrzny rzut Judeta",
+        "TK przy złamaniach śródstawowych",
+        "Test Lachmana jako podstawowe badanie panewki",
+        "Ocena funkcji nerwu kulszowego"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ],
+      "why": "Wykład podkreśla obrazowanie panewki oraz kontrolę funkcji nerwów, m.in. kulszowego."
+    },
+    {
+      "id": "Q-VII-018",
+      "kind": "quiz",
+      "lecture": "VII",
+      "slide": "59–60",
+      "topic": "Urazy miednicy i biodra",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "order",
+      "question": "Ułóż etapy usprawniania po złamaniu panewki.",
+      "options": [
+        "Izometria, ćwiczenia przeciwzakrzepowe i oddechowe podczas unieruchomienia",
+        "Przywracanie ruchomości po zdjęciu unieruchomienia i kontroli RTG",
+        "Stopniowe obciążanie, ćwiczenia ogólnousprawniające i stabilizacja"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ],
+      "why": "Ochrona w czasie gojenia poprzedza pracę nad ruchem po kontroli RTG oraz progresję obciążeń."
+    },
+    {
+      "id": "Q-VII-019",
+      "kind": "quiz",
+      "lecture": "VII",
+      "slide": "62",
+      "topic": "Urazy miednicy i biodra",
+      "difficulty": "basic",
+      "priority": true,
+      "qtype": "single",
+      "question": "Jakie ustawienie biodra wskazuje na zwichnięcie tylne w opisie z wykładu?",
+      "options": [
+        "Odwiedzenie i rotacja zewnętrzna",
+        "Zgięcie, przywiedzenie i rotacja wewnętrzna",
+        "Wyprost, odwiedzenie i rotacja zewnętrzna",
+        "Zgięcie i odwiedzenie przy neutralnej rotacji"
+      ],
+      "correct": 1,
+      "why": "Tylne zwichnięcie opisano przez zgięcie, przywiedzenie i rotację wewnętrzną."
+    },
+    {
+      "id": "Q-VII-020",
+      "kind": "quiz",
+      "lecture": "VII",
+      "slide": "63–65",
+      "topic": "Urazy miednicy i biodra",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "tf",
+      "question": "Wykład przewiduje kontrolę RTG po repozycji zwichnięcia biodra.",
+      "options": [],
+      "correct": true,
+      "why": "Kontrola obrazu występuje po nastawieniu, a okresowe odciążenie dotyczy etapu dalszego usprawniania."
+    },
+    {
+      "id": "Q-VII-021",
+      "kind": "quiz",
+      "lecture": "VII",
+      "slide": "66–67",
+      "topic": "Urazy miednicy i biodra",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "single",
+      "question": "Który obraz najbardziej odpowiada wykładowemu opisowi złamania szyjki kości udowej po upadku?",
+      "options": [
+        "Skrócenie i rotacja zewnętrzna kończyny z bólem okolicy biodra",
+        "Ból przedniej części kolana po lądowaniu",
+        "Izolowana bolesność bocznej strony kolana przy zbieganiu",
+        "Zgięcie, przywiedzenie i rotacja wewnętrzna po zwichnięciu tylnym"
+      ],
+      "correct": 0,
+      "why": "Do obrazu po złamaniu szyjki kości udowej wykład zalicza ból, skrócenie i ustawienie w rotacji zewnętrznej."
+    },
+    {
+      "id": "Q-VII-022",
+      "kind": "quiz",
+      "lecture": "VII",
+      "slide": "73",
+      "topic": "Alloplastyka biodra",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "single",
+      "question": "Jak zestawiono składowe w hybrydowej alloplastyce biodra opisanej w wykładzie?",
+      "options": [
+        "Panewka i trzpień cementowe",
+        "Panewka bezcementowa, trzpień cementowy",
+        "Panewka cementowa, trzpień bezcementowy",
+        "Panewka i trzpień bezcementowe"
+      ],
+      "correct": 1,
+      "why": "W wykładowym przykładzie hybrydy panewka jest bezcementowa, a trzpień cementowy."
+    },
+    {
+      "id": "Q-VII-023",
+      "kind": "quiz",
+      "lecture": "VII",
+      "slide": "75–78",
+      "topic": "Alloplastyka biodra",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "order",
+      "question": "Ułóż fazy przygotowania i rehabilitacji po planowej alloplastyce biodra.",
+      "options": [
+        "Przedoperacyjna, przygotowanie mięśni i profilaktyka powikłań",
+        "Wczesna szpitalna, kontrola obrzęku i nauka siadu",
+        "Późna szpitalna, doskonalenie chodu i przygotowanie do wypisu",
+        "Ambulatoryjna, kontynuacja usprawniania"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "why": "Po okresie przedoperacyjnym następują fazy wczesna szpitalna, późna szpitalna i ambulatoryjna."
+    },
+    {
+      "id": "Q-VII-024",
+      "kind": "quiz",
+      "lecture": "VII",
+      "slide": "77, 79",
+      "topic": "Alloplastyka biodra",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "multi",
+      "question": "Które sytuacje wymieniono jako ruchy do unikania w wykładowym schemacie po alloplastyce biodra?",
+      "options": [
+        "Rotacja zewnętrzna lub wewnętrzna biodra",
+        "Ćwiczenia izometryczne zalecone w fazie szpitalnej",
+        "Zgięcie biodra powyżej 90°",
+        "Krzyżowanie nóg"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ],
+      "why": "Slajd 79 podaje przykładowe ograniczenia ruchów, a izometria jest elementem usprawniania na slajdzie 77."
+    },
+    {
+      "id": "Q-VII-025",
+      "kind": "quiz",
+      "lecture": "VII",
+      "slide": "82–83",
+      "topic": "Goleń, staw skokowy i stopa",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "single",
+      "question": "Co wykład każe ocenić przy podejrzeniu złamania trzonów kości goleni oprócz objawów złamania?",
+      "options": [
+        "Ukrwienie i unerwienie kończyny oraz obraz RTG",
+        "Wyłącznie zakres zgięcia biodra",
+        "Jedynie obwód łydki",
+        "Wyłącznie czynność mięśni obręczy barkowej"
+      ],
+      "correct": 0,
+      "why": "Wymieniono kontrolę nerwowo-naczyniową i RTG."
+    },
+    {
+      "id": "Q-VII-026",
+      "kind": "quiz",
+      "lecture": "VII",
+      "slide": "87–88",
+      "topic": "Goleń, staw skokowy i stopa",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "single",
+      "question": "Które zestawienie wykład łączy z uszkodzeniem ścięgna Achillesa?",
+      "options": [
+        "Ból przy szparze kolana i blokowanie stawu",
+        "Ubytek w przebiegu ścięgna i trudność w staniu na palcach",
+        "Uciekanie kolana i dodatni test Lachmana",
+        "Odczuwanie bólu poniżej rzepki przy przysiadach"
+      ],
+      "correct": 1,
+      "why": "Zaburzenie przenoszenia siły łydki utrudnia wspięcie na palce, a przerwanie ciągłości może dać wyczuwalny ubytek."
+    },
+    {
+      "id": "Q-VII-027",
+      "kind": "quiz",
+      "lecture": "VII",
+      "slide": "91–93",
+      "topic": "Goleń, staw skokowy i stopa",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "tf",
+      "question": "Przy skręceniu stawu skokowego z nadmiernej supinacji może dojść do uszkodzenia więzadeł po stronie bocznej.",
+      "options": [],
+      "correct": true,
+      "why": "Wykład łączy mechanizm supinacyjny z uszkodzeniami bocznego aparatu więzadłowego."
+    },
+    {
+      "id": "Q-VII-028",
+      "kind": "quiz",
+      "lecture": "VII",
+      "slide": "94",
+      "topic": "Goleń, staw skokowy i stopa",
+      "difficulty": "basic",
+      "priority": true,
+      "qtype": "single",
+      "question": "Który element RICE ma na celu uniesienie kończyny według wykładu?",
+      "options": [
+        "Rest",
+        "Compression",
+        "Ice",
+        "Elevation"
+      ],
+      "correct": 3,
+      "why": "Elevation oznacza uniesienie. W prezentacji opisano położenie kończyny powyżej poziomu serca."
+    },
+    {
+      "id": "Q-VII-029",
+      "kind": "quiz",
+      "lecture": "VII",
+      "slide": "94",
+      "topic": "Goleń, staw skokowy i stopa",
+      "difficulty": "basic",
+      "priority": false,
+      "qtype": "multi",
+      "question": "Które pary są zgodne z opisem RICE z wykładu?",
+      "options": [
+        "Elevation – rozgrzewanie kończyny",
+        "Rest – przerwanie aktywności",
+        "Ice – chłodzenie",
+        "Compression – bandaż elastyczny dla kontroli obrzęku"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ],
+      "why": "Elevation oznacza uniesienie kończyny, a chłodzenie należy do Ice."
+    },
+    {
+      "id": "Q-VII-030",
+      "kind": "quiz",
+      "lecture": "VII",
+      "slide": "95",
+      "topic": "Goleń, staw skokowy i stopa",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "order",
+      "question": "Ułóż progresję celów w wykładowym schemacie usprawniania po skręceniu stawu skokowego.",
+      "options": [
+        "Chód z odciążeniem i RICE",
+        "Stopniowo większe obciążenie oraz praca nad zakresem ruchu i równowagą",
+        "Propriocepcja, pełne obciążanie w chodzie i koordynacja"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ],
+      "why": "Wykład przypisuje te cele odpowiednio fazie ostrej, podostrej i zaawansowanej."
+    },
+    {
+      "id": "Q-VII-031",
+      "kind": "quiz",
+      "lecture": "VII",
+      "slide": "96–102",
+      "topic": "Goleń, staw skokowy i stopa",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "single",
+      "question": "Która para mechanizmów odpowiada częstym mechanizmom opisywanych złamań okolicy kostek i palców stopy?",
+      "options": [
+        "Zwykle pośredni pionowo-rotacyjny w okolicy kostek i zwykle bezpośredni dla palców stopy",
+        "Zwykle bezpośredni dla kostek i wyłącznie bezpośredni dla palców",
+        "Wyłącznie przewlekłe przeciążenie dla obu urazów",
+        "Zwykle pionowo-rotacyjny dla palców i wyłącznie bezpośredni dla kostek"
+      ],
+      "correct": 0,
+      "why": "Slajd 96 opisuje siły pionowe i pionowo-rotacyjne w urazie okolicy kostek. Slajd 101 łączy złamania palców zwykle z urazem bezpośrednim."
+    },
+    {
+      "id": "Q-VII-032",
+      "kind": "quiz",
+      "lecture": "VII",
+      "slide": "105–108",
+      "topic": "Dysplazja biodra",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "multi",
+      "question": "Co wiąże się z rozwojową dysplazją biodra według prezentacji?",
+      "options": [
+        "Położenie miednicowe jako czynnik mechaniczny",
+        "Możliwość podwichnięcia lub zwichnięcia",
+        "Ultrasonografia metodą Grafa",
+        "Obowiązkowa obecność bólu kolana podczas rozpoznania u niemowlęcia"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ],
+      "why": "Wykład łączy położenie miednicowe z ryzykiem, wymienia postacie z niestabilnością i omawia USG metodą Grafa."
+    },
+    {
+      "id": "Q-VII-033",
+      "kind": "quiz",
+      "lecture": "VII",
+      "slide": "109–111",
+      "topic": "Dysplazja biodra",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "single",
+      "question": "Badający czuje, że przemieszczona wcześniej głowa kości udowej wraca do panewki podczas pracy klinicznej z niemowlęciem. Który opis wyniku odpowiada temu zdarzeniu?",
+      "options": [
+        "Dodatni objaw Galeazziego",
+        "Dodatnia próba Barlowa",
+        "Dodatni objaw Ortolaniego",
+        "Dodatni objaw Drehmanna"
+      ],
+      "correct": 2,
+      "why": "W Ortolanim oceniane jest wyczuwalne nastawienie głowy w panewce. W Barlowie ocenia się, czy głowę można wysunąć."
+    },
+    {
+      "id": "Q-VII-034",
+      "kind": "quiz",
+      "lecture": "VII",
+      "slide": "113–114",
+      "topic": "Dysplazja biodra",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "single",
+      "question": "Na czym polega cel pozycji w ortezie w leczeniu dysplazji według wykładu?",
+      "options": [
+        "Utrzymanie biodra w przywiedzeniu i wyproście",
+        "Utrzymanie głowy w panewce w zgięciu i odwiedzeniu biodra",
+        "Odciążenie palucha podczas propulsji",
+        "Ograniczenie pracy prostownika kolana"
+      ],
+      "correct": 1,
+      "why": "Zgięcie i odwiedzenie sprzyjają w przedstawionym schemacie centrowaniu głowy w panewce."
+    },
+    {
+      "id": "Q-VII-035",
+      "kind": "quiz",
+      "lecture": "VII",
+      "slide": "118, 120",
+      "topic": "Perthes i młodzieńcze złuszczenie",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "single",
+      "question": "Co może wskazywać na chorobę Perthesa w przykładzie z wykładu?",
+      "options": [
+        "Miejscowy ból więzadła rzepki wyłącznie po skokach",
+        "Ból przypisywany kolanu u dziecka z utykaniem i ograniczeniem ruchu biodra",
+        "Ból po bocznej stronie kolana u dorosłego biegacza",
+        "Niemożność wspięcia na palce po urazie łydki"
+      ],
+      "correct": 1,
+      "why": "Dziecko może lokalizować ból w kolanie, choć proces jałowej martwicy dotyczy głowy kości udowej."
+    },
+    {
+      "id": "Q-VII-036",
+      "kind": "quiz",
+      "lecture": "VII",
+      "slide": "122",
+      "topic": "Perthes i młodzieńcze złuszczenie",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "order",
+      "question": "Ułóż okresy radiologiczne choroby Perthesa według Reinberga.",
+      "options": [
+        "Zmiany początkowe",
+        "Sklerotyzacja",
+        "Fragmentacja",
+        "Odbudowa"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "why": "Po zmianach początkowych następuje sklerotyzacja, potem resorpcja martwej tkanki w okresie fragmentacji i odbudowa."
+    },
+    {
+      "id": "Q-VII-037",
+      "kind": "quiz",
+      "lecture": "VII",
+      "slide": "123",
+      "topic": "Perthes i młodzieńcze złuszczenie",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "multi",
+      "question": "Co slajd wiąże z większym ryzykiem deformacji głowy kości udowej w chorobie Perthesa?",
+      "options": [
+        "Przykurcz przywiedzeniowy",
+        "Nadwaga dziecka",
+        "Poprawiające się swobodne odwiedzenie",
+        "Postępujące ograniczenie ruchomości"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ],
+      "why": "Wykład zwraca uwagę szczególnie na przykurcz i narastanie ograniczeń ruchu."
+    },
+    {
+      "id": "Q-VII-038",
+      "kind": "quiz",
+      "lecture": "VII",
+      "slide": "126, 129",
+      "topic": "Perthes i młodzieńcze złuszczenie",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "single",
+      "question": "Które zjawisko opisuje objaw Drehmanna w młodzieńczym złuszczeniu?",
+      "options": [
+        "Samoistne odwiedzenie i rotacja zewnętrzna podczas zginania biodra",
+        "Tylne przemieszczenie piszczeli przy zgiętym kolanie",
+        "Wyczuwalny powrót głowy kości udowej do panewki niemowlęcia",
+        "Opadanie miednicy w staniu na jednej nodze"
+      ],
+      "correct": 0,
+      "why": "Podczas zginania kończyna ustawia się w rotacji zewnętrznej i odwiedzeniu."
+    },
+    {
+      "id": "Q-VII-039",
+      "kind": "quiz",
+      "lecture": "VII",
+      "slide": "126, 128–131",
+      "topic": "Perthes i młodzieńcze złuszczenie",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "multi",
+      "question": "Które cechy odpowiadają młodzieńczemu złuszczeniu w obrazie przedstawionym w wykładzie?",
+      "options": [
+        "Ograniczenie rotacji wewnętrznej biodra",
+        "Proces jałowej martwicy głowy typowy przede wszystkim dla dzieci w wieku 5–8 lat",
+        "Wiek pokwitania",
+        "Możliwy ból promieniujący do kolana"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ],
+      "why": "Złuszczenie dotyczy chrząstki wzrostowej i występuje typowo u młodzieży w okresie dojrzewania."
+    },
+    {
+      "id": "Q-VII-040",
+      "kind": "quiz",
+      "lecture": "VII",
+      "slide": "136–141",
+      "topic": "Zwyrodnienia stawów i kręgosłupa",
+      "difficulty": "basic",
+      "priority": true,
+      "qtype": "single",
+      "question": "Który przykład odpowiada wtórnej chorobie zwyrodnieniowej?",
+      "options": [
+        "Zmiany o nieustalonej przyczynie po przeprowadzonej diagnostyce",
+        "Zmiany po urazie, który uszkodził powierzchnię stawową",
+        "Każda zmiana obecna u osoby po 60. roku życia",
+        "Każda zmiana dotycząca więcej niż jednego stawu"
+      ],
+      "correct": 1,
+      "why": "Określony uraz naruszający budowę stawu może stanowić przyczynę zmian wtórnych."
+    },
+    {
+      "id": "Q-VII-041",
+      "kind": "quiz",
+      "lecture": "VII",
+      "slide": "142",
+      "topic": "Zwyrodnienia stawów i kręgosłupa",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "multi",
+      "question": "Które zmiany wykład zalicza do obrazu choroby zwyrodnieniowej stawu?",
+      "options": [
+        "Zawsze nieobecny wysięk",
+        "Szczeliny i ubytki chrząstki",
+        "Sklerotyzacja podchrzęstna",
+        "Osteofity"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ],
+      "why": "Degeneracja chrząstki i reakcja kości tworzą charakterystyczny obraz. Wtórny odczyn zapalny może dawać wysięk."
+    },
+    {
+      "id": "Q-VII-042",
+      "kind": "quiz",
+      "lecture": "VII",
+      "slide": "148–150",
+      "topic": "Zwyrodnienia stawów i kręgosłupa",
+      "difficulty": "basic",
+      "priority": true,
+      "qtype": "multi",
+      "question": "Które przedziały kolana może obejmować zwyrodnienie w wykładzie?",
+      "options": [
+        "Przyśrodkowy",
+        "Boczny",
+        "Rzepkowo-udowy",
+        "Skokowo-piętowy"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ],
+      "why": "W prezentacji wymieniono dwa przedziały piszczelowo-udowe i przedział rzepkowo-udowy."
+    },
+    {
+      "id": "Q-VII-043",
+      "kind": "quiz",
+      "lecture": "VII",
+      "slide": "150",
+      "topic": "Zwyrodnienia stawów i kręgosłupa",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "single",
+      "question": "Jaki czas porannej sztywności podano w wykładowym obrazie zwyrodnienia kolana?",
+      "options": [
+        "Powyżej 2 godzin",
+        "Do 30 minut",
+        "Co najmniej 90 minut",
+        "Sztywność przez cały dzień jako warunek konieczny"
+      ],
+      "correct": 1,
+      "why": "Wśród cech gonartrozy slajd wymienia poranną sztywność utrzymującą się do 30 minut."
+    },
+    {
+      "id": "Q-VII-044",
+      "kind": "quiz",
+      "lecture": "VII",
+      "slide": "155",
+      "topic": "Zwyrodnienia stawów i kręgosłupa",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "single",
+      "question": "Jak wykład nazywa stan, w którym fragment jądra miażdżystego oddziela się od reszty?",
+      "options": [
+        "Wypuklina",
+        "Protruzja",
+        "Sekwestracja",
+        "Sklerotyzacja"
+      ],
+      "correct": 2,
+      "why": "Oddzielenie fragmentu to cecha definicyjna sekwestracji w terminologii wykładu."
+    },
+    {
+      "id": "Q-VII-045",
+      "kind": "quiz",
+      "lecture": "VII",
+      "slide": "157–158",
+      "topic": "Zwyrodnienia stawów i kręgosłupa",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "single",
+      "question": "Co charakteryzuje chorobę Baastrupa w wykładzie?",
+      "options": [
+        "Ocieranie sąsiednich wyrostków kolczystych",
+        "Wczesne odwapnienie głowy kości udowej",
+        "Oddzielenie fragmentu łąkotki od przyczepu",
+        "Przeciążenie więzadła właściwego rzepki"
+      ],
+      "correct": 0,
+      "why": "Wykład wiąże proces z kontaktem sąsiednich wyrostków kolczystych, m.in. przy pogłębionej lordozie."
+    },
+    {
+      "id": "Q-VII-046",
+      "kind": "quiz",
+      "lecture": "VII",
+      "slide": "163–165",
+      "topic": "Choroba Scheuermanna",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "multi",
+      "question": "Co wykład łączy z chorobą Scheuermanna?",
+      "options": [
+        "Guzki Schmorla",
+        "Pogłębienie kifozy piersiowej",
+        "Niestabilność tylna kolana",
+        "Przednie klinowacenie trzonów"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ],
+      "why": "Klinowacenie sprzyja hiperkifozie, a guzki Schmorla wiążą się z wpukleniem materiału z krążka do trzonu."
+    },
+    {
+      "id": "Q-VII-047",
+      "kind": "quiz",
+      "lecture": "VII",
+      "slide": "167",
+      "topic": "Choroba Scheuermanna",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "single",
+      "question": "Który obraz przypisano fazie czynnej choroby Scheuermanna?",
+      "options": [
+        "Wyłącznie niewielkie pogłębienie kifozy bez ustalonej deformacji",
+        "Utrwalona kifoza, guzki Schmorla i nieregularne brzegi trzonów",
+        "Zakończona przebudowa z dorosłym obrazem kręgosłupa",
+        "Prawidłowy obraz kręgosłupa i brak dolegliwości"
+      ],
+      "correct": 1,
+      "why": "Faza czynna łączy ból i zmęczenie z utrwaloną kifozą, guzkami Schmorla i sklinowaceniem trzonów."
+    },
+    {
+      "id": "Q-VII-048",
+      "kind": "quiz",
+      "lecture": "VII",
+      "slide": "168–172",
+      "topic": "Choroba Scheuermanna",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "multi",
+      "question": "Które cele lub elementy leczenia zachowawczego choroby Scheuermanna podano w wykładzie?",
+      "options": [
+        "Rozciąganie przykurczonych mięśni i wzmacnianie osłabionych grup",
+        "Rutynowy powrót do gwałtownych ruchów z obciążeniem",
+        "Ograniczenie progresji deformacji",
+        "Nauka postawy i ćwiczenia oddechowe"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ],
+      "why": "W leczeniu zachowawczym wykład akcentuje równowagę mięśniową i ukierunkowaną pracę nad postawą."
+    },
+    {
+      "id": "Q-VII-049",
+      "kind": "quiz",
+      "lecture": "VII",
+      "slide": "173",
+      "topic": "Choroba Scheuermanna",
+      "difficulty": "hard",
+      "priority": false,
+      "qtype": "single",
+      "question": "Która sytuacja odpowiada kryterium omówionemu przy rozważaniu operacji w chorobie Scheuermanna?",
+      "options": [
+        "Kifoza 68° narastająca mimo leczenia zachowawczego u osoby wciąż rosnącej",
+        "Kifoza 66° bez progresji u osoby z zakończonym wzrostem",
+        "Pierwsze niewielkie zmiany u pacjenta bez bólu",
+        "Dowolna kifoza z guzkiem Schmorla jako jedynym kryterium"
+      ],
+      "correct": 0,
+      "why": "Próg przedstawiony dla niezakończonego wzrostu to ponad 65° wraz z progresją mimo leczenia zachowawczego."
+    },
+    {
+      "id": "Q-VII-050",
+      "kind": "quiz",
+      "lecture": "VII",
+      "slide": "177",
+      "topic": "Więzadła krzyżowe i łąkotki",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "single",
+      "question": "Jak wykład klasyfikuje częściowe naderwanie ACL?",
+      "options": [
+        "Stopień I",
+        "Stopień II",
+        "Stopień III",
+        "Stopień IV"
+      ],
+      "correct": 1,
+      "why": "W stopniu II ciągłość więzadła jest przerwana częściowo. Stopień III oznacza całkowite zerwanie."
+    },
+    {
+      "id": "Q-VII-051",
+      "kind": "quiz",
+      "lecture": "VII",
+      "slide": "178, 181",
+      "topic": "Więzadła krzyżowe i łąkotki",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "single",
+      "question": "Jak bada się kierunek translacji piszczeli w teście Lachmana według wykładu?",
+      "options": [
+        "Ku tyłowi przy kolanie zgiętym 90°",
+        "Bocznie przy pełnym wyproście",
+        "Ku przodowi przy kolanie zgiętym około 20–30°",
+        "Przyśrodkowo przy kolanie zgiętym około 45°"
+      ],
+      "correct": 2,
+      "why": "W teście Lachmana badający stabilizuje udo i ocenia przednią translację piszczeli."
+    },
+    {
+      "id": "Q-VII-052",
+      "kind": "quiz",
+      "lecture": "VII",
+      "slide": "180",
+      "topic": "Więzadła krzyżowe i łąkotki",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "multi",
+      "question": "Które zadania wymieniono po rekonstrukcji ACL?",
+      "options": [
+        "Utrwalanie przykurczu zgięciowego jako celu usprawniania",
+        "Redukcja obrzęku",
+        "Przywracanie pełnego wyprostu",
+        "Mobilizacja ślizgów rzepki"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ],
+      "why": "Pełny wyprost jest ważny dla wzorca chodu, a ślizg rzepki wspiera odzyskiwanie ruchu w płaszczyźnie strzałkowej."
+    },
+    {
+      "id": "Q-VII-053",
+      "kind": "quiz",
+      "lecture": "VII",
+      "slide": "182",
+      "topic": "Więzadła krzyżowe i łąkotki",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "tf",
+      "question": "W niewydolności PCL piszczel może nadmiernie przemieszczać się ku tyłowi względem kości udowej.",
+      "options": [],
+      "correct": true,
+      "why": "Wykład definiuje w ten sposób tylną niestabilność stawu kolanowego."
+    },
+    {
+      "id": "Q-VII-054",
+      "kind": "quiz",
+      "lecture": "VII",
+      "slide": "184–185",
+      "topic": "Więzadła krzyżowe i łąkotki",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "single",
+      "question": "Który zestaw wykład wiąże bardziej z uszkodzeniem łąkotki niż z przeciążeniem więzadła rzepki?",
+      "options": [
+        "Ból przy szparze stawu i blokowanie kolana",
+        "Tkliwość pod wierzchołkiem rzepki podczas skoków",
+        "Ból łydki i brak wspięcia na palce",
+        "Tkliwość przy wysiłku nad ścięgnem Achillesa"
+      ],
+      "correct": 0,
+      "why": "Połączenie bólu przy szparze i blokowania należy do wykładowego obrazu uszkodzenia łąkotki."
+    },
+    {
+      "id": "Q-VII-055",
+      "kind": "quiz",
+      "lecture": "VII",
+      "slide": "184",
+      "topic": "Więzadła krzyżowe i łąkotki",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "single",
+      "question": "Do jakiego typu uszkodzeń łąkotki wykład zalicza rączkę od wiadra?",
+      "options": [
+        "Poziomych",
+        "Skośnych",
+        "Podłużnych",
+        "Brzeżnych"
+      ],
+      "correct": 2,
+      "why": "Rączka od wiadra jest przykładem pęknięcia podłużnego."
+    },
+    {
+      "id": "Q-VII-056",
+      "kind": "quiz",
+      "lecture": "VII",
+      "slide": "186–189",
+      "topic": "Przeciążenia kolana",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "single",
+      "question": "Który obraz najlepiej pasuje do zespołu pasma biodrowo-piszczelowego w przykładzie z wykładu?",
+      "options": [
+        "Ból w dystalnej goleni i brak zgięcia podeszwowego",
+        "Ból bocznej strony kolana u biegacza nasilany zbieganiem",
+        "Ból poniżej rzepki głównie po lądowaniu",
+        "Ból kolana z powtarzalnym mechanicznym blokowaniem"
+      ],
+      "correct": 1,
+      "why": "Boczny ból w trakcie biegania, nasilający się zwłaszcza na zbiegu, należy do opisu przeciążenia pasma."
+    },
+    {
+      "id": "Q-VII-057",
+      "kind": "quiz",
+      "lecture": "VII",
+      "slide": "188",
+      "topic": "Przeciążenia kolana",
+      "difficulty": "basic",
+      "priority": false,
+      "qtype": "single",
+      "question": "Który mięsień wykład wskazuje jako główny stabilizator miednicy przy staniu na jednej kończynie?",
+      "options": [
+        "Mięsień pośladkowy średni",
+        "Mięsień piszczelowy przedni",
+        "Mięsień brzuchaty łydki",
+        "Mięsień dwugłowy ramienia"
+      ],
+      "correct": 0,
+      "why": "Pośladkowy średni wydatnie uczestniczy w kontroli miednicy przy podporze jednonóż."
+    },
+    {
+      "id": "Q-VII-058",
+      "kind": "quiz",
+      "lecture": "VII",
+      "slide": "190–192",
+      "topic": "Przeciążenia kolana",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "single",
+      "question": "Ból więzadła rzepki pojawia się na rozgrzewce, ustępuje podczas gry i wraca po niej. Który to stopień w wykładzie?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "IV"
+      ],
+      "correct": 1,
+      "why": "Stopień II wyróżnia ten cykl dolegliwości z zachowaną zdolnością efektywnej gry."
+    },
+    {
+      "id": "Q-VII-059",
+      "kind": "quiz",
+      "lecture": "VII",
+      "slide": "192",
+      "topic": "Przeciążenia kolana",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "order",
+      "question": "Ułóż postęp w wykładowym obrazie kolana skoczka od stopnia I do IV.",
+      "options": [
+        "Ból tylko po aktywności",
+        "Ból w rozgrzewce, ustępujący i powracający po wysiłku",
+        "Ból w trakcie aktywności utrudniający grę",
+        "Uszkodzenie więzadła i osłabienie aparatu wyprostnego"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "why": "Kolejność odzwierciedla przejście od bólu po wysiłku do ograniczenia aktywności i uszkodzenia więzadła."
+    }
+  ],
+  "opens": [
+    {
+      "id": "O-VII-001",
+      "kind": "open",
+      "lecture": "VII",
+      "slide": "6–7, 10–11",
+      "topic": "Ortopedia, urazy i opatrunki",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Połącz zasady przygotowania do gipsowania z obserwacją odleżyn po założeniu opatrunku.",
+      "answer": "Zabezpiecza się skórę i wyniosłości materiałem podkładowym, a kończynę ustawia czynnościowo. Pod gipsem niepokoją utrzymujący się ból piekący lub pulsujący, wilgoć, sączenie i zapach. Przy krawędziach może wystąpić zaczerwienienie, a wśród objawów ogólnych osłabienie, gorączka lub dreszcze.",
+      "mandatory": [
+        "Ochrona wyniosłości kostnych",
+        "Ustawienie czynnościowe",
+        "Ból, zapach, wilgoć lub sączenie",
+        "Skóra przy krawędzi i objawy ogólne"
+      ],
+      "pitfall": "Opisz osobno sposób ograniczania ucisku i objawy widoczne po założeniu opatrunku."
+    },
+    {
+      "id": "O-VII-002",
+      "kind": "open",
+      "lecture": "VII",
+      "slide": "14–16, 20",
+      "topic": "Amputacje i poziomy odjęcia",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Wyjaśnij różnicę między amputacją przez kość a wyłuszczeniem i podaj po jednym przykładzie wskazania z każdej kategorii ze slajdu 15.",
+      "answer": "Wyłuszczenie przechodzi przez staw, amputacja przez kość – przez jej przekrój. Przykład bezwzględnego wskazania pierwotnego to masywne zmiażdżenie. Przykład wtórnego to narastające niedokrwienie z martwicą. Przykład względnego to nabyte zniekształcenie uniemożliwiające obciążanie.",
+      "mandatory": [
+        "Wyłuszczenie przez staw",
+        "Bezwzględne pierwotne",
+        "Bezwzględne wtórne",
+        "Względne"
+      ],
+      "pitfall": "Przykłady opisz jako kategorie wykładowe. Sama cecha ryzyka stopy cukrzycowej nie przesądza o amputacji."
+    },
+    {
+      "id": "O-VII-003",
+      "kind": "open",
+      "lecture": "VII",
+      "slide": "22–27",
+      "topic": "Amputacje i poziomy odjęcia",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Porównaj funkcjonalne następstwa odjęcia palucha, amputacji podudzia i amputacji uda.",
+      "answer": "Paluch wspiera stanie i propulsję. Amputacja podudzia zachowuje staw kolanowy, a amputacja uda wymaga zastąpienia także funkcji kolana i przestrzeni na moduł protezy. Długość kikuta uda ma znaczenie dla zaopatrzenia.",
+      "mandatory": [
+        "Stanie i propulsja",
+        "Zachowanie kolana w amputacji podudzia",
+        "Moduł kolanowy po amputacji uda",
+        "Znaczenie długości kikuta"
+      ],
+      "pitfall": "Odróżnij staw zachowany u pacjenta od funkcji zastępowanej w protezie."
+    },
+    {
+      "id": "O-VII-004",
+      "kind": "open",
+      "lecture": "VII",
+      "slide": "33, 35–40",
+      "topic": "Rehabilitacja po amputacji",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Wyjaśnij, jak w wykładzie odróżniono stymulację czuciową, formowanie kikuta i przygotowanie do protezy.",
+      "answer": "Stymulacja czuciowa po wygojeniu rozpoczyna się od delikatnego dotyku i stopniuje bodźce. Kompresja ogranicza obrzęk i kształtuje tkanki. Do bandażowania podano technikę jodełkową z uciskiem malejącym od końca kikuta ku tułowi. Przygotowanie do protezy obejmuje także profilaktykę przykurczów i kontrolę gojenia oraz dopasowania leja.",
+      "mandatory": [
+        "Wygojenie przed stymulacją",
+        "Stopniowanie bodźców",
+        "Redukcja obrzęku i formowanie",
+        "Ułożenie bandaża i kierunek ucisku"
+      ],
+      "pitfall": "Stymulacja i kompresja mają różne bezpośrednie cele. W opisie ucisku wskaż kierunek dystalnie–proksymalnie."
+    },
+    {
+      "id": "O-VII-005",
+      "kind": "open",
+      "lecture": "VII",
+      "slide": "41–48",
+      "topic": "Rehabilitacja po amputacji",
+      "difficulty": "hard",
+      "priority": true,
+      "question": "Zaplanuj odpowiedź egzaminacyjną o przejściu od fazy pooperacyjnej po amputacji do samodzielniejszego chodu w protezie.",
+      "answer": "Najpierw okres gojenia i profilaktyka przykurczów, praca nad siłą potrzebną do lokomocji oraz równowaga od siadu do stania. Po wygojeniu rany, w okresie ambulatoryjnego formowania kikuta do protezy docelowej, wykład opisuje chód w protezie tymczasowej. Chód rozwija się od płaskiego podłoża i zwiększania dystansu do zwrotów, schodów, ruchu w bok i tył oraz różnych podłoży. Dodatkowo obserwuje się tolerancję wysiłku.",
+      "mandatory": [
+        "Okres gojenia i profilaktyka przykurczów",
+        "Równowaga i przygotowanie do lokomocji",
+        "Proteza tymczasowa",
+        "Progresja zadań i kontrola tolerancji wysiłku"
+      ],
+      "pitfall": "Zachowaj rozróżnienie między chodem z pomocą, nauką w protezie tymczasowej i zadaniami zaawansowanymi."
+    },
+    {
+      "id": "O-VII-006",
+      "kind": "open",
+      "lecture": "VII",
+      "slide": "50–55",
+      "topic": "Urazy miednicy i biodra",
+      "difficulty": "hard",
+      "priority": true,
+      "question": "Porównaj uszkodzenie stabilne i niestabilne pierścienia miednicy oraz schemat dochodzenia do chodu z odciążeniem.",
+      "answer": "W prezentacji stabilne uszkodzenie dotyczy jednej strony pierścienia, niestabilne – dwóch miejsc przerwania. Stabilne leczono w schemacie zachowawczo z czasowym odciążaniem. W niestabilnym rozważano dłuższą ochronę lub zespolenie. Po wczesnej izometrii i ruchu kończyn górnych w 4.–6. tygodniu opisano siad. W prezentowanym schemacie nauka chodu z odciążeniem przypada po 6 tygodniach przy złamaniu stabilnym oraz po 3–6 miesiącach przy niestabilnym.",
+      "mandatory": [
+        "Stabilność i przerwanie pierścienia",
+        "Leczenie i czasowe odciążenie",
+        "Pionizacja do siadu",
+        "Rozróżnienie terminów chodu z odciążeniem w schemacie"
+      ],
+      "pitfall": "Czasy z prezentacji opisz jako element konkretnego schematu."
+    },
+    {
+      "id": "O-VII-007",
+      "kind": "open",
+      "lecture": "VII",
+      "slide": "56–60",
+      "topic": "Urazy miednicy i biodra",
+      "difficulty": "hard",
+      "priority": false,
+      "question": "Omów w punktach diagnostykę, cel leczenia i trzy etapy usprawniania po złamaniu panewki.",
+      "answer": "W diagnostyce wykład uwzględnia badanie funkcji nerwów kulszowego, udowego i zasłonowego oraz RTG, rzuty Judeta i TK. Leczenie ma zapobiegać wtórnej artrozie. Usprawnianie przechodzi od izometrii i ochrony w unieruchomieniu do terapii bólu i obrzęku, pracy z blizną i ruchem po kontroli RTG, a następnie do obciążania i stabilizacji.",
+      "mandatory": [
+        "Ocena funkcji nerwów",
+        "RTG, rzuty Judeta i TK",
+        "Ryzyko wtórnej artrozy",
+        "Trzy etapy usprawniania"
+      ],
+      "pitfall": "Wymień osobno diagnostykę urazu i kontrolę RTG przy zmianie etapu usprawniania."
+    },
+    {
+      "id": "O-VII-008",
+      "kind": "open",
+      "lecture": "VII",
+      "slide": "61–65",
+      "topic": "Urazy miednicy i biodra",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Porównaj ustawienie kończyny przy przednim i tylnym zwichnięciu biodra i odtwórz etapy leczenia z wykładu.",
+      "answer": "W tylnym zwichnięciu biodro jest zgięte, przywiedzione i zrotowane wewnętrznie, w przednim odwiedzione i zrotowane zewnętrznie. Wykład omawia RTG i TK, szybkie nastawienie w znieczuleniu, kontrolę RTG, a po skutecznej repozycji okresowe odciążenie, ćwiczenia i stopniowe obciążanie.",
+      "mandatory": [
+        "Zgięcie, przywiedzenie i rotacja wewnętrzna",
+        "Odwiedzenie i rotacja zewnętrzna",
+        "Nastawienie i kontrola RTG",
+        "Odciążanie w okresie usprawniania"
+      ],
+      "pitfall": "Przy każdym kierunku zwichnięcia sprawdź parę odwiedzenie–przywiedzenie i kierunek rotacji."
+    },
+    {
+      "id": "O-VII-009",
+      "kind": "open",
+      "lecture": "VII",
+      "slide": "66–72",
+      "topic": "Urazy miednicy i biodra",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Opisz obraz złamania szyjki kości udowej i odróżnij pierwsze cele usprawniania od decyzji o rodzaju leczenia.",
+      "answer": "Wykład łączy złamanie z upadkiem i bólem okolicy biodra, skróceniem oraz rotacją zewnętrzną kończyny. Rozpoznanie wykorzystuje RTG, czasem TK. Określenie rodzaju zespolenia, alloplastyki lub innej drogi należy do etapu leczenia. W pierwszych dobach usprawniania wykład podaje ćwiczenia przeciwzakrzepowe, oddechowe i izometryczne.",
+      "mandatory": [
+        "Mechanizm i ból",
+        "Skrócenie oraz rotacja zewnętrzna",
+        "Obrazowanie",
+        "Wczesne ćwiczenia profilaktyczne i izometryczne"
+      ],
+      "pitfall": "Oddziel w odpowiedzi leczenie złamania od dalszego doboru obciążeń w rehabilitacji."
+    },
+    {
+      "id": "O-VII-010",
+      "kind": "open",
+      "lecture": "VII",
+      "slide": "73, 75–79",
+      "topic": "Alloplastyka biodra",
+      "difficulty": "hard",
+      "priority": true,
+      "question": "Omów przygotowanie przed alloplastyką biodra i różnice między trzema fazami pooperacyjnymi.",
+      "answer": "Przed operacją wykład wskazuje pracę nad prostownikami i odwodzicielami oraz profilaktykę powikłań. We wczesnej fazie szpitalnej uwzględniono ból, obrzęk, ćwiczenia mięśni i naukę siadu oraz wstawania. Późna faza szpitalna rozwija chód z pomocami, schody i przygotowanie do wypisu. Faza ambulatoryjna kontynuuje usprawnianie. Prezentacja ilustruje też zalecenia ruchowe dotyczące np. zgięcia, krzyżowania nóg i rotacji.",
+      "mandatory": [
+        "Przygotowanie przedoperacyjne",
+        "Faza wczesna szpitalna",
+        "Faza późna szpitalna",
+        "Faza ambulatoryjna i zalecenia"
+      ],
+      "pitfall": "Wymień trzy fazy pooperacyjne osobno od przygotowania przedoperacyjnego."
+    },
+    {
+      "id": "O-VII-011",
+      "kind": "open",
+      "lecture": "VII",
+      "slide": "81–85",
+      "topic": "Goleń, staw skokowy i stopa",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Porównaj badanie i wczesne usprawnianie po złamaniu trzonów kości goleni.",
+      "answer": "Przy ocenie urazu sprawdza się ukrwienie i unerwienie oraz wykonuje RTG. W czasie ochrony złamania w wykładzie stosuje się izometrię, ćwiczenia oddechowe i przeciwzakrzepowe, ruch zdrowych kończyn i chód z odciążeniem według zaleceń. Po kontroli RTG i zakończeniu unieruchomienia większą rolę przejmują ruch czynny, kontrola obrzęku, stopniowe obciążanie i stabilizacja.",
+      "mandatory": [
+        "Ocena nerwowo-naczyniowa i RTG",
+        "Ćwiczenia w unieruchomieniu",
+        "Chód z odciążeniem",
+        "Ruch i progresja obciążeń po kontroli"
+      ],
+      "pitfall": "Rozpoznanie urazu i kontrola przed zmianą etapu są oddzielnymi momentami."
+    },
+    {
+      "id": "O-VII-012",
+      "kind": "open",
+      "lecture": "VII",
+      "slide": "86–90",
+      "topic": "Goleń, staw skokowy i stopa",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Opisz mechanizm zerwania ścięgna Achillesa, cechy w badaniu i cele usprawniania z prezentacji.",
+      "answer": "W zamkniętym urazie typowe jest nagłe obciążenie, a w otwartym bezpośrednie przecięcie. Objawy to ból lub obrzęk przy pięcie albo w dolnej goleni, trudność zgięcia podeszwowego i wspięcia na palce oraz możliwy ubytek palpacyjny. Wykład wymienia USG i RTG. W rehabilitacji omawia kontrolę bólu i obrzęku, ruchomość, siłę łydki i reedukację chodu.",
+      "mandatory": [
+        "Mechanizm zamknięty i otwarty",
+        "Wspięcie na palce i ubytek",
+        "USG i RTG",
+        "Ruchomość, siła i chód"
+      ],
+      "pitfall": "Powiąż trudność wspięcia ze zgięciem podeszwowym i funkcją ścięgna."
+    },
+    {
+      "id": "O-VII-013",
+      "kind": "open",
+      "lecture": "VII",
+      "slide": "91–95",
+      "topic": "Goleń, staw skokowy i stopa",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Rozwiń RICE i opisz progresję od fazy ostrej do zaawansowanej po skręceniu stawu skokowego.",
+      "answer": "Rest to odpoczynek, Ice – chłodzenie, Compression – ucisk, Elevation – uniesienie. Faza ostra w wykładzie obejmuje ochronę, ruch w granicy tolerancji i chód z odciążeniem. Faza podostra rozwija ruchomość, stopniowe obciążenie i równowagę. W fazie zaawansowanej dochodzą pełne obciążanie w chodzie, propriocepcja i koordynacja.",
+      "mandatory": [
+        "Cztery elementy RICE",
+        "Faza ostra",
+        "Faza podostra",
+        "Faza zaawansowana"
+      ],
+      "pitfall": "Przypisz zakres obciążania do fazy. Skrót w prezentacji ma zapis RICE."
+    },
+    {
+      "id": "O-VII-014",
+      "kind": "open",
+      "lecture": "VII",
+      "slide": "108–114",
+      "topic": "Dysplazja biodra",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Porównaj wyniki prób Ortolaniego, Barlowa i Galeazziego oraz podaj wspólny cel leczenia dysplazji.",
+      "answer": "Ortolani wiąże się z wyczuwalnym powrotem głowy do panewki, Barlow z jej wysuwaniem, a Galeazzi wskazuje na asymetrię długości kończyn. Wykład wymienia USG metodą Grafa. Leczenie ma koncentrycznie ustawić głowę w panewce oraz umożliwić przebudowę stawu.",
+      "mandatory": [
+        "Powrót głowy w Ortolanim",
+        "Wysuwanie w Barlowie",
+        "Asymetria w Galeazzim",
+        "Centrowanie i przebudowa"
+      ],
+      "pitfall": "Podaj kierunek zmiany położenia głowy, bo Ortolani i Barlow sprawdzają różne zjawiska."
+    },
+    {
+      "id": "O-VII-015",
+      "kind": "open",
+      "lecture": "VII",
+      "slide": "118–132",
+      "topic": "Perthes i młodzieńcze złuszczenie",
+      "difficulty": "hard",
+      "priority": true,
+      "question": "Porównaj chorobę Perthesa z młodzieńczym złuszczeniem. Wyjaśnij, dlaczego w obu opisach pojawia się kolano.",
+      "answer": "Perthes to jałowa martwica głowy kości udowej zwykle u młodszego dziecka. Złuszczenie to zmiana położenia głowy względem szyjki w chrząstce wzrostowej u młodzieży. W obu przypadkach ból biodra może być odczuwany w kolanie, a utykanie i ograniczony ruch biodra pomagają powiązać objawy ze źródłem. Podczas zginania biodra w złuszczeniu może ujawniać się objaw Drehmanna.",
+      "mandatory": [
+        "Martwica i wiek w chorobie Perthesa",
+        "Chrząstka wzrostowa i pokwitanie w złuszczeniu",
+        "Ból odczuwany w kolanie",
+        "Objaw Drehmanna"
+      ],
+      "pitfall": "Zestaw mechanizm i wiek z cechami badania. Lokalizacja bólu w kolanie występuje w obu opisach."
+    },
+    {
+      "id": "O-VII-016",
+      "kind": "open",
+      "lecture": "VII",
+      "slide": "122–125",
+      "topic": "Perthes i młodzieńcze złuszczenie",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Przedstaw cztery okresy radiologiczne Perthesa i powiąż je z ryzykiem deformacji.",
+      "answer": "Po wczesnych zmianach następuje sklerotyzacja, potem fragmentacja z resorpcją martwej kości, a na końcu odbudowa. Slajdy wymieniają ryzyko deformacji przy narastającym ograniczeniu ruchu, przykurczu przywiedzeniowym i nadwadze dziecka.",
+      "mandatory": [
+        "Zmiany początkowe",
+        "Sklerotyzacja",
+        "Fragmentacja i odbudowa",
+        "Czynniki ryzyka deformacji"
+      ],
+      "pitfall": "Fragmentacja jest etapem resorpcji, a odbudowa oznacza zastępowanie martwej tkanki nową kością."
+    },
+    {
+      "id": "O-VII-017",
+      "kind": "open",
+      "lecture": "VII",
+      "slide": "134–143",
+      "topic": "Zwyrodnienia stawów i kręgosłupa",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Zestaw przyczyny i przejawy choroby zwyrodnieniowej stawów.",
+      "answer": "Postać pierwotna ma nieustaloną przyczynę, wtórna wynika z konkretnego uszkodzenia lub zaburzenia, np. urazu lub wady osi. Chrząstka traci gładkość i powstają ubytki. W kości podchrzęstnej rozwija się sklerotyzacja, a na krawędziach nasad osteofity. Objawy to m.in. ból obciążeniowy, ograniczenie ruchu, sztywność i trzaski.",
+      "mandatory": [
+        "Postać pierwotna i wtórna",
+        "Utrata chrząstki",
+        "Sklerotyzacja i osteofity",
+        "Ból i ograniczenie ruchomości"
+      ],
+      "pitfall": "Patologię tkankową i objawy kliniczne warto opisać osobno."
+    },
+    {
+      "id": "O-VII-018",
+      "kind": "open",
+      "lecture": "VII",
+      "slide": "144–151",
+      "topic": "Zwyrodnienia stawów i kręgosłupa",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Porównaj cechy zwyrodnienia biodra i kolana oraz podaj przykład zwyrodnienia obręczy barkowej z wykładu.",
+      "answer": "Wtórne zmiany biodra wykład łączy m.in. z dysplazją, urazem, zwichnięciem i martwicą, a klinicznie z bólem i ograniczeniem ruchu. W kolanie wymieniono trzy przedziały, wysięk, osteofity i krótką sztywność poranną. W obręczy barkowej wykład wyróżnia staw barkowo-obojczykowy.",
+      "mandatory": [
+        "Wtórne przyczyny i ruchomość biodra",
+        "Trzy przedziały kolana",
+        "Osteofity i poranna sztywność",
+        "Staw barkowo-obojczykowy"
+      ],
+      "pitfall": "Staw barkowo-obojczykowy i staw ramienny to różne lokalizacje."
+    },
+    {
+      "id": "O-VII-019",
+      "kind": "open",
+      "lecture": "VII",
+      "slide": "154–159",
+      "topic": "Zwyrodnienia stawów i kręgosłupa",
+      "difficulty": "hard",
+      "priority": true,
+      "question": "Opisz zmiany krążka międzykręgowego i rozróżnij cztery postacie z wykładu.",
+      "answer": "Jądro traci wodę, a pierścień włóknisty spoistość. Slajd odróżnia wypuklinę przy zachowanej ciągłości, protruzję bez pełnego uszkodzenia pierścienia, ekstruzję z jego przerwaniem i sekwestrację z oddzielonym fragmentem. Utrata zdolności amortyzacji i zmiany więzadłowe mogą towarzyszyć niestabilności.",
+      "mandatory": [
+        "Zmiany jądra i pierścienia",
+        "Wypuklina i protruzja",
+        "Ekstruzja i sekwestracja",
+        "Możliwe następstwa biomechaniczne"
+      ],
+      "pitfall": "Zachowaj wykładową terminologię. Sekwestracja wymaga oddzielenia fragmentu."
+    },
+    {
+      "id": "O-VII-020",
+      "kind": "open",
+      "lecture": "VII",
+      "slide": "161–174",
+      "topic": "Choroba Scheuermanna",
+      "difficulty": "hard",
+      "priority": true,
+      "question": "Omów mechanizm hiperkifozy w chorobie Scheuermanna, obraz fazy czynnej i cele zachowawczego postępowania.",
+      "answer": "Przednie klinowacenie trzonów pogłębia kifozę piersiową. W fazie czynnej wykład wskazuje utrwaloną kifozę, ból, zmęczenie, klinowacenie i guzki Schmorla. Zachowawcze usprawnianie zmierza do ograniczenia progresji i bólu, poprawy równowagi mięśniowej, nauki postawy i pracy oddechowej. Leczenie ortotyczne rozważa korekcję kifozy i stabilizację miednicy.",
+      "mandatory": [
+        "Przednie klinowacenie",
+        "Faza czynna i guzki Schmorla",
+        "Rozciąganie, wzmacnianie, oddech i postawa",
+        "Cel gorsetu"
+      ],
+      "pitfall": "Wyjaśnij zmianę strukturalną trzonów, a nie sam wygląd pleców."
+    },
+    {
+      "id": "O-VII-021",
+      "kind": "open",
+      "lecture": "VII",
+      "slide": "176–183",
+      "topic": "Więzadła krzyżowe i łąkotki",
+      "difficulty": "hard",
+      "priority": true,
+      "question": "Porównaj uszkodzenia ACL i PCL na podstawie objawów, kierunku niestabilności i przykładu badania.",
+      "answer": "ACL wiąże się z ucieczką kolana, bólem, wysiękiem i zwiększoną przednią translacją piszczeli ocenianą testem Lachmana. PCL wiąże się z tylną translacją, możliwym głębokim lub tylnym bólem i rzadszym uciekaniem kolana. W obu urazach może występować obrzęk.",
+      "mandatory": [
+        "ACL i przednia translacja",
+        "Test Lachmana",
+        "PCL i tylna translacja",
+        "Uciekanie, ból i obrzęk"
+      ],
+      "pitfall": "Kierunek translacji określaj dla piszczeli względem kości udowej."
+    },
+    {
+      "id": "O-VII-022",
+      "kind": "open",
+      "lecture": "VII",
+      "slide": "184–185",
+      "topic": "Więzadła krzyżowe i łąkotki",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Wymień rodzaje uszkodzeń łąkotki oraz dane, które pomagają połączyć objawy z łąkotką.",
+      "answer": "Slajd dzieli uszkodzenia na podłużne, poprzeczne, skośne, poziome i brzeżne. Rączka od wiadra jest przykładem podłużnego. Uraz może dawać ból przy szparze, obrzęk i blokowanie, a w ocenie wykład wymienia próby funkcjonalne, USG i MRI.",
+      "mandatory": [
+        "Główne kształty uszkodzeń",
+        "Rączka od wiadra jako pęknięcie podłużne",
+        "Ból przy szparze i blokowanie",
+        "Badanie funkcjonalne i obrazowanie"
+      ],
+      "pitfall": "Objaw blokowania wspiera podejrzenie w połączeniu z pozostałymi danymi."
+    },
+    {
+      "id": "O-VII-023",
+      "kind": "open",
+      "lecture": "VII",
+      "slide": "186–193",
+      "topic": "Przeciążenia kolana",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Porównaj ból pasma biodrowo-piszczelowego i kolana skoczka w trzech punktach: lokalizacja, czynność wyzwalająca, obciążona struktura.",
+      "answer": "Przy zespole pasma ból jest boczny i nasila się w biegu, szczególnie na zbiegu lub schodach. Przy kolanie skoczka ból jest przedni i zwykle tuż poniżej rzepki w obrębie więzadła rzepki, typowo po skokach lub lądowaniach. W wykładzie pierwsza sytuacja wiąże się także z kontrolą miednicy, druga z obciążaniem aparatu wyprostnego.",
+      "mandatory": [
+        "Boczna strona i pasmo biodrowo-piszczelowe",
+        "Bieg, zbieg i schody",
+        "Więzadło rzepki i ból z przodu",
+        "Skoki i lądowanie"
+      ],
+      "pitfall": "W odpowiedzi wskaż konkretną stronę kolana i najbardziej typowe zadanie dla każdej sytuacji."
+    }
+  ],
+  "cases": [
+    {
+      "id": "C-VII-001",
+      "kind": "case",
+      "lecture": "VII",
+      "slide": "9–11",
+      "topic": "Ortopedia, urazy i opatrunki",
+      "difficulty": "medium",
+      "priority": true,
+      "title": "Ból pod opatrunkiem",
+      "scenario": "W zadaniu osoba z dużym opatrunkiem gipsowym zgłasza stały piekący ból w okolicy pięty. Przy krawędzi gipsu zauważono zaczerwienienie i utrzymującą się wilgoć.",
+      "question": "Które powikłanie przedstawione w wykładzie odpowiada temu obrazowi i jak wyjaśnisz jego mechanizm?",
+      "answer": "Wykładowy obraz sugeruje odleżynę pod gipsem w okolicy pięty. Kluczowe dane to nasilający się lub utrzymujący ból, zmiany skóry przy krawędzi i wilgoć. Długotrwały ucisk na wyniosłość kostną może doprowadzić do martwicy skóry i głębszych tkanek.",
+      "mandatory": [
+        "Odleżyna pod gipsem",
+        "Pięta jako miejsce narażone",
+        "Piekący ból i wilgoć",
+        "Mechanizm miejscowego ucisku"
+      ],
+      "pitfall": "Przykurcz Volkmanna omówiono osobno jako następstwo niedokrwienia mięśni."
+    },
+    {
+      "id": "C-VII-002",
+      "kind": "case",
+      "lecture": "VII",
+      "slide": "19–20",
+      "topic": "Amputacje i poziomy odjęcia",
+      "difficulty": "medium",
+      "priority": false,
+      "title": "Ból spoczynkowy w stopie cukrzycowej",
+      "scenario": "W opisie dydaktycznym pacjent z cukrzycą ma chłodną, siną stopę i silny, przewlekły ból w spoczynku. Rozpoznano niedrożność tętnic obwodowych, a zespół wykluczył możliwość rekonstrukcji naczyń.",
+      "question": "Które dane odpowiadają naczyniowemu wskazaniu omawianemu w prezentacji?",
+      "answer": "Chłodna, sina stopa wspiera obraz niedokrwienia. Wskazanie omówione na slajdzie 20 składa się z ciężkiego przewlekłego bólu spoczynkowego, niedrożności tętnic oraz braku możliwości rekonstrukcji. Wykład osobno wymienia infekcję zagrażającą życiu i niszczącą martwicę.",
+      "mandatory": [
+        "Cechy niedokrwienia",
+        "Przewlekły silny ból w spoczynku",
+        "Niedrożność tętnic",
+        "Brak możliwości rekonstrukcji"
+      ],
+      "pitfall": "W odtwarzaniu wskazania uwzględnij pełne zestawienie, a nie pojedynczy objaw."
+    },
+    {
+      "id": "C-VII-003",
+      "kind": "case",
+      "lecture": "VII",
+      "slide": "36–43",
+      "topic": "Rehabilitacja po amputacji",
+      "difficulty": "medium",
+      "priority": true,
+      "title": "Formowanie kikuta podudzia",
+      "scenario": "W scenariuszu rana po amputacji podudzia jest zagojona. Kikut nadal puchnie i jest wrażliwy na dotyk. Trwa przygotowanie do zaopatrzenia protezowego.",
+      "question": "Jakie dwa różne zadania obejmuje praca z kikutem i jaki kierunek ucisku opisano przy bandażowaniu?",
+      "answer": "Delikatny dotyk i stopniowane bodźce mają rozwijać tolerancję czuciową. Kompresja ma ograniczać obrzęk i uformować kikut do leja. Wykład podaje bandażowanie jodełkowe bez przewężających opasek z największym uciskiem dystalnie i malejącym proksymalnie.",
+      "mandatory": [
+        "Zagojona rana przed stymulacją",
+        "Stopniowanie bodźców",
+        "Kompresja dla obrzęku i kształtu",
+        "Ucisk od dystalnego do proksymalnego"
+      ],
+      "pitfall": "Największy ucisk odnosi się do końca kikuta. Wykład zaleca unikanie przewężających opasek."
+    },
+    {
+      "id": "C-VII-004",
+      "kind": "case",
+      "lecture": "VII",
+      "slide": "41–48",
+      "topic": "Rehabilitacja po amputacji",
+      "difficulty": "medium",
+      "priority": false,
+      "title": "Przejście do chodu w protezie",
+      "scenario": "W zadaniu po amputacji kończyny dolnej osoba ma zagojoną ranę i rozpoczyna chodzenie w protezie tymczasowej. Przy staniu wciąż potrzebuje asekuracji.",
+      "question": "Opisz progresję równowagi i chodu zgodną z wykładem.",
+      "answer": "Rozpoczyna się od stabilizacji i przenoszenia ciężaru z podporą. W protezie tymczasowej omawia się chód po płaskim i stopniowe wydłużanie dystansu. Potem rozwija się chód w bok i w tył, zwroty, schody oraz zadania na różnych podłożach.",
+      "mandatory": [
+        "Asekuracja i przenoszenie ciężaru",
+        "Chód po płaskim",
+        "Stopniowanie dystansu",
+        "Kolejne zadania i podłoża"
+      ],
+      "pitfall": "W pierwszej kolejności opisz zadania z podstawowym podparciem i kontrolą równowagi."
+    },
+    {
+      "id": "C-VII-005",
+      "kind": "case",
+      "lecture": "VII",
+      "slide": "51, 54–55",
+      "topic": "Urazy miednicy i biodra",
+      "difficulty": "hard",
+      "priority": true,
+      "title": "Porównanie dwóch uszkodzeń miednicy",
+      "scenario": "Na seminarium porównano izolowane złamanie skrzydła kości biodrowej z urazem typu otwartej księgi.",
+      "question": "Jak wykład klasyfikuje te urazy i jak w jego schemacie różni się termin nauki chodu z odciążeniem?",
+      "answer": "Izolowane złamanie skrzydła należy do grupy stabilnej, typ otwartej księgi do niestabilnej. W przykładowym schemacie po złamaniu stabilnym naukę chodu z odciążeniem opisano po 6 tygodniach, a po niestabilnym w okresie 3–6 miesięcy od urazu.",
+      "mandatory": [
+        "Izolowane skrzydło jako stabilne",
+        "Otwarta księga jako niestabilna",
+        "Schemat chodu po urazie stabilnym",
+        "Schemat po urazie niestabilnym"
+      ],
+      "pitfall": "Czasy odnoszą się do schematu prezentacji i etapu z odciążeniem."
+    },
+    {
+      "id": "C-VII-006",
+      "kind": "case",
+      "lecture": "VII",
+      "slide": "61–65",
+      "topic": "Urazy miednicy i biodra",
+      "difficulty": "medium",
+      "priority": true,
+      "title": "Ustawienie kończyny po urazie biodra",
+      "scenario": "W zadaniu po urazie biodro jest zgięte, przywiedzione i zrotowane do wewnątrz.",
+      "question": "Który typ zwichnięcia opisano i jakie struktury towarzyszące zwracały uwagę w wykładzie?",
+      "answer": "To charakterystyczne ustawienie zwichnięcia tylnego w wykładzie. Współistnieć mogą uszkodzenia panewki, głowy kości udowej, unaczynienia głowy lub nerwu kulszowego. Wykład podaje kontrolę RTG po nastawieniu.",
+      "mandatory": [
+        "Zwichnięcie tylne",
+        "Zgięcie, przywiedzenie, rotacja wewnętrzna",
+        "Panewka i głowa kości udowej",
+        "Nerw kulszowy lub unaczynienie głowy"
+      ],
+      "pitfall": "Rotacja zewnętrzna i odwiedzenie należą w wykładzie do obrazu przedniego zwichnięcia."
+    },
+    {
+      "id": "C-VII-007",
+      "kind": "case",
+      "lecture": "VII",
+      "slide": "66–72",
+      "topic": "Urazy miednicy i biodra",
+      "difficulty": "medium",
+      "priority": false,
+      "title": "Upadek z wysokości biodra",
+      "scenario": "Starsza osoba w zadaniu przewróciła się po poślizgnięciu. Zgłasza ból okolicy krętarza, a kończyna jest skrócona i zrotowana na zewnątrz.",
+      "question": "Który uraz odpowiada temu opisowi na slajdach i jakie pierwsze zadania usprawniania podano?",
+      "answer": "Przykład pasuje do wykładowego obrazu złamania szyjki kości udowej. Wykład omawia RTG, czasem TK. Po ustaleniu leczenia w pierwszych dobach wymienia ćwiczenia przeciwzakrzepowe, oddechowe i izometryczne.",
+      "mandatory": [
+        "Złamanie szyjki kości udowej",
+        "Skrócenie i rotacja zewnętrzna",
+        "RTG i ewentualna TK",
+        "Ćwiczenia przeciwzakrzepowe, oddechowe i izometryczne"
+      ],
+      "pitfall": "Objawy opisują obraz urazu. Odpowiedź o leczeniu zaczyna się od jego rozpoznania i ustalenia sposobu leczenia."
+    },
+    {
+      "id": "C-VII-008",
+      "kind": "case",
+      "lecture": "VII",
+      "slide": "76–79",
+      "topic": "Alloplastyka biodra",
+      "difficulty": "medium",
+      "priority": true,
+      "title": "Od wczesnego usprawniania do wypisu",
+      "scenario": "W scenariuszu po alloplastyce biodra pacjent uczy się siadać przy uchwytach i wstawać z pomocą. Przy następnym etapie omawia się balkonik i schody.",
+      "question": "Nazwij oba etapy z wykładu i podaj przykładowe zalecenie omawiane przed wypisem.",
+      "answer": "Siad i wstawanie z pomocą występują we wczesnej fazie szpitalnej. Balkonik i schody są w późnej fazie szpitalnej. Przed wypisem omawia się domowe ćwiczenia i ograniczenia ruchów, np. unikanie krzyżowania nóg w schemacie z prezentacji.",
+      "mandatory": [
+        "Wczesna faza szpitalna",
+        "Późna faza szpitalna",
+        "Balkonik i schody",
+        "Przykład edukacji na wypis"
+      ],
+      "pitfall": "Zalecenia ruchowe są częścią schematu wykładowego."
+    },
+    {
+      "id": "C-VII-009",
+      "kind": "case",
+      "lecture": "VII",
+      "slide": "86–90",
+      "topic": "Goleń, staw skokowy i stopa",
+      "difficulty": "medium",
+      "priority": false,
+      "title": "Nagłe trzaśnięcie przy odbiciu",
+      "scenario": "W zadaniu po nagłym odbiciu w sporcie wystąpił dźwięk pęknięcia, ból nad piętą i trudność we wspięciu na palce. W badaniu wyczuwalna jest przerwa w przebiegu ścięgna.",
+      "question": "Który uraz wykładowy pasuje do opisu i jakie badanie pokazuje ścięgno?",
+      "answer": "Obraz pasuje do zamkniętego uszkodzenia ścięgna Achillesa. Wspięcie jest trudne ze względu na zaburzenie funkcji zgięcia podeszwowego. Wykład podaje USG do oceny ścięgna i wymienia również RTG okolicy stawu skokowego.",
+      "mandatory": [
+        "Ścięgno Achillesa",
+        "Nagłe obciążenie jako mechanizm",
+        "Wspięcie i ubytek",
+        "USG"
+      ],
+      "pitfall": "Samo RTG nie obrazuje ciągłości ścięgna w ten sam sposób co USG."
+    },
+    {
+      "id": "C-VII-010",
+      "kind": "case",
+      "lecture": "VII",
+      "slide": "91–95",
+      "topic": "Goleń, staw skokowy i stopa",
+      "difficulty": "medium",
+      "priority": true,
+      "title": "Progresja po skręceniu stawu skokowego",
+      "scenario": "Według opisu rehabilitacji po skręceniu pacjent zakończył etap chodu z odciążeniem. Zaczyna stopniowo przenosić więcej ciężaru oraz pracuje nad zakresem ruchu i równowagą.",
+      "question": "Której fazie wykładowej odpowiada ta praca i co ma być typowe dla fazy następnej?",
+      "answer": "To faza podostra z rosnącym obciążeniem, pracą nad ruchem i równowagą. W fazie zaawansowanej wykład przechodzi do pełnego obciążania w chodzie, treningu propriocepcji, stabilizacji i koordynacji.",
+      "mandatory": [
+        "Faza podostra",
+        "Progresja obciążania i ruchomości",
+        "Faza zaawansowana",
+        "Propriocepcja i pełne obciążanie"
+      ],
+      "pitfall": "Pełny chód w schemacie należy do fazy zaawansowanej. Faza podostra przygotowuje do niego stopniowo."
+    },
+    {
+      "id": "C-VII-011",
+      "kind": "case",
+      "lecture": "VII",
+      "slide": "107–114",
+      "topic": "Dysplazja biodra",
+      "difficulty": "medium",
+      "priority": true,
+      "title": "Dwa wyniki badania biodra niemowlęcia",
+      "scenario": "W dwóch opisach specjalistycznego badania niemowlęcia raz wyczuto nastawienie wcześniej przemieszczonej głowy, a raz jej wysunięcie z panewki.",
+      "question": "Do których prób przypiszesz wyniki i jaka metoda obrazowania występuje w tym fragmencie wykładu?",
+      "answer": "Wyczuwalne nastawienie to dodatni objaw Ortolaniego. Wyczuwalne wysuwanie to dodatnia próba Barlowa. Wykład wymienia ultrasonografię metodą Grafa.",
+      "mandatory": [
+        "Ortolani jako powrót do panewki",
+        "Barlow jako wysunięcie",
+        "USG metodą Grafa"
+      ],
+      "pitfall": "Różnicę wyraża kierunek przemieszczenia głowy."
+    },
+    {
+      "id": "C-VII-012",
+      "kind": "case",
+      "lecture": "VII",
+      "slide": "118–120, 126, 128–130",
+      "topic": "Perthes i młodzieńcze złuszczenie",
+      "difficulty": "hard",
+      "priority": true,
+      "title": "Dwa obrazy bólu zgłaszanego w kolanie",
+      "scenario": "Siedmiolatek utyka, zgłasza ból kolana po aktywności i ma ograniczone odwiedzenie biodra. Czternastolatek w okresie szybkiego wzrostu także utyka i zgłasza ból sięgający kolana, a przy zgięciu biodro ustawia się w odwiedzeniu i rotacji zewnętrznej.",
+      "question": "Które wykładowe rozpoznania skojarzysz z tymi dwoma opisami i co je różni?",
+      "answer": "Pierwszy zestaw odpowiada opisowi choroby Perthesa, czyli jałowej martwicy głowy kości udowej w młodszym wieku. Drugi sugeruje młodzieńcze złuszczenie w chrząstce wzrostowej, z objawem Drehmanna. W obu schematach ból odczuwany w kolanie może pochodzić z biodra.",
+      "mandatory": [
+        "Perthes i jałowa martwica",
+        "Złuszczenie i chrząstka wzrostowa",
+        "Wiek",
+        "Objaw Drehmanna i ból rzutowany"
+      ],
+      "pitfall": "Podaj cechy biodra w każdym przypadku. Miejsce zgłaszanego bólu jest wspólne obu opisom."
+    },
+    {
+      "id": "C-VII-013",
+      "kind": "case",
+      "lecture": "VII",
+      "slide": "136–143, 148–150",
+      "topic": "Zwyrodnienia stawów i kręgosłupa",
+      "difficulty": "medium",
+      "priority": false,
+      "title": "Zwyrodnienie po dawnym urazie",
+      "scenario": "W opisie długo po urazie powierzchni stawowej kolana pojawiły się bóle obciążeniowe, poranna sztywność około 20 minut i osteofity w RTG.",
+      "question": "Jak opiszesz typ zmian, jeśli wykazana jest ich zależność od urazu, i które cechy pasują do gonartrozy według slajdów?",
+      "answer": "Zmiany o ustalonej przyczynie pourazowej są wtórne. Ból obciążeniowy, osteofity i sztywność poranna do 30 minut pasują do opisywanego obrazu. Wykład wymienia przedziały przyśrodkowy, boczny i rzepkowo-udowy.",
+      "mandatory": [
+        "Postać wtórna",
+        "Związek z uszkodzeniem powierzchni stawu",
+        "Ból, sztywność i osteofity",
+        "Przedziały kolana"
+      ],
+      "pitfall": "Sam wiek nie rozstrzyga o pierwotnym lub wtórnym charakterze zmian."
+    },
+    {
+      "id": "C-VII-014",
+      "kind": "case",
+      "lecture": "VII",
+      "slide": "163–170",
+      "topic": "Choroba Scheuermanna",
+      "difficulty": "hard",
+      "priority": true,
+      "title": "Klinowacenie trzonów u nastolatka",
+      "scenario": "Nastolatek w zadaniu ma bóle pleców i utrwaloną kifozę piersiową. W opisie badania obrazowego wymieniono nieregularne brzegi klinowatych trzonów i guzki Schmorla.",
+      "question": "Która faza odpowiada opisowi i jakie dwa cele usprawniania wskażesz?",
+      "answer": "Obraz odpowiada fazie czynnej choroby Scheuermanna według wykładu. Przednie klinowacenie pogłębia kifozę, a guzki Schmorla opisują wpuklenia fragmentów krążka do trzonu. Cele to m.in. ograniczenie narastania deformacji, redukcja bólu i poprawa równowagi mięśniowej.",
+      "mandatory": [
+        "Faza czynna",
+        "Utrwalona kifoza i klinowacenie",
+        "Guzki Schmorla",
+        "Cele zachowawczego usprawniania"
+      ],
+      "pitfall": "W uzasadnieniu wykorzystaj łącznie wiek, obraz kliniczny i zmiany w trzonach."
+    },
+    {
+      "id": "C-VII-015",
+      "kind": "case",
+      "lecture": "VII",
+      "slide": "176–182",
+      "topic": "Więzadła krzyżowe i łąkotki",
+      "difficulty": "medium",
+      "priority": true,
+      "title": "Uciekanie kolana po nagłym skręcie",
+      "scenario": "W zadaniu przy ustalonej stopie nastąpił nagły skręt ciała. Później pojawiły się wysięk i uciekanie kolana, a w teście przy zgięciu około 25° stwierdzono nadmierne przesunięcie piszczeli ku przodowi.",
+      "question": "Jaki test i które więzadło odpowiadają temu obrazowi? Jaką translację powodowałaby niewydolność PCL?",
+      "answer": "To test Lachmana i wykładowy obraz uszkodzenia ACL. Ocenia się translację piszczeli ku przodowi względem uda. W niewydolności PCL charakterystyczne jest nadmierne przesuwanie piszczeli ku tyłowi.",
+      "mandatory": [
+        "Skręt przy ustalonej stopie",
+        "ACL i test Lachmana",
+        "Translacja przednia",
+        "PCL i translacja tylna"
+      ],
+      "pitfall": "Podaj kierunek przesunięcia piszczeli względem kości udowej."
+    },
+    {
+      "id": "C-VII-016",
+      "kind": "case",
+      "lecture": "VII",
+      "slide": "184–185",
+      "topic": "Więzadła krzyżowe i łąkotki",
+      "difficulty": "medium",
+      "priority": false,
+      "title": "Blokowanie przy szparze stawowej",
+      "scenario": "W scenariuszu ból jest wyczuwalny w rzucie szpary stawowej. Kolano puchnie i okresowo się blokuje. Opis MRI wymienia uszkodzenie typu rączka od wiadra.",
+      "question": "Jakiej struktury i którego typu pęknięcia dotyczy opis?",
+      "answer": "Chodzi o łąkotkę i pęknięcie podłużne. Za opisem przemawiają ból przy szparze stawowej, obrzęk, blokowanie i charakterystyka w MRI.",
+      "mandatory": [
+        "Łąkotka",
+        "Pęknięcie podłużne",
+        "Ból przy szparze i blokowanie",
+        "MRI"
+      ],
+      "pitfall": "Rączkę od wiadra zaliczono do uszkodzeń podłużnych, a dziób papugi w tej prezentacji do brzeżnych."
+    },
+    {
+      "id": "C-VII-017",
+      "kind": "case",
+      "lecture": "VII",
+      "slide": "186–192",
+      "topic": "Przeciążenia kolana",
+      "difficulty": "medium",
+      "priority": true,
+      "title": "Dwa bóle kolana podczas sportu",
+      "scenario": "Biegacza boli po bocznej stronie kolana podczas zbiegu. Siatkarza boli tuż pod rzepką podczas rozgrzewki, potem dolegliwość znika i wraca po grze.",
+      "question": "Które przeciążenia pasują do opisów i jaki stopień dolegliwości ma siatkarz według prezentacji?",
+      "answer": "U biegacza opis pasuje do zespołu pasma biodrowo-piszczelowego. U siatkarza ból dotyczy więzadła rzepki, czyli obrazu kolana skoczka. Ból podczas rozgrzewki i po zakończeniu gry odpowiada stopniowi II.",
+      "mandatory": [
+        "Zespół pasma i ból boczny",
+        "Zbieganie jako bodziec",
+        "Więzadło rzepki i ból przedni",
+        "Stopień II"
+      ],
+      "pitfall": "Ból wyłącznie po wysiłku odpowiadałby wykładowemu stopniowi I."
+    }
+  ],
+  "coverage": [
+    {
+      "name": "Etapy rehabilitacji i pionizacji",
+      "status": "OMÓWIONE",
+      "slide": "41–48, 55, 59–60, 75–79, 94–95",
+      "note": "Wybrane etapy usprawniania po amputacji, urazach miednicy, alloplastyce biodra i skręceniu stawu skokowego."
+    },
+    {
+      "name": "Przeciwwskazania do pionizacji",
+      "status": "CZĘŚCIOWO",
+      "slide": "35, 54–55, 76–79",
+      "note": "Podano ograniczenia ruchu i obciążania w konkretnych sytuacjach oraz przykłady asekuracji. Brakuje ogólnego wykazu przeciwwskazań."
+    },
+    {
+      "name": "Kiedy przerwać trening / ćwiczenia",
+      "status": "CZĘŚCIOWO",
+      "slide": "44, 48, 79, 94–95",
+      "note": "Omówiono unikanie bólu przy rozciąganiu, monitorowanie parametrów wysiłku i przerwanie aktywności bezpośrednio po urazie. Brakuje ogólnych kryteriów przerwania ćwiczeń."
+    },
+    {
+      "name": "Charakterystyka wad postawy",
+      "status": "CZĘŚCIOWO",
+      "slide": "161–174",
+      "note": "Opisano kifozę w chorobie Scheuermanna. Brakuje przekrojowej charakterystyki wad postawy."
+    },
+    {
+      "name": "Etapy przy stwardnieniu",
+      "status": "BRAK",
+      "slide": "",
+      "note": "Wykład nie omawia etapów choroby i rehabilitacji w stwardnieniu rozsianym."
+    },
+    {
+      "name": "Techniki wykonywania ćwiczeń",
+      "status": "OMÓWIONE",
+      "slide": "35–48, 59–60, 72, 76–79, 94–95, 169–174",
+      "note": "Przedstawiono m.in. ćwiczenia równoważne, naukę chodu oraz ćwiczenia rozciągające i wzmacniające po wybranych urazach i zabiegach."
+    },
+    {
+      "name": "Nauka efektywnego kaszlu",
+      "status": "BRAK",
+      "slide": "",
+      "note": "Wykład wymienia ćwiczenia oddechowe bez instruktażu efektywnego kaszlu."
+    },
+    {
+      "name": "Postępowanie RAJS",
+      "status": "BRAK",
+      "slide": "",
+      "note": "Skrótu RAJS nie ma w materiale. Na slajdzie 94 rozwinięto RICE."
+    },
+    {
+      "name": "Zabezpieczenie rany przed pionizacją",
+      "status": "BRAK",
+      "slide": "",
+      "note": "Wykład odnosi się do gojenia rany, ale nie opisuje techniki zabezpieczania rany pooperacyjnej do pionizacji."
+    },
+    {
+      "name": "Odleżyny i blizny – ocena",
+      "status": "CZĘŚCIOWO",
+      "slide": "10–11, 35–36, 60",
+      "note": "Opisano objawy odleżyny pod gipsem i wymieniono pracę z blizną. Brakuje kryteriów oceny blizny."
+    },
+    {
+      "name": "Mobilizacja blizny",
+      "status": "CZĘŚCIOWO",
+      "slide": "36, 60, 85, 132",
+      "note": "Omówiono stopniowanie bodźców czuciowych w okolicy zagojonej blizny kikuta oraz wymieniono pracę z blizną po innych urazach. Brakuje szczegółowego protokołu mobilizacji."
+    }
+  ],
+  "images": [
+    {
+      "lecture": "Wykład VII",
+      "slide": 40,
+      "title": "Porównanie bandażowania podudzia i uda",
+      "alt": "Dwa osobne rysunki pokazują przebieg bandażowania kikuta na poziomie podudzia oraz na poziomie uda.",
+      "caption": "Slajd przedstawia dwa różne schematy zależnie od poziomu amputacji.",
+      "src": "../../images/wyklad-vii-slajd-40.jpg"
+    },
+    {
+      "lecture": "Wykład VII",
+      "slide": 95,
+      "title": "Od odciążania do pełnego chodu",
+      "alt": "Trzy fazy wykładowego schematu po skręceniu stawu skokowego: ostra z odciążaniem, podostra z rosnącym obciążaniem i zaawansowana z pełnym obciążaniem w chodzie.",
+      "caption": "Opracowanie slajdu 95. Oś czasu porządkuje zadania i sposób obciążania w trzech fazach.",
+      "src": "../../images/wyklad-vii-fazy-skrecenia.svg"
+    },
+    {
+      "lecture": "Wykład VII",
+      "slide": 109,
+      "title": "Ortolani a Barlow",
+      "alt": "W dodatnim objawie Ortolaniego głowa kości udowej wraca do panewki. W dodatniej próbie Barlowa głowa wysuwa się z panewki.",
+      "caption": "Schemat kierunku przemieszczenia głowy kości udowej według slajdów 109–110.",
+      "src": "../../images/wyklad-vii-ortolani-barlow.svg"
+    },
+    {
+      "lecture": "Wykład VII",
+      "slide": 166,
+      "title": "Kształt kręgów w chorobie Scheuermanna",
+      "alt": "Porównanie mniejszego i większego wygięcia oraz prostokątnego i klinowatego kształtu trzonów kręgów.",
+      "caption": "Rycina zestawia sylwetkę z kształtem kręgów w przekroju bocznym.",
+      "src": "../../images/wyklad-vii-slajd-166.jpg"
+    }
+  ]
+}

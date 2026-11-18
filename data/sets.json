@@ -1,5 +1,19 @@
 [
   {
+    "id": "III",
+    "label": "Wykład III",
+    "title": "Neurologia",
+    "file": "sets/wyklad-iii.json",
+    "coverageTitle": "Wykład III – Neurologia"
+  },
+  {
+    "id": "IV",
+    "label": "Wykład IV",
+    "title": "Chirurgia",
+    "file": "sets/wyklad-iv.json",
+    "coverageTitle": "Wykład IV – Chirurgia"
+  },
+  {
     "id": "V",
     "label": "Wykład V",
     "title": "Wady postawy",
@@ -12,5 +26,12 @@
     "title": "Rehabilitacja pulmonologiczna",
     "file": "sets/wyklad-vi.json",
     "coverageTitle": "Wykład VI – Pulmonologia"
+  },
+  {
+    "id": "VII",
+    "label": "Wykład VII",
+    "title": "Ortopedia",
+    "file": "sets/wyklad-vii.json",
+    "coverageTitle": "Wykład VII – Ortopedia"
   }
 ]

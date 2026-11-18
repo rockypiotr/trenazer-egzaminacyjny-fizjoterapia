@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 510" role="img" aria-labelledby="title desc">
+  <title id="title">Reedukacja ruchu po udarze</title>
+  <desc id="desc">Najpierw kontrola tułowia, barku i biodra. Ćwiczenia bierne, następnie czynno-bierne lub czynne wspomagane, potem czynne. Opór można dołączyć po odzyskaniu zdolności ustawienia i utrzymania kończyny.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="5" refY="4" orient="auto">
+      <path d="M1 1 5 4 1 7" fill="none" stroke="#31766d" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <rect width="520" height="510" fill="#f5faf9"/>
+  <g font-family="system-ui, sans-serif">
+    <text x="30" y="44" font-size="27" font-weight="720" fill="#123930">Reedukacja ruchu po udarze</text>
+    <text x="30" y="75" font-size="20" font-weight="550" fill="#315b53">Od tułowia, barku i biodra ku dłoni i stopie</text>
+
+    <g fill="none" stroke="#31766d" stroke-width="2.5" marker-end="url(#arrow)">
+      <path d="M68 161V179"/>
+      <path d="M68 244V262"/>
+      <path d="M68 327V346"/>
+    </g>
+
+    <g font-weight="650" font-size="22" fill="#123930">
+      <rect x="30" y="103" width="460" height="58" rx="11" fill="#e0efeb"/>
+      <circle cx="68" cy="132" r="17" fill="#287265"/>
+      <text x="68" y="139" font-size="18" text-anchor="middle" fill="#fff">1</text>
+      <text x="102" y="139">Ćwiczenia bierne</text>
+
+      <rect x="30" y="186" width="460" height="58" rx="11" fill="#e0efeb"/>
+      <circle cx="68" cy="215" r="17" fill="#287265"/>
+      <text x="68" y="222" font-size="18" text-anchor="middle" fill="#fff">2</text>
+      <text x="102" y="208" font-size="21">Ćwiczenia czynno-bierne</text>
+      <text x="102" y="232" font-size="18" font-weight="500">lub czynne wspomagane</text>
+
+      <rect x="30" y="269" width="460" height="58" rx="11" fill="#e0efeb"/>
+      <circle cx="68" cy="298" r="17" fill="#287265"/>
+      <text x="68" y="305" font-size="18" text-anchor="middle" fill="#fff">3</text>
+      <text x="102" y="305">Ćwiczenia czynne</text>
+
+      <rect x="30" y="352" width="460" height="113" rx="11" fill="#fff4d8" stroke="#ab7c24" stroke-width="2"/>
+      <circle cx="68" cy="381" r="17" fill="#825b12"/>
+      <text x="68" y="388" font-size="18" text-anchor="middle" fill="#fff">4</text>
+      <text x="102" y="388" fill="#5e430d">Ćwiczenia oporowe</text>
+      <text x="102" y="417" font-size="17" font-weight="550" fill="#5e430d">Gdy pacjent potrafi ustawić kończynę</text>
+      <text x="102" y="441" font-size="17" font-weight="550" fill="#5e430d">i utrzymać ją w określonej pozycji.</text>
+    </g>
+    <text x="30" y="488" font-size="15" fill="#315b53">Wykład III · slajd 116</text>
+  </g>
+</svg>

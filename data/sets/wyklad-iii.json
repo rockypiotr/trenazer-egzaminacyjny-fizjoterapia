@@ -1,0 +1,3351 @@
+{
+  "cards": [
+    {
+      "id": "F-III-001",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "2",
+      "topic": "Rehabilitacja i neuroplastyczność",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Jaki jest główny cel rehabilitacji neurologicznej?",
+      "answer": "Przywrócenie możliwie największej samodzielności oraz zdolności do aktywności społecznej, zawodowej i twórczej. Rehabilitacja wspiera również plastyczność i regenerację oraz ogranicza następstwa choroby lub urazu."
+    },
+    {
+      "id": "F-III-002",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "3",
+      "topic": "Rehabilitacja i neuroplastyczność",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie okoliczności sprzyjały rozwojowi rehabilitacji w Polsce po II wojnie światowej?",
+      "answer": "Skutki wojny, duża liczba osób z niepełnosprawnościami, ograniczony dostęp do leczenia, epidemia polio oraz potrzeby osób po udarach i urazach układu nerwowego."
+    },
+    {
+      "id": "F-III-003",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "5",
+      "topic": "Rehabilitacja i neuroplastyczność",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Jakie dwie właściwości neuronu wyróżnił Jerzy Konorski?",
+      "answer": "Pobudliwość, czyli zdolność do reakcji na impulsy, i plastyczność, czyli zdolność do trwałych zmian funkcjonalnych wywołanych bodźcami."
+    },
+    {
+      "id": "F-III-004",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "6",
+      "topic": "Rehabilitacja i neuroplastyczność",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Co sprzyja regeneracji mięśnia szkieletowego po częściowym odnerwieniu?",
+      "answer": "Szybkie odtworzenie unaczynienia i unerwienia, brak nadmiernego rozrostu tkanki łącznej oraz zdolność komórek satelitarnych do podziału."
+    },
+    {
+      "id": "F-III-005",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "7",
+      "topic": "Rehabilitacja i neuroplastyczność",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie trzy typy neuronów rozróżnia wykład pod względem plastyczności?",
+      "answer": "Neurony nieplastyczne, plastyczne tylko we wczesnym okresie życia oraz zachowujące zdolność plastyczności długotrwale lub stale."
+    },
+    {
+      "id": "F-III-006",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "7",
+      "topic": "Rehabilitacja i neuroplastyczność",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Czym różni się okres prenatalny od okresu dojrzałości pod względem zmian w mózgu?",
+      "answer": "W rozwoju prenatalnym powstają neurony, które migrują i tworzą synapsy. W dojrzałości także mogą tworzyć się nowe połączenia dzięki neuronom zachowującym plastyczność."
+    },
+    {
+      "id": "F-III-007",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "8",
+      "topic": "Rehabilitacja i neuroplastyczność",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Jakie trzy formy plastyczności mózgu wyróżnia wykład?",
+      "answer": "Pamięciową związaną z uczeniem się i pamięcią, rozwojową pod wpływem stymulacji sensorycznej oraz kompensacyjną związaną z odpowiedzią na uszkodzenie."
+    },
+    {
+      "id": "F-III-008",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "10",
+      "topic": "Badanie neurologiczne",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Co obejmuje badanie podmiotowe pacjenta neurologicznego?",
+      "answer": "Rozpoznanie i współchorobowości, wyniki badań, główne dolegliwości, dotychczasowe urazy, zabiegi i leczenie, informacje o stanie i rokowaniu oraz ustalenie i udokumentowanie celów rehabilitacji."
+    },
+    {
+      "id": "F-III-009",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "11",
+      "topic": "Badanie neurologiczne",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Jak różnią się skale NRS i VAS?",
+      "answer": "W NRS pacjent określa ból liczbą od 0 do 10. W VAS zaznacza punkt na linii długości 10 cm pomiędzy krańcami odpowiadającymi nasileniu bólu."
+    },
+    {
+      "id": "F-III-010",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "12–13",
+      "topic": "Badanie neurologiczne",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Co ocenia badanie przedmiotowe pacjenta neurologicznego?",
+      "answer": "Symetrię i postawę, głowę i funkcję nerwów czaszkowych, ruchomość i siłę, czucie i koordynację, funkcje chwytne, podporowe i lokomocyjne, równowagę oraz ruchomość i wydolność tułowia."
+    },
+    {
+      "id": "F-III-011",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "14–15",
+      "topic": "Badanie neurologiczne",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Jak odróżnić dermatom, miotom i sklerotom?",
+      "answer": "Dermatom to obszar skóry, miotom to grupa mięśni, a sklerotom obejmuje struktury kostne, stawowe i więzadłowe związane z unerwieniem jednego nerwu rdzeniowego."
+    },
+    {
+      "id": "F-III-012",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "15–17",
+      "topic": "Badanie neurologiczne",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jaką informację wnosi zestawienie objawów w dermatomach i miotomach?",
+      "answer": "Rozkład bólu, mrowienia lub drętwienia w dermatomach i osłabienie funkcji odpowiadających miotomom mogą pomóc zlokalizować zajęty korzeń nerwowy."
+    },
+    {
+      "id": "F-III-013",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "18",
+      "topic": "Badanie neurologiczne",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Co obejmuje obserwacja chodu w badaniu neurologicznym?",
+      "answer": "Jakość, wydolność, stabilność podparcia i poszczególne fazy chodu. Wykład uwzględnia też funkcjonowanie w środowisku pacjenta z pomocą ortopedyczną i bez niej."
+    },
+    {
+      "id": "F-III-014",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "19",
+      "topic": "Badanie neurologiczne",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Co oznaczają stopnie 0 i 1 w skali Lovetta?",
+      "answer": "0 oznacza brak czynnego skurczu, a 1 skurcz śladowy."
+    },
+    {
+      "id": "F-III-015",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "19",
+      "topic": "Badanie neurologiczne",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Jak wykład rozróżnia stopnie 2 i 3 w skali Lovetta?",
+      "answer": "Stopień 2 przypisano ruchowi w odciążeniu, który w tabeli na slajdzie opisano jako niepełny. Stopień 3 odpowiada ruchowi w pełnym zakresie bez dołożonego oporu."
+    },
+    {
+      "id": "F-III-016",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "19",
+      "topic": "Badanie neurologiczne",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Jak wykład rozróżnia stopnie 4 i 5 w skali Lovetta?",
+      "answer": "Stopień 4 oznacza pełny zakres ruchu z niewielkim oporem. Stopień 5 odpowiada pełnej sile mięśniowej."
+    },
+    {
+      "id": "F-III-017",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "20",
+      "topic": "Badanie neurologiczne",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Jakie warunki badania równowagi opisuje wykład?",
+      "answer": "Stanie na obu nogach i na jednej nodze, z oczami otwartymi i zamkniętymi."
+    },
+    {
+      "id": "F-III-018",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "21",
+      "topic": "Badanie neurologiczne",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Co obejmuje ogólna ocena płynu mózgowo-rdzeniowego?",
+      "answer": "Ocenę barwy i przejrzystości oraz oznaczenie białka, glukozy i liczby krwinek."
+    },
+    {
+      "id": "F-III-019",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "22",
+      "topic": "Badanie neurologiczne",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie przykładowe problemy wymieniono przy omawianiu punkcji lędźwiowej?",
+      "answer": "W części o przeciwwskazaniach wymieniono zespół wzmożonego ciśnienia śródczaszkowego, ropne zmiany skórne i skazy krwotoczne. Wśród powikłań wymieniono m.in. bóle głowy po pionizacji oraz ból w miejscu wkłucia."
+    },
+    {
+      "id": "F-III-020",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "23–24",
+      "topic": "Badanie neurologiczne",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jaki przykład użycia TK i MR podaje wykład?",
+      "answer": "TK podano jako przykład badania pierwszego rzutu przy nagłym urazie głowy z podejrzeniem krwawienia. MR wymieniono m.in. w diagnostyce zmian demielinizacyjnych."
+    },
+    {
+      "id": "F-III-021",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "25",
+      "topic": "Badanie neurologiczne",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Co łączy ultrasonografia dupleksowa?",
+      "answer": "Obraz morfologiczny uzyskany za pomocą ultradźwięków z oceną przepływu metodą Dopplera."
+    },
+    {
+      "id": "F-III-022",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "26",
+      "topic": "Badanie neurologiczne",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Co uwidacznia opisana w wykładzie angiografia naczyń mózgowych?",
+      "answer": "Tętnice szyjne w odcinkach zewnątrzczaszkowych oraz koło tętnicze Willisa."
+    },
+    {
+      "id": "F-III-023",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "27–28",
+      "topic": "Badanie neurologiczne",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Co rejestruje EEG, a co ocenia EMG w ujęciu wykładu?",
+      "answer": "EEG rejestruje aktywność elektryczną mózgu. EMG w części o elektrodiagnostyce obwodowej dotyczy oceny czynności mięśni i nerwów obwodowych."
+    },
+    {
+      "id": "F-III-024",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "30",
+      "topic": "Zespoły i objawy neurologiczne",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Jak wykład wiąże zespół piramidowy i wiotki z neuronem ruchowym?",
+      "answer": "Zespół piramidowy wiąże z uszkodzeniem górnego neuronu ruchowego, a wiotki z zajęciem dolnego neuronu ruchowego."
+    },
+    {
+      "id": "F-III-025",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "30",
+      "topic": "Zespoły i objawy neurologiczne",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Co różni ruchy pląsawicze i atetotyczne w opisie wykładu?",
+      "answer": "Ruchy pląsawicze są mimowolne i mogą obejmować twarz, język i kończyny. Atetoza polega na powolnych, wijących się ruchach, szczególnie dystalnych części kończyn."
+    },
+    {
+      "id": "F-III-026",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "31",
+      "topic": "Zespoły i objawy neurologiczne",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie cechy przypisano w wykładzie zespołowi miopatycznemu?",
+      "answer": "Głównie proksymalny niedowład, zaniki, obniżone napięcie oraz osłabione lub zniesione odruchy głębokie w przedstawionym opisie zespołu."
+    },
+    {
+      "id": "F-III-027",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "31",
+      "topic": "Zespoły i objawy neurologiczne",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jaka cecha niedowładu sugeruje w zestawieniu wykładowym zajęcie złącza nerwowo-mięśniowego?",
+      "answer": "Nasilanie się niedowładu podczas wysiłku. Wykład podaje przy tym prawidłowe odruchy głębokie i prawidłowe lub obniżone napięcie."
+    },
+    {
+      "id": "F-III-028",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "33",
+      "topic": "Zespoły i objawy neurologiczne",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Jaka jest różnica między przytomnością a świadomością w wykładzie?",
+      "answer": "Przytomność dotyczy poziomu czuwania i gotowości do reakcji. Świadomość obejmuje celowe reagowanie, zapamiętywanie i przetwarzanie informacji."
+    },
+    {
+      "id": "F-III-029",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "33",
+      "topic": "Zespoły i objawy neurologiczne",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie trzy poziomy zaburzeń przytomności opisuje wykład?",
+      "answer": "Senność patologiczną, półśpiączkę z zachowaną reakcją na silne bodźce i śpiączkę jako najgłębsze zaburzenie przytomności."
+    },
+    {
+      "id": "F-III-030",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "34, 48",
+      "topic": "Zespoły i objawy neurologiczne",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Jakie funkcje mogą być zaburzone w otępieniu?",
+      "answer": "Pamięć, orientacja, myślenie, rozumienie, liczenie, uczenie się i język. Zaburzenia wpływają na samodzielne funkcjonowanie społeczne i zawodowe."
+    },
+    {
+      "id": "F-III-031",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "35–36",
+      "topic": "Zespoły i objawy neurologiczne",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie cechy pomaga zestawić wykład przy różnicowaniu omdlenia i napadu padaczkowego?",
+      "answer": "Dla omdlenia wskazuje m.in. zblednięcie, potliwość i szybką poprawę, a dla napadu m.in. splątanie i niepamięć ponapadową. Krótkie ruchy drgawkowe mogą też towarzyszyć omdleniu."
+    },
+    {
+      "id": "F-III-032",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "37",
+      "topic": "Zespoły i objawy neurologiczne",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie współwystępujące objawy wymienia wykład przy zawrotach obwodowych i ośrodkowych?",
+      "answer": "Przy obwodowych wymienia szum uszny i ubytek słuchu. Przy ośrodkowych podkreśla nasilone zaburzenia równowagi."
+    },
+    {
+      "id": "F-III-033",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "38, 105",
+      "topic": "Zespoły i objawy neurologiczne",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Czym różnią się afazja ruchowa, afazja czuciowa i dyzartria?",
+      "answer": "W afazji ruchowej dominuje trudność w tworzeniu wypowiedzi, w czuciowej trudność w rozumieniu, a w dyzartrii zaburzenie wykonania i wyrazistości mowy przy zachowanym rozumieniu."
+    },
+    {
+      "id": "F-III-034",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "41",
+      "topic": "Zespoły i objawy neurologiczne",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie objawy górnego i dolnego neuronu ruchowego mogą współwystępować w SLA?",
+      "answer": "Objawy górnego neuronu to m.in. spastyczność, wygórowane odruchy i objaw Babińskiego. Objawy dolnego to m.in. zaniki mięśni i fascykulacje."
+    },
+    {
+      "id": "F-III-035",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "41",
+      "topic": "Zespoły i objawy neurologiczne",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie objawy opisano w postępującym porażeniu opuszkowym?",
+      "answer": "Dysfagię, dyzartrię i dysfonię oraz obustronny zanik i fascykulacje mięśni języka."
+    },
+    {
+      "id": "F-III-036",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "41",
+      "topic": "Zespoły i objawy neurologiczne",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Czym różnią się pierwotne stwardnienie boczne i postępujący zanik mięśni?",
+      "answer": "Pierwotne stwardnienie boczne przebiega głównie z objawami górnego neuronu, np. spastyczną tetraparezą. W postępującym zaniku mięśni dominują objawy dolnego neuronu."
+    },
+    {
+      "id": "F-III-037",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "42",
+      "topic": "Zespoły i objawy neurologiczne",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jak wykład opisuje zespół post-polio?",
+      "answer": "Nowy niedowład i zanik mięśni po przebytym polio i długim okresie stabilności. W wykładzie podano co najmniej 15 lat stabilizacji oraz brak objawów górnego neuronu ruchowego."
+    },
+    {
+      "id": "F-III-038",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "44",
+      "topic": "Udar mózgu i otępienia",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Jakie dwa typy udaru wyróżnia podstawowy podział etiologiczny?",
+      "answer": "Udar niedokrwienny i krwotoczny."
+    },
+    {
+      "id": "F-III-039",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "44",
+      "topic": "Udar mózgu i otępienia",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jak prezentacja przytacza historyczną definicję WHO udaru?",
+      "answer": "Nagłe ogniskowe lub uogólnione zaburzenia czynności mózgu o przyczynie naczyniowej, trwające ponad 24 godziny lub wcześniej prowadzące do zgonu. Granica czasowa należy do definicji omawianej na slajdzie."
+    },
+    {
+      "id": "F-III-040",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "45–46",
+      "topic": "Udar mózgu i otępienia",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie mechanizmy niedokrwienne i lokalizacje udaru krwotocznego podaje wykład?",
+      "answer": "Wśród udarów niedokrwiennych wymienia zakrzepowo-zatorowe, zatorowe i związane z chorobą małych naczyń, określone na slajdzie jako zatokowe. Wśród krwotocznych wymienia krwawienie śródmózgowe i podpajęczynówkowe."
+    },
+    {
+      "id": "F-III-041",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "49–50",
+      "topic": "Udar mózgu i otępienia",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Które zaburzenia poznawcze wysuwają się na pierwszy plan w opisie choroby Alzheimera?",
+      "answer": "Trudności w przechowywaniu nowej informacji i szybkie zapominanie, a także zaburzenia mowy i funkcji wzrokowo-przestrzennych."
+    },
+    {
+      "id": "F-III-042",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "51",
+      "topic": "Udar mózgu i otępienia",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Jakie cechy poza otępieniem wymieniono dla otępienia z ciałami Lewy’ego?",
+      "answer": "Fluktuacje funkcji poznawczych, omamy wzrokowe, nawracające upadki i nadwrażliwość na neuroleptyki."
+    },
+    {
+      "id": "F-III-043",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "52",
+      "topic": "Udar mózgu i otępienia",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Jaki przebieg może wskazywać na otępienie naczyniopochodne w ujęciu wykładu?",
+      "answer": "Nagłe lub skokowe pogorszenie funkcji poznawczych, epizody udarowe w wywiadzie i obecność ogniskowych objawów neurologicznych."
+    },
+    {
+      "id": "F-III-044",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "54–55",
+      "topic": "Choroby pozapiramidowe",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Jaką funkcję przypisano układowi pozapiramidowemu?",
+      "answer": "Współudział z układem piramidowym w wyzwalaniu ruchów dowolnych i regulowaniu napięcia mięśni szkieletowych."
+    },
+    {
+      "id": "F-III-045",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "56–57",
+      "topic": "Choroby pozapiramidowe",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Jakie zmiany i objawy opisano dla idiopatycznej choroby Parkinsona?",
+      "answer": "Zanik części neuronów istoty czarnej i obecność ciał Lewy’ego. W obrazie klinicznym m.in. bradykinezja, drżenie spoczynkowe, sztywność, uboga mimika i mikrografia."
+    },
+    {
+      "id": "F-III-046",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "58",
+      "topic": "Choroby pozapiramidowe",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jak wykład opisuje wzorzec objawów w parkinsonizmie naczyniowym?",
+      "answer": "Na pierwszym planie sztywność i bradykinezja, zwłaszcza w kończynach dolnych. Drżenie spoczynkowe występuje rzadko."
+    },
+    {
+      "id": "F-III-047",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "59–61",
+      "topic": "Choroby pozapiramidowe",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Jakie zaburzenie leży u podstaw choroby Wilsona?",
+      "answer": "Dziedziczne zaburzenie metabolizmu miedzi, z ograniczonym wydalaniem jej do żółci i odkładaniem m.in. w wątrobie, jądrach podstawy i rogówce."
+    },
+    {
+      "id": "F-III-048",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "63–64",
+      "topic": "Choroby pozapiramidowe",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jaki wzorzec dziedziczenia i obraz kliniczny ma choroba Huntingtona?",
+      "answer": "Dziedziczenie autosomalne dominujące, z możliwą antycypacją. W obrazie klinicznym współistnieją zaburzenia ruchowe, poznawcze i psychiczne."
+    },
+    {
+      "id": "F-III-049",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "66",
+      "topic": "Mózgowe porażenie dziecięce",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Jak zmieniają się z wiekiem uszkodzenie OUN i objawy w mózgowym porażeniu dziecięcym?",
+      "answer": "Uszkodzenie rozwijającego się OUN jest niepostępujące, a zaburzenia ruchu, postawy i ich następstwa mogą zmieniać się z wiekiem."
+    },
+    {
+      "id": "F-III-050",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "67",
+      "topic": "Mózgowe porażenie dziecięce",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Jakie trzy okresy uwzględnia wykład, grupując przyczyny MPD?",
+      "answer": "Okres prenatalny, okołoporodowy i poporodowy we wczesnym rozwoju mózgu."
+    },
+    {
+      "id": "F-III-051",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "68",
+      "topic": "Mózgowe porażenie dziecięce",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Co oznacza zależność spastyczności od szybkości rozciągania?",
+      "answer": "Przy szybszym biernym rozciąganiu bardziej nasilona jest odpowiedź odruchowa mięśnia na rozciąganie."
+    },
+    {
+      "id": "F-III-052",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "69",
+      "topic": "Mózgowe porażenie dziecięce",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie ustawienia są typowe dla spastycznej hemiplegii w MPD według wykładu?",
+      "answer": "Jednostronne końskie ustawienie stopy, często ze szpotawością stępu, oraz zgięcie łokcia, nadgarstka i palców z przywiedzeniem kciuka."
+    },
+    {
+      "id": "F-III-053",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "70–71",
+      "topic": "Mózgowe porażenie dziecięce",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Które kończyny są silniej zajęte w diplegii spastycznej?",
+      "answer": "Objawy mogą obejmować wszystkie cztery kończyny, a wyraźnie większe nasilenie dotyczy dolnych. Wykład opisuje m.in. chód kuczny."
+    },
+    {
+      "id": "F-III-054",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "71–72",
+      "topic": "Mózgowe porażenie dziecięce",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jak wykład wiąże przykurcz przywiedzeniowy biodra z powikłaniami w diplegii?",
+      "answer": "Utrwalony przykurcz przywiedzeniowy sprzyja stopniowemu przemieszczaniu się stawu biodrowego i jego neurogennemu zwichnięciu."
+    },
+    {
+      "id": "F-III-055",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "73–74",
+      "topic": "Mózgowe porażenie dziecięce",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie problemy funkcjonalne opisuje wykład przy porażeniu czterokończynowym w MPD?",
+      "answer": "Upośledzoną kontrolę głowy, tułowia i kończyn, zaburzone odruchy postawy i równowagi, przykurcze oraz niestabilność stawów biodrowych. Mogą współwystępować ruchy atetotyczne."
+    },
+    {
+      "id": "F-III-056",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "76–77",
+      "topic": "Przepuklina oponowo-rdzeniowa",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Czym jest przepuklina oponowo-rdzeniowa i jakie mogą być jej następstwa?",
+      "answer": "Przez ubytek kostny kręgosłupa uwypuklają się rdzeń i opony. Możliwe są niedowłady, ubytki czucia i zaburzenia wydalania moczu i stolca. Często współistnieje wodogłowie."
+    },
+    {
+      "id": "F-III-057",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "78–80",
+      "topic": "Przepuklina oponowo-rdzeniowa",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Co stanowi podstawę sześciu grup klasyfikacji Sharrarda?",
+      "answer": "Poziom uszkodzenia neurosegmentów i wynikający z niego rozkład niedowładów lub porażeń mięśni."
+    },
+    {
+      "id": "F-III-058",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "78–80",
+      "topic": "Przepuklina oponowo-rdzeniowa",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jak różnią się skrajne grupy I i VI w opisie Sharrarda?",
+      "answer": "W I opisano porażenie wszystkich mięśni kończyn dolnych i końskie ustawienie stóp. W VI zachowane jest unerwienie do S2, a opis dotyczy głównie ustawienia palców bez deformacji bioder i kolan."
+    },
+    {
+      "id": "F-III-059",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "81",
+      "topic": "Przepuklina oponowo-rdzeniowa",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jak przykurcz zgięciowy kolana wpływa na lokomocję w przepuklinie oponowo-rdzeniowej?",
+      "answer": "Zmniejsza stabilność kolana w staniu. Osoba może funkcjonować na nadmiernie zgiętych kolanach i tracić wcześniej uzyskane funkcje stania oraz chodu."
+    },
+    {
+      "id": "F-III-060",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "83–85",
+      "topic": "Neuropatie obwodowe",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Jakie dwa typy neuropatii wyróżnia się według zajętej struktury nerwu?",
+      "answer": "Aksonalne, z dominującym uszkodzeniem aksonu, i demielinizacyjne, z dominującym uszkodzeniem osłonki mielinowej."
+    },
+    {
+      "id": "F-III-061",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "84",
+      "topic": "Neuropatie obwodowe",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Co zajmują radikulopatia, pleksopatia i mononeuropatia?",
+      "answer": "Radikulopatia dotyczy korzenia, pleksopatia splotu, a mononeuropatia pojedynczego nerwu obwodowego."
+    },
+    {
+      "id": "F-III-062",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "84–86",
+      "topic": "Neuropatie obwodowe",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Jaki rozkład zaburzeń jest typowy dla polineuropatii obwodowej w wykładzie?",
+      "answer": "Rozlane, często symetryczne zajęcie nerwów. Możliwy jest wiotki niedowład, a zaburzenia czucia mogą przyjmować układ „rękawiczek i skarpetek”."
+    },
+    {
+      "id": "F-III-063",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "87",
+      "topic": "Neuropatie obwodowe",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie następstwa funkcjonalne może mieć dystalna neuropatia czuciowa w cukrzycy?",
+      "answer": "Osłabione odczuwanie bólu i temperatury sprzyja przeoczeniu urazów, owrzodzeń i złamań stóp. Mogą też występować ból i parestezje."
+    },
+    {
+      "id": "F-III-064",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "88",
+      "topic": "Neuropatie obwodowe",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Jaki niedowład i jaki wywiad opisano w zespole Guillaina–Barrégo?",
+      "answer": "Narastający niedowład wiotki, często po przebytej infekcji. Mogą go poprzedzać parestezje kończyn i bóle korzeniowe."
+    },
+    {
+      "id": "F-III-065",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "88",
+      "topic": "Neuropatie obwodowe",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie objawy pozakończynowe mogą wystąpić w zespole Guillaina–Barrégo?",
+      "answer": "Obustronne porażenie nerwu twarzowego oraz objawy autonomiczne, np. tachykardia, niedociśnienie ortostatyczne i zaburzenia potliwości."
+    },
+    {
+      "id": "F-III-066",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "89",
+      "topic": "Choroby mięśni",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Czym są miopatie i jaki jest typowy rozkład osłabienia w wielu miopatiach nabytych?",
+      "answer": "Pierwotne choroby mięśni. Wiele miopatii nabytych daje symetryczny, głównie proksymalny niedowład."
+    },
+    {
+      "id": "F-III-067",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "90–92",
+      "topic": "Choroby mięśni",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jak wykład porównuje dystrofinę w dystrofiach Duchenne’a i Beckera?",
+      "answer": "W typowym zestawieniu Duchenne’a wiąże z niemal całkowitym brakiem dystrofiny, a Beckera z jej niedoborem."
+    },
+    {
+      "id": "F-III-068",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "91",
+      "topic": "Choroby mięśni",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Na czym polega objaw Gowersa?",
+      "answer": "Podczas wstawania z podłoża osoba podpiera się rękami o własne uda i „wspina się” po nich, aby skompensować osłabienie mięśni proksymalnych."
+    },
+    {
+      "id": "F-III-069",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "91–92",
+      "topic": "Choroby mięśni",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie różnice między dystrofią Beckera i Duchenne’a podaje wykład?",
+      "answer": "W dystrofii Beckera objawy zwykle pojawiają się później, osłabienie jest mniej nasilone i zdolność chodu utrzymuje się dłużej. Przerost łydek opisano w obu."
+    },
+    {
+      "id": "F-III-070",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "93–95",
+      "topic": "Choroby mięśni",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie grupy miopatii nabytych wymieniono w wykładzie?",
+      "answer": "Zapalne, współwystępujące z chorobami ogólnoustrojowymi oraz toksyczne i polekowe. Zmiany skórne są wyróżnikiem zapalenia skórno-mięśniowego."
+    },
+    {
+      "id": "F-III-071",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "98",
+      "topic": "Rehabilitacja po udarze",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Jakie cele funkcjonalne ma rehabilitacja po udarze?",
+      "answer": "Odzyskanie możliwie dużej samodzielności w lokomocji i samoobsłudze, kontaktach z otoczeniem, podejmowaniu decyzji i aktywności społeczno-zawodowej."
+    },
+    {
+      "id": "F-III-072",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "98, 105",
+      "topic": "Rehabilitacja po udarze",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Jakie role uwzględnia zespół rehabilitacji poudarowej?",
+      "answer": "Ocena lekarska stanu pacjenta, pielęgnacja i profilaktyka powikłań, fizjoterapia oraz wsparcie m.in. logopedyczne i psychologiczne. Rodzina może uczestniczyć w terapii afazji."
+    },
+    {
+      "id": "F-III-073",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "99",
+      "topic": "Rehabilitacja po udarze",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Co odróżnia trzy grupy chorych po udarze w klasyfikacji wykładowej?",
+      "answer": "I samodzielnie siedzi i jest względnie samodzielna. II pozostaje w łóżku i wymaga pomocy przy zmianie pozycji oraz samoobsłudze. III ma zaburzenia przytomności."
+    },
+    {
+      "id": "F-III-074",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "100",
+      "topic": "Rehabilitacja po udarze",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Jakie są cele usprawniania grupy I po udarze?",
+      "answer": "Przywracanie wzorców ruchowych, pionizacja i poprawa lokomocji oraz samoobsługi z wykorzystaniem zadań funkcjonalnych."
+    },
+    {
+      "id": "F-III-075",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "101",
+      "topic": "Rehabilitacja po udarze",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Jaka progresja funkcjonalna jest opisana dla grupy II po udarze?",
+      "answer": "Odzyskiwanie samodzielnej zmiany pozycji w łóżku, potem trening siedzenia i pionizacji. Równolegle przygotowanie do samoobsługi i profilaktyka powikłań."
+    },
+    {
+      "id": "F-III-076",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "102",
+      "topic": "Rehabilitacja po udarze",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Co obejmuje usprawnianie grupy III po udarze?",
+      "answer": "Dobór ćwiczeń biernych dla utrzymania zakresu ruchów i profilaktykę przykurczów, zakrzepicy żylnej oraz odleżyn."
+    },
+    {
+      "id": "F-III-077",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "103–104",
+      "topic": "Rehabilitacja po udarze",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Co może utrudniać rehabilitację po udarze i co wspiera ją w domu?",
+      "answer": "Utrudnieniem może być ciężki stan ogólny, otępienie, afazja lub zaburzenia napędu. W domu pomaga adaptacja przestrzeni do funkcji pacjenta i bezpieczne utrwalanie odzyskanych czynności."
+    },
+    {
+      "id": "F-III-078",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "106–108",
+      "topic": "Rehabilitacja po udarze",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Co charakteryzuje hipotonię we wczesnym okresie i w fazie zwiotczenia po udarze?",
+      "answer": "Obniżone napięcie i ograniczona zdolność poruszania stroną niedowładną. W fazie zwiotczenia mogą współistnieć znaczne zaburzenia czucia."
+    },
+    {
+      "id": "F-III-079",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "107–110",
+      "topic": "Rehabilitacja po udarze",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Jakie trzy fazy zmian napięcia wyróżniono w opisie zdrowienia po udarze?",
+      "answer": "Utrzymująca się hipotonia, ewolucja w kierunku prawidłowego napięcia oraz ewolucja w kierunku hipertonii i spastyczności. Tempo zdrowienia różni się między osobami i częściami ciała."
+    },
+    {
+      "id": "F-III-080",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "109",
+      "topic": "Rehabilitacja po udarze",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "W jakiej kolejności może powracać zdolność ruchowa kończyn w fazie normalizacji napięcia?",
+      "answer": "Najpierw w odcinkach bliższych, później w dalszych. Kończyna dolna często odzyskuje ruch wcześniej niż górna."
+    },
+    {
+      "id": "F-III-081",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "110–111",
+      "topic": "Rehabilitacja po udarze",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Co odróżnia opisaną ataksję od spastyczności?",
+      "answer": "Przy ataksji ruch jest niedokładny i trudny do wystopniowania, może pojawić się drżenie i dysmetria. W opisie fazy spastycznej dominuje wzrost napięcia i ruch we wzorcach skurczowych."
+    },
+    {
+      "id": "F-III-082",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "112–114",
+      "topic": "Rehabilitacja po udarze",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jak zmienia się ustawienie kończyny górnej między wzorcem skurczowym i antyskurczowym wykładu?",
+      "answer": "W skurczowym ramię obraca się do wewnątrz, łokieć jest zgięty, a ręka zaciśnięta. W antyskurczowym bark jest skierowany do przodu, ramię na zewnątrz, łokieć wyprostowany, a dłoń odwrócona ku górze z otwartymi palcami."
+    },
+    {
+      "id": "F-III-083",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "115",
+      "topic": "Rehabilitacja po udarze",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Co poprzedza rozpoczęcie czynnego usprawniania po udarze?",
+      "answer": "Stabilizacja stanu pacjenta. W ostrym okresie wykład podkreśla zabezpieczenie podstawowych funkcji życiowych i profilaktykę powikłań przez ułożenie i utrzymywanie zakresu ruchów."
+    },
+    {
+      "id": "F-III-084",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "116",
+      "topic": "Rehabilitacja po udarze",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Jak biegnie reedukacja ruchu według zasady proksymalno-dystalnej?",
+      "answer": "Najpierw ćwiczy się kontrolę tułowia, barku i biodra, następnie odcinków bardziej dystalnych. Precyzję ręki rozwija się przy odpowiedniej kontroli barku i łokcia."
+    },
+    {
+      "id": "F-III-085",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "116",
+      "topic": "Rehabilitacja po udarze",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Jaka jest kolejność rodzajów ćwiczeń niedowładnej kończyny według wykładu?",
+      "answer": "Ćwiczenia bierne, następnie czynno-bierne lub czynne wspomagane, potem czynne. Ćwiczenia oporowe można dołączyć po odzyskaniu zdolności utrzymania kończyny w zadanej pozycji."
+    },
+    {
+      "id": "F-III-086",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "116–117",
+      "topic": "Rehabilitacja po udarze",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jak wykład łączy zmianę pozycji, lokomocję i zadania dnia codziennego?",
+      "answer": "Stopniuje trudność od ruchów w leżeniu przez siad i stanie do chodu. Wprowadza zadania samoobsługi i regularną zmianę ułożenia w łóżku."
+    },
+    {
+      "id": "F-III-087",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "118–119",
+      "topic": "Bolesny bark po udarze",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Co oznacza ZBBH i jakie czynniki wymienia wykład?",
+      "answer": "Zespół bolesnego barku hemiplegika. W wykładzie wymieniono m.in. zmiany stożka rotatorów, spastyczność, podwichnięcie i zespół bark–ręka."
+    },
+    {
+      "id": "F-III-088",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "119",
+      "topic": "Bolesny bark po udarze",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie cztery mięśnie tworzą stożek rotatorów?",
+      "answer": "Nadgrzebieniowy, podgrzebieniowy, obły mniejszy i podłopatkowy."
+    },
+    {
+      "id": "F-III-089",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "120–121",
+      "topic": "Bolesny bark po udarze",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie objawy mogą towarzyszyć bólowi w zespole bark–ręka i odruchowej dystrofii współczulnej?",
+      "answer": "Zmiany troficzne, obrzęk, przeczulica oraz zaburzenia temperatury, ukrwienia skóry lub potliwości. W późnym opisie wykład podaje przykurcze i zaniki tkanek."
+    },
+    {
+      "id": "F-III-090",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "122",
+      "topic": "Bolesny bark po udarze",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Dlaczego wiotki bark po udarze jest narażony na urazy przy zmianie pozycji?",
+      "answer": "Naturalna aktywna stabilizacja stawu jest ograniczona. Ciągnięcie lub działanie ciężaru niepodpartej kończyny sprzyja przeciążeniom i mikrourazom."
+    },
+    {
+      "id": "F-III-091",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "123",
+      "topic": "Bolesny bark po udarze",
+      "difficulty": "hard",
+      "priority": false,
+      "question": "Jaką ewolucję ZBBH przedstawia slajd 123?",
+      "answer": "Zapalenie kaletki, potem zapalenie torebki i ścięgien, a następnie uszkodzenie stożka lub ścięgien mięśnia dwugłowego z zaburzeniem funkcji. Jest to schemat prezentacji."
+    },
+    {
+      "id": "F-III-092",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "124–127",
+      "topic": "Bolesny bark po udarze",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jaka wspólna zasada łączy pozycje leżące dla niedowładnej kończyny górnej?",
+      "answer": "Odciążenie i podparcie kończyny z właściwym ustawieniem barku. Szczegóły ustawienia ramienia, łokcia i dłoni różnią się zależnie od pozycji."
+    },
+    {
+      "id": "F-III-093",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "128",
+      "topic": "Bolesny bark po udarze",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Jak chronić niedowładną kończynę górną przy transferze według wykładu?",
+      "answer": "Podtrzymywać ją bliżej i dalej od tułowia i prowadzić płynnie. Przy przemieszczaniu wspierać pacjenta w okolicy łopatek, unikając ciągnięcia za dłoń, nadgarstek lub ramiona."
+    },
+    {
+      "id": "F-III-094",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "129–131",
+      "topic": "Bolesny bark po udarze",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie cele ma okres kompensacyjno-regeneracyjny i na co zwraca uwagę kinezyterapia barku?",
+      "answer": "Ograniczanie spastyczności i przykurczów, zachowanie siły, nauka wzorców i ruchów selektywnych oraz reedukacja funkcji barku. Wykład ostrzega przed forsowaniem ruchu biernego."
+    },
+    {
+      "id": "F-III-095",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "132–133",
+      "topic": "Bolesny bark po udarze",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Na czym opiera się działanie ćwiczeń wahadłowych Codmana w opisie wykładu?",
+      "answer": "Na wykorzystaniu grawitacji i delikatnej trakcji nieaktywnej kończyny w celu ułatwienia ruchu. Slajd 133 zawiera ilustrację ćwiczenia."
+    },
+    {
+      "id": "F-III-096",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "135",
+      "topic": "Stwardnienie rozsiane",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Jakie są główne cele kinezyterapii w SM według wykładu?",
+      "answer": "Ograniczenie spastyczności i ataksji, utrzymanie ruchomości i siły oraz profilaktyka przykurczów, zaników mięśni i powikłań unieruchomienia."
+    },
+    {
+      "id": "F-III-097",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "136",
+      "topic": "Stwardnienie rozsiane",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Jak stopniować trudność ćwiczeń w SM?",
+      "answer": "Zacząć od ruchów najłatwiejszych, stopniowo zwiększać trudność i aktualizować plan do stanu osoby. Uwzględniać mniej zajęte oraz niezajęte grupy mięśni."
+    },
+    {
+      "id": "F-III-098",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "137",
+      "topic": "Stwardnienie rozsiane",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jak dobrać intensywność i przerwy w ćwiczeniach w SM?",
+      "answer": "Dostosować obciążenie, tempo, czas serii i liczbę powtórzeń do aktualnej wydolności. Wykład zaleca powolne, dokładne wykonanie, częste przerwy i unikanie przemęczenia oraz przegrzania."
+    },
+    {
+      "id": "F-III-099",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "137",
+      "topic": "Stwardnienie rozsiane",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jak wykład odnosi opór do siły ocenianej skalą Lovetta w SM?",
+      "answer": "Dla bardzo słabych mięśni opisuje ćwiczenia bez dodatkowego oporu i ułożenie ułatwiające ruch. Przy sile ponad 3 w skali Lovetta podaje opór dostosowany do indywidualnej wydolności."
+    },
+    {
+      "id": "F-III-100",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "138",
+      "topic": "Stwardnienie rozsiane",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Jakie zadania opisano w okresie wyraźnego zaostrzenia SM?",
+      "answer": "Ograniczenie aktywności i odpoczynek, z dbałością o ułożenie kończyn, zmiany pozycji oraz ćwiczenia bierne i oddechowe. Zbyt długie unieruchomienie zwiększa ryzyko powikłań i osłabienia."
+    },
+    {
+      "id": "F-III-101",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "140–141",
+      "topic": "Rehabilitacja w chorobie Parkinsona",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Jakie objawy ruchowe choroby Parkinsona podaje wykład?",
+      "answer": "Bradykinezję, drżenie spoczynkowe, sztywność mięśniową oraz zaburzenia postawy, chodu i równowagi."
+    },
+    {
+      "id": "F-III-102",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "143–145",
+      "topic": "Rehabilitacja w chorobie Parkinsona",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Jakie są składniki planu rehabilitacji w chorobie Parkinsona?",
+      "answer": "Edukacja pacjenta i rodziny, badanie funkcjonalne, trening i regularne ćwiczenia dostosowane do aktualnego stanu."
+    },
+    {
+      "id": "F-III-103",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "146",
+      "topic": "Rehabilitacja w chorobie Parkinsona",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Co różni stadia I i II w skali Hoehna i Yahra?",
+      "answer": "Stadium I obejmuje objawy jednostronne. W stadium II objawy są obustronne, a równowaga jest zachowana."
+    },
+    {
+      "id": "F-III-104",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "146",
+      "topic": "Rehabilitacja w chorobie Parkinsona",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Co odróżnia stadium III od stadium II w skali Hoehna i Yahra?",
+      "answer": "W III pojawiają się zaburzenia odruchów postawnych i niestabilność, przy zachowanej zdolności do samodzielnego funkcjonowania według tabeli wykładu."
+    },
+    {
+      "id": "F-III-105",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "146",
+      "topic": "Rehabilitacja w chorobie Parkinsona",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Co odróżnia stadia IV i V w skali Hoehna i Yahra?",
+      "answer": "W IV osoba może jeszcze stać i chodzić, choć ma znaczne ograniczenia i potrzebuje pomocy w codziennych czynnościach. W V potrzebuje stałej pomocy i korzysta z wózka lub pozostaje w łóżku."
+    },
+    {
+      "id": "F-III-106",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "147–148",
+      "topic": "Rehabilitacja w chorobie Parkinsona",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie akcenty ćwiczeń podano odpowiednio dla stadiów I i II Parkinsona?",
+      "answer": "W I zwiększanie aktywności oraz naukę nawyków ruchowych. W II ćwiczenia zmiany pozycji ciała i kontrolę wyprostowanej sylwetki."
+    },
+    {
+      "id": "F-III-107",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "149",
+      "topic": "Rehabilitacja w chorobie Parkinsona",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Jakie zadania akcentuje wykład w III stadium choroby Parkinsona?",
+      "answer": "Profilaktykę upadków, skupienie na wykonywanym ruchu oraz pracę nad długością kroku i unoszeniem stóp w treningu chodu."
+    },
+    {
+      "id": "F-III-108",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "150–151",
+      "topic": "Rehabilitacja w chorobie Parkinsona",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jak zmieniają się priorytety rehabilitacji w IV i V stadium choroby Parkinsona?",
+      "answer": "W IV potrzebna jest asekuracja chodu lub nauka używania pomocy. W V priorytetem jest lokomocja w obrębie łóżka, profilaktyka odleżyn i zakrzepicy oraz wsparcie emocjonalne."
+    },
+    {
+      "id": "F-III-109",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "152",
+      "topic": "Rehabilitacja w chorobie Parkinsona",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Jak stopniuje się ćwiczenia w chorobie Parkinsona według wykładu?",
+      "answer": "Od pozycji niskich do wysokich, od dużych do małych stawów, z powtórzeniami, przerwami i stopniowym zwiększaniem liczby oraz czasu ćwiczeń."
+    },
+    {
+      "id": "F-III-110",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "154–155",
+      "topic": "Urazy czaszkowo-mózgowe i rdzenia",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Jak wykład odróżnia uraz czaszkowo-mózgowy otwarty i zamknięty?",
+      "answer": "Uraz otwarty tworzy połączenie wnętrza czaszki ze środowiskiem zewnętrznym. Uraz zamknięty może uszkodzić strukturę lub czynność OUN bez takiego połączenia."
+    },
+    {
+      "id": "F-III-111",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "155–157",
+      "topic": "Urazy czaszkowo-mózgowe i rdzenia",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Co zaliczono do pierwotnych, a co do wtórnych zmian po urazie czaszkowo-mózgowym?",
+      "answer": "Pierwotne to wstrząśnienie i stłuczenie, a wtórne m.in. krwawienie śródczaszkowe, obrzęk mózgu i zakażenia wewnątrzczaszkowe."
+    },
+    {
+      "id": "F-III-112",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "156",
+      "topic": "Urazy czaszkowo-mózgowe i rdzenia",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Co odróżnia wstrząśnienie od stłuczenia mózgu w opisie wykładu?",
+      "answer": "Wstrząśnienie to przejściowe zaburzenie czynności bez widocznej zmiany anatomicznej. Stłuczenie to uszkodzenie tkanki mózgowej, któremu mogą towarzyszyć objawy ogniskowe."
+    },
+    {
+      "id": "F-III-113",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "158",
+      "topic": "Urazy czaszkowo-mózgowe i rdzenia",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Jakie trzy okresy fizjoterapii po urazie czaszkowo-mózgowym wyróżnia wykład?",
+      "answer": "Wczesną rehabilitację z wyrównywaniem stanu, rehabilitację po przeniesieniu na inny oddział i dalsze usprawnianie po powrocie do domu."
+    },
+    {
+      "id": "F-III-114",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "159–160",
+      "topic": "Urazy czaszkowo-mózgowe i rdzenia",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Czym różni się etap wczesny od etapu mobilizacji czynnej po urazie mózgu?",
+      "answer": "Wczesny obejmuje m.in. prawidłowe ułożenie i zapobieganie powikłaniom oraz przykurczom. Mobilizacja czynna skupia się na samoobsłudze, lokomocji, koordynacji, równowadze i manipulacji."
+    },
+    {
+      "id": "F-III-115",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "162–163",
+      "topic": "Urazy czaszkowo-mózgowe i rdzenia",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jak poziom i rozległość uszkodzenia rdzenia przekładają się na obraz funkcjonalny?",
+      "answer": "Im wyższy poziom, tym większy jest zwykle obszar zaburzeń ruchowych, czuciowych i autonomicznych. W podziale wykładowym uszkodzenie częściowe pozostawia pewien zakres funkcji ruchowych lub czuciowych."
+    },
+    {
+      "id": "F-III-116",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "163",
+      "topic": "Urazy czaszkowo-mózgowe i rdzenia",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Co odróżnia grupę I od grup II i III w wykładowym podziale częściowych uszkodzeń rdzenia?",
+      "answer": "W I opisano porażenie ruchowe z resztkowym czuciem głębokim w stopach. W II opisano głębokie niedowłady utrudniające funkcję, a w III niedowłady mniejszego stopnia."
+    },
+    {
+      "id": "F-III-117",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "164",
+      "topic": "Urazy czaszkowo-mózgowe i rdzenia",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Jakie obszary obejmuje rehabilitacja po uszkodzeniu rdzenia w wykładzie?",
+      "answer": "Pielęgnację, profilaktykę odleżyn i zakrzepicy, zmianę pozycji, dbanie o drożność dróg oddechowych, ćwiczenia bierne i czynne oraz pionizację stosownie do stanu."
+    },
+    {
+      "id": "F-III-118",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "16",
+      "topic": "Badanie neurologiczne",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Jaki poziom odpowiada okolicy pępka według mapy dermatomów z wykładu?",
+      "answer": "T10."
+    },
+    {
+      "id": "F-III-119",
+      "kind": "card",
+      "lecture": "III",
+      "slide": "16",
+      "topic": "Badanie neurologiczne",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Jaki poziom przypisano okolicy kciuka na mapie dermatomów z wykładu?",
+      "answer": "C6."
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "Q-III-001",
+      "kind": "quiz",
+      "lecture": "III",
+      "slide": "2",
+      "topic": "Rehabilitacja i neuroplastyczność",
+      "difficulty": "basic",
+      "priority": true,
+      "qtype": "single",
+      "question": "Który cel najlepiej oddaje definicję rehabilitacji neurologicznej z wykładu?",
+      "options": [
+        "Możliwie największa samodzielność i udział w życiu społecznym",
+        "Odtworzenie siły jednego mięśnia jako wyłączny cel",
+        "Utrzymanie dotychczasowego poziomu zależności",
+        "Wyłącznie kompensacja przez sprzęt ortopedyczny"
+      ],
+      "correct": 0,
+      "why": "Wykład łączy usprawnianie z samodzielnością i uczestnictwem. Siła lub sprzęt mogą być środkami do tego celu."
+    },
+    {
+      "id": "Q-III-002",
+      "kind": "quiz",
+      "lecture": "III",
+      "slide": "5",
+      "topic": "Rehabilitacja i neuroplastyczność",
+      "difficulty": "basic",
+      "priority": false,
+      "qtype": "tf",
+      "question": "Plastyczność w ujęciu Konorskiego wiąże się z trwałą zmianą funkcjonowania układu neuronów pod wpływem bodźców.",
+      "options": [],
+      "correct": true,
+      "why": "Pobudliwość dotyczy odpowiedzi na impuls, a plastyczność trwałego przekształcenia funkcjonalnego."
+    },
+    {
+      "id": "Q-III-003",
+      "kind": "quiz",
+      "lecture": "III",
+      "slide": "7",
+      "topic": "Rehabilitacja i neuroplastyczność",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "order",
+      "question": "Ułóż okresy życia mózgu w kolejności podanej w wykładzie.",
+      "options": [
+        "Rozwój prenatalny",
+        "Plastyczność rozwojowa",
+        "Dojrzałość i starość"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ],
+      "why": "Po okresie prenatalnym wykład wyróżnia okres plastyczności rozwojowej, a następnie dojrzałość i starość mózgu."
+    },
+    {
+      "id": "Q-III-004",
+      "kind": "quiz",
+      "lecture": "III",
+      "slide": "8",
+      "topic": "Rehabilitacja i neuroplastyczność",
+      "difficulty": "basic",
+      "priority": true,
+      "qtype": "single",
+      "question": "Która forma plastyczności odpowiada procesom naprawczym po uszkodzeniu układu nerwowego?",
+      "options": [
+        "Pamięciowa",
+        "Rozwojowa",
+        "Kompensacyjna",
+        "Pobudliwość"
+      ],
+      "correct": 2,
+      "why": "Uczenie się wiąże się z plastycznością pamięciową, stymulacja sensoryczna z rozwojową, a odpowiedź na uszkodzenie z kompensacyjną."
+    },
+    {
+      "id": "Q-III-005",
+      "kind": "quiz",
+      "lecture": "III",
+      "slide": "10–13",
+      "topic": "Badanie neurologiczne",
+      "difficulty": "basic",
+      "priority": false,
+      "qtype": "multi",
+      "question": "Co należy do badania przedmiotowego pacjenta neurologicznego według wykładu?",
+      "options": [
+        "Ocena symetrii i ustawienia ciała",
+        "Wywiad o przebytych operacjach",
+        "Badanie funkcji chwytnej",
+        "Ocena ruchomości tułowia"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ],
+      "why": "Wywiad o operacjach należy do badania podmiotowego. Pozostałe elementy ocenia się w badaniu przedmiotowym."
+    },
+    {
+      "id": "Q-III-006",
+      "kind": "quiz",
+      "lecture": "III",
+      "slide": "11",
+      "topic": "Badanie neurologiczne",
+      "difficulty": "basic",
+      "priority": false,
+      "qtype": "single",
+      "question": "Co charakteryzuje skalę VAS w opisie wykładu?",
+      "options": [
+        "Ocena skurczu mięśnia",
+        "Wybór liczby między 0 a 5",
+        "Porównanie reakcji na dwa bodźce",
+        "Zaznaczenie punktu na linii długości 10 cm"
+      ],
+      "correct": 3,
+      "why": "W VAS pacjent wskazuje nasilenie dolegliwości na linii. W NRS wybiera liczbę."
+    },
+    {
+      "id": "Q-III-007",
+      "kind": "quiz",
+      "lecture": "III",
+      "slide": "14–15",
+      "topic": "Badanie neurologiczne",
+      "difficulty": "basic",
+      "priority": true,
+      "qtype": "single",
+      "question": "Jakiego pojęcia używa wykład na określenie obszaru skóry związanego z jednym nerwem rdzeniowym?",
+      "options": [
+        "Miotom",
+        "Dermatom",
+        "Sklerotom",
+        "Pleksopatia"
+      ],
+      "correct": 1,
+      "why": "Dermatom odnosi się do skóry, miotom do mięśni, a sklerotom do struktur kostnych, stawowych i więzadłowych."
+    },
+    {
+      "id": "Q-III-008",
+      "kind": "quiz",
+      "lecture": "III",
+      "slide": "19",
+      "topic": "Badanie neurologiczne",
+      "difficulty": "basic",
+      "priority": true,
+      "qtype": "order",
+      "question": "Ułóż opisy siły mięśniowej od stopnia niższego do wyższego w tabeli Lovetta z wykładu.",
+      "options": [
+        "Brak skurczu",
+        "Śladowy skurcz",
+        "Pełny ruch bez dołożonego oporu",
+        "Pełny ruch z niewielkim oporem"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "why": "Podane opisy odpowiadają kolejno stopniom 0, 1, 3 i 4."
+    },
+    {
+      "id": "Q-III-009",
+      "kind": "quiz",
+      "lecture": "III",
+      "slide": "19",
+      "topic": "Badanie neurologiczne",
+      "difficulty": "basic",
+      "priority": true,
+      "qtype": "single",
+      "question": "W tabeli wykładu pacjent wykonuje pełny ruch, także przy niewielkim oporze zewnętrznym. Który to stopień Lovetta?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correct": 3,
+      "why": "Pełny ruch z niewielkim oporem odpowiada stopniowi 4. W stopniu 3 pacjent wykonuje pełny ruch bez dodatkowego oporu."
+    },
+    {
+      "id": "Q-III-010",
+      "kind": "quiz",
+      "lecture": "III",
+      "slide": "20",
+      "topic": "Badanie neurologiczne",
+      "difficulty": "basic",
+      "priority": false,
+      "qtype": "multi",
+      "question": "Które warunki wykład uwzględnia przy badaniu równowagi w staniu?",
+      "options": [
+        "Podparcie na jednej nodze",
+        "Wyłącznie podparcie na rękach",
+        "Oczy otwarte i zamknięte",
+        "Podparcie na obu nogach"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ],
+      "why": "Badanie różnicuje warunki podparcia i dostępność kontroli wzrokowej."
+    },
+    {
+      "id": "Q-III-011",
+      "kind": "quiz",
+      "lecture": "III",
+      "slide": "23–28",
+      "topic": "Badanie neurologiczne",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "single",
+      "question": "Które zestawienie metody i ocenianej czynności jest prawidłowe?",
+      "options": [
+        "EEG — przepływ w tętnicach szyjnych",
+        "EEG — aktywność elektryczna mózgu",
+        "USG dupleksowe — aktywność elektryczna mięśni",
+        "EMG — morfologia naczyń"
+      ],
+      "correct": 1,
+      "why": "EEG rejestruje aktywność mózgu. USG dupleksowe łączy obraz naczynia z oceną przepływu, a EMG dotyczy mięśni."
+    },
+    {
+      "id": "Q-III-012",
+      "kind": "quiz",
+      "lecture": "III",
+      "slide": "30–31",
+      "topic": "Zespoły i objawy neurologiczne",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "single",
+      "question": "Która cecha w zestawieniu wykładowym jest najbliższa zaburzeniu złącza nerwowo-mięśniowego?",
+      "options": [
+        "Powolne ruchy wijące palców",
+        "Parestezje ograniczone do dermatomu",
+        "Niedowład nasilający się pod wpływem wysiłku",
+        "Przemijająca utrata przytomności"
+      ],
+      "correct": 2,
+      "why": "W prezentacji cechą zajęcia złącza jest męczliwość, przy zachowanych odruchach głębokich w opisie tego zespołu."
+    },
+    {
+      "id": "Q-III-013",
+      "kind": "quiz",
+      "lecture": "III",
+      "slide": "33",
+      "topic": "Zespoły i objawy neurologiczne",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "order",
+      "question": "Uporządkuj stany od płytszych do głębszych zaburzeń przytomności według wykładu.",
+      "options": [
+        "Senność patologiczna",
+        "Półśpiączka",
+        "Śpiączka"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ],
+      "why": "W półśpiączce pozostaje reaktywność na silne bodźce. Śpiączka oznacza najgłębszy stan w tym podziale."
+    },
+    {
+      "id": "Q-III-014",
+      "kind": "quiz",
+      "lecture": "III",
+      "slide": "35–36",
+      "topic": "Zespoły i objawy neurologiczne",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "tf",
+      "question": "Krótkie ruchy drgawkowe mogą występować również w przebiegu omdlenia.",
+      "options": [],
+      "correct": true,
+      "why": "Wykład wymienia taką możliwość przy znacznym niedotlenieniu związanym z omdleniem. W zestawieniu różnicowym liczy się też przebieg całego zdarzenia."
+    },
+    {
+      "id": "Q-III-015",
+      "kind": "quiz",
+      "lecture": "III",
+      "slide": "38, 105",
+      "topic": "Zespoły i objawy neurologiczne",
+      "difficulty": "basic",
+      "priority": true,
+      "qtype": "single",
+      "question": "Pacjent rozumie polecenia i układa wypowiedź logicznie, ale artykulacja jest niewyraźna. Które pojęcie odpowiada opisanemu mechanizmowi?",
+      "options": [
+        "Dyzartria",
+        "Afazja czuciowa",
+        "Afazja ruchowa",
+        "Otępienie"
+      ],
+      "correct": 0,
+      "why": "Dyzartria dotyczy aparatu wykonawczego mowy, choć językowe rozumienie i formułowanie wypowiedzi mogą być zachowane."
+    },
+    {
+      "id": "Q-III-016",
+      "kind": "quiz",
+      "lecture": "III",
+      "slide": "41",
+      "topic": "Zespoły i objawy neurologiczne",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "multi",
+      "question": "Które objawy mogą należeć do obrazu SLA przedstawionego na slajdzie?",
+      "options": [
+        "Spastyczność",
+        "Zanik mięśni",
+        "Fascykulacje",
+        "Izolowany szum uszny"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ],
+      "why": "W SLA mogą współistnieć objawy dolnego neuronu ruchowego, np. zanik i fascykulacje, oraz górnego, np. spastyczność."
+    },
+    {
+      "id": "Q-III-017",
+      "kind": "quiz",
+      "lecture": "III",
+      "slide": "44",
+      "topic": "Udar mózgu i otępienia",
+      "difficulty": "basic",
+      "priority": true,
+      "qtype": "single",
+      "question": "Który podział dotyczy dwóch głównych typów udaru według etiologii?",
+      "options": [
+        "Obwodowy i ośrodkowy",
+        "Przejściowy i utrwalony",
+        "Niedokrwienny i krwotoczny",
+        "Aksonalny i demielinizacyjny"
+      ],
+      "correct": 2,
+      "why": "To podstawowy podział etiologiczny na slajdzie 44."
+    },
+    {
+      "id": "Q-III-018",
+      "kind": "quiz",
+      "lecture": "III",
+      "slide": "45",
+      "topic": "Udar mózgu i otępienia",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "multi",
+      "question": "Które pozycje w wykładzie należą do udarów krwotocznych?",
+      "options": [
+        "Krwawienie podpajęczynówkowe",
+        "Udar związany z chorobą małych naczyń",
+        "Krwawienie śródmózgowe",
+        "Udar zatorowy"
+      ],
+      "correct": [
+        0,
+        2
+      ],
+      "why": "Do udarów niedokrwiennych slajd zalicza mechanizm zatorowy oraz chorobę małych naczyń."
+    },
+    {
+      "id": "Q-III-019",
+      "kind": "quiz",
+      "lecture": "III",
+      "slide": "51–52",
+      "topic": "Udar mózgu i otępienia",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "single",
+      "question": "Która para cech jest charakterystyczna dla otępienia z ciałami Lewy’ego w opisie wykładu?",
+      "options": [
+        "Epizody udaru i skokowy spadek funkcji",
+        "Fluktuacje poznawcze i omamy wzrokowe",
+        "Fascykulacje i zanik mięśni",
+        "Ból korzeniowy i niedowład wiotki"
+      ],
+      "correct": 1,
+      "why": "Wykład wiąże fluktuacje i omamy wzrokowe z otępieniem z ciałami Lewy’ego, a udary ze skokowym pogorszeniem typowym dla otępienia naczyniopochodnego."
+    },
+    {
+      "id": "Q-III-020",
+      "kind": "quiz",
+      "lecture": "III",
+      "slide": "56–57",
+      "topic": "Choroby pozapiramidowe",
+      "difficulty": "basic",
+      "priority": false,
+      "qtype": "single",
+      "question": "Jak nazywa się drobne pismo wymienione w obrazie choroby Parkinsona?",
+      "options": [
+        "Dysmetria",
+        "Dysfonia",
+        "Atetoza",
+        "Mikrografia"
+      ],
+      "correct": 3,
+      "why": "Mikrografia to charakterystyczna zmiana wielkości pisma."
+    },
+    {
+      "id": "Q-III-021",
+      "kind": "quiz",
+      "lecture": "III",
+      "slide": "58",
+      "topic": "Choroby pozapiramidowe",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "tf",
+      "question": "W parkinsonizmie miażdżycowym według wykładu obraz zdominowany jest przez drżenie spoczynkowe rąk.",
+      "options": [],
+      "correct": false,
+      "why": "W tym opisie dominują sztywność i bradykinezja głównie nóg, a drżenie spoczynkowe występuje rzadko."
+    },
+    {
+      "id": "Q-III-022",
+      "kind": "quiz",
+      "lecture": "III",
+      "slide": "59–64",
+      "topic": "Choroby pozapiramidowe",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "single",
+      "question": "Które schorzenie wiąże się z odkładaniem miedzi w wątrobie, jądrach podstawy i rogówce?",
+      "options": [
+        "Choroba Wilsona",
+        "Choroba Huntingtona",
+        "Idiopatyczna choroba Parkinsona",
+        "Zespół post-polio"
+      ],
+      "correct": 0,
+      "why": "Zaburzenie usuwania miedzi i jej odkładanie opisano przy chorobie Wilsona."
+    },
+    {
+      "id": "Q-III-023",
+      "kind": "quiz",
+      "lecture": "III",
+      "slide": "66",
+      "topic": "Mózgowe porażenie dziecięce",
+      "difficulty": "basic",
+      "priority": true,
+      "qtype": "tf",
+      "question": "W definicji MPD omawianej w wykładzie uszkodzenie OUN jest niepostępujące, choć objawy i następstwa mogą zmieniać się z wiekiem.",
+      "options": [],
+      "correct": true,
+      "why": "Zmiana obrazu funkcjonalnego jest możliwa przy niepostępującym uszkodzeniu rozwijającego się OUN."
+    },
+    {
+      "id": "Q-III-024",
+      "kind": "quiz",
+      "lecture": "III",
+      "slide": "68",
+      "topic": "Mózgowe porażenie dziecięce",
+      "difficulty": "basic",
+      "priority": true,
+      "qtype": "single",
+      "question": "Która cecha należy do definicji spastyczności przedstawionej w wykładzie?",
+      "options": [
+        "Osłabienie odpowiedzi na szybkie rozciąganie",
+        "Nasilanie niedowładu wyłącznie po wysiłku",
+        "Wzmożenie odruchu zależne od szybkości rozciągania",
+        "Niezależność odpowiedzi od szybkości ruchu"
+      ],
+      "correct": 2,
+      "why": "W definicji spastyczności istotne jest wzmożenie odruchu na rozciąganie zależne od prędkości."
+    },
+    {
+      "id": "Q-III-025",
+      "kind": "quiz",
+      "lecture": "III",
+      "slide": "69–74",
+      "topic": "Mózgowe porażenie dziecięce",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "single",
+      "question": "Jaka postać MPD odpowiada obustronnym objawom spastycznym zdecydowanie silniejszym w nogach niż w rękach?",
+      "options": [
+        "Hemiplegię",
+        "Diplegię",
+        "Miopatię",
+        "Mononeuropatię"
+      ],
+      "correct": 1,
+      "why": "Diplegia może obejmować wszystkie kończyny, przy dominującym zajęciu dolnych."
+    },
+    {
+      "id": "Q-III-026",
+      "kind": "quiz",
+      "lecture": "III",
+      "slide": "73–74",
+      "topic": "Mózgowe porażenie dziecięce",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "multi",
+      "question": "Które trudności omawia slajd w kontekście porażenia czterokończynowego w MPD?",
+      "options": [
+        "Słaba kontrola głowy i tułowia",
+        "Niestabilność bioder",
+        "Zmiana wyłącznie ustawienia jednego palca",
+        "Zaburzenia odruchów postawy i równowagi"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ],
+      "why": "Rozkład objawów w tej postaci obejmuje wiele części ciała oraz problemy z kontrolą posturalną."
+    },
+    {
+      "id": "Q-III-027",
+      "kind": "quiz",
+      "lecture": "III",
+      "slide": "76",
+      "topic": "Przepuklina oponowo-rdzeniowa",
+      "difficulty": "basic",
+      "priority": false,
+      "qtype": "single",
+      "question": "Co uwypukla się przez ubytek łuków kręgowych w przepuklinie oponowo-rdzeniowej?",
+      "options": [
+        "Wyłącznie krążek międzykręgowy",
+        "Rdzeń i jego opony",
+        "Naczynia szyjne",
+        "Jedynie trzon kręgu"
+      ],
+      "correct": 1,
+      "why": "W przedstawionym opisie wada rozwojowa obejmuje uwypuklenie rdzenia i opon przez ubytek kostny."
+    },
+    {
+      "id": "Q-III-028",
+      "kind": "quiz",
+      "lecture": "III",
+      "slide": "78–80",
+      "topic": "Przepuklina oponowo-rdzeniowa",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "single",
+      "question": "Co porządkuje grupy w klasyfikacji Sharrarda w prezentacji?",
+      "options": [
+        "Czas od operacji",
+        "Nasilenie wodogłowia",
+        "Wiek uzyskania chodu",
+        "Poziom uszkodzenia neurosegmentów i rozkład porażeń"
+      ],
+      "correct": 3,
+      "why": "Wykład opisuje sześć grup o różnym zachowaniu funkcji mięśni w zależności od poziomu uszkodzenia."
+    },
+    {
+      "id": "Q-III-029",
+      "kind": "quiz",
+      "lecture": "III",
+      "slide": "83–85",
+      "topic": "Neuropatie obwodowe",
+      "difficulty": "basic",
+      "priority": false,
+      "qtype": "single",
+      "question": "Rozpoznano zajęcie pojedynczego nerwu obwodowego. Który termin odpowiada opisowi lokalizacji?",
+      "options": [
+        "Polineuropatia",
+        "Pleksopatia",
+        "Mononeuropatia",
+        "Radikulopatia"
+      ],
+      "correct": 2,
+      "why": "Mononeuropatia obejmuje pojedynczy nerw, a pleksopatia splot i radikulopatia korzeń."
+    },
+    {
+      "id": "Q-III-030",
+      "kind": "quiz",
+      "lecture": "III",
+      "slide": "86–87",
+      "topic": "Neuropatie obwodowe",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "single",
+      "question": "Co może wyjaśnić przeoczenie urazu stopy przy dystalnej neuropatii cukrzycowej?",
+      "options": [
+        "Uporczywe osłabienie czucia bólu i temperatury",
+        "Wzmożenie czucia temperatury",
+        "Zwiększona funkcja odruchów skokowych",
+        "Wyłącznie zaburzenie mowy"
+      ],
+      "correct": 0,
+      "why": "Zmniejszone czucie ochronne sprzyja przeoczeniu urazu lub owrzodzenia."
+    },
+    {
+      "id": "Q-III-031",
+      "kind": "quiz",
+      "lecture": "III",
+      "slide": "88",
+      "topic": "Neuropatie obwodowe",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "multi",
+      "question": "Które elementy pojawiają się w opisie zespołu Guillaina–Barrégo?",
+      "options": [
+        "Postępujące otępienie jako główny objaw",
+        "Parestezje lub bóle korzeniowe",
+        "Możliwe zaburzenia autonomiczne",
+        "Narastający niedowład wiotki"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ],
+      "why": "Wykład opisuje immunologiczną polineuropatię o objawach ruchowych, czuciowych i niekiedy autonomicznych."
+    },
+    {
+      "id": "Q-III-032",
+      "kind": "quiz",
+      "lecture": "III",
+      "slide": "89–93",
+      "topic": "Choroby mięśni",
+      "difficulty": "basic",
+      "priority": false,
+      "qtype": "single",
+      "question": "W którym rozkładzie wykład opisuje osłabienie w wielu nabytych miopatiach?",
+      "options": [
+        "Jedna gałąź nerwu czuciowego",
+        "Symetryczny niedowład proksymalny",
+        "Wyłącznie jednostronny obszar skóry",
+        "Wyłącznie dystalne zaburzenie temperatury"
+      ],
+      "correct": 1,
+      "why": "Osłabienie proksymalnych grup mięśniowych po obu stronach jest typowe w omawianym zestawieniu miopatii."
+    },
+    {
+      "id": "Q-III-033",
+      "kind": "quiz",
+      "lecture": "III",
+      "slide": "91",
+      "topic": "Choroby mięśni",
+      "difficulty": "basic",
+      "priority": true,
+      "qtype": "tf",
+      "question": "Objaw Gowersa może pojawić się także w innych miopatiach o podobnym rozkładzie osłabienia jak dystrofia Duchenne’a.",
+      "options": [],
+      "correct": true,
+      "why": "Kompensacyjne podpieranie się o uda wskazuje na osłabienie proksymalne, które może mieć różne przyczyny."
+    },
+    {
+      "id": "Q-III-034",
+      "kind": "quiz",
+      "lecture": "III",
+      "slide": "93",
+      "topic": "Choroby mięśni",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "single",
+      "question": "Jaka cecha wyróżnia zapalenie skórno-mięśniowe w zestawieniu wykładu?",
+      "options": [
+        "Pierwotny brak odruchów postawnych",
+        "Wiodący deficyt czucia ochronnego",
+        "Zmiany skórne współistniejące z osłabieniem",
+        "Narastające fluktuacje poznawcze"
+      ],
+      "correct": 2,
+      "why": "Slajd opisuje m.in. rumień, a w obrazie mięśniowym zaznacza proksymalne osłabienie."
+    },
+    {
+      "id": "Q-III-035",
+      "kind": "quiz",
+      "lecture": "III",
+      "slide": "99",
+      "topic": "Rehabilitacja po udarze",
+      "difficulty": "basic",
+      "priority": true,
+      "qtype": "single",
+      "question": "Pacjent leży, samodzielnie nie obraca się z boku na bok i wymaga dużej pomocy w samoobsłudze. Do której grupy wykładowej pasuje ten opis?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "V"
+      ],
+      "correct": 1,
+      "why": "Grupa II obejmuje pacjentów leżących z dużym deficytem w zmianie pozycji i samoobsłudze. Cechą definiującą grupę III są zaburzenia przytomności."
+    },
+    {
+      "id": "Q-III-036",
+      "kind": "quiz",
+      "lecture": "III",
+      "slide": "100–102",
+      "topic": "Rehabilitacja po udarze",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "multi",
+      "question": "Jakie zadania profilaktyczne wymieniono przy grupach II i III po udarze?",
+      "options": [
+        "Profilaktyka odleżyn",
+        "Profilaktyka zakrzepicy żylnej",
+        "Przygotowanie do ćwiczeń sportowych",
+        "Zapobieganie przykurczom"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ],
+      "why": "U obu grup wymieniono profilaktykę powikłań ograniczonej mobilności."
+    },
+    {
+      "id": "Q-III-037",
+      "kind": "quiz",
+      "lecture": "III",
+      "slide": "101",
+      "topic": "Rehabilitacja po udarze",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "order",
+      "question": "Ułóż cele funkcjonalne grupy II po udarze według slajdu.",
+      "options": [
+        "Samodzielna zmiana ułożenia w łóżku",
+        "Trening siadu",
+        "Pionizacja"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ],
+      "why": "Najpierw celem jest samodzielne przemieszczanie się w obrębie łóżka, potem siad i pionizacja."
+    },
+    {
+      "id": "Q-III-038",
+      "kind": "quiz",
+      "lecture": "III",
+      "slide": "107–110",
+      "topic": "Rehabilitacja po udarze",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "order",
+      "question": "Ułóż fazy zmian napięcia opisane w wykładzie po udarze.",
+      "options": [
+        "Utrzymywanie się hipotonii",
+        "Ewolucja w kierunku prawidłowego napięcia",
+        "Ewolucja w kierunku hipertonii"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ],
+      "why": "Wykład opisuje ten porządek jako schemat. Tempo i zakres zmian różnią się między pacjentami oraz częściami ciała."
+    },
+    {
+      "id": "Q-III-039",
+      "kind": "quiz",
+      "lecture": "III",
+      "slide": "107",
+      "topic": "Rehabilitacja po udarze",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "tf",
+      "question": "Według wykładu poszczególne części ciała mogą w tym samym czasie znajdować się w różnych fazach zdrowienia.",
+      "options": [],
+      "correct": true,
+      "why": "Wykład podkreśla też indywidualne różnice w długości faz bez ostrych granic czasowych."
+    },
+    {
+      "id": "Q-III-040",
+      "kind": "quiz",
+      "lecture": "III",
+      "slide": "112–114",
+      "topic": "Rehabilitacja po udarze",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "single",
+      "question": "Które ustawienie kończyny górnej odpowiada wykładowemu wzorcowi antyskurczowemu?",
+      "options": [
+        "Ramię do wewnątrz i łokieć zgięty",
+        "Bark cofnięty i pięść zaciśnięta",
+        "Ramię na zewnątrz i łokieć wyprostowany",
+        "Pronacja przedramienia i przywiedzenie kciuka"
+      ],
+      "correct": 2,
+      "why": "Źródło zestawia pozycję odwrotną do typowej synergii zgięciowej kończyny górnej."
+    },
+    {
+      "id": "Q-III-041",
+      "kind": "quiz",
+      "lecture": "III",
+      "slide": "115",
+      "topic": "Rehabilitacja po udarze",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "single",
+      "question": "Co według slajdu pozwala przejść do czynnego usprawniania po udarze?",
+      "options": [
+        "Osiągnięcie z góry ustalonej liczby dni",
+        "Wystąpienie hipertonii",
+        "Samo ustąpienie bólu barku",
+        "Stabilny stan pacjenta"
+      ],
+      "correct": 3,
+      "why": "W ostrym okresie pierwszeństwo mają podstawowe funkcje życiowe i profilaktyka powikłań. Aktywną część programu uzależniono od stabilizacji."
+    },
+    {
+      "id": "Q-III-042",
+      "kind": "quiz",
+      "lecture": "III",
+      "slide": "116",
+      "topic": "Rehabilitacja po udarze",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "order",
+      "question": "Ułóż postęp ćwiczeń niedowładnej kończyny po udarze. Ostatni krok wymaga odzyskania wystarczającej kontroli.",
+      "options": [
+        "Bierne",
+        "Czynno-bierne lub czynne wspomagane",
+        "Czynne",
+        "Oporowe"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "why": "Wykład przewiduje ćwiczenia oporowe po przywróceniu kontroli wystarczającej do ustawienia i utrzymania pozycji kończyny."
+    },
+    {
+      "id": "Q-III-043",
+      "kind": "quiz",
+      "lecture": "III",
+      "slide": "116",
+      "topic": "Rehabilitacja po udarze",
+      "difficulty": "basic",
+      "priority": true,
+      "qtype": "tf",
+      "question": "Wykład opisuje odzyskiwanie kontroli po udarze od tułowia, barku i biodra ku odcinkom dystalnym.",
+      "options": [],
+      "correct": true,
+      "why": "Trening motoryki precyzyjnej ręki jest powiązany z kontrolą barku i łokcia."
+    },
+    {
+      "id": "Q-III-044",
+      "kind": "quiz",
+      "lecture": "III",
+      "slide": "119",
+      "topic": "Bolesny bark po udarze",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "multi",
+      "question": "Które mięśnie należą do stożka rotatorów według wykładu?",
+      "options": [
+        "Obły mniejszy",
+        "Nadgrzebieniowy",
+        "Podłopatkowy",
+        "Obły większy"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ],
+      "why": "Stożek tworzą mięśnie nadgrzebieniowy, podgrzebieniowy, podłopatkowy i obły mniejszy."
+    },
+    {
+      "id": "Q-III-045",
+      "kind": "quiz",
+      "lecture": "III",
+      "slide": "120–121",
+      "topic": "Bolesny bark po udarze",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "multi",
+      "question": "Które objawy mogą towarzyszyć bólowi w odruchowej dystrofii współczulnej?",
+      "options": [
+        "Przeczulica",
+        "Zaburzenia rozumienia mowy",
+        "Obrzęk",
+        "Zmiana temperatury lub potliwości skóry"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ],
+      "why": "Wykład łączy ból ze zmianami czuciowymi, troficznymi i autonomicznymi w okolicy zajętej kończyny."
+    },
+    {
+      "id": "Q-III-046",
+      "kind": "quiz",
+      "lecture": "III",
+      "slide": "122, 128",
+      "topic": "Bolesny bark po udarze",
+      "difficulty": "basic",
+      "priority": true,
+      "qtype": "single",
+      "question": "Które działanie przy zmianie pozycji ogranicza ryzyko mikrourazu wiotkiego barku według wykładu?",
+      "options": [
+        "Podparcie kończyny w odcinku bliższym i dalszym",
+        "Pociągnięcie za nadgarstek",
+        "Przeniesienie ciała przez uniesienie za ramię",
+        "Pozostawienie kończyny bez podparcia"
+      ],
+      "correct": 0,
+      "why": "Podparcie i płynne prowadzenie zmniejszają ryzyko pociągania za wiotką kończynę."
+    },
+    {
+      "id": "Q-III-047",
+      "kind": "quiz",
+      "lecture": "III",
+      "slide": "124–128",
+      "topic": "Bolesny bark po udarze",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "tf",
+      "question": "Podparcie niedowładnej kończyny jest istotne wyłącznie podczas leżenia.",
+      "options": [],
+      "correct": false,
+      "why": "Wykład wskazuje też znaczenie podparcia w siadzie, staniu i przy zmianie pozycji."
+    },
+    {
+      "id": "Q-III-048",
+      "kind": "quiz",
+      "lecture": "III",
+      "slide": "132–133",
+      "topic": "Bolesny bark po udarze",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "single",
+      "question": "Jaką siłę wykorzystują ćwiczenia wahadłowe Codmana w opisie wykładu?",
+      "options": [
+        "Stały dodatkowy opór",
+        "Ucisk osiowy",
+        "Grawitację",
+        "Siłę skurczu mięśni rotatorów jako główny napęd"
+      ],
+      "correct": 2,
+      "why": "Ciężar rozluźnionej kończyny pozwala wykorzystać delikatną trakcję."
+    },
+    {
+      "id": "Q-III-049",
+      "kind": "quiz",
+      "lecture": "III",
+      "slide": "135",
+      "topic": "Stwardnienie rozsiane",
+      "difficulty": "basic",
+      "priority": true,
+      "qtype": "multi",
+      "question": "Jakie cele podano dla fizjoterapii w stwardnieniu rozsianym?",
+      "options": [
+        "Celowe ograniczenie ruchomości stawów",
+        "Przeciwdziałanie przykurczom",
+        "Profilaktyka powikłań unieruchomienia",
+        "Zmniejszanie spastyczności i ataksji"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ],
+      "why": "Wykład podkreśla utrzymanie ruchomości oraz ograniczenie skutków osłabienia i ograniczonej mobilności."
+    },
+    {
+      "id": "Q-III-050",
+      "kind": "quiz",
+      "lecture": "III",
+      "slide": "136–137",
+      "topic": "Stwardnienie rozsiane",
+      "difficulty": "basic",
+      "priority": true,
+      "qtype": "single",
+      "question": "Który sposób dozowania odpowiada zasadom ćwiczeń przy SM w wykładzie?",
+      "options": [
+        "Jedno identyczne obciążenie dla wszystkich",
+        "Stopniowanie trudności i częste przerwy",
+        "Wydłużanie serii aż do wyczerpania",
+        "Wyłącznie ćwiczenia maksymalnie oporowe"
+      ],
+      "correct": 1,
+      "why": "Plan ma zależeć od aktualnej wydolności, siły i męczliwości, z unikaniem przemęczenia i przegrzania."
+    },
+    {
+      "id": "Q-III-051",
+      "kind": "quiz",
+      "lecture": "III",
+      "slide": "137",
+      "topic": "Stwardnienie rozsiane",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "tf",
+      "question": "Przy bardzo słabych mięśniach wykład zaleca wykonywanie ruchu z dużym oporem.",
+      "options": [],
+      "correct": false,
+      "why": "W tej sytuacji podano ułożenie ułatwiające ruch. Przy większej sile slajd dopuszcza indywidualnie dobrany opór."
+    },
+    {
+      "id": "Q-III-052",
+      "kind": "quiz",
+      "lecture": "III",
+      "slide": "138",
+      "topic": "Stwardnienie rozsiane",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "multi",
+      "question": "Które zadania wymieniono w okresie wyraźnego zaostrzenia SM?",
+      "options": [
+        "Ćwiczenia bierne",
+        "Ćwiczenia oddechowe",
+        "Zmiany ułożenia",
+        "Zwiększanie intensywności do zmęczenia"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ],
+      "why": "W okresie ograniczonej aktywności zadania profilaktyczne pomagają utrzymać ruchomość i zmniejszyć ryzyko powikłań."
+    },
+    {
+      "id": "Q-III-053",
+      "kind": "quiz",
+      "lecture": "III",
+      "slide": "140–141",
+      "topic": "Rehabilitacja w chorobie Parkinsona",
+      "difficulty": "basic",
+      "priority": false,
+      "qtype": "multi",
+      "question": "Które objawy ruchowe wymieniono przy chorobie Parkinsona?",
+      "options": [
+        "Sztywność mięśniowa",
+        "Bradykinezja",
+        "Drżenie spoczynkowe",
+        "Porażenie wiotkie wszystkich kończyn"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ],
+      "why": "Do obrazu należą także trudności z utrzymaniem postawy, równowagą i chodem."
+    },
+    {
+      "id": "Q-III-054",
+      "kind": "quiz",
+      "lecture": "III",
+      "slide": "146",
+      "topic": "Rehabilitacja w chorobie Parkinsona",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "order",
+      "question": "Ułóż cechy w kolejności od najwcześniejszego stadium Hoehna i Yahra.",
+      "options": [
+        "Objawy jednostronne",
+        "Obustronność bez zaburzeń równowagi",
+        "Pierwsze zaburzenia odruchów postawnych",
+        "Znaczna niesprawność przy możliwym staniu i chodzeniu",
+        "Wózek lub łóżko i stała pomoc"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "why": "Opis odpowiada kolejno stadiom I, II, III, IV i V."
+    },
+    {
+      "id": "Q-III-055",
+      "kind": "quiz",
+      "lecture": "III",
+      "slide": "146, 149",
+      "topic": "Rehabilitacja w chorobie Parkinsona",
+      "difficulty": "basic",
+      "priority": true,
+      "qtype": "single",
+      "question": "W którym stadium po raz pierwszy pojawiają się zaburzenia odruchów postawnych według tabeli Hoehna i Yahra?",
+      "options": [
+        "I",
+        "II",
+        "III",
+        "V"
+      ],
+      "correct": 2,
+      "why": "W stadium II objawy stają się obustronne przy zachowanej równowadze. W III pojawiają się zaburzenia odruchów postawnych."
+    },
+    {
+      "id": "Q-III-056",
+      "kind": "quiz",
+      "lecture": "III",
+      "slide": "150–151",
+      "topic": "Rehabilitacja w chorobie Parkinsona",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "single",
+      "question": "Które zadania przypisano w wykładzie V stadium choroby Parkinsona?",
+      "options": [
+        "Nauka biegania i trening wyłącznie w staniu",
+        "Trening tylko ręki dominującej",
+        "Zwiększanie aktywności bez wsparcia",
+        "Mobilność w obrębie łóżka i profilaktyka powikłań unieruchomienia"
+      ],
+      "correct": 3,
+      "why": "V stadium wymaga stałej pomocy. Wykład dodaje profilaktykę przeciwodleżynową, przeciwzakrzepową i wsparcie emocjonalne."
+    },
+    {
+      "id": "Q-III-057",
+      "kind": "quiz",
+      "lecture": "III",
+      "slide": "152",
+      "topic": "Rehabilitacja w chorobie Parkinsona",
+      "difficulty": "basic",
+      "priority": false,
+      "qtype": "tf",
+      "question": "Wykład stopniuje ćwiczenia od pozycji niskich do wysokich i od dużych do małych stawów.",
+      "options": [],
+      "correct": true,
+      "why": "Program uwzględnia też powtórzenia, przerwy i stopniowe wydłużanie ćwiczeń."
+    },
+    {
+      "id": "Q-III-058",
+      "kind": "quiz",
+      "lecture": "III",
+      "slide": "155–157",
+      "topic": "Urazy czaszkowo-mózgowe i rdzenia",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "multi",
+      "question": "Które zmiany zaliczono w wykładzie do wtórnych następstw urazu czaszkowo-mózgowego?",
+      "options": [
+        "Wstrząśnienie mózgu",
+        "Obrzęk mózgu",
+        "Krwawienie śródczaszkowe",
+        "Pourazowe zakażenie wewnątrzczaszkowe"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ],
+      "why": "W tym podziale wstrząśnienie i stłuczenie są zmianami pierwotnymi."
+    },
+    {
+      "id": "Q-III-059",
+      "kind": "quiz",
+      "lecture": "III",
+      "slide": "158",
+      "topic": "Urazy czaszkowo-mózgowe i rdzenia",
+      "difficulty": "basic",
+      "priority": false,
+      "qtype": "order",
+      "question": "Ułóż okresy usprawniania po urazie czaszkowo-mózgowym według slajdu 158.",
+      "options": [
+        "Wczesna rehabilitacja i wyrównanie stanu",
+        "Rehabilitacja po przeniesieniu na inny oddział",
+        "Dalsze usprawnianie w domu"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ],
+      "why": "Wykład definiuje najpierw okres wczesny, następnie dalszą rehabilitację w placówce, potem usprawnianie domowe."
+    },
+    {
+      "id": "Q-III-060",
+      "kind": "quiz",
+      "lecture": "III",
+      "slide": "159–160",
+      "topic": "Urazy czaszkowo-mózgowe i rdzenia",
+      "difficulty": "basic",
+      "priority": true,
+      "qtype": "single",
+      "question": "Który zestaw zadań odpowiada etapowi mobilizacji czynnej po urazie mózgu?",
+      "options": [
+        "Samoobsługa, lokomocja, równowaga i zadania manipulacyjne",
+        "Wyłącznie prawidłowe ułożenie kończyn",
+        "Ocena drożności dróg oddechowych jako jedyne zadanie",
+        "Głównie zapobieganie przykurczom przy braku czynnego ruchu"
+      ],
+      "correct": 0,
+      "why": "Podczas mobilizacji czynnej nacisk przechodzi na trening funkcji i samodzielności."
+    },
+    {
+      "id": "Q-III-061",
+      "kind": "quiz",
+      "lecture": "III",
+      "slide": "163–164",
+      "topic": "Urazy czaszkowo-mózgowe i rdzenia",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "multi",
+      "question": "Które cele omawia slajd o rehabilitacji po uszkodzeniu rdzenia?",
+      "options": [
+        "Utrzymywanie pacjenta stale w jednej pozycji",
+        "Drożność dróg oddechowych",
+        "Zachowanie ruchomości stawów",
+        "Profilaktyka odleżyn i zakrzepicy"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ],
+      "why": "Zmiany pozycji oraz ćwiczenia są elementami profilaktyki i usprawniania."
+    }
+  ],
+  "opens": [
+    {
+      "id": "O-III-001",
+      "kind": "open",
+      "lecture": "III",
+      "slide": "2, 5–8",
+      "topic": "Rehabilitacja i neuroplastyczność",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Wyjaśnij, jak plastyczność układu nerwowego wiąże się z celem rehabilitacji neurologicznej.",
+      "answer": "Bodźce mogą utrwalać zmiany funkcjonowania i połączeń neuronalnych. Plastyczność pamięciowa wspiera uczenie się, rozwojowa wiąże się z bodźcami sensorycznymi, a kompensacyjna z odpowiedzią na uszkodzenie. W rehabilitacji wykorzystuje się te możliwości, by odzyskiwać funkcje i poprawiać samodzielność.",
+      "mandatory": [
+        "Trwałe zmiany funkcjonalne",
+        "Plastyczność kompensacyjna",
+        "Odzyskiwanie funkcji i samodzielności"
+      ],
+      "pitfall": "Plastyczność obejmuje zmiany funkcji i połączeń. Odpowiedź warto powiązać z konkretnym celem rehabilitacji."
+    },
+    {
+      "id": "O-III-002",
+      "kind": "open",
+      "lecture": "III",
+      "slide": "10–20",
+      "topic": "Badanie neurologiczne",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jak uporządkować badanie fizjoterapeutyczne osoby z chorobą neurologiczną według wykładu?",
+      "answer": "Zebrać wywiad o rozpoznaniu, stanie ogólnym, przebytym leczeniu i dolegliwościach. Ocenić ból, czucie, ustawienie ciała, ruchomość, siłę, funkcję kończyn, koordynację, chód i równowagę. Na tej podstawie ustalić i udokumentować cele.",
+      "mandatory": [
+        "Wywiad z rozpoznaniem i obciążeniami",
+        "Ból i czucie",
+        "Postawa, ruchomość i siła",
+        "Chód i równowaga",
+        "Cele rehabilitacji"
+      ],
+      "pitfall": "Uwzględnij działanie w zadaniach, np. chwyt i chód, obok wyników oceny poszczególnych struktur."
+    },
+    {
+      "id": "O-III-003",
+      "kind": "open",
+      "lecture": "III",
+      "slide": "14–17",
+      "topic": "Badanie neurologiczne",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Wyjaśnij, jak dermatomy i miotomy wykorzystuje się w wykładzie do lokalizacji zaburzenia.",
+      "answer": "Rozkład objawów czuciowych porównuje się z obszarami skóry odpowiadającymi dermatomom. Utrata siły lub funkcji grup mięśniowych oceniana według miotomów stanowi drugą wskazówkę co do możliwego zajęcia korzenia.",
+      "mandatory": [
+        "Dermatom i rozkład czucia",
+        "Miotom i funkcja mięśni",
+        "Lokalizacja możliwego zajęcia korzenia"
+      ],
+      "pitfall": "Zgodność rozkładów pomaga w lokalizacji i wymaga uwzględnienia innych wyników badania."
+    },
+    {
+      "id": "O-III-004",
+      "kind": "open",
+      "lecture": "III",
+      "slide": "19",
+      "topic": "Badanie neurologiczne",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Porównaj stopnie 0–5 w ujęciu tabeli Lovetta z wykładu.",
+      "answer": "0 oznacza brak skurczu, 1 śladowy skurcz, 2 ruch w odciążeniu (w tabeli opisany jako niepełny), 3 pełny ruch bez dodanego oporu, 4 pełny ruch z niewielkim oporem, 5 pełną siłę.",
+      "mandatory": [
+        "Brak skurczu i skurcz śladowy",
+        "Ruch w odciążeniu",
+        "Pełny ruch bez oporu",
+        "Pełny ruch z oporem",
+        "Pełna siła"
+      ],
+      "pitfall": "Przy 2 i 3 porównaj warunki ruchu, a przy 3 i 4 uwzględnij dołożony opór. Pytanie odtwarza sformułowanie tabeli wykładu."
+    },
+    {
+      "id": "O-III-005",
+      "kind": "open",
+      "lecture": "III",
+      "slide": "21, 23–28",
+      "topic": "Badanie neurologiczne",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Podaj cztery przykłady badań pomocniczych w neurologii oraz wyjaśnij, co każde z nich wnosi.",
+      "answer": "Przykłady obejmują TK do oceny m.in. podejrzenia krwawienia po urazie, MR do obrazowania zmian demielinizacyjnych, EEG do rejestracji aktywności mózgu i EMG do oceny czynności mięśni. Wykład omawia też PMR, USG i angiografię.",
+      "mandatory": [
+        "Przynajmniej cztery metody",
+        "Poprawne przypisanie ocenianych struktur lub funkcji",
+        "Rozróżnienie obrazowania i elektrodiagnostyki"
+      ],
+      "pitfall": "Termin EMG pojawia się na slajdzie w szerszym opisie elektrodiagnostyki obwodowej. Wyraźnie oddziel aktywność mózgu od czynności mięśni."
+    },
+    {
+      "id": "O-III-006",
+      "kind": "open",
+      "lecture": "III",
+      "slide": "30–31, 41",
+      "topic": "Zespoły i objawy neurologiczne",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Porównaj obraz zajęcia górnego i dolnego neuronu ruchowego na przykładzie SLA.",
+      "answer": "Uszkodzenie górnego neuronu może objawiać się spastycznością, wygórowanymi odruchami i objawem Babińskiego. Dolny neuron wiąże się z zanikami i fascykulacjami. W SLA cechy obu poziomów mogą współwystępować.",
+      "mandatory": [
+        "Cechy górnego neuronu",
+        "Cechy dolnego neuronu",
+        "Współwystępowanie w SLA"
+      ],
+      "pitfall": "Odruchy i napięcie pomagają opisowo zróżnicować mechanizm. U osoby z SLA mogą występować objawy o różnym rozkładzie."
+    },
+    {
+      "id": "O-III-007",
+      "kind": "open",
+      "lecture": "III",
+      "slide": "38, 105",
+      "topic": "Zespoły i objawy neurologiczne",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Porównaj afazję ruchową, afazję czuciową i dyzartrię.",
+      "answer": "W afazji ruchowej dominuje trudność tworzenia wypowiedzi, w czuciowej trudność w rozumieniu mowy, mimo możliwej płynnej wypowiedzi. Dyzartria dotyczy wykonania mowy przez aparat artykulacyjny, przy zachowanym rozumieniu.",
+      "mandatory": [
+        "Tworzenie wypowiedzi w afazji ruchowej",
+        "Rozumienie w afazji czuciowej",
+        "Wykonanie mowy w dyzartrii"
+      ],
+      "pitfall": "Oceniaj oddzielnie rozumienie, formułowanie wypowiedzi i wyrazistość artykulacji."
+    },
+    {
+      "id": "O-III-008",
+      "kind": "open",
+      "lecture": "III",
+      "slide": "44–46",
+      "topic": "Udar mózgu i otępienia",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Porównaj dwa główne typy udaru i podaj przykłady z wykładu.",
+      "answer": "W udarze niedokrwiennym podstawą jest ograniczenie dopływu krwi, np. mechanizm zatorowy lub choroba małych naczyń. Udar krwotoczny obejmuje krwawienie śródmózgowe lub podpajęczynówkowe.",
+      "mandatory": [
+        "Udar niedokrwienny z przykładem mechanizmu",
+        "Udar krwotoczny z przykładem lokalizacji"
+      ],
+      "pitfall": "Podział etiologiczny dotyczy mechanizmu uszkodzenia, a grupy rehabilitacyjne I–III dotyczą sprawności."
+    },
+    {
+      "id": "O-III-009",
+      "kind": "open",
+      "lecture": "III",
+      "slide": "48–52",
+      "topic": "Udar mózgu i otępienia",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jak porównać opisy alzheimerowskiego, naczyniopochodnego i otępienia z ciałami Lewy’ego w wykładzie?",
+      "answer": "Choroba Alzheimera obejmuje przede wszystkim trudności w zapamiętywaniu i szybkie zapominanie. Przy otępieniu naczyniopochodnym wykład podkreśla skokowe pogorszenie i objawy ogniskowe, a przy otępieniu z ciałami Lewy’ego fluktuacje oraz omamy wzrokowe.",
+      "mandatory": [
+        "Choroba Alzheimera i pamięć",
+        "Otępienie naczyniopochodne i skokowy przebieg",
+        "Otępienie z ciałami Lewy’ego i fluktuacje"
+      ],
+      "pitfall": "Spadek funkcji poznawczych jest wspólny. Przy porównaniu podaj wyróżnik przebiegu lub objawów towarzyszących."
+    },
+    {
+      "id": "O-III-010",
+      "kind": "open",
+      "lecture": "III",
+      "slide": "55–64",
+      "topic": "Choroby pozapiramidowe",
+      "difficulty": "hard",
+      "priority": false,
+      "question": "Porównaj dominujące zaburzenia ruchowe w chorobie Parkinsona, chorobie Wilsona i chorobie Huntingtona w opisie wykładu.",
+      "answer": "W Parkinsonie przedstawiono bradykinezję, sztywność i drżenie spoczynkowe. W Wilsonie opisano m.in. drżenie zamiarowe lub dystonię w chorobie metabolizmu miedzi. W Huntingtonie dominują ruchy pląsawicze, którym mogą towarzyszyć dystonia oraz zaburzenia poznawcze i psychiczne.",
+      "mandatory": [
+        "Bradykinezja lub sztywność w Parkinsonie",
+        "Drżenie lub dystonia oraz metabolizm miedzi w Wilsonie",
+        "Ruchy pląsawicze w Huntingtonie"
+      ],
+      "pitfall": "Ruchy mimowolne pojawiają się w kilku schorzeniach. Zestaw je z pozostałymi cechami danego obrazu klinicznego."
+    },
+    {
+      "id": "O-III-011",
+      "kind": "open",
+      "lecture": "III",
+      "slide": "66–74",
+      "topic": "Mózgowe porażenie dziecięce",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Porównaj trzy postacie spastycznego MPD pod kątem rozkładu objawów i jednego przykładowego problemu funkcjonalnego.",
+      "answer": "Hemiplegia dotyczy jednej strony, np. końskie ustawienie stopy i zgięciowe ustawienie ręki. W diplegii objawy silniej dotyczą nóg i może wystąpić chód kuczny. W tetraplegii istotne są zaburzenia wszystkich kończyn oraz kontroli głowy i tułowia.",
+      "mandatory": [
+        "Hemiplegia jednostronna",
+        "Diplegia z przewagą zajęcia nóg",
+        "Tetraplegia z istotnymi problemami posturalnymi"
+      ],
+      "pitfall": "W diplegii objawy mogą dotyczyć także kończyn górnych, choć nogi są bardziej zajęte."
+    },
+    {
+      "id": "O-III-012",
+      "kind": "open",
+      "lecture": "III",
+      "slide": "76–81",
+      "topic": "Przepuklina oponowo-rdzeniowa",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jak wykład przedstawia następstwa przepukliny oponowo-rdzeniowej i cel klasyfikacji Sharrarda?",
+      "answer": "Wada może powodować zaburzenia ruchu, czucia oraz funkcji pęcherza i jelit. Klasyfikacja Sharrarda dzieli osoby na sześć grup według poziomu zajęcia neurosegmentów i rozkładu osłabienia lub porażenia, pomagając opisać zagrożenia dla kończyn dolnych i chodu.",
+      "mandatory": [
+        "Następstwa ruchowe i czuciowe",
+        "Problemy zwieraczy",
+        "Sześć grup według poziomu i rozkładu objawów"
+      ],
+      "pitfall": "Sam poziom anatomiczny wymaga odniesienia do faktycznej funkcji i wtórnych deformacji."
+    },
+    {
+      "id": "O-III-013",
+      "kind": "open",
+      "lecture": "III",
+      "slide": "83–88",
+      "topic": "Neuropatie obwodowe",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Wyjaśnij, jak uporządkować neuropatie według lokalizacji i mechanizmu uszkodzenia.",
+      "answer": "Zajęcie pojedynczego nerwu to mononeuropatia, splotu to pleksopatia, korzenia to radikulopatia, a rozlane zajęcie nerwów to polineuropatia. Mechanizm można opisać jako aksonalny lub demielinizacyjny, a obraz uzupełnić o dominujący typ włókien.",
+      "mandatory": [
+        "Nerw, splot i korzeń",
+        "Rozlane zajęcie w polineuropatii",
+        "Akson lub mielina",
+        "Włókna czuciowe, ruchowe lub autonomiczne"
+      ],
+      "pitfall": "Nazwy określające lokalizację i mechanizm mogą występować razem w jednym opisie."
+    },
+    {
+      "id": "O-III-014",
+      "kind": "open",
+      "lecture": "III",
+      "slide": "88",
+      "topic": "Neuropatie obwodowe",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Przedstaw typową dynamikę oraz główne objawy zespołu Guillaina–Barrégo opisane w wykładzie.",
+      "answer": "Często kilka dni lub tygodni po infekcji narasta niedowład wiotki. Mogą wystąpić parestezje, bóle korzeniowe, obustronne porażenie nerwu twarzowego i zaburzenia autonomiczne.",
+      "mandatory": [
+        "Możliwy związek czasowy z infekcją",
+        "Narastający niedowład wiotki",
+        "Objawy czuciowe, twarzowe lub autonomiczne"
+      ],
+      "pitfall": "Stopień i dynamika objawów są zmienne. Pytanie wymaga opisu cech przedstawionych na slajdzie."
+    },
+    {
+      "id": "O-III-015",
+      "kind": "open",
+      "lecture": "III",
+      "slide": "89–93",
+      "topic": "Choroby mięśni",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jak wykład łączy rozkład osłabienia, objaw Gowersa i różnice między dystrofiami Duchenne’a i Beckera?",
+      "answer": "Osłabienie proksymalne utrudnia wstawanie z podłogi, stąd podpieranie się rękami o uda. Obie dystrofie wiążą się z defektem dystrofiny, a postać Beckera jest zwykle późniejsza, mniej nasilona i bardziej zmienna.",
+      "mandatory": [
+        "Osłabienie proksymalne",
+        "Kompensacja przy wstawaniu",
+        "Defekt dystrofiny",
+        "Różnica ciężkości i początku"
+      ],
+      "pitfall": "Objaw Gowersa występuje również przy innych przyczynach osłabienia proksymalnego."
+    },
+    {
+      "id": "O-III-016",
+      "kind": "open",
+      "lecture": "III",
+      "slide": "98–102",
+      "topic": "Rehabilitacja po udarze",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Porównaj cele rehabilitacji i profilaktyki powikłań w trzech grupach po udarze.",
+      "answer": "W grupie I akcent to pionizacja, lokomocja i samoobsługa. W II odzyskuje się zmianę pozycji w łóżku, siad i pionizację, z profilaktyką odleżyn, zakrzepicy i przykurczów. W III główną rolę mają ćwiczenia bierne i profilaktyka.",
+      "mandatory": [
+        "Grupa I i przywracanie funkcji",
+        "Grupa II i progresja od leżenia do siadu",
+        "Grupa III i zakres ruchu",
+        "Profilaktyka w II i III"
+      ],
+      "pitfall": "O grupie decydują cechy funkcjonalne i przytomność, a nie sam czas od zachorowania."
+    },
+    {
+      "id": "O-III-017",
+      "kind": "open",
+      "lecture": "III",
+      "slide": "107–111",
+      "topic": "Rehabilitacja po udarze",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Opisz fazy zmiany napięcia mięśniowego w okresie zdrowienia po udarze według wykładu.",
+      "answer": "Wykład przedstawia utrzymywanie się hipotonii, zmierzanie ku prawidłowemu napięciu i możliwy rozwój hipertonii oraz spastyczności. W fazie powrotu ruchu poprawa może zaczynać się proksymalnie. Długość i przebieg faz są zmienne.",
+      "mandatory": [
+        "Hipotonia",
+        "Ewolucja ku prawidłowemu napięciu",
+        "Hipertonia i spastyczność",
+        "Zmienność faz"
+      ],
+      "pitfall": "Poszczególne okolice ciała mogą być równocześnie w różnych fazach zdrowienia."
+    },
+    {
+      "id": "O-III-018",
+      "kind": "open",
+      "lecture": "III",
+      "slide": "112–117",
+      "topic": "Rehabilitacja po udarze",
+      "difficulty": "hard",
+      "priority": true,
+      "question": "Omów przejście od ułożenia i utrzymania zakresu ruchu do ćwiczeń czynnych po udarze w opisie wykładu.",
+      "answer": "W ostrym okresie chroni się funkcje życiowe, zmienia ułożenie chorego i utrzymuje zakres ruchów. Po ustabilizowaniu stanu wprowadza się czynne usprawnianie. Wykład opisuje odzyskiwanie kontroli od tułowia i stawów bliższych oraz sekwencję bierne, wspomagane, czynne i warunkowo oporowe.",
+      "mandatory": [
+        "Prawidłowe ułożenie i utrzymanie zakresu",
+        "Stabilizacja stanu",
+        "Kontrola proksymalna przed dystalną",
+        "Progresja ćwiczeń",
+        "Warunek włączenia oporu"
+      ],
+      "pitfall": "Przejście do oporu wymaga zdolności ustawienia i utrzymania kończyny w określonej pozycji."
+    },
+    {
+      "id": "O-III-019",
+      "kind": "open",
+      "lecture": "III",
+      "slide": "119–128",
+      "topic": "Bolesny bark po udarze",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Dlaczego ochrona kończyny górnej ma znaczenie po udarze i jakie zasady transferu podaje wykład?",
+      "answer": "Przy niskim napięciu i słabej stabilizacji bark jest narażony na pociąganie i mikrourazy. Właściwe ułożenie i podparcie zmniejszają te obciążenia. Podczas transferu kończynę podtrzymuje się bliżej i dalej od tułowia i prowadzi płynnie, a ciało wspiera w okolicy łopatek.",
+      "mandatory": [
+        "Słaba stabilizacja i ryzyko mikrourazu",
+        "Ułożenie i podparcie",
+        "Podtrzymanie proksymalne i dystalne",
+        "Unikanie ciągnięcia za rękę lub ramię"
+      ],
+      "pitfall": "Podparcie ma znaczenie w leżeniu, siadzie i staniu oraz podczas przemieszczania."
+    },
+    {
+      "id": "O-III-020",
+      "kind": "open",
+      "lecture": "III",
+      "slide": "124–133",
+      "topic": "Bolesny bark po udarze",
+      "difficulty": "hard",
+      "priority": false,
+      "question": "Porównaj cele ochronne barku w okresie ostrym i zadania w okresie kompensacyjno-regeneracyjnym.",
+      "answer": "W okresie ostrym wykład akcentuje prawidłowe ułożenie, odciążenie, podparcie i zapobieganie przykurczom. W okresie kompensacyjno-regeneracyjnym kładzie nacisk na zachowanie siły, kontrolę spastyczności oraz reedukację wzorców i ruchów selektywnych. W ćwiczeniach barku unika forsowania ruchów biernych.",
+      "mandatory": [
+        "Ułożenie i podparcie w okresie ostrym",
+        "Utrzymywanie ruchomości",
+        "Kontrola spastyczności i zachowanie siły",
+        "Reedukacja selektywnych ruchów"
+      ],
+      "pitfall": "Oddziel cele programu od listy metod wymienionych w wykładzie. Forsowanie ruchu może nasilać ból i uszkadzać tkanki."
+    },
+    {
+      "id": "O-III-021",
+      "kind": "open",
+      "lecture": "III",
+      "slide": "135–138",
+      "topic": "Stwardnienie rozsiane",
+      "difficulty": "hard",
+      "priority": true,
+      "question": "Porównaj zasady ćwiczeń przy lekkich objawach SM i w okresie wyraźnego rzutu według wykładu.",
+      "answer": "Przy lekkich objawach wykład opisuje indywidualnie dobrane ćwiczenia aktywne od łatwiejszych do trudniejszych, z przerwami oraz bez nadmiernego zmęczenia i przegrzania. W wyraźnym rzucie ogranicza obciążenie i akcentuje ułożenie, zmiany pozycji, ruchy bierne i ćwiczenia oddechowe.",
+      "mandatory": [
+        "Indywidualizacja i stopniowanie",
+        "Przerwy oraz unikanie przemęczenia i przegrzania",
+        "Ograniczenie obciążenia przy wyraźnym zaostrzeniu",
+        "Profilaktyka skutków unieruchomienia"
+      ],
+      "pitfall": "Długie unieruchomienie może pogarszać sprawność. Zakres i intensywność w rozpatrywanym schemacie zależą od bieżącego stanu."
+    },
+    {
+      "id": "O-III-022",
+      "kind": "open",
+      "lecture": "III",
+      "slide": "146",
+      "topic": "Rehabilitacja w chorobie Parkinsona",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Porównaj stadia I–V skali Hoehna i Yahra według tabeli w wykładzie.",
+      "answer": "I oznacza objawy jednostronne, II obustronne bez zaburzeń równowagi, III pierwsze zaburzenia odruchów postawnych, IV znaczne ograniczenia przy zachowanej możliwości stania i chodzenia, V konieczność stałej pomocy i poruszanie się wyłącznie na wózku albo przebywanie w łóżku.",
+      "mandatory": [
+        "I i jednostronność",
+        "II i obustronność",
+        "III i odruchy postawne",
+        "IV i możliwe stanie lub chód",
+        "V i stała pomoc"
+      ],
+      "pitfall": "Granica II/III dotyczy równowagi, a IV/V zdolności stania i chodzenia."
+    },
+    {
+      "id": "O-III-023",
+      "kind": "open",
+      "lecture": "III",
+      "slide": "147–152",
+      "topic": "Rehabilitacja w chorobie Parkinsona",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jak zmieniają się cele rehabilitacji w miarę przechodzenia przez stadia Parkinsona w ujęciu wykładu?",
+      "answer": "W I i II ćwiczy się aktywność, nawyki ruchowe i zmianę pozycji. W III kluczowe są profilaktyka upadków i trening chodu. W IV podkreśla się asekurację i pomoce lokomocyjne, a w V mobilność w łóżku, pielęgnację i wsparcie emocjonalne.",
+      "mandatory": [
+        "I–II i aktywność oraz transfery",
+        "III i upadki",
+        "IV i asekuracja",
+        "V i mobilność łóżkowa oraz profilaktyka"
+      ],
+      "pitfall": "Pomoce i sposób asekuracji zależą od sprawności pacjenta. W wykładzie zmieniają się wraz ze stadium cele funkcjonalne."
+    },
+    {
+      "id": "O-III-024",
+      "kind": "open",
+      "lecture": "III",
+      "slide": "158–160",
+      "topic": "Urazy czaszkowo-mózgowe i rdzenia",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Opisz cele usprawniania w etapie ochronnym i etapie mobilizacji czynnej po urazie czaszkowo-mózgowym.",
+      "answer": "Etap ochronny obejmuje prawidłowe ułożenie, zapobieganie przykurczom i powikłaniom oddechowym oraz zadania pielęgnacyjne. Etap mobilizacji czynnej obejmuje samoobsługę, czynności dnia codziennego, lokomocję, koordynację, równowagę i manipulację.",
+      "mandatory": [
+        "Ochrona przed przykurczami",
+        "Pielęgnacja i zadania oddechowe",
+        "Samoobsługa i lokomocja",
+        "Koordynacja oraz równowaga"
+      ],
+      "pitfall": "Wykład opisuje zarówno etapy funkcjonalne, jak i okresy związane z miejscem prowadzenia rehabilitacji."
+    },
+    {
+      "id": "O-III-025",
+      "kind": "open",
+      "lecture": "III",
+      "slide": "162–164",
+      "topic": "Urazy czaszkowo-mózgowe i rdzenia",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Połącz następstwa uszkodzenia rdzenia z głównymi zadaniami w opisie rehabilitacji.",
+      "answer": "Poziom i rozległość uszkodzenia wpływają na funkcje ruchowe, czuciowe i autonomiczne. Wykład omawia zmianę ułożenia i profilaktykę odleżyn i zakrzepicy, drożność dróg oddechowych, utrzymanie ruchomości przez ćwiczenia bierne, aktywizację zachowanych funkcji i pionizację.",
+      "mandatory": [
+        "Poziom i rozległość uszkodzenia",
+        "Profilaktyka odleżyn i zakrzepicy",
+        "Ćwiczenia zależne od funkcji",
+        "Pielęgnacja oddechowa"
+      ],
+      "pitfall": "Ogólny wykaz zadań wymaga odrębnej oceny kwalifikacji do poszczególnych etapów terapii."
+    }
+  ],
+  "cases": [
+    {
+      "id": "C-III-001",
+      "kind": "case",
+      "lecture": "III",
+      "slide": "14–19",
+      "topic": "Badanie neurologiczne",
+      "difficulty": "medium",
+      "priority": false,
+      "title": "Mięśnie i czucie w badaniu",
+      "scenario": "Pacjent opisuje mrowienie w ograniczonym obszarze skóry. W badaniu zauważasz osłabienie określonej grupy mięśni. Pacjent wykonuje pełny ruch przeciwko grawitacji, ale nie pokonuje nawet niewielkiego dodatkowego oporu.",
+      "question": "Jak uporządkować te informacje według wykładu i jaki stopień Lovetta ma opisany ruch?",
+      "answer": "Rozkład mrowienia porównuje się z dermatomem, a rozkład osłabienia z miotomem. Ich zestawienie może pomóc zlokalizować korzeń. Pełny ruch przeciwko grawitacji bez pokonania dodatkowego oporu odpowiada stopniowi 3 w skali Lovetta według slajdu.",
+      "mandatory": [
+        "Dermatom",
+        "Miotom",
+        "Stopień 3 Lovetta"
+      ],
+      "pitfall": "Przyporządkowanie segmentalne stanowi wskazówkę. Do wskazania konkretnego korzenia potrzebne są szczegóły rozkładu objawów."
+    },
+    {
+      "id": "C-III-002",
+      "kind": "case",
+      "lecture": "III",
+      "slide": "38, 105",
+      "topic": "Zespoły i objawy neurologiczne",
+      "difficulty": "medium",
+      "priority": true,
+      "title": "Komunikacja po udarze",
+      "scenario": "Osoba po udarze rozumie pytania i układa sensowne zdania. Jej mowa jest jednak wolna, niewyraźna i nierytmiczna. W innym opisie osoba wypowiada płynne zdania, ale nie rozumie poleceń.",
+      "question": "Nazwij oba wzorce i wyjaśnij, na co zwracasz uwagę, porównując je.",
+      "answer": "Pierwszy opis pasuje do dyzartrii, czyli problemu wykonawczego mowy przy zachowanym rozumieniu. Drugi do afazji czuciowej, w której przeważają trudności w rozumieniu i adekwatnym doborze wypowiedzi.",
+      "mandatory": [
+        "Dyzartria w pierwszym opisie",
+        "Afazja czuciowa w drugim",
+        "Rozdzielenie artykulacji i rozumienia"
+      ],
+      "pitfall": "Płynność i wyraźna artykulacja nie przesądzają o zachowanym rozumieniu."
+    },
+    {
+      "id": "C-III-003",
+      "kind": "case",
+      "lecture": "III",
+      "slide": "69–74",
+      "topic": "Mózgowe porażenie dziecięce",
+      "difficulty": "medium",
+      "priority": false,
+      "title": "Rozkład spastyczności w MPD",
+      "scenario": "W scenariuszu dziecko urodzone przedwcześnie ma obustronnie zaburzoną motorykę. Nogi są znacznie silniej zajęte niż ręce. Podczas chodu utrzymuje widoczne zgięcie bioder i kolan.",
+      "question": "Jaka postać MPD odpowiada opisowi wykładu i jaki wzorzec chodu się z nią wiąże?",
+      "answer": "Opis pasuje do diplegii spastycznej z przewagą zajęcia kończyn dolnych. Wzorzec ze zgięciem bioder i kolan odpowiada w prezentacji pozycji lub chodowi kucznemu.",
+      "mandatory": [
+        "Diplegia spastyczna",
+        "Przewaga objawów w kończynach dolnych",
+        "Chód kuczny"
+      ],
+      "pitfall": "Wcześniactwo jest skojarzeniem opisanym w wykładzie. O dopasowaniu profilu decyduje przede wszystkim rozkład objawów."
+    },
+    {
+      "id": "C-III-004",
+      "kind": "case",
+      "lecture": "III",
+      "slide": "83–88",
+      "topic": "Neuropatie obwodowe",
+      "difficulty": "medium",
+      "priority": false,
+      "title": "Narastający niedowład wiotki",
+      "scenario": "W zadaniu kilka dni po przebytej infekcji stopniowo narastają wiotkie niedowłady kończyn. Wcześniej wystąpiły parestezje dłoni i stóp oraz ból korzeniowy.",
+      "question": "Z którym zespołem z wykładu kojarzy się taki profil? Które cechy go wspierają?",
+      "answer": "Z zespołem Guillaina–Barrégo. Wykład wiąże go z narastającym niedowładem wiotkim, możliwym związkiem czasowym z infekcją, parestezjami i bólem korzeniowym. Mogą pojawić się także objawy autonomiczne lub porażenie nerwu twarzowego.",
+      "mandatory": [
+        "Zespół Guillaina–Barrégo",
+        "Narastający wiotki niedowład",
+        "Wywiad infekcji i objawy czuciowe"
+      ],
+      "pitfall": "Wskazuj wzorzec wykładowy. Funkcję ruchową, czuciową i autonomiczną warto rozpatrywać osobno."
+    },
+    {
+      "id": "C-III-005",
+      "kind": "case",
+      "lecture": "III",
+      "slide": "89–92",
+      "topic": "Choroby mięśni",
+      "difficulty": "medium",
+      "priority": false,
+      "title": "Wstawanie z podłogi",
+      "scenario": "Podczas wstawania z podłogi dziecko opiera ręce o uda i stopniowo przesuwa je w górę. W opisie widać też trudność pokonywania obciążenia przez mięśnie obręczy biodrowej.",
+      "question": "Jak nazywa się ten objaw i jaki mechanizm opisuje wykład?",
+      "answer": "To objaw Gowersa. Ręce pomagają skompensować osłabienie proksymalnych mięśni kończyn i tułowia. Wykład omawia go w dystrofii Duchenne’a, a także dopuszcza jego obecność w innych miopatiach.",
+      "mandatory": [
+        "Objaw Gowersa",
+        "Osłabienie proksymalne",
+        "Mechanizm kompensacji przez ręce"
+      ],
+      "pitfall": "Sam sposób wstawania nie przesądza o przyczynie osłabienia. W tym zadaniu chodzi o nazwanie i opisanie objawu."
+    },
+    {
+      "id": "C-III-006",
+      "kind": "case",
+      "lecture": "III",
+      "slide": "99–102",
+      "topic": "Rehabilitacja po udarze",
+      "difficulty": "medium",
+      "priority": true,
+      "title": "Plan dla pacjenta leżącego po udarze",
+      "scenario": "W opisie pacjent po udarze jest przytomny, pozostaje w łóżku i nie umie sam odwrócić się na bok. W samoobsłudze potrzebuje znacznej pomocy.",
+      "question": "Do której grupy wykładowej należy ten opis? W jakim porządku wykład wyznacza cele i jakie powikłania uwzględnia?",
+      "answer": "To grupa II. Kolejność celów to odzyskanie samodzielnej zmiany pozycji, trening siadu i pionizacja dostosowana do stanu. Równolegle dba się o profilaktykę przykurczów, zakrzepicy i odleżyn.",
+      "mandatory": [
+        "Grupa II",
+        "Zmiana pozycji przed siadem i pionizacją",
+        "Profilaktyka powikłań"
+      ],
+      "pitfall": "Grupa opisuje sprawność pacjenta. Kwalifikacja do pionizacji zależy dodatkowo od stanu klinicznego."
+    },
+    {
+      "id": "C-III-007",
+      "kind": "case",
+      "lecture": "III",
+      "slide": "99, 102",
+      "topic": "Rehabilitacja po udarze",
+      "difficulty": "medium",
+      "priority": true,
+      "title": "Ograniczona przytomność po udarze",
+      "scenario": "W opisie pacjent po udarze ma zaburzenia przytomności. Opieka skupia się na utrzymaniu ruchomości i zapobieganiu skutkom leżenia.",
+      "question": "Jaka to grupa i jakie zadania fizjoterapeutyczne podano w wykładzie?",
+      "answer": "Grupa III. Przewidziano odpowiednio dobrane ćwiczenia bierne dla utrzymania zakresu ruchu oraz przeciwdziałanie przykurczom, zakrzepicy żylnej i odleżynom.",
+      "mandatory": [
+        "Grupa III",
+        "Odpowiednio dobrane ćwiczenia bierne",
+        "Profilaktyka przykurczów, zakrzepicy i odleżyn"
+      ],
+      "pitfall": "O zaliczeniu do grupy III w tym podziale decyduje zaburzenie przytomności."
+    },
+    {
+      "id": "C-III-008",
+      "kind": "case",
+      "lecture": "III",
+      "slide": "107–110, 116",
+      "topic": "Rehabilitacja po udarze",
+      "difficulty": "hard",
+      "priority": true,
+      "title": "Inna faza zdrowienia w ręce i nodze",
+      "scenario": "W zadaniu osoba po udarze zaczyna wykonywać ruch w biodrze, lecz nadal słabo rusza dłonią. Napięcie w kończynie górnej pozostaje obniżone.",
+      "question": "Jak wykład tłumaczy różne tempo powrotu ruchu i od czego zaczyna reedukację?",
+      "answer": "Różne okolice ciała mogą znajdować się w różnych fazach zdrowienia. Powrót kontroli może najpierw dotyczyć części bliższych, a noga może odzyskiwać ruch szybciej niż ręka. W programie ćwiczeń zaczyna się od kontroli tułowia, barku i biodra.",
+      "mandatory": [
+        "Różnice faz między częściami ciała",
+        "Powrót ruchu od bliższych odcinków",
+        "Kontrola proksymalna w reedukacji"
+      ],
+      "pitfall": "Początek i koniec faz różnią się między osobami i częściami ciała."
+    },
+    {
+      "id": "C-III-009",
+      "kind": "case",
+      "lecture": "III",
+      "slide": "122, 124–128",
+      "topic": "Bolesny bark po udarze",
+      "difficulty": "medium",
+      "priority": true,
+      "title": "Ochrona barku podczas transferu",
+      "scenario": "Osoba po udarze ma wiotką kończynę górną. W trakcie przygotowania do zmiany pozycji pomocnik chwyta ją wyłącznie za dłoń i zaczyna pociągać.",
+      "question": "Jak skorygować sposób prowadzenia kończyny i dlaczego ma to znaczenie?",
+      "answer": "Podtrzymać kończynę w odcinku bliższym i dalszym, prowadzić ją łagodnie, a ciało pacjenta wspierać w okolicy łopatek. Ciężar niepodpartej ręki i pociąganie zwiększają ryzyko mikrourazów barku o ograniczonej stabilizacji.",
+      "mandatory": [
+        "Odstąpienie od ciągnięcia za dłoń",
+        "Podparcie proksymalne i dystalne",
+        "Płynne prowadzenie kończyny",
+        "Ochrona barku przed mikrourazem"
+      ],
+      "pitfall": "Podparcie samej dłoni nie zapewnia kontroli odcinka bliższego."
+    },
+    {
+      "id": "C-III-010",
+      "kind": "case",
+      "lecture": "III",
+      "slide": "136–138",
+      "topic": "Stwardnienie rozsiane",
+      "difficulty": "medium",
+      "priority": true,
+      "title": "Plan ćwiczeń w stabilniejszym okresie SM",
+      "scenario": "W zadaniu pacjentka podczas ćwiczeń szybko się męczy, a w ciepłej sali znosi wysiłek gorzej. Zaplanowano długie serie bez przerw.",
+      "question": "Jak zmodyfikować ogólne założenia sesji według wykładu?",
+      "answer": "Dostosować obciążenie i tempo do aktualnej wydolności, zacząć od prostszych ruchów i krótszych serii z częstymi przerwami. Ćwiczyć powoli i dokładnie, unikając przegrzania oraz przemęczenia.",
+      "mandatory": [
+        "Indywidualizacja",
+        "Krótsze serie i częste przerwy",
+        "Dokładne, powolne ruchy",
+        "Unikanie przegrzania i przemęczenia"
+      ],
+      "pitfall": "Wykład uzależnia dozowanie od bieżącej wydolności i męczliwości."
+    },
+    {
+      "id": "C-III-011",
+      "kind": "case",
+      "lecture": "III",
+      "slide": "135, 138",
+      "topic": "Stwardnienie rozsiane",
+      "difficulty": "medium",
+      "priority": true,
+      "title": "Wyraźne zaostrzenie SM",
+      "scenario": "W opisie edukacyjnym zespół prowadzący odnotowuje wyraźny rzut SM i czasowe ograniczenie aktywności. Osoba ma trudność w samodzielnej zmianie ułożenia.",
+      "question": "Jakie cele i działania profilaktyczne wskazuje wykład podczas tego etapu?",
+      "answer": "Ograniczyć wysiłek, zadbać o ułożenie kończyn i regularną zmianę pozycji. Uwzględnić ćwiczenia bierne i oddechowe według stanu, aby przeciwdziałać przykurczom i powikłaniom unieruchomienia.",
+      "mandatory": [
+        "Czasowe ograniczenie aktywności",
+        "Pozycjonowanie",
+        "Ćwiczenia bierne i oddechowe",
+        "Profilaktyka powikłań"
+      ],
+      "pitfall": "W wykładzie zwraca się uwagę na ryzyko związane ze zbyt długim unieruchomieniem."
+    },
+    {
+      "id": "C-III-012",
+      "kind": "case",
+      "lecture": "III",
+      "slide": "146, 149",
+      "topic": "Rehabilitacja w chorobie Parkinsona",
+      "difficulty": "medium",
+      "priority": true,
+      "title": "Trudność przy obrotach w Parkinsonie",
+      "scenario": "W zadaniu pacjent ma objawy obustronne i jest jeszcze samodzielny, ale pojawiły się zaburzenia odruchów postawnych przy zmianie kierunku chodu.",
+      "question": "Jak rozpoznać stadium w tabeli wykładu i wskazać dwa priorytety ćwiczeń?",
+      "answer": "Opis odpowiada stadium III według Hoehna i Yahra. Wykład akcentuje profilaktykę upadków i ćwiczenia chodu, z uwagą na skupienie, długość kroku i unoszenie stóp.",
+      "mandatory": [
+        "Stadium III",
+        "Zaburzenia odruchów postawnych",
+        "Profilaktyka upadków",
+        "Trening chodu"
+      ],
+      "pitfall": "Obustronność występuje już w stadium II. W tym opisie rozstrzyga zaburzenie odruchów postawnych."
+    },
+    {
+      "id": "C-III-013",
+      "kind": "case",
+      "lecture": "III",
+      "slide": "146, 150–151",
+      "topic": "Rehabilitacja w chorobie Parkinsona",
+      "difficulty": "medium",
+      "priority": false,
+      "title": "Pomoc przy lokomocji w Parkinsonie",
+      "scenario": "Pierwsza osoba ma znaczne trudności, lecz może stać i chodzić. Druga potrzebuje ciągłej pomocy i porusza się na wózku albo przebywa w łóżku.",
+      "question": "Porównaj stadia obu osób i zadania rehabilitacyjne z wykładu.",
+      "answer": "Pierwszy opis odpowiada stadium IV z asekuracją chodu lub nauką używania pomocy. Drugi odpowiada stadium V, w którym wykład podaje lokomocję w łóżku, profilaktykę powikłań unieruchomienia oraz wsparcie emocjonalne.",
+      "mandatory": [
+        "IV i zachowana możliwość stania lub chodu",
+        "Asekuracja lub pomoce",
+        "V i stała pomoc",
+        "Mobilność łóżkowa i profilaktyka"
+      ],
+      "pitfall": "W obu stadiach potrzebna jest pomoc. Granica w tabeli dotyczy głównie zdolności stania i chodzenia."
+    },
+    {
+      "id": "C-III-014",
+      "kind": "case",
+      "lecture": "III",
+      "slide": "158–160",
+      "topic": "Urazy czaszkowo-mózgowe i rdzenia",
+      "difficulty": "medium",
+      "priority": true,
+      "title": "Cele po urazie czaszkowo-mózgowym",
+      "scenario": "W pierwszej części zadania pacjent jest we wczesnym okresie wyrównywania stanu. Później zespół odnotowuje możliwość czynnego uczestnictwa, ale pacjent potrzebuje pomocy w ubieraniu się i przemieszczaniu.",
+      "question": "Jak zmienia się kierunek usprawniania według wykładu?",
+      "answer": "W etapie wczesnym nacisk pada na ochronę przed przykurczami i powikłaniami oraz pielęgnację. Etap mobilizacji czynnej obejmuje trening czynności codziennych, lokomocji, koordynacji, równowagi i zadań manipulacyjnych.",
+      "mandatory": [
+        "Wczesny etap ochronny",
+        "Pielęgnacja i utrzymanie zakresu",
+        "Mobilizacja czynna",
+        "Trening samoobsługi i lokomocji"
+      ],
+      "pitfall": "Działania ochronne i funkcjonalne dobiera się do stanu. Samo miejsce leczenia nie opisuje zakresu możliwości pacjenta."
+    },
+    {
+      "id": "C-III-015",
+      "kind": "case",
+      "lecture": "III",
+      "slide": "162–164",
+      "topic": "Urazy czaszkowo-mózgowe i rdzenia",
+      "difficulty": "medium",
+      "priority": false,
+      "title": "Zakres zachowanych funkcji po uszkodzeniu rdzenia",
+      "scenario": "W zadaniu występuje porażenie ruchowe poniżej uszkodzenia, ale zachowało się śladowe czucie ułożenia w stopach. W opisie podkreślono unieruchomienie.",
+      "question": "Której grupie częściowego uszkodzenia odpowiada ten opis i jakie obszary profilaktyki podaje wykład?",
+      "answer": "Według podziału z wykładu opis pasuje do grupy I częściowych uszkodzeń. W programie wymieniono zmianę pozycji, profilaktykę przeciwodleżynową i przeciwzakrzepową, działania oddechowe i utrzymywanie ruchomości stawów.",
+      "mandatory": [
+        "Grupa I klasyfikacji wykładowej",
+        "Zachowane śladowe czucie głębokie",
+        "Profilaktyka odleżyn i zakrzepicy",
+        "Drożność dróg oddechowych i zakres ruchu"
+      ],
+      "pitfall": "Termin grupa I odnosi się tutaj do lokalnego podziału uszkodzeń rdzenia. Pozostałe grupy w wykładzie dotyczą innych zagadnień."
+    }
+  ],
+  "coverage": [
+    {
+      "name": "Etapy rehabilitacji i pionizacji",
+      "status": "OMÓWIONE",
+      "slide": "99–102, 107–117, 158–160, 164",
+      "note": "Grupy chorych po udarze, progresja od zmiany pozycji przez siad do pionizacji, fazy zmian napięcia i etapy usprawniania po urazie."
+    },
+    {
+      "name": "Przeciwwskazania do pionizacji",
+      "status": "CZĘŚCIOWO",
+      "slide": "100–101, 115–117",
+      "note": "Opis zawiera warunek stabilizacji przed czynnym usprawnianiem i progresję funkcji. Brakuje listy przeciwwskazań do pionizacji."
+    },
+    {
+      "name": "Kiedy przerwać trening / ćwiczenia",
+      "status": "CZĘŚCIOWO",
+      "slide": "136–138",
+      "note": "W SM wskazano unikanie przemęczenia i przegrzania oraz ograniczanie wysiłku przy wyraźnym zaostrzeniu. Brakuje ogólnych kryteriów i progów przerwania."
+    },
+    {
+      "name": "Charakterystyka wad postawy",
+      "status": "BRAK",
+      "slide": "",
+      "note": "W neurologii opisano zaburzenia ustawienia i postawy w poszczególnych chorobach. Typologię wad postawy omawia wykład V."
+    },
+    {
+      "name": "Etapy przy stwardnieniu rozsianym",
+      "status": "CZĘŚCIOWO",
+      "slide": "134–138",
+      "note": "Omówiono zasady usprawniania przy lekkich objawach i w wyraźnym zaostrzeniu. Brakuje pełnej klasyfikacji postaci i etapów przebiegu SM."
+    },
+    {
+      "name": "Techniki wykonywania ćwiczeń",
+      "status": "OMÓWIONE",
+      "slide": "113–117, 125–128, 132–133, 135–138, 147–152",
+      "note": "Ułożenie i ochrona kończyny po udarze, stopniowanie ćwiczeń, przykłady technik barku oraz zasady ćwiczeń w SM i Parkinsonie."
+    },
+    {
+      "name": "Nauka efektywnego kaszlu",
+      "status": "BRAK",
+      "slide": "",
+      "note": "Opisano ogólne zadania oddechowe. Instruktaż efektywnego kaszlu pojawia się w wykładzie VI."
+    },
+    {
+      "name": "Postępowanie RAJS",
+      "status": "BRAK",
+      "slide": "",
+      "note": "W materiałach do wykładu III brak terminu RAJS i instrukcji tej procedury."
+    },
+    {
+      "name": "Zabezpieczenie rany przed pionizacją",
+      "status": "BRAK",
+      "slide": "",
+      "note": "Wykład omawia pionizację i ułożenie neurologiczne. Brakuje procedury zabezpieczenia rany pooperacyjnej przed pionizacją."
+    },
+    {
+      "name": "Odleżyny i blizny – ocena",
+      "status": "CZĘŚCIOWO",
+      "slide": "101–102, 115, 135, 138, 151, 164",
+      "note": "Opisano profilaktykę odleżyn przy ograniczonej mobilności. Brakuje kryteriów oceny odleżyn i blizn."
+    },
+    {
+      "name": "Mobilizacja blizny",
+      "status": "BRAK",
+      "slide": "",
+      "note": "W materiałach do wykładu III brak opisu technik mobilizacji blizny."
+    }
+  ],
+  "images": [
+    {
+      "lecture": "Wykład III",
+      "slide": 16,
+      "title": "Mapa dermatomów",
+      "alt": "Mapa obszarów skóry w rzucie od przodu i od tyłu. Podpisy wskazują m.in. kciuk, pępek i boczną część stopy.",
+      "caption": "Slajd pokazuje przykładowe punkty orientacyjne na mapie unerwienia czuciowego.",
+      "src": "../../images/wyklad-iii-slajd-16.jpg"
+    },
+    {
+      "lecture": "Wykład III",
+      "slide": 116,
+      "title": "Reedukacja ruchu po udarze",
+      "alt": "Kolejność ćwiczeń po udarze od biernych przez wspomagane i czynne do oporowych po odzyskaniu kontroli.",
+      "caption": "Schemat kolejności ćwiczeń i warunku włączenia oporu na podstawie slajdu.",
+      "src": "../../images/wyklad-iii-reedukacja-po-udarze.svg"
+    },
+    {
+      "lecture": "Wykład III",
+      "slide": 142,
+      "title": "Typowa sylwetka w chorobie Parkinsona według wykładu",
+      "alt": "Sylwetka z pochylonym tułowiem, lekko zgiętymi biodrami i kolanami oraz ograniczonym ruchem ramion.",
+      "caption": "Podpisy na rycinie pomagają połączyć cechy postawy, chodu i mimiki.",
+      "src": "../../images/wyklad-iii-slajd-142.jpg"
+    },
+    {
+      "lecture": "Wykład III",
+      "slide": 146,
+      "title": "Stadia Hoehna i Yahra",
+      "alt": "Pięć stadiów choroby Parkinsona. W trzecim pojawiają się zaburzenia odruchów postawnych, a w piątym konieczna jest stała pomoc.",
+      "caption": "Porównanie zmian w zakresie objawów, sprawności i samodzielności na podstawie tabeli ze slajdu.",
+      "src": "../../images/wyklad-iii-skala-hoehna-yahra.svg"
+    }
+  ]
+}

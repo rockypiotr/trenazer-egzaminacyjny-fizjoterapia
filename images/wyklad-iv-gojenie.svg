@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="330" viewBox="0 0 840 330" role="img" aria-labelledby="title desc">
+  <title id="title">Trzy fazy gojenia rany w ujęciu wykładu</title>
+  <desc id="desc">Faza zapalna obejmuje wysięk i powstanie skrzepu, a według wykładu trwa od 48 do 72 godzin. Proliferacja to tworzenie ziarniny, naskórka i kolagenu, trwa od 3 do 6 tygodni. Przebudowa zaczyna się od trzeciego tygodnia i może trwać lata.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M2 2l8 4-8 4" fill="none" stroke="#0f766e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <rect width="840" height="330" fill="#f3faf9"/>
+  <g fill="#fff" stroke="#c7e3df" stroke-width="2">
+    <rect x="18" y="18" width="244" height="254" rx="18"/>
+    <rect x="298" y="18" width="244" height="254" rx="18"/>
+    <rect x="578" y="18" width="244" height="254" rx="18"/>
+  </g>
+  <g fill="none" stroke="#0f766e" stroke-width="4" marker-end="url(#arrow)">
+    <path d="M268 126h24"/>
+    <path d="M548 126h24"/>
+  </g>
+  <g font-family="system-ui, sans-serif" text-anchor="middle">
+    <g fill="#132c3d" font-size="27" font-weight="700">
+      <text x="140" y="70">Faza zapalna</text>
+      <text x="420" y="70">Proliferacja</text>
+      <text x="700" y="70">Przebudowa</text>
+    </g>
+    <g fill="#0b655f" font-size="23" font-weight="650">
+      <text x="140" y="117">48–72 godziny</text>
+      <text x="420" y="117">3–6 tygodni</text>
+      <text x="700" y="117">Od 3. tygodnia</text>
+    </g>
+    <g fill="#25495a" font-size="23">
+      <text x="140" y="176">Wysięk</text>
+      <text x="140" y="211">Powstanie skrzepu</text>
+      <text x="420" y="176">Ziarnina</text>
+      <text x="420" y="211">Nowy naskórek</text>
+      <text x="420" y="246">Produkcja kolagenu</text>
+      <text x="700" y="176">Porządkowanie</text>
+      <text x="700" y="205">kolagenu</text>
+      <text x="700" y="242">Spłaszczanie blizny</text>
+    </g>
+    <text x="420" y="308" fill="#25495a" font-size="21">Okresy mogą się nakładać. Przebudowa może trwać kilka lat.</text>
+  </g>
+</svg>

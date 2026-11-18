@@ -14,7 +14,7 @@ const NAV = [
   ["hard", "Trudne i zapisane", "↻"],
   ["catalog", "Bank pytań", "⌕"],
   ["coverage", "Zakres egzaminu", "≡"],
-  ["gallery", "Schematy ze slajdów", "▧"],
+  ["gallery", "Ilustracje i schematy", "▧"],
   ["settings", "Postępy i ustawienia", "⚙"],
 ];
 const ROUTE_NAMES = Object.fromEntries(NAV.map(([a, b]) => [a, b]));
@@ -111,10 +111,7 @@ export function createViews(data, progress, study, filters, catalogFilters) {
       );
     let html = `<div class="eyebrow">TWOJE CENTRUM NAUKI</div><h1>Ucz się aktywnie.<br>Zapamiętaj na egzamin.</h1><p class="lead">${CARDS.length} fiszek, ${QUIZZES.length} pytań testowych, ${OPENS.length} pytań otwartych i ${CASES.length} scenariuszy — opracowanych z prezentacji, ze źródłami na slajdach.</p><div class="grid metrics"><div class="panel metric"><div class="meta">Fiszki opanowane</div><div class="big">${covered}<span class="muted metric-total"> / ${CARDS.length}</span></div><small>Co najmniej 2 poprawne powtórzenia</small></div><div class="panel metric"><div class="meta">Dziś do powtórki</div><div class="big">${due}</div><small>Fiszki wymagające powtórzenia</small></div><div class="panel metric"><div class="meta">Odpowiedzi testowe</div><div class="big">${attempts}</div><small>Zapisane próby testowe</small></div><div class="panel metric"><div class="meta">Ukończone sesje</div><div class="big">${state.sessions.length}</div><small>Historia zapisana lokalnie</small></div></div>`;
     html += `<div class="btn-row quick-actions"><button class="btn" data-action="start" data-mode="daily">▶ Powtórka dzienna (20 fiszek)</button><button class="btn secondary" data-action="nav" data-mode="exam">Próbny egzamin</button><button class="btn secondary" data-action="start" data-mode="priority">Sprint priorytetów (24 pytania)</button></div>${filterPanel()}`;
-    html += section(
-      "Wybierz sposób nauki",
-      `<span class="tag prime">11 tematów egzaminacyjnych</span>`,
-    );
+    html += section("Wybierz sposób nauki");
     const qcards = [
       [
         "flash",
@@ -150,7 +147,7 @@ export function createViews(data, progress, study, filters, catalogFilters) {
         return `<div class="panel card-lect ${alt ? "alt" : ""}"><div class="tag">${esc(label)}</div><h3 class="lecture-title">${esc(title)}</h3><div class="sm muted">${m}/${cards.length} fiszek opanowanych</div><div class="progressline"><i style="width:${percent(m, cards.length)}%"></i></div><div class="lecture-actions"><button class="btn small secondary" data-action="setlecture" data-lecture="${esc(id)}">Ucz się z tego wykładu</button></div></div>`;
       })
       .join("")}</div>`;
-    html += `<div class="notice source-notice"><strong>Zakres źródeł</strong>W prezentacjach nie wyjaśniono terminu „RAJS” ani etapów przy stwardnieniu. Pozostałe niepełne zagadnienia oznaczyłem w zakładce „Zakres egzaminu”. Przykłady kliniczne służą wyłącznie do nauki materiału wykładowego.</div>`;
+    html += `<div class="notice source-notice"><strong>Zakres źródeł</strong>W zakładce „Zakres egzaminu” znajdziesz informację, które zagadnienia omawia każdy wykład. Przykłady kliniczne służą wyłącznie do nauki materiału wykładowego.</div>`;
     return html;
   }
   function renderModeLanding(mode) {
@@ -247,7 +244,7 @@ export function createViews(data, progress, study, filters, catalogFilters) {
     if (host) host.innerHTML = catalogRows();
   }
   function renderCoverage() {
-    let html = `<div class="eyebrow">AUDYT WIEDZY</div><h1>11 zagadnień egzaminacyjnych</h1><p class="lead">Statusy opisują wyłącznie to, co da się ustalić z załączonych slajdów. Brak oznacza brak podstaw do opracowania odpowiedzi z tych dwóch wykładów.</p><div class="notice"><strong>Brak w obu wykładach</strong>„Etapy przy stwardnieniu” oraz „Postępowanie RAJS”. Nie zamieniam ich na stadia POChP ani inne, domniemane procedury.</div>`;
+    let html = `<div class="eyebrow">AUDYT WIEDZY</div><h1>Zakres materiału według wykładu</h1><p class="lead">Status wskazuje, w jakim stopniu materiały danego wykładu omawiają zagadnienie. Numery slajdów pomagają wrócić do źródła.</p>`;
     html += `<div class="grid two coverage-grid">${sets
       .filter((set) => set.coverage.length)
       .map(
@@ -258,7 +255,7 @@ export function createViews(data, progress, study, filters, catalogFilters) {
     return html;
   }
   function renderGallery() {
-    return `<div class="eyebrow">MATERIAŁY GRAFICZNE</div><h1>Schematy z prezentacji</h1><p class="lead">Wybrane ilustracje przeniesione z oryginalnych slajdów do tej aplikacji. Są częścią źródła wykładowego.</p><div class="gallery">${sets
+    return `<div class="eyebrow">MATERIAŁY GRAFICZNE</div><h1>Ilustracje i schematy</h1><p class="lead">Ilustracje ze slajdów i schematy do powtórki. Podpis pod każdą grafiką wskazuje wykład i slajd źródłowy.</p><div class="gallery">${sets
       .flatMap((set) => set.images)
       .map(
         (v) =>

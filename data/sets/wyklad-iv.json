@@ -1,0 +1,3134 @@
+{
+  "cards": [
+    {
+      "id": "F-IV-001",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "2",
+      "topic": "Cele i powikłania pooperacyjne",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Jakie są trzy nadrzędne cele rehabilitacji w chirurgii?",
+      "answer": "Zapobieganie powikłaniom i następstwom operacji, leczenie powikłań i zaburzeń czynnościowych oraz możliwie szybki powrót do sprawności sprzed operacji."
+    },
+    {
+      "id": "F-IV-002",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "2",
+      "topic": "Cele i powikłania pooperacyjne",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Które dwa cele dotyczą bezpośrednio odpływu krwi z kończyn dolnych?",
+      "answer": "Zapewnienie prawidłowego odpływu żylnego i utrzymanie sprawnej pompy mięśniowej kończyn dolnych."
+    },
+    {
+      "id": "F-IV-003",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "3–4",
+      "topic": "Cele i powikłania pooperacyjne",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Co dzieje się z ryzykiem zaburzeń czynności w miarę wydłużania okresu małej aktywności przed operacją?",
+      "answer": "Ryzyko narasta. Wykład wymienia aktywację krzepnięcia już w pierwszej dobie małej aktywności i ujemny bilans azotowy po upływie około tygodnia."
+    },
+    {
+      "id": "F-IV-004",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "5",
+      "topic": "Cele i powikłania pooperacyjne",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Dlaczego pooperacyjne wzdęcie może pogarszać wentylację płuc?",
+      "answer": "Unosi przeponę i ogranicza jej ruchomość. Wykład łączy wzdęcie z przejściowym osłabieniem perystaltyki po znieczuleniu ogólnym."
+    },
+    {
+      "id": "F-IV-005",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "6",
+      "topic": "Cele i powikłania pooperacyjne",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Jakie trzy grupy powikłań pooperacyjnych wyróżniono w wykładzie?",
+      "answer": "Płucne, zakrzepowo-zatorowe i krążeniowe."
+    },
+    {
+      "id": "F-IV-006",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "6–7",
+      "topic": "Cele i powikłania pooperacyjne",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Jak pooperacyjny ból utrudnia oczyszczanie dróg oddechowych?",
+      "answer": "Pacjent spłyca oddech, mniej się rusza i unika kaszlu. Wydzielinę trudniej odkrztusić."
+    },
+    {
+      "id": "F-IV-007",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "7",
+      "topic": "Cele i powikłania pooperacyjne",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jak narkoza i leki przeciwbólowe mogą sprzyjać zaleganiu wydzieliny w opisie wykładu?",
+      "answer": "Osłabiają czynność oddechową, utrudniają kaszel, a zagęszczona wydzielina może zalegać w oskrzelach."
+    },
+    {
+      "id": "F-IV-008",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "8",
+      "topic": "Cele i powikłania pooperacyjne",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Czym różni się wstrząs hipowolemiczny od kardiogennego w ujęciu wykładu?",
+      "answer": "Hipowolemiczny wiąże się z nagłą utratą krwi, osocza lub wody. W kardiogennym dopływ krwi do ważnych narządów jest niewystarczający wskutek spadku rzutu serca."
+    },
+    {
+      "id": "F-IV-009",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "8",
+      "topic": "Cele i powikłania pooperacyjne",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jaki mechanizm wstrząsu septycznego podkreślono w wykładzie?",
+      "answer": "Zmniejszone wykorzystanie tlenu przez komórki mimo dużego przepływu krwi i prawidłowego wysycenia jej tlenem w przedstawionym opisie."
+    },
+    {
+      "id": "F-IV-010",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "9,18",
+      "topic": "Cele i powikłania pooperacyjne",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Wymień cztery czynniki zwiększające ryzyko zakrzepicy żył głębokich po operacji.",
+      "answer": "Przykłady z wykładu to unieruchomienie, otyłość, żylaki kończyn dolnych i choroba nowotworowa. Wymieniono też m.in. wiek powyżej 40 lat i przebyte incydenty zakrzepowo-zatorowe."
+    },
+    {
+      "id": "F-IV-011",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "9–10",
+      "topic": "Cele i powikłania pooperacyjne",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Jakie groźne następstwo może mieć pooperacyjna zakrzepica żył głębokich?",
+      "answer": "Zatorowość płucną, gdy materiał zatorowy zamyka pień tętnicy płucnej albo jego rozgałęzienia."
+    },
+    {
+      "id": "F-IV-012",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "11",
+      "topic": "Cele i powikłania pooperacyjne",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie dwie grupy czynników ryzyka rozróżnia wykład?",
+      "answer": "Osobnicze, np. wiek i choroby współistniejące, oraz operacyjne, np. rozległość zabiegu, znieczulenie i unieruchomienie."
+    },
+    {
+      "id": "F-IV-013",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "12",
+      "topic": "Cele i powikłania pooperacyjne",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Jak zorganizować rehabilitację według wykładu, zwłaszcza we wczesnym okresie po operacji?",
+      "answer": "Prowadzić ją systematycznie i często w ciągu całej doby, w zakresie dostosowanym do stanu chorego."
+    },
+    {
+      "id": "F-IV-014",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "13",
+      "topic": "Kinezyterapia i fizykoterapia",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Jakie trzy funkcje mogą pełnić ćwiczenia oddechowe?",
+      "answer": "Zapobiegawczą, leczniczą oraz rozluźniająco-uspokajającą."
+    },
+    {
+      "id": "F-IV-015",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "13",
+      "topic": "Kinezyterapia i fizykoterapia",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie przeciwwskazania do ćwiczeń oddechowych wymienia slajd 13?",
+      "answer": "Niewydolność oddechową, niedawny krwotok płucny i inne przeciwwskazania wskazane przez lekarza."
+    },
+    {
+      "id": "F-IV-016",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "14",
+      "topic": "Kinezyterapia i fizykoterapia",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Czym różnią się ćwiczenia oddechowe bierne, czynno-bierne i czynne?",
+      "answer": "Bierne wykonuje się bez czynnego udziału chorego. W czynno-biernych ruch łączy się z częściową pomocą, np. czynny oddech z biernym ruchem kończyn. W czynnych chory sam wykonuje oddechy."
+    },
+    {
+      "id": "F-IV-017",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "14",
+      "topic": "Kinezyterapia i fizykoterapia",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Do czego służą pozycje ułożeniowe w ćwiczeniach oddechowych?",
+      "answer": "Mogą ułatwić lub utrudnić wybraną fazę oddechu, ustabilizować część klatki piersiowej i zwiększyć udział przepony albo mięśni międzyżebrowych."
+    },
+    {
+      "id": "F-IV-018",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "14",
+      "topic": "Kinezyterapia i fizykoterapia",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jak można wprowadzić opór w ćwiczeniach oddechowych według wykładu?",
+      "answer": "Pozycją, ręką terapeuty, środowiskiem wodnym, przyborem lub zwiększeniem oporu wydechu, np. przez rurkę."
+    },
+    {
+      "id": "F-IV-019",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "15",
+      "topic": "Kinezyterapia i fizykoterapia",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Jaka jest kolejność faz ćwiczenia oddechowego w wykładzie?",
+      "answer": "Wydech na początku, następnie wdech nosem i wydłużony wydech ustami."
+    },
+    {
+      "id": "F-IV-020",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "15",
+      "topic": "Kinezyterapia i fizykoterapia",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Jaki jest wykładowy stosunek czasu wdechu do wydechu i ile oddechów obejmuje seria?",
+      "answer": "Stosunek to 1:2, czasem 1:3. Seria obejmuje 3–4 oddechy."
+    },
+    {
+      "id": "F-IV-021",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "15",
+      "topic": "Kinezyterapia i fizykoterapia",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Jak porusza się brzuch podczas opisywanego oddechu przeponowego?",
+      "answer": "Unosi się przy wdechu i opada przy wydechu."
+    },
+    {
+      "id": "F-IV-022",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "16",
+      "topic": "Kinezyterapia i fizykoterapia",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Dlaczego efektywnego kaszlu uczy się przed operacją?",
+      "answer": "Przed zabiegiem łatwiej opanować technikę, bo nauki nie utrudniają ból rany ani obawa przed jej rozejściem się."
+    },
+    {
+      "id": "F-IV-023",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "16",
+      "topic": "Kinezyterapia i fizykoterapia",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jakie warianty efektywnego kaszlu wymienia wykład?",
+      "answer": "Podwójne odkaszlnięcie, kaszel kontrolowany, kaszel wzmocniony oraz wydech z efektywnym kaszlem na końcu."
+    },
+    {
+      "id": "F-IV-024",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "17,82",
+      "topic": "Kinezyterapia i fizykoterapia",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Na czym polega pozycja woźnicy i jaką pozycję wykład dopuszcza przy bólu po operacji brzucha?",
+      "answer": "Pozycja woźnicy to siad z pochyleniem tułowia w przód. Po operacji brzucha, zależnie od bólu i lokalizacji rany, kaszel może odbywać się w półsiadzie."
+    },
+    {
+      "id": "F-IV-025",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "18–19",
+      "topic": "Kinezyterapia i fizykoterapia",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Jakie ruchy kończyn dolnych wykorzystuje się w ćwiczeniach przeciwzakrzepowych?",
+      "answer": "Głównie zgięcia grzbietowe i podeszwowe stóp oraz ich krążenia. Wykład wymienia też zgięcia i wyprosty kolan oraz bioder."
+    },
+    {
+      "id": "F-IV-026",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "23",
+      "topic": "Kinezyterapia i fizykoterapia",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Po co stosuje się ćwiczenia ogólnousprawniające i kondycyjne przed zabiegiem?",
+      "answer": "Aby podtrzymać lub poprawić sprawność i wydolność. Dobór ruchu uwzględnia chorobę podstawową, choroby współistniejące i lokalizację zabiegu."
+    },
+    {
+      "id": "F-IV-027",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "24",
+      "topic": "Kinezyterapia i fizykoterapia",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Co wyróżnia ćwiczenia oporowe?",
+      "answer": "Mięśnie szkieletowe pracują przeciw zewnętrznemu oporowi."
+    },
+    {
+      "id": "F-IV-028",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "25–26",
+      "topic": "Kinezyterapia i fizykoterapia",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Jaką rolę pełni fizykoterapia względem kinezyterapii w chirurgii?",
+      "answer": "Ma rolę pomocniczą, uzupełnia i przygotowuje do kinezyterapii. Przykłady obejmują inhalacje, elektroterapię, światłolecznictwo, ultradźwięki i masaż."
+    },
+    {
+      "id": "F-IV-029",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "28–30",
+      "topic": "Przygotowanie, uruchamianie i pionizacja",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Czego pacjent uczy się przed operacją, żeby móc ćwiczyć po zabiegu?",
+      "answer": "Ćwiczeń oddechowych i przeciwzakrzepowych, efektywnego kaszlu, stabilizacji okolicy przyszłej rany oraz samoobsługi, w tym zmiany pozycji."
+    },
+    {
+      "id": "F-IV-030",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "28–29",
+      "topic": "Przygotowanie, uruchamianie i pionizacja",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Co ocenia się przy ustalaniu zakresu rehabilitacji przedoperacyjnej?",
+      "answer": "Stan ogólny i możliwości psychofizyczne po uzyskaniu informacji od lekarza, choroby współistniejące, czynność układu oddechowego, wydolność i ruchomość, a także zakres zabiegu i jego ryzyko."
+    },
+    {
+      "id": "F-IV-031",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "32,37",
+      "topic": "Przygotowanie, uruchamianie i pionizacja",
+      "difficulty": "hard",
+      "priority": true,
+      "question": "Jak wykład opisuje podłączoną kroplówkę we wczesnych ćwiczeniach pooperacyjnych?",
+      "answer": "Slajd 32 wymienia ją jako względne przeciwwskazanie. Slajd 37 doprecyzowuje, że przy stosowanych wkłuciach sama kroplówka nie wyklucza ćwiczeń, a w razie potrzeby odłącza ją pielęgniarka."
+    },
+    {
+      "id": "F-IV-032",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "32",
+      "topic": "Przygotowanie, uruchamianie i pionizacja",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jakie przeciwwskazania do wczesnych ćwiczeń pooperacyjnych wymienia slajd 32?",
+      "answer": "Temperaturę powyżej 37,5°C oraz miejscowy lub ogólny stan zapalny. Jako względne wymieniono dzień zdjęcia szwów i podłączoną kroplówkę."
+    },
+    {
+      "id": "F-IV-033",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "33",
+      "topic": "Przygotowanie, uruchamianie i pionizacja",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Jaki etap usprawniania następuje po wypisie ze szpitala w wykładzie?",
+      "answer": "Etap ambulatoryjny, a przy wskazaniach także sanatoryjny."
+    },
+    {
+      "id": "F-IV-034",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "34",
+      "topic": "Przygotowanie, uruchamianie i pionizacja",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jakie elementy ćwiczeń opisano dla doby zerowej w rehabilitacji ogólnochirurgicznej?",
+      "answer": "Oddech, efektywny kaszel ze stabilizacją rany, ćwiczenia przeciwzakrzepowe i samoobsługę."
+    },
+    {
+      "id": "F-IV-035",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "34,91",
+      "topic": "Przygotowanie, uruchamianie i pionizacja",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Który tor oddechowy dominuje w opisach doby zerowej w chirurgii ogólnej i po torakotomii?",
+      "answer": "Na slajdzie 34 dominuje tor piersiowy, z wyjątkami zależnymi od zabiegu. Po torakotomii slajd 91 wskazuje tor przeponowy."
+    },
+    {
+      "id": "F-IV-036",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "35,40",
+      "topic": "Przygotowanie, uruchamianie i pionizacja",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Co sprawdza się przed ćwiczeniami i pionizacją w pierwszej dobie?",
+      "answer": "Stan i zabezpieczenie drenów, sond i cewników. Pionizację wykład wiąże także z brakiem przeciwwskazań, a spacer z aktualną tolerancją i bólem."
+    },
+    {
+      "id": "F-IV-037",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "36",
+      "topic": "Przygotowanie, uruchamianie i pionizacja",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jakie ćwiczenia mięśni brzucha wykład odradza bezpośrednio po operacji?",
+      "answer": "Ćwiczenia z długą dźwignią, np. unoszenie wyprostowanych nóg lub siad z leżenia na plecach, oraz ćwiczenia statyczne, które łatwo łączą się z zatrzymaniem oddechu."
+    },
+    {
+      "id": "F-IV-038",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "37",
+      "topic": "Przygotowanie, uruchamianie i pionizacja",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Czego unika się przy przemieszczaniu chorego z workiem na mocz?",
+      "answer": "Uniesienia wypełnionego worka powyżej poziomu pęcherza przy otwartym świetle cewnika, żeby nie dopuścić do cofania moczu."
+    },
+    {
+      "id": "F-IV-039",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "37–38",
+      "topic": "Przygotowanie, uruchamianie i pionizacja",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie sposoby wspomagania kaszlu omawia wykład w części ogólnochirurgicznej?",
+      "answer": "Oklepywanie, masaż wibracyjny, inhalacje, nawilżanie i techniki oddechowe, np. z użyciem głosek „r” lub „h”."
+    },
+    {
+      "id": "F-IV-040",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "39",
+      "topic": "Przygotowanie, uruchamianie i pionizacja",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jak wykład ilustruje sterowanie mięśniami tułowia górą i dołem?",
+      "answer": "Sterowanie górą to np. unoszenie głowy. Sterowanie dołem to np. zgięcie nóg w biodrach i kolanach."
+    },
+    {
+      "id": "F-IV-041",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "39–40",
+      "topic": "Przygotowanie, uruchamianie i pionizacja",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie dwa sposoby przemieszczania się w siadzie w łóżku podano?",
+      "answer": "Naprzemienne przesuwanie pośladków oraz cofanie bioder w podparciu na obu rękach, jeśli ból na to pozwala."
+    },
+    {
+      "id": "F-IV-042",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "42",
+      "topic": "Przygotowanie, uruchamianie i pionizacja",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Przez jaką pozycję wykład prowadzi z leżenia do siadu po operacji?",
+      "answer": "Przez leżenie na boku, aby ograniczyć użycie tłoczni brzusznej i wzrost ciśnienia w jamie brzusznej."
+    },
+    {
+      "id": "F-IV-043",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "43–44",
+      "topic": "Przygotowanie, uruchamianie i pionizacja",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Co może wymagać modyfikacji typowego programu rehabilitacji po operacji?",
+      "answer": "Rodzaj znieczulenia i cięcia, stan pacjenta, podłączony sprzęt oraz ograniczenia pozycji dopuszczonych po konkretnym zabiegu."
+    },
+    {
+      "id": "F-IV-044",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "45",
+      "topic": "Niedodma i profilaktyka zakrzepicy",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jakie elementy wymieniono w wykładowym schemacie rehabilitacji niedodmy pooperacyjnej?",
+      "answer": "Wysokie ułożenie, inhalacje, ćwiczenia z oporowanym wydechem, pozycje drenażowe dobrane do lokalizacji niedodmy, oklepywanie i efektywny kaszel."
+    },
+    {
+      "id": "F-IV-045",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "46–48",
+      "topic": "Niedodma i profilaktyka zakrzepicy",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "W jakim celu wykład rozróżnia profilaktykę zakrzepicy od postępowania przy występującej zakrzepicy?",
+      "answer": "Ćwiczenia kończyn i wczesne uruchamianie opisano w profilaktyce. Przy pooperacyjnej zakrzepicy slajd 46 wyłącza ćwiczenia z wyjątkiem oddechowych i efektywnego kaszlu ze względu na ryzyko zatorowości."
+    },
+    {
+      "id": "F-IV-046",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "47–48",
+      "topic": "Niedodma i profilaktyka zakrzepicy",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Jakie dwie grupy metod profilaktyki zakrzepicy przedstawia wykład?",
+      "answer": "Farmakologiczne i fizykalne. Fizykalne dzielą się na czynne i bierne."
+    },
+    {
+      "id": "F-IV-047",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "48",
+      "topic": "Niedodma i profilaktyka zakrzepicy",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Podaj dwie czynne i trzy bierne metody fizykalne ograniczania ryzyka zakrzepicy w wykładzie.",
+      "answer": "Czynne obejmują ćwiczenia nóg i wczesną pionizację. Bierne to np. bandażowanie, pończochy elastyczne i przerywana kompresja pneumatyczna."
+    },
+    {
+      "id": "F-IV-048",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "50",
+      "topic": "Niedodma i profilaktyka zakrzepicy",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "W którą stronę rośnie ucisk pończochy przeciwzakrzepowej w wykładzie?",
+      "answer": "W stronę obwodu. Wartości z przykładu to 8 mm Hg na udzie, 14 mm Hg na poziomie kolana i 18 mm Hg przy stawie skokowym."
+    },
+    {
+      "id": "F-IV-049",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "51–52",
+      "topic": "Niedodma i profilaktyka zakrzepicy",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie grupy ryzyka rozróżnia wykładowy opis profilaktyki zakrzepowej?",
+      "answer": "Małe, średnie i wysokie ryzyko. Wykład łączy dobór metod z grupą oraz z ryzykiem krwawienia."
+    },
+    {
+      "id": "F-IV-050",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "54–55",
+      "topic": "Odleżyny",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Jaka jest główna przyczyna odleżyn i co sprzyja ich rozwojowi?",
+      "answer": "Miejscowy ucisk. Ryzyko zwiększają m.in. długie unieruchomienie, wilgoć, niedożywienie, odwodnienie i choroby współistniejące."
+    },
+    {
+      "id": "F-IV-051",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "56",
+      "topic": "Odleżyny",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Wymień sześć miejsc zwiększonego ryzyka odleżyn z wykładu.",
+      "answer": "Przykłady to potylica, łopatki, łokcie, kość krzyżowa, krętarze, kolana, okolica stawów skokowych i guzy piętowe."
+    },
+    {
+      "id": "F-IV-052",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "57",
+      "topic": "Odleżyny",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jak w wykładowej skali Thorrance’a odróżnić stopnie I i II odleżyn?",
+      "answer": "W I stopniu skóra jest cała, a zaczerwienienie blednie pod lekkim uciskiem. W II rumień nie blednie, mogą też wystąpić powierzchowna nadżerka, pęcherze lub otarcie."
+    },
+    {
+      "id": "F-IV-053",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "57",
+      "topic": "Odleżyny",
+      "difficulty": "hard",
+      "priority": true,
+      "question": "Jakie cechy w wykładowej skali Thorrance’a odpowiadają stopniom III–V?",
+      "answer": "III oznacza uszkodzenie pełnej grubości skóry do granicy tkanki podskórnej. W IV uszkodzenie może sięgać kości. V obejmuje zaawansowaną martwicę z zajęciem powięzi i mięśni."
+    },
+    {
+      "id": "F-IV-054",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "58",
+      "topic": "Odleżyny",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Co w wykładowej ocenie kolorystycznej oznaczają czarna, żółta, czerwona i różowa rana?",
+      "answer": "Czarna odpowiada martwicy, żółta nagromadzonym masom komórkowym, czerwona ziarninowaniu, a różowa naskórkowaniu."
+    },
+    {
+      "id": "F-IV-055",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "63–65",
+      "topic": "Odleżyny",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jakie są główne elementy profilaktyki odleżyn opisane w wykładzie?",
+      "answer": "Odciążanie i zmiany ułożenia, sprzęt przeciwodleżynowy, ochrona skóry przed wilgocią, systematyczny ruch i opieka interdyscyplinarna."
+    },
+    {
+      "id": "F-IV-056",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "67",
+      "topic": "Blizny",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Czym jest blizna w ujęciu wykładu?",
+      "answer": "Tkanką łączną, która tworzy się w miejscu uszkodzonej tkanki w procesie gojenia rany."
+    },
+    {
+      "id": "F-IV-057",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "68",
+      "topic": "Blizny",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Jakie są trzy fazy gojenia rany w wykładzie?",
+      "answer": "Faza zapalna (oczyszczanie), faza proliferacji (ziarninowanie) i faza dojrzewania (przebudowa)."
+    },
+    {
+      "id": "F-IV-058",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "68",
+      "topic": "Blizny",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jakie ramy czasowe przypisuje się fazom gojenia na slajdzie 68?",
+      "answer": "Fazie zapalnej 48–72 godziny, proliferacji 3–6 tygodni, a przebudowie początek od trzeciego tygodnia. Przebudowa może trwać kilka lat."
+    },
+    {
+      "id": "F-IV-059",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "68",
+      "topic": "Blizny",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Co dzieje się z tkanką podczas proliferacji, a co podczas dojrzewania blizny?",
+      "answer": "W proliferacji ubytek wypełnia ziarnina, powstaje nowy naskórek i fibroblasty produkują kolagen. W dojrzewaniu kolagen się porządkuje, a blizna blednie, spłaszcza się i staje się wytrzymalsza."
+    },
+    {
+      "id": "F-IV-060",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "69",
+      "topic": "Blizny",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Dlaczego zrost może ograniczać sprawność?",
+      "answer": "Tworzy nieprawidłowe połączenie tkanek i ogranicza ich wzajemny ślizg, co może zmniejszać ruchomość i powodować ból."
+    },
+    {
+      "id": "F-IV-061",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "70",
+      "topic": "Blizny",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Jak odróżnić liniową bliznę przerosłą od keloidu w podziale Mustoe?",
+      "answer": "Liniowa blizna przerosła pozostaje w granicach rany chirurgicznej. Keloid jest wypukły i wykracza poza obrys rany."
+    },
+    {
+      "id": "F-IV-062",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "70",
+      "topic": "Blizny",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie cechy wykład przypisuje bliźnie prawidłowej i nieprawidłowej w podziale Mustoe?",
+      "answer": "Prawidłowa jest płaska i perłowa. Nieprawidłowa jest czerwona, nieco uniesiona, a w jej okolicy mogą występować bolesność i świąd."
+    },
+    {
+      "id": "F-IV-063",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "71–72",
+      "topic": "Blizny",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Kiedy wykład przewiduje mobilizację bezpośrednio w obrębie blizny?",
+      "answer": "Po wygojeniu rany, początkowo z małym nasileniem. We wczesnej fazie pracy uwaga skupia się na tkankach otaczających ranę."
+    },
+    {
+      "id": "F-IV-064",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "73–74",
+      "topic": "Blizny",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Co bada się przed wyborem techniki pracy z blizną w fazie przebudowy?",
+      "answer": "Ślizg wzdłużny, poprzeczny i rotacyjny oraz przesuwalność blizny względem położonych pod nią tkanek."
+    },
+    {
+      "id": "F-IV-065",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "73",
+      "topic": "Blizny",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jakie trzy grupy mobilizacji blizny opisuje slajd 73?",
+      "answer": "Długotrwały nacisk, przedłużone jedno- lub wielokierunkowe rozciąganie i rytmiczną mobilizację w kierunku ograniczenia ruchu."
+    },
+    {
+      "id": "F-IV-066",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "75",
+      "topic": "Blizny",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jak zmienia się kierunek w rozciąganiu makroskopowym blizny?",
+      "answer": "Od rozciągania wzdłuż blizny przez kierunek prostopadły po pracę promienistą."
+    },
+    {
+      "id": "F-IV-067",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "75",
+      "topic": "Blizny",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie techniki pracy z blizną omówiono obok rozciągania makroskopowego?",
+      "answer": "Delikatne kręgi, rozciąganie w kształcie litery J, pionowe dźwiganie i rolowanie skóry."
+    },
+    {
+      "id": "F-IV-068",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "76",
+      "topic": "Blizny",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie zabiegi fizykalne wykład wymienia w terapii blizn?",
+      "answer": "Elektrostymulację i inne formy elektroterapii, magnetostymulację, światłolecznictwo i laseroterapię."
+    },
+    {
+      "id": "F-IV-069",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "78–79",
+      "topic": "Torakochirurgia",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie przykładowe problemy obejmuje część o torakochirurgii?",
+      "answer": "Rak płuca i przełyku, guzy śródpiersia, deformacje klatki piersiowej, następstwa urazów i odma opłucnej."
+    },
+    {
+      "id": "F-IV-070",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "79",
+      "topic": "Torakochirurgia",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Czym jest odma opłucnej?",
+      "answer": "Obecnością powietrza w jamie opłucnej, która może prowadzić do zapadnięcia płuca."
+    },
+    {
+      "id": "F-IV-071",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "80",
+      "topic": "Torakochirurgia",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Co oznaczają nazwy torakotomia, sternotomia i torakoskopia?",
+      "answer": "Otwarcie klatki piersiowej, przecięcie mostka i wziernikowanie jamy opłucnej."
+    },
+    {
+      "id": "F-IV-072",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "81",
+      "topic": "Torakochirurgia",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jaką pozycję opisano do nauki oddechu przeponowego przed operacją klatki piersiowej?",
+      "answer": "Leżenie na plecach ze zgiętymi biodrami i kolanami oraz stopami opartymi na podłożu, co ułatwia rozluźnienie brzucha i kontrolę oddechu."
+    },
+    {
+      "id": "F-IV-073",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "82–84",
+      "topic": "Torakochirurgia",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Po co stabilizuje się okolicę rany podczas kaszlu?",
+      "answer": "Aby zmniejszyć ból i ułatwić odkrztuszanie. Wykład wiąże unikanie kaszlu także z lękiem przed bólem lub rozejściem rany."
+    },
+    {
+      "id": "F-IV-074",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "84",
+      "topic": "Torakochirurgia",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jak po sternotomii stabilizuje się okolicę rany podczas kaszlu w opisie wykładu?",
+      "answer": "Oburącz. Wykład opisuje ułożenie obu rąk na okolicy cięcia albo dłoni po jego obu stronach."
+    },
+    {
+      "id": "F-IV-075",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "87",
+      "topic": "Torakochirurgia",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Kiedy wykład rozważa pozycje drenażowe w torakochirurgii?",
+      "answer": "Przed operacją przy zalegającej wydzielinie, z ułożeniem dobranym do jej lokalizacji. Po operacji w okresie szpitalnym odradza je ze względu na ból, ranę i drenaż opłucnej."
+    },
+    {
+      "id": "F-IV-076",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "88,94",
+      "topic": "Torakochirurgia",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Którą stronę klatki piersiowej obejmuje masaż wibracyjny opisany w torakochirurgii?",
+      "answer": "Stronę nieoperowaną. Na slajdzie 88 tę samą zasadę podano dla oklepywania."
+    },
+    {
+      "id": "F-IV-077",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "89–91",
+      "topic": "Torakochirurgia",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jakie ułożenie i ćwiczenia omówiono w dobie zerowej po torakotomii?",
+      "answer": "Półleżenie lub półsiad ze względu na drenaż opłucnej, ćwiczenia przeponowe, efektywny kaszel ze stabilizacją rany i ćwiczenia przeciwzakrzepowe."
+    },
+    {
+      "id": "F-IV-078",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "90",
+      "topic": "Torakochirurgia",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Co oznacza wyraźny wzrost ilości krwi w butli drenażowej po torakotomii?",
+      "answer": "Może oznaczać krwotok i wymaga konsultacji lekarza. Krwotok jest wykładowym bezwzględnym przeciwwskazaniem do ćwiczeń."
+    },
+    {
+      "id": "F-IV-079",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "92",
+      "topic": "Torakochirurgia",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Co stanowi bezwzględne przeciwwskazanie do ćwiczeń po resekcji płuca w opisie plwociny?",
+      "answer": "Żywoczerwona krew w plwocinie, czyli krwioplucie w rozumieniu opisu wykładu. Slajd odróżnia je od bordowego podbarwienia wydzieliny."
+    },
+    {
+      "id": "F-IV-080",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "93",
+      "topic": "Torakochirurgia",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie elementy organizacji efektywnego kaszlu wymienia slajd 93?",
+      "answer": "Przygotowanie ligniny, ustawienie fizjoterapeuty nieco z tyłu z twarzą odwróconą w przeciwną stronę i powtarzanie kaszlu według opisu do ustąpienia zalegania wydzieliny."
+    },
+    {
+      "id": "F-IV-081",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "95",
+      "topic": "Torakochirurgia",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Dlaczego po torakotomii uwzględnia się klatkę piersiową i obręcz barkową w ćwiczeniach ogólnych?",
+      "answer": "Wykład wskazuje ryzyko przykurczów barku, zrostów opłucnowych i nieprawidłowego ustawienia ciała."
+    },
+    {
+      "id": "F-IV-082",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "96",
+      "topic": "Torakochirurgia",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Które dwa objawy podczas pionizacji po torakotomii podkreśla wykład?",
+      "answer": "Zasinienie warg lub okolic pod paznokciami oraz kropelkowe pocenie się na czole lub skroniach."
+    },
+    {
+      "id": "F-IV-083",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "98–99",
+      "topic": "Angiochirurgia tętnicza",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Na czym polega miażdżyca zarostowa tętnic opisana w wykładzie?",
+      "answer": "Na zwężeniu lub zamknięciu dużych naczyń tętniczych. Lokalizacja zmiany wpływa na obszar niedokrwienia."
+    },
+    {
+      "id": "F-IV-084",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "100–101",
+      "topic": "Angiochirurgia tętnicza",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie objawy i przyczyny niedokrwienia kończyn omawia wykład?",
+      "answer": "Objawy obejmują chromanie, późniejszy ból spoczynkowy, oziębienie, zmiany czucia i zmiany troficzne. Wśród przyczyn ostrego niedokrwienia wymieniono uraz tętnicy, zator i zakrzep."
+    },
+    {
+      "id": "F-IV-085",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "102–104,122",
+      "topic": "Angiochirurgia tętnicza",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Czym różni się pomostowanie od embolektomii?",
+      "answer": "Pomostowanie umożliwia przepływ z ominięciem niedrożnego odcinka. Embolektomia usuwa materiał zatorowy blokujący naczynie."
+    },
+    {
+      "id": "F-IV-086",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "105–106",
+      "topic": "Angiochirurgia tętnicza",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Co dodatkowo uwzględnia przygotowanie do planowanej amputacji w wykładzie?",
+      "answer": "Pracę nad siłą i sprawnością kończyn górnych i dolnych oraz naukę chodu o kulach."
+    },
+    {
+      "id": "F-IV-087",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "107–108",
+      "topic": "Angiochirurgia tętnicza",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie przykłady oporowania wydechu i kontroli toru przeponowego podano w przygotowaniu do operacji tętnic?",
+      "answer": "Do wydechu wymieniono butelkę z wodą, ligninę i wypowiadanie spółgłosek. Tor przeponowy można kontrolować wzrokiem i dłonią ułożoną na nadbrzuszu w leżeniu tyłem."
+    },
+    {
+      "id": "F-IV-088",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "109",
+      "topic": "Angiochirurgia tętnicza",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jak wykład przedstawia dwie wersje kaszlu w pozycji woźnicy?",
+      "answer": "Po krótkim głębokim wdechu nosem następuje długi wydech ustami i seria kaszlnięć pod jego koniec. Druga wersja różni się przerywanym wydechem."
+    },
+    {
+      "id": "F-IV-089",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "111",
+      "topic": "Angiochirurgia tętnicza",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Jakie ruchy stóp nazwano rytmicznymi ćwiczeniami przeciwzakrzepowymi w angiochirurgii?",
+      "answer": "Naprzemienne zgięcia podeszwowe i grzbietowe w tempie oddechowym."
+    },
+    {
+      "id": "F-IV-090",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "112,126–128",
+      "topic": "Angiochirurgia tętnicza",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jak przebiega usprawnianie po operacji tętnic według wykładu?",
+      "answer": "Kontynuuje się poznane ćwiczenia i zmiany pozycji, wprowadza pionizację oraz naukę chodu, a potem stopniowo zwiększa aktywność w okresie szpitalnym i późnym."
+    },
+    {
+      "id": "F-IV-091",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "113",
+      "topic": "Angiochirurgia tętnicza",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie trzy parametry opisują trening marszowy w przewlekłym niedokrwieniu tętniczym?",
+      "answer": "Częstotliwość kroków, dystans marszu i czas przerwy na odpoczynek."
+    },
+    {
+      "id": "F-IV-092",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "115",
+      "topic": "Angiochirurgia tętnicza",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Co oznacza dystans chromania w definicji z prezentacji?",
+      "answer": "Odległość od rozpoczęcia marszu do bólu mięśni podudzi, który zmusza chorego do odpoczynku."
+    },
+    {
+      "id": "F-IV-093",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "116–117",
+      "topic": "Angiochirurgia tętnicza",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jak działa przerywana kompresja pneumatyczna w części dotyczącej angiochirurgii?",
+      "answer": "Nogawica cyklicznie napełnia się powietrzem i opróżnia, wspomagając działanie pompy mięśniowej. W opisie zabiegu uwzględnia się ciśnienie, czas ucisku, przerwy i czas całej sesji."
+    },
+    {
+      "id": "F-IV-094",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "119,125",
+      "topic": "Angiochirurgia tętnicza",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Podaj trzy przeciwwskazania do kompresji pneumatycznej z części o angiochirurgii.",
+      "answer": "Wykład wymienia m.in. ostre zapalenie naczyń, ostre zakrzepowe zapalenie żył oraz niewydolność krążenia."
+    },
+    {
+      "id": "F-IV-095",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "120–124",
+      "topic": "Angiochirurgia tętnicza",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie cele i obszary zastosowania kompresji pneumatycznej wymienia część o angiochirurgii?",
+      "answer": "Opisuje m.in. poprawę przepływu i wydłużenie dystansu chromania oraz omawia zastosowania w niewydolności tętniczej, żylnej i chłonnej."
+    },
+    {
+      "id": "F-IV-096",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "126–127",
+      "topic": "Angiochirurgia tętnicza",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie działania po amputacji łączy wykład z przygotowaniem do chodu i zaprotezowania?",
+      "answer": "Pozycje ułożeniowe, przygotowanie kikuta, naukę obciążania, pionizację i naukę chodu."
+    },
+    {
+      "id": "F-IV-097",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "129",
+      "topic": "Angiochirurgia tętnicza",
+      "difficulty": "hard",
+      "priority": true,
+      "question": "Jakie objawy odpowiadają stopniom I, IIa, IIb, III i IV w wykładowej skali Fontaine’a?",
+      "answer": "I to brak objawów lub dolegliwości nietypowe. IIa to chromanie po ponad 200 m, IIb po mniej niż 200 m. III obejmuje ból spoczynkowy i początek zmian troficznych, a IV martwicę tkanek."
+    },
+    {
+      "id": "F-IV-098",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "132–135",
+      "topic": "Angiochirurgia tętnicza",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jakie cztery części składają się na schemat Horodyńskiego?",
+      "answer": "Oddech i izometria, wzmacnianie tułowia i kończyn, ćwiczenia naczyniowe oraz oddech i rozluźnienie."
+    },
+    {
+      "id": "F-IV-099",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "133",
+      "topic": "Angiochirurgia tętnicza",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jaki rytm pracy izometrycznej podaje schemat Horodyńskiego?",
+      "answer": "2 sekundy napięcia i 4 sekundy rozluźnienia."
+    },
+    {
+      "id": "F-IV-100",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "136",
+      "topic": "Angiochirurgia tętnicza",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jakie przeciwwskazania do treningu wymienia część o niedokrwieniu tętniczym?",
+      "answer": "Ból spoczynkowy, III lub IV stadium niedokrwienia, ostre niedokrwienie, złe samopoczucie lub odmowę, zabiegi inwazyjne i objawy z innych układów."
+    },
+    {
+      "id": "F-IV-101",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "137–139",
+      "topic": "Choroby żył",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jak choroby układu żylnego prowadzą do przewlekłej niewydolności żylnej w opisie wykładu?",
+      "answer": "Zastój i cofanie krwi zwiększają ciśnienie w obszarze mikrokrążenia."
+    },
+    {
+      "id": "F-IV-102",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "140",
+      "topic": "Choroby żył",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Co oznaczają klasy C0–C3 w wykładowej skali klinicznej chorób żylnych?",
+      "answer": "C0 oznacza brak objawów, C1 pajączki lub teleangiektazje, C2 żylaki, a C3 obrzęk."
+    },
+    {
+      "id": "F-IV-103",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "140",
+      "topic": "Choroby żył",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Co oznaczają C4, C5 i C6 w wykładowej skali klinicznej chorób żylnych?",
+      "answer": "C4 obejmuje zmiany skóry, np. przebarwienia i wypryski. W C5 widoczne są blizny po wygojonych owrzodzeniach, a w C6 występuje czynne owrzodzenie żylakowe."
+    },
+    {
+      "id": "F-IV-104",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "142",
+      "topic": "Choroby żył",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Co opisują nazwy stripping i skleroterapia w części o leczeniu żył?",
+      "answer": "Stripping polega na usunięciu pnia żyły, a skleroterapia na podaniu środka powodującego zamknięcie światła zmienionej żyły."
+    },
+    {
+      "id": "F-IV-105",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "143–145",
+      "topic": "Choroby żył",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie elementy usprawniania przy zabiegach żylnych wymienia wykład?",
+      "answer": "Ruchy czynne kończyn dolnych, izometrię, ćwiczenia oddechowe, wczesne chodzenie, kompresję i unikanie długiego stania oraz siedzenia."
+    },
+    {
+      "id": "F-IV-106",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "146",
+      "topic": "Obrzęk chłonny",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Czym różni się pierwotny obrzęk chłonny od wtórnego?",
+      "answer": "Pierwotny wynika z zaburzeń rozwojowych układu chłonnego. Wtórny jest następstwem nabytego uszkodzenia lub choroby, np. urazu albo stanu zapalnego."
+    },
+    {
+      "id": "F-IV-107",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "147–148",
+      "topic": "Obrzęk chłonny",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jak oznaczono stadia obrzęku chłonnego w kończynie dolnej i górnej?",
+      "answer": "W kończynie dolnej od 0 do IV, od grzbietu stopy do całej kończyny. W górnej od A do D, od ręki do całej kończyny od barku."
+    },
+    {
+      "id": "F-IV-108",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "149–150",
+      "topic": "Obrzęk chłonny",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Co przewiduje wykład po operacyjnym leczeniu obrzęku chłonnego?",
+      "answer": "Drenaż ręczny lub pneumatyczny, ćwiczenia ruchowe, rękawy lub pończochy elastyczne, pozycje ułożeniowe i przerywaną kompresję."
+    },
+    {
+      "id": "F-IV-109",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "151",
+      "topic": "Obrzęk chłonny",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Od której części kończyny zaczyna się drenaż chłonny i w którym kierunku przemieszcza się chłonkę?",
+      "answer": "Najpierw opracowuje się części bliższe i stopniowo przechodzi do dalszych. Mobilizację chłonki prowadzi się w kierunku dosercowym."
+    },
+    {
+      "id": "F-IV-110",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "152–154",
+      "topic": "Obrzęk chłonny",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie warunki ćwiczeń w obrzęku chłonnym podaje wykład?",
+      "answer": "Pozycja wspierająca odpływ chłonki, niewielka intensywność i krótkie serie. Wymieniono ćwiczenia czynne, izometryczne, oddechowe i rozluźniające."
+    },
+    {
+      "id": "F-IV-111",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "155–156",
+      "topic": "Testy naczyniowe",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Do czego służy w wykładzie test Perthesa?",
+      "answer": "Do oceny funkcji żył głębokich i przeszywających na podstawie opróżniania żylaków podczas pracy mięśni."
+    },
+    {
+      "id": "F-IV-112",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "157–158",
+      "topic": "Testy naczyniowe",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie dwa testy wykład przyporządkowuje do oceny zakrzepicy kończyny dolnej?",
+      "answer": "Testy Lowenberga i Homansa. To przyporządkowanie z wykładu, a ocena opisów testów jest zadaniem egzaminacyjnym."
+    },
+    {
+      "id": "F-IV-113",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "159–160",
+      "topic": "Testy naczyniowe",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jaka obserwacja stanowi podstawę wykładowej interpretacji testu Trendelenburga?",
+      "answer": "Kierunek i tempo wypełniania się żylaków przed zwolnieniem opaski i po nim."
+    },
+    {
+      "id": "F-IV-114",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "161",
+      "topic": "Testy naczyniowe",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Do jakiego celu wykład przypisuje test Allena?",
+      "answer": "Do oceny przepływu tętniczego w kończynie górnej na podstawie powrotu przekrwienia ręki."
+    },
+    {
+      "id": "F-IV-115",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "162",
+      "topic": "Testy naczyniowe",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Co obserwuje się w części opisowej testu Ratschowa–Boergera?",
+      "answer": "Tolerancję pracy stóp przy uniesionych nogach oraz czas do przekrwienia po przejściu do siadu z opuszczonymi nogami."
+    },
+    {
+      "id": "F-IV-116",
+      "kind": "card",
+      "lecture": "IV",
+      "slide": "60",
+      "topic": "Odleżyny",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Jakie okolice narażone na ucisk zaznaczono w ułożeniu na boku?",
+      "answer": "Uszy, ramiona, biodra oraz wewnętrzną i zewnętrzną stronę kolan i kostek."
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "Q-IV-001",
+      "kind": "quiz",
+      "lecture": "IV",
+      "slide": "2",
+      "topic": "Cele i powikłania pooperacyjne",
+      "difficulty": "basic",
+      "priority": true,
+      "qtype": "multi",
+      "question": "Które działania należą do nadrzędnych celów rehabilitacji w chirurgii?",
+      "options": [
+        "Utrzymywanie unieruchomienia do wypisu",
+        "Leczenie powikłań i zaburzeń czynnościowych",
+        "Powrót do sprawności sprzed zabiegu",
+        "Zapobieganie powikłaniom"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ],
+      "why": "Odpowiedź obejmuje profilaktykę, leczenie następstw i odzyskiwanie sprawności."
+    },
+    {
+      "id": "Q-IV-002",
+      "kind": "quiz",
+      "lecture": "IV",
+      "slide": "4",
+      "topic": "Cele i powikłania pooperacyjne",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "order",
+      "question": "Ułóż wykładowe następstwa małej aktywności od najwcześniejszego do najpóźniejszego.",
+      "options": [
+        "Aktywacja układu krzepnięcia",
+        "Wzrost diurezy i spadek objętości płynów ustrojowych",
+        "Wzrost stężenia fibrynogenu i skrócenie czasu krzepnięcia",
+        "Ujemny bilans azotowy"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "why": "Slajd przypisuje je kolejno pierwszej dobie, dobom 2.–3., dobom 4.–7. i okresowi po tygodniu."
+    },
+    {
+      "id": "Q-IV-003",
+      "kind": "quiz",
+      "lecture": "IV",
+      "slide": "6–7",
+      "topic": "Cele i powikłania pooperacyjne",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "multi",
+      "question": "Które czynniki według wykładu pogarszają wentylację lub oczyszczanie oskrzeli po operacji?",
+      "options": [
+        "Wzdęcie i wysokie ustawienie przepony",
+        "Płytki oddech z powodu bólu",
+        "Zaleganie zagęszczonej wydzieliny",
+        "Zwiększenie ruchomości przepony"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ],
+      "why": "Ból, zaleganie wydzieliny i ograniczona ruchomość przepony sprzyjają powikłaniom płucnym."
+    },
+    {
+      "id": "Q-IV-004",
+      "kind": "quiz",
+      "lecture": "IV",
+      "slide": "8",
+      "topic": "Cele i powikłania pooperacyjne",
+      "difficulty": "basic",
+      "priority": false,
+      "qtype": "single",
+      "question": "Jak wykład nazywa wstrząs związany z nagłą utratą krwi lub osocza?",
+      "options": [
+        "Septyczny",
+        "Kardiogenny",
+        "Hipowolemiczny",
+        "Obturacyjny"
+      ],
+      "correct": 2,
+      "why": "Nagła utrata krwi, osocza lub wody odpowiada wykładowemu opisowi wstrząsu hipowolemicznego."
+    },
+    {
+      "id": "Q-IV-005",
+      "kind": "quiz",
+      "lecture": "IV",
+      "slide": "9",
+      "topic": "Cele i powikłania pooperacyjne",
+      "difficulty": "basic",
+      "priority": true,
+      "qtype": "tf",
+      "question": "Według wykładu pooperacyjna zakrzepica żył głębokich zawsze daje wyraźne objawy.",
+      "options": [],
+      "correct": false,
+      "why": "Na slajdzie wskazano, że zakrzepica może przebiegać bezobjawowo."
+    },
+    {
+      "id": "Q-IV-006",
+      "kind": "quiz",
+      "lecture": "IV",
+      "slide": "11",
+      "topic": "Cele i powikłania pooperacyjne",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "multi",
+      "question": "Które wymienione czynniki wykład zalicza do operacyjnych?",
+      "options": [
+        "Choroby współistniejące",
+        "Ułożenie pacjenta przy zabiegu",
+        "Wiek",
+        "Rozległość zabiegu"
+      ],
+      "correct": [
+        1,
+        3
+      ],
+      "why": "Wiek i choroby współistniejące należą w tym podziale do czynników osobniczych."
+    },
+    {
+      "id": "Q-IV-007",
+      "kind": "quiz",
+      "lecture": "IV",
+      "slide": "13–14",
+      "topic": "Kinezyterapia i fizykoterapia",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "single",
+      "question": "Który przykład odpowiada ćwiczeniu oddechowemu czynno-biernemu?",
+      "options": [
+        "Pacjent sam wykonuje oddechy bez pomocy",
+        "Pacjent oddycha czynnie, a terapeuta biernie porusza jego kończynami",
+        "Terapeuta sam porusza kończynami górnymi bez czynnego udziału pacjenta",
+        "Pacjent stawia opór oddechowi za pomocą rurki"
+      ],
+      "correct": 1,
+      "why": "Czynno-bierny wariant łączy czynny oddech z częściową pomocą."
+    },
+    {
+      "id": "Q-IV-008",
+      "kind": "quiz",
+      "lecture": "IV",
+      "slide": "15",
+      "topic": "Kinezyterapia i fizykoterapia",
+      "difficulty": "basic",
+      "priority": true,
+      "qtype": "order",
+      "question": "Ułóż wykładową sekwencję ćwiczenia oddechowego.",
+      "options": [
+        "Początkowy wydech",
+        "Wdech nosem",
+        "Wydłużony wydech ustami"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ],
+      "why": "Slajd 15 opisuje rozpoczęcie ćwiczenia od wydechu."
+    },
+    {
+      "id": "Q-IV-009",
+      "kind": "quiz",
+      "lecture": "IV",
+      "slide": "15",
+      "topic": "Kinezyterapia i fizykoterapia",
+      "difficulty": "basic",
+      "priority": true,
+      "qtype": "single",
+      "question": "Jaka para liczb odpowiada opisowi ćwiczeń oddechowych?",
+      "options": [
+        "Wdech do wydechu 2:1 i 3–4 oddechy",
+        "Wdech do wydechu 1:1 i 10–12 oddechów",
+        "Wdech do wydechu 1:2, czasem 1:3, i 3–4 oddechy",
+        "Wdech do wydechu 3:1 i 8–10 oddechów"
+      ],
+      "correct": 2,
+      "why": "W wykładzie wydech trwa zwykle dwa razy dłużej od wdechu, czasem trzy razy dłużej."
+    },
+    {
+      "id": "Q-IV-010",
+      "kind": "quiz",
+      "lecture": "IV",
+      "slide": "16–17",
+      "topic": "Kinezyterapia i fizykoterapia",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "multi",
+      "question": "Które rozwiązania opisano w nauce efektywnego kaszlu?",
+      "options": [
+        "Nauka rozpoczynana dopiero po wystąpieniu bólu pooperacyjnego",
+        "Kaszel na końcu wydechu",
+        "Podwójne odkaszlnięcie",
+        "Kaszel kontrolowany"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ],
+      "why": "Wykład przewiduje naukę przed zabiegiem i podaje kilka wariantów kaszlu."
+    },
+    {
+      "id": "Q-IV-011",
+      "kind": "quiz",
+      "lecture": "IV",
+      "slide": "17,82",
+      "topic": "Kinezyterapia i fizykoterapia",
+      "difficulty": "basic",
+      "priority": true,
+      "qtype": "single",
+      "question": "Jak wygląda pozycja woźnicy opisana przy nauce kaszlu?",
+      "options": [
+        "Leżenie na plecach z uniesieniem nóg",
+        "Stanie z rękami opartymi o ścianę",
+        "Siad z odchyleniem tułowia do tyłu",
+        "Siad z pochyleniem tułowia do przodu"
+      ],
+      "correct": 3,
+      "why": "Pochylenie w przód w siadzie ułatwia rozluźnienie mięśni."
+    },
+    {
+      "id": "Q-IV-012",
+      "kind": "quiz",
+      "lecture": "IV",
+      "slide": "18–19",
+      "topic": "Kinezyterapia i fizykoterapia",
+      "difficulty": "basic",
+      "priority": true,
+      "qtype": "multi",
+      "question": "Które ruchy wykład wymienia jako przeciwzakrzepowe?",
+      "options": [
+        "Zgięcia grzbietowe stóp",
+        "Unoszenie głowy",
+        "Krążenia stóp",
+        "Zgięcia podeszwowe stóp"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ],
+      "why": "Największy nacisk położono na dystalne części kończyn dolnych."
+    },
+    {
+      "id": "Q-IV-013",
+      "kind": "quiz",
+      "lecture": "IV",
+      "slide": "24–26",
+      "topic": "Kinezyterapia i fizykoterapia",
+      "difficulty": "basic",
+      "priority": false,
+      "qtype": "single",
+      "question": "Jaką funkcję pełni fizykoterapia w opisie rehabilitacji chirurgicznej?",
+      "options": [
+        "Zastępuje kinezyterapię podczas całego pobytu",
+        "Wspomaga kinezyterapię i może do niej przygotowywać",
+        "Obejmuje jedynie ćwiczenia przeciw oporowi",
+        "Stanowi inną nazwę dla treningu kondycyjnego"
+      ],
+      "correct": 1,
+      "why": "Wykład wymienia m.in. inhalacje i elektroterapię jako metody pomocnicze."
+    },
+    {
+      "id": "Q-IV-014",
+      "kind": "quiz",
+      "lecture": "IV",
+      "slide": "28–30",
+      "topic": "Przygotowanie, uruchamianie i pionizacja",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "multi",
+      "question": "Czego uczy się pacjent przed zabiegiem w ramach przygotowania do wczesnego usprawniania?",
+      "options": [
+        "Zmiany pozycji i samoobsługi",
+        "Stabilizacji okolicy przyszłej rany",
+        "Efektywnego kaszlu",
+        "Ćwiczeń brzucha z długą dźwignią od razu po zabiegu"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ],
+      "why": "Naukę technik wykorzystywanych po zabiegu prowadzi się już przed operacją."
+    },
+    {
+      "id": "Q-IV-015",
+      "kind": "quiz",
+      "lecture": "IV",
+      "slide": "32,37",
+      "topic": "Przygotowanie, uruchamianie i pionizacja",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "single",
+      "question": "Który przykład slajd 32 oznacza jako względne przeciwwskazanie do wczesnych ćwiczeń pooperacyjnych?",
+      "options": [
+        "Dzień zdjęcia szwów",
+        "Ogólny stan zapalny",
+        "Miejscowy stan zapalny rany",
+        "Temperatura powyżej 37,5°C"
+      ],
+      "correct": 0,
+      "why": "Slajd oznacza jako względne dzień zdjęcia szwów i podłączoną kroplówkę. Slajd 37 doprecyzowuje znaczenie kroplówki."
+    },
+    {
+      "id": "Q-IV-016",
+      "kind": "quiz",
+      "lecture": "IV",
+      "slide": "34",
+      "topic": "Przygotowanie, uruchamianie i pionizacja",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "multi",
+      "question": "Które elementy należą do wykładowego programu doby zerowej w chirurgii ogólnej?",
+      "options": [
+        "Ćwiczenia oddechowe",
+        "Efektywny kaszel ze stabilizacją rany",
+        "Marsz korytarzem jako standard tej doby",
+        "Ćwiczenia przeciwzakrzepowe i samoobsługa"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ],
+      "why": "Doba zerowa obejmuje podstawowe techniki. Pionizację i spacer wymieniono osobno w opisie pierwszej doby."
+    },
+    {
+      "id": "Q-IV-017",
+      "kind": "quiz",
+      "lecture": "IV",
+      "slide": "35,40",
+      "topic": "Przygotowanie, uruchamianie i pionizacja",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "multi",
+      "question": "Jakie warunki i zasady wykład łączy z pionizacją i spacerem w pierwszej dobie?",
+      "options": [
+        "Możliwość zabezpieczenia drenów, sond i cewników",
+        "Stały dystans spaceru niezależnie od bólu",
+        "Opieka fizjoterapeuty i dystans dopasowany do możliwości",
+        "Brak przeciwwskazań"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ],
+      "why": "Slajd 40 uzależnia pionizację od bezpieczeństwa i dobiera dystans do aktualnej tolerancji."
+    },
+    {
+      "id": "Q-IV-018",
+      "kind": "quiz",
+      "lecture": "IV",
+      "slide": "36",
+      "topic": "Przygotowanie, uruchamianie i pionizacja",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "tf",
+      "question": "We wczesnym okresie pooperacyjnym wykład proponuje unoszenie wyprostowanych nóg jako podstawowe ćwiczenie mięśni brzucha.",
+      "options": [],
+      "correct": false,
+      "why": "To przykład długiej dźwigni, której według slajdu 36 należy w tym okresie unikać."
+    },
+    {
+      "id": "Q-IV-019",
+      "kind": "quiz",
+      "lecture": "IV",
+      "slide": "42",
+      "topic": "Przygotowanie, uruchamianie i pionizacja",
+      "difficulty": "basic",
+      "priority": true,
+      "qtype": "order",
+      "question": "Ułóż wykładową zmianę pozycji po operacji tak, by ograniczyć użycie tłoczni brzusznej.",
+      "options": [
+        "Leżenie",
+        "Przejście do leżenia na boku",
+        "Przejście do siadu"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ],
+      "why": "Slajd 42 wskazuje leżenie bokiem jako pozycję pośrednią między leżeniem a siadem."
+    },
+    {
+      "id": "Q-IV-020",
+      "kind": "quiz",
+      "lecture": "IV",
+      "slide": "45",
+      "topic": "Niedodma i profilaktyka zakrzepicy",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "multi",
+      "question": "Które elementy zawiera wykładowy schemat usprawniania przy niedodmie pooperacyjnej?",
+      "options": [
+        "Ułożenie siedzące lub półsiedzące",
+        "Ograniczenie ćwiczeń wyłącznie do ruchów stóp",
+        "Ćwiczenia oddechowe z naciskiem na oporowany wydech",
+        "Pozycje drenażowe zależnie od położenia niedodmy"
+      ],
+      "correct": [
+        0,
+        2,
+        3
+      ],
+      "why": "Slajd 45 uwzględnia także inhalacje, oklepywanie i efektywny kaszel."
+    },
+    {
+      "id": "Q-IV-021",
+      "kind": "quiz",
+      "lecture": "IV",
+      "slide": "47–48",
+      "topic": "Niedodma i profilaktyka zakrzepicy",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "single",
+      "question": "Który przykład wykład zalicza do biernych metod fizykalnej profilaktyki zakrzepicy?",
+      "options": [
+        "Samodzielne zgięcia podeszwowe i grzbietowe",
+        "Przerywana kompresja pneumatyczna",
+        "Wczesna pionizacja",
+        "Czynne ćwiczenia kończyn dolnych"
+      ],
+      "correct": 1,
+      "why": "Kompresja zewnętrzna jest metodą bierną, a ćwiczenia czynne i pionizacja należą do metod czynnych."
+    },
+    {
+      "id": "Q-IV-022",
+      "kind": "quiz",
+      "lecture": "IV",
+      "slide": "50",
+      "topic": "Niedodma i profilaktyka zakrzepicy",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "single",
+      "question": "Gdzie w wykładowym przykładzie pończocha przeciwzakrzepowa daje największy ucisk?",
+      "options": [
+        "Na udzie",
+        "Na poziomie kolana",
+        "Przy stawie skokowym",
+        "Ucisk we wszystkich trzech miejscach jest równy"
+      ],
+      "correct": 2,
+      "why": "Ucisk rośnie w stronę obwodu kończyny."
+    },
+    {
+      "id": "Q-IV-023",
+      "kind": "quiz",
+      "lecture": "IV",
+      "slide": "54–56",
+      "topic": "Odleżyny",
+      "difficulty": "basic",
+      "priority": true,
+      "qtype": "single",
+      "question": "Który czynnik wykład wskazuje jako główną przyczynę odleżyn?",
+      "options": [
+        "Nadmierne naskórkowanie",
+        "Miejscowy ucisk",
+        "Prawidłowy ślizg tkanek",
+        "Regularna zmiana ułożenia"
+      ],
+      "correct": 1,
+      "why": "Dodatkowe czynniki to m.in. wilgoć, niedożywienie i współistniejące choroby."
+    },
+    {
+      "id": "Q-IV-024",
+      "kind": "quiz",
+      "lecture": "IV",
+      "slide": "57",
+      "topic": "Odleżyny",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "single",
+      "question": "Która cecha rozróżnia stopień I od II w wykładowej skali Thorrance’a?",
+      "options": [
+        "W I stopniu występuje czarna martwica, w II uszkodzenie pełnej grubości skóry",
+        "W I stopniu rumień blednie przy ucisku, w II nie blednie",
+        "W I stopniu obrzęk obejmuje całą kończynę, w II tylko stopę",
+        "W I stopniu rumień nie blednie, w II blednie"
+      ],
+      "correct": 1,
+      "why": "Slajd 57 łączy blednący rumień przy całej skórze ze stopniem I i nieblednące zaczerwienienie ze stopniem II."
+    },
+    {
+      "id": "Q-IV-025",
+      "kind": "quiz",
+      "lecture": "IV",
+      "slide": "58",
+      "topic": "Odleżyny",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "single",
+      "question": "Której fazie odpowiada kolor różowy w wykładowej ocenie ran?",
+      "options": [
+        "Martwicy",
+        "Ziarninowaniu",
+        "Gromadzeniu żółtych mas tkankowych",
+        "Naskórkowaniu"
+      ],
+      "correct": 3,
+      "why": "W przykładzie czerwony oznacza ziarninowanie, a różowy naskórkowanie."
+    },
+    {
+      "id": "Q-IV-026",
+      "kind": "quiz",
+      "lecture": "IV",
+      "slide": "63–65",
+      "topic": "Odleżyny",
+      "difficulty": "basic",
+      "priority": true,
+      "qtype": "multi",
+      "question": "Które działania uwzględniono w profilaktyce odleżyn?",
+      "options": [
+        "Dłuższe utrzymywanie tej samej pozycji",
+        "Dobór sprzętu przeciwodleżynowego",
+        "Zmiany ułożenia i odciążanie",
+        "Dbanie o suchą pościel"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ],
+      "why": "Profilaktyka łączy zmniejszanie ucisku z ochroną skóry przed wilgocią."
+    },
+    {
+      "id": "Q-IV-027",
+      "kind": "quiz",
+      "lecture": "IV",
+      "slide": "68",
+      "topic": "Blizny",
+      "difficulty": "basic",
+      "priority": true,
+      "qtype": "order",
+      "question": "Ułóż fazy gojenia rany w kolejności według wykładu.",
+      "options": [
+        "Faza zapalna",
+        "Proliferacja",
+        "Dojrzewanie i przebudowa"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ],
+      "why": "Fazy podano w tej kolejności, a ich opisane zakresy czasowe mogą się nakładać."
+    },
+    {
+      "id": "Q-IV-028",
+      "kind": "quiz",
+      "lecture": "IV",
+      "slide": "70",
+      "topic": "Blizny",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "single",
+      "question": "Która cecha w podziale Mustoe najlepiej odróżnia keloid od blizny przerosłej liniowej?",
+      "options": [
+        "Kolor perłowy",
+        "Brak uniesienia skóry",
+        "Przekroczenie obrysu pierwotnej rany",
+        "Brak świądu"
+      ],
+      "correct": 2,
+      "why": "W podziale Mustoe keloid wykracza poza ranę, a blizna przerosła liniowa zachowuje jej granice."
+    },
+    {
+      "id": "Q-IV-029",
+      "kind": "quiz",
+      "lecture": "IV",
+      "slide": "71–72",
+      "topic": "Blizny",
+      "difficulty": "basic",
+      "priority": true,
+      "qtype": "tf",
+      "question": "Wykład zaleca rozpoczęcie bezpośredniej mobilizacji w obrębie świeżej, niewygojonej rany.",
+      "options": [],
+      "correct": false,
+      "why": "We wczesnej fazie opisano pracę z otoczeniem rany. Bezpośrednią mobilizację przewidziano po wygojeniu."
+    },
+    {
+      "id": "Q-IV-030",
+      "kind": "quiz",
+      "lecture": "IV",
+      "slide": "73–74",
+      "topic": "Blizny",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "multi",
+      "question": "Które elementy wykład uwzględnia w ocenie ruchomości blizny w fazie przebudowy?",
+      "options": [
+        "Dystans chromania",
+        "Przesuwalność względem głębszych tkanek",
+        "Ślizg wzdłużny",
+        "Ślizg poprzeczny i rotacyjny"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ],
+      "why": "Wybór techniki poprzedza zlokalizowanie kierunku ograniczenia."
+    },
+    {
+      "id": "Q-IV-031",
+      "kind": "quiz",
+      "lecture": "IV",
+      "slide": "75",
+      "topic": "Blizny",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "order",
+      "question": "Ułóż kierunki pracy w rozciąganiu makroskopowym blizny zgodnie z wykładem.",
+      "options": [
+        "Wzdłuż blizny",
+        "Prostopadle do pierwszego kierunku",
+        "Promieniście"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ],
+      "why": "Wykład stopniowo zmienia kierunek rozciągania od wzdłużnego do promienistego."
+    },
+    {
+      "id": "Q-IV-032",
+      "kind": "quiz",
+      "lecture": "IV",
+      "slide": "80",
+      "topic": "Torakochirurgia",
+      "difficulty": "basic",
+      "priority": false,
+      "qtype": "single",
+      "question": "Jak nazywa się przecięcie mostka jako dostęp operacyjny?",
+      "options": [
+        "Torakoskopia",
+        "Sternotomia",
+        "Mediastinoskopia",
+        "Torakolaparotomia"
+      ],
+      "correct": 1,
+      "why": "Sternotomia stanowi dostęp przez przecięcie mostka."
+    },
+    {
+      "id": "Q-IV-033",
+      "kind": "quiz",
+      "lecture": "IV",
+      "slide": "81,91",
+      "topic": "Torakochirurgia",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "single",
+      "question": "Który tor oddychania wykład traktuje jako główny po torakotomii?",
+      "options": [
+        "Przeponowy",
+        "Piersiowy górny",
+        "Piersiowy dolny",
+        "Napotykający wyłącznie opór zewnętrzny"
+      ],
+      "correct": 0,
+      "why": "W ujęciu wykładu tor przeponowy pomaga wykonywać głębsze oddechy przy bólu okolicy rany klatki piersiowej."
+    },
+    {
+      "id": "Q-IV-034",
+      "kind": "quiz",
+      "lecture": "IV",
+      "slide": "84",
+      "topic": "Torakochirurgia",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "single",
+      "question": "Jaką stabilizację rany przy kaszlu slajd 84 przewiduje po sternotomii?",
+      "options": [
+        "Wyłącznie jedną ręką na nadbrzuszu",
+        "Wyłącznie taśmą wokół klatki",
+        "Bez podparcia okolicy operowanej",
+        "Oburącz na okolicy cięcia lub po jego obu stronach"
+      ],
+      "correct": 3,
+      "why": "Wybór jednego z wariantów oburęcznych jest związany z dostępem przez mostek."
+    },
+    {
+      "id": "Q-IV-035",
+      "kind": "quiz",
+      "lecture": "IV",
+      "slide": "87",
+      "topic": "Torakochirurgia",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "tf",
+      "question": "Pozycje drenażowe stosuje się według wykładu rutynowo w szpitalnym okresie po torakotomii.",
+      "options": [],
+      "correct": false,
+      "why": "Slajd 87 odradza je w tym okresie ze względu na ranę, ból i drenaż jamy opłucnej."
+    },
+    {
+      "id": "Q-IV-036",
+      "kind": "quiz",
+      "lecture": "IV",
+      "slide": "90,92",
+      "topic": "Torakochirurgia",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "multi",
+      "question": "Które obserwacje po operacji klatki piersiowej wykład traktuje jako alarmowe dla ćwiczeń?",
+      "options": [
+        "Wyraźny przyrost krwi w butli drenażowej",
+        "Niewielkie ślady krwi w butli bez narastania",
+        "Żywoczerwona krew w plwocinie",
+        "Półsiedzące ułożenie chorego"
+      ],
+      "correct": [
+        0,
+        2
+      ],
+      "why": "Przyrost krwistego drenażu może oznaczać krwotok. Żywoczerwona krew w plwocinie to według wykładu bezwzględne przeciwwskazanie."
+    },
+    {
+      "id": "Q-IV-037",
+      "kind": "quiz",
+      "lecture": "IV",
+      "slide": "96",
+      "topic": "Torakochirurgia",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "single",
+      "question": "Z czym wykład wiąże kropelkowe pocenie na czole i skroniach przy pionizacji?",
+      "options": [
+        "Z prawidłowym powrotem przekrwienia po teście",
+        "Z typowym objawem obrzęku chłonnego",
+        "Z możliwą niewydolnością krążenia i koniecznością zmniejszenia lub przerwania wysiłku",
+        "Z oczekiwanym działaniem toru przeponowego"
+      ],
+      "correct": 2,
+      "why": "Pocenie kropelkowe jest w opisie objawem wymagającym zmiany intensywności lub zakończenia ćwiczeń."
+    },
+    {
+      "id": "Q-IV-038",
+      "kind": "quiz",
+      "lecture": "IV",
+      "slide": "101",
+      "topic": "Angiochirurgia tętnicza",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "multi",
+      "question": "Co może być przyczyną ostrego niedokrwienia kończyny w opisie wykładu?",
+      "options": [
+        "Wygojona blizna płaska",
+        "Zator tętnicy",
+        "Uraz tętnicy",
+        "Zakrzep tętnicy"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ],
+      "why": "Slajd 101 wyróżnia uraz, zator i zakrzep."
+    },
+    {
+      "id": "Q-IV-039",
+      "kind": "quiz",
+      "lecture": "IV",
+      "slide": "109",
+      "topic": "Angiochirurgia tętnicza",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "order",
+      "question": "Ułóż etapy jednej z dwóch technik efektywnego kaszlu opisanych w angiochirurgii.",
+      "options": [
+        "Krótki głęboki wdech nosem",
+        "Długi wydech ustami, ciągły lub przerywany",
+        "Seria kaszlnięć pod koniec wydechu"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ],
+      "why": "Oba warianty różnią się przebiegiem wydechu."
+    },
+    {
+      "id": "Q-IV-040",
+      "kind": "quiz",
+      "lecture": "IV",
+      "slide": "113–115",
+      "topic": "Angiochirurgia tętnicza",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "single",
+      "question": "Co w wykładowym opisie określa dystans chromania?",
+      "options": [
+        "Dystans do pierwszego odpoczynku niezależnie od przyczyny",
+        "Dystans do bólu podudzi zmuszającego do odpoczynku",
+        "Łączny dystans wszystkich odcinków treningu",
+        "Odcinek mierzony dopiero po ustąpieniu bólu"
+      ],
+      "correct": 1,
+      "why": "Dystans chromania służy w wykładzie do oceny tolerancji marszu."
+    },
+    {
+      "id": "Q-IV-041",
+      "kind": "quiz",
+      "lecture": "IV",
+      "slide": "129",
+      "topic": "Angiochirurgia tętnicza",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "single",
+      "question": "Który stopień w wykładowej skali Fontaine’a obejmuje ból spoczynkowy i początek zmian troficznych?",
+      "options": [
+        "I",
+        "IIa",
+        "III",
+        "IV"
+      ],
+      "correct": 2,
+      "why": "W stopniu III pojawia się ból spoczynkowy. Stopień IV opisano jako martwicę tkanek."
+    },
+    {
+      "id": "Q-IV-042",
+      "kind": "quiz",
+      "lecture": "IV",
+      "slide": "132–135",
+      "topic": "Angiochirurgia tętnicza",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "order",
+      "question": "Uporządkuj cztery części schematu Horodyńskiego.",
+      "options": [
+        "Oddech i izometria",
+        "Wzmacnianie tułowia i kończyn",
+        "Ćwiczenia naczyniowe",
+        "Oddech i rozluźnianie"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "why": "Część trzecia koncentruje się na ukrwieniu, a czwarta na wyciszeniu."
+    },
+    {
+      "id": "Q-IV-043",
+      "kind": "quiz",
+      "lecture": "IV",
+      "slide": "136",
+      "topic": "Angiochirurgia tętnicza",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "multi",
+      "question": "Które przesłanki są w wykładzie przeciwwskazaniami do treningu przy niedokrwieniu tętniczym?",
+      "options": [
+        "III lub IV stadium niedokrwienia",
+        "Ból spoczynkowy",
+        "Ukończenie ćwiczeń rozluźniających",
+        "Ostre niedokrwienie tętnicze"
+      ],
+      "correct": [
+        0,
+        1,
+        3
+      ],
+      "why": "Slajd wymienia również złe samopoczucie, odmowę i objawy z innych układów."
+    },
+    {
+      "id": "Q-IV-044",
+      "kind": "quiz",
+      "lecture": "IV",
+      "slide": "140",
+      "topic": "Choroby żył",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "single",
+      "question": "Która klasa w wykładowej skali żylnej C odpowiada wygojonemu owrzodzeniu z blizną?",
+      "options": [
+        "C3",
+        "C4",
+        "C5",
+        "C6"
+      ],
+      "correct": 2,
+      "why": "W C5 występuje blizna po wygojonym owrzodzeniu. C6 obejmuje czynne owrzodzenie."
+    },
+    {
+      "id": "Q-IV-045",
+      "kind": "quiz",
+      "lecture": "IV",
+      "slide": "143–144",
+      "topic": "Choroby żył",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "multi",
+      "question": "Które działania wykład uwzględnia przy usprawnianiu po operacyjnym leczeniu żył?",
+      "options": [
+        "Długotrwałe stanie w miejscu",
+        "Wczesne uruchamianie i spacery",
+        "Kompresjoterapię",
+        "Ćwiczenia czynne i izometryczne kończyn dolnych"
+      ],
+      "correct": [
+        1,
+        2,
+        3
+      ],
+      "why": "Ruch ma mobilizować pompę mięśniową, a dłuższego stania i siedzenia należy według tej części unikać."
+    },
+    {
+      "id": "Q-IV-046",
+      "kind": "quiz",
+      "lecture": "IV",
+      "slide": "146",
+      "topic": "Obrzęk chłonny",
+      "difficulty": "basic",
+      "priority": false,
+      "qtype": "single",
+      "question": "Który przykład odpowiada wtórnemu obrzękowi chłonnemu w podziale wykładu?",
+      "options": [
+        "Obrzęk spowodowany wrodzonym zaburzeniem rozwoju naczyń chłonnych",
+        "Obrzęk spowodowany rozwojową wadą układu chłonnego",
+        "Obrzęk klasy C3 rozpoznany bez ustalania przyczyny",
+        "Obrzęk chłonny będący następstwem urazu"
+      ],
+      "correct": 3,
+      "why": "Obrzęk wtórny ma przyczynę nabytą, np. uraz lub stan zapalny."
+    },
+    {
+      "id": "Q-IV-047",
+      "kind": "quiz",
+      "lecture": "IV",
+      "slide": "151",
+      "topic": "Obrzęk chłonny",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "single",
+      "question": "Który opis łączy prawidłową wykładową kolejność obszarów drenażu z kierunkiem mobilizacji chłonki?",
+      "options": [
+        "Najpierw części bliższe, potem dalsze, a mobilizacja dosercowo",
+        "Najpierw części dalsze, potem bliższe, a mobilizacja dosercowo",
+        "Najpierw części bliższe, potem dalsze, a mobilizacja odsercowo",
+        "Najpierw części dalsze, potem bliższe, a mobilizacja odsercowo"
+      ],
+      "correct": 0,
+      "why": "Kolejność opracowania odcinków i kierunek przemieszczania chłonki to dwie odrębne informacje."
+    },
+    {
+      "id": "Q-IV-048",
+      "kind": "quiz",
+      "lecture": "IV",
+      "slide": "152–153",
+      "topic": "Obrzęk chłonny",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "tf",
+      "question": "Ćwiczenia przy obrzęku chłonnym wykład opisuje jako krótkie serie o niezbyt dużej intensywności, w ułożeniu wspierającym odpływ chłonki.",
+      "options": [],
+      "correct": true,
+      "why": "Wykład łączy ułożenie z grawitacyjnym odpływem i dobiera wysiłek tak, aby ograniczać obrzęki powysiłkowe."
+    },
+    {
+      "id": "Q-IV-049",
+      "kind": "quiz",
+      "lecture": "IV",
+      "slide": "155–161",
+      "topic": "Testy naczyniowe",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "single",
+      "question": "Który z wymienionych testów wykład wiąże z przepływem tętniczym w kończynie górnej?",
+      "options": [
+        "Perthesa",
+        "Trendelenburga",
+        "Allena",
+        "Lowenberga"
+      ],
+      "correct": 2,
+      "why": "W teście Allena opisano powrót przekrwienia ręki."
+    },
+    {
+      "id": "Q-IV-050",
+      "kind": "quiz",
+      "lecture": "IV",
+      "slide": "162",
+      "topic": "Testy naczyniowe",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "single",
+      "question": "Która obserwacja odpowiada wykładowemu testowi Ratschowa–Boergera?",
+      "options": [
+        "Powrót przekrwienia stóp po przejściu do siadu z opuszczonymi nogami",
+        "Szybkie wypełnianie żylaków po zwolnieniu opaski na udzie",
+        "Równomierność przekrwienia ręki",
+        "Opróżnianie żylaków w trakcie pracy mięśni na stojąco"
+      ],
+      "correct": 0,
+      "why": "Slajd wiąże opóźnione przekrwienie po opuszczeniu nóg z mniejszą drożnością naczyń."
+    }
+  ],
+  "opens": [
+    {
+      "id": "O-IV-001",
+      "kind": "open",
+      "lecture": "IV",
+      "slide": "2,5–7",
+      "topic": "Cele i powikłania pooperacyjne",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Wyjaśnij, jak cele rehabilitacji w chirurgii przekładają się na postępowanie wobec powikłań płucnych i zastoju żylnego.",
+      "answer": "Profilaktyka, leczenie następstw i powrót do sprawności obejmują pracę nad wentylacją, ruchomością przepony i kaszlem. Odpływ żylny wspierają ruch kończyn dolnych i wczesne uruchamianie. Ból, ograniczona aktywność i zaleganie wydzieliny wyjaśniają potrzebę tych działań.",
+      "mandatory": [
+        "Trzy nadrzędne cele",
+        "Wentylacja i kaszel",
+        "Pompa mięśniowa i uruchamianie"
+      ],
+      "pitfall": "Połącz wybrane działanie z mechanizmem, któremu ma przeciwdziałać."
+    },
+    {
+      "id": "O-IV-002",
+      "kind": "open",
+      "lecture": "IV",
+      "slide": "6–11",
+      "topic": "Cele i powikłania pooperacyjne",
+      "difficulty": "hard",
+      "priority": false,
+      "question": "Porównaj mechanizmy powikłań płucnych, krążeniowych i zakrzepowo-zatorowych omawianych w wykładzie.",
+      "answer": "W płucnych ważne są spłycenie oddechu, słaby kaszel i zaleganie wydzieliny. Przykładem krążeniowym jest wstrząs z upośledzoną perfuzją lub wykorzystaniem tlenu. W zakrzepowo-zatorowych zakrzep żylny może prowadzić do zatorowości płucnej.",
+      "mandatory": [
+        "Mechanizm płucny",
+        "Wstrząs",
+        "Zakrzepica i zatorowość płucna"
+      ],
+      "pitfall": "W odpowiedzi rozróżnij źródło zatoru od jego lokalizacji w płucach."
+    },
+    {
+      "id": "O-IV-003",
+      "kind": "open",
+      "lecture": "IV",
+      "slide": "13–15",
+      "topic": "Kinezyterapia i fizykoterapia",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Opisz wykładową technikę ćwiczeń oddechowych wraz z kontrolą ich wykonania.",
+      "answer": "Po początkowym wydechu następują wdech nosem i wydłużony wydech ustami. Proporcja to zwykle 1:2, czasem 1:3, po 3–4 oddechy w serii. Terapeuta może ocenić ruch klatki lub nadbrzusza i czas obu faz. Przy torze przeponowym brzuch unosi się na wdechu.",
+      "mandatory": [
+        "Początkowy wydech",
+        "Wdech nosem i wydech ustami",
+        "Proporcja czasu i liczba oddechów",
+        "Kontrola ruchu lub czasu"
+      ],
+      "pitfall": "Proporcja 1:2 opisuje wdech do wydechu."
+    },
+    {
+      "id": "O-IV-004",
+      "kind": "open",
+      "lecture": "IV",
+      "slide": "16–17,82,109",
+      "topic": "Kinezyterapia i fizykoterapia",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Opisz, kiedy i w jakich pozycjach wykład przewiduje naukę efektywnego kaszlu, oraz podaj przykład jego wykonania.",
+      "answer": "Naukę planuje się przed operacją. Typowa pozycja to siad z tułowiem pochylonym do przodu. Po operacji brzucha możliwy jest półsiad zależnie od bólu i rany. W przykładzie z angiochirurgii po krótkim głębokim wdechu nosem następuje długi wydech ustami i seria kaszlnięć pod koniec wydechu. Wariant drugi wykorzystuje wydech przerywany.",
+      "mandatory": [
+        "Nauka przed zabiegiem",
+        "Pozycja woźnicy i możliwy półsiad",
+        "Wdech, wydech i seria kaszlnięć"
+      ],
+      "pitfall": "Seria kaszlnięć należy do końcowej części wydechu w opisanym wariancie."
+    },
+    {
+      "id": "O-IV-005",
+      "kind": "open",
+      "lecture": "IV",
+      "slide": "18–19,35–36",
+      "topic": "Kinezyterapia i fizykoterapia",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Opisz ćwiczenia przeciwzakrzepowe i wyjaśnij ich pooperacyjny cel.",
+      "answer": "Stopy wykonują rytmiczne zgięcia grzbietowe i podeszwowe oraz krążenia. Wykład wymienia też zgięcia i wyprosty kolan oraz bioder. Regularne ruchy dystalnych części kończyn dolnych pobudzają krążenie i odpływ żylny.",
+      "mandatory": [
+        "Dwa kierunki zgięcia stóp",
+        "Krążenia i możliwy ruch proksymalny",
+        "Regularność oraz odpływ żylny"
+      ],
+      "pitfall": "W opisie skup się na profilaktyce i pracy pompy mięśniowej."
+    },
+    {
+      "id": "O-IV-006",
+      "kind": "open",
+      "lecture": "IV",
+      "slide": "28–30",
+      "topic": "Przygotowanie, uruchamianie i pionizacja",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Co obejmują ocena i nauka przed planowaną operacją?",
+      "answer": "Informacja od lekarza o stanie ogólnym i możliwościach pacjenta, ocena chorób i czynności układów, wydolności, ruchomości oraz zakresu zabiegu. Pacjent uczy się oddechu, kaszlu, stabilizacji rany, ćwiczeń przeciwzakrzepowych i samoobsługi oraz pracuje nad sprawnością.",
+      "mandatory": [
+        "Ocena pacjenta i zabiegu",
+        "Ćwiczenia oddechowe i kaszel",
+        "Stabilizacja, profilaktyka i samoobsługa"
+      ],
+      "pitfall": "Rozróżnij ocenę przed zabiegiem od nauki czynności wykonywanych dopiero po nim."
+    },
+    {
+      "id": "O-IV-007",
+      "kind": "open",
+      "lecture": "IV",
+      "slide": "32,37,90,92",
+      "topic": "Przygotowanie, uruchamianie i pionizacja",
+      "difficulty": "hard",
+      "priority": true,
+      "question": "Porównaj przeciwwskazania do wczesnych ćwiczeń w chirurgii ogólnej i alarmowe objawy po torakotomii.",
+      "answer": "Slajd 32 wymienia temperaturę powyżej 37,5°C i miejscowy lub ogólny stan zapalny, a jako względne dzień zdjęcia szwów i kroplówkę. Slajd 37 dodaje, że współczesny zestaw do wlewu sam w sobie ćwiczeń nie wyklucza. Po torakotomii narastanie krwi w drenażu wymaga konsultacji, a krwotok i żywoczerwona krew w plwocinie stanowią w wykładzie przeciwwskazania bezwzględne.",
+      "mandatory": [
+        "Temperatura i stan zapalny",
+        "Dzień zdjęcia szwów i niuans kroplówki",
+        "Narastające krwawienie i krwioplucie"
+      ],
+      "pitfall": "Zakres slajdu 32 obejmuje ogólne wczesne ćwiczenia pooperacyjne."
+    },
+    {
+      "id": "O-IV-008",
+      "kind": "open",
+      "lecture": "IV",
+      "slide": "34–35,40",
+      "topic": "Przygotowanie, uruchamianie i pionizacja",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Porównaj dobę zerową z pierwszą dobą w rehabilitacji ogólnochirurgicznej.",
+      "answer": "W dobie zerowej wykład opisuje ćwiczenia oddechowe, efektywny kaszel ze stabilizacją rany, ćwiczenia przeciwzakrzepowe i samoobsługę. W pierwszej dobie dochodzą psychoterapia, wsparcie kaszlu, ćwiczenia ogólnousprawniające oraz pionizacja i spacer zależnie od stanu i zabezpieczenia aparatury.",
+      "mandatory": [
+        "Ćwiczenia w dobie zerowej",
+        "Elementy dodatkowe w pierwszej dobie",
+        "Warunki pionizacji i spaceru"
+      ],
+      "pitfall": "W pierwszej dobie kontynuuje się także wcześniej wprowadzone techniki."
+    },
+    {
+      "id": "O-IV-009",
+      "kind": "open",
+      "lecture": "IV",
+      "slide": "35,39–42",
+      "topic": "Przygotowanie, uruchamianie i pionizacja",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Opisz przygotowanie do pierwszego uruchamiania i przejście od leżenia do spaceru w scenariuszu ogólnochirurgicznym.",
+      "answer": "Przed ruchem ocenia się przeciwwskazania i zabezpieczenie drenów, sond oraz cewników. Do siadu przechodzi się przez leżenie bokiem, co ogranicza angażowanie tłoczni brzusznej. Przy spełnieniu warunków przechodzi się do pionizacji, a spacer odbywa się z fizjoterapeutą i zgodnie z tolerancją bólu i wysiłku.",
+      "mandatory": [
+        "Przeciwwskazania i aparatura",
+        "Leżenie bokiem i siad",
+        "Pionizacja oraz indywidualny spacer"
+      ],
+      "pitfall": "Opis transferu dotyczy oszczędzania tłoczni brzusznej."
+    },
+    {
+      "id": "O-IV-010",
+      "kind": "open",
+      "lecture": "IV",
+      "slide": "45,87",
+      "topic": "Niedodma i profilaktyka zakrzepicy",
+      "difficulty": "hard",
+      "priority": true,
+      "question": "W jakich dwóch kontekstach wykład odmiennie opisuje stosowanie pozycji drenażowych?",
+      "answer": "W ogólnym schemacie niedodmy pooperacyjnej slajd 45 wymienia pozycje dobrane do lokalizacji. W części o torakochirurgii slajd 87 opisuje pozycje przed zabiegiem przy zaleganiu wydzieliny, a po zabiegu w okresie szpitalnym uznaje je za niewskazane ze względu na ból, ranę i drenaż jamy opłucnej.",
+      "mandatory": [
+        "Niedodma i lokalizacja",
+        "Warunek stosowania przed zabiegiem",
+        "Ograniczenie szpitalne po torakochirurgii"
+      ],
+      "pitfall": "W odpowiedzi zaznacz kontekst każdej części prezentacji."
+    },
+    {
+      "id": "O-IV-011",
+      "kind": "open",
+      "lecture": "IV",
+      "slide": "46–52",
+      "topic": "Niedodma i profilaktyka zakrzepicy",
+      "difficulty": "hard",
+      "priority": true,
+      "question": "Uporządkuj metody profilaktyki zakrzepicy i wyjaśnij, co zmienia jej wystąpienie w opisie wykładu.",
+      "answer": "Wykład dzieli profilaktykę na metody farmakologiczne oraz fizykalne czynne i bierne. Czynne obejmują ruch nóg i wczesne uruchamianie, bierne np. bandażowanie, pończochy lub przerywaną kompresję. Dobór zależy od ryzyka zakrzepicy i krwawienia. Przy występującej pooperacyjnej zakrzepicy slajd 46 ogranicza ćwiczenia do oddechowych i efektywnego kaszlu.",
+      "mandatory": [
+        "Farmakologiczne i fizykalne",
+        "Przykłady czynne i bierne",
+        "Ocena ryzyka",
+        "Odrębny kontekst po wystąpieniu zakrzepicy"
+      ],
+      "pitfall": "Przypisz ćwiczenia kończyn do profilaktyki w ujęciu wykładu."
+    },
+    {
+      "id": "O-IV-012",
+      "kind": "open",
+      "lecture": "IV",
+      "slide": "55–58",
+      "topic": "Odleżyny",
+      "difficulty": "hard",
+      "priority": true,
+      "question": "Co obejmuje wykładowa ocena ryzyka i już powstałej odleżyny?",
+      "answer": "Ocenia się ucisk, okolicę narażoną i czynniki sprzyjające, takie jak wilgoć czy niedożywienie. W wykładowej skali Thorrance’a sprawdza się m.in. blednięcie rumienia i głębokość uszkodzenia. Ocena kolorystyczna rozróżnia martwicę, masy tkankowe, ziarninowanie i naskórkowanie.",
+      "mandatory": [
+        "Ucisk, lokalizacja i czynniki ryzyka",
+        "Blednięcie i głębokość w klasyfikacji Thorrance’a",
+        "Odrębna ocena kolorystyczna"
+      ],
+      "pitfall": "Stopień według głębokości i opis koloru to dwa osobne elementy odpowiedzi."
+    },
+    {
+      "id": "O-IV-013",
+      "kind": "open",
+      "lecture": "IV",
+      "slide": "63–65",
+      "topic": "Odleżyny",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jakie elementy łączy profilaktyka odleżyn według wykładu?",
+      "answer": "Zmiany ułożenia, odciążenie, dobór materaca lub podkładek, delikatną higienę i ochronę skóry przed wilgocią, a także rehabilitację i współpracę zespołu.",
+      "mandatory": [
+        "Odciążanie i zmiana pozycji",
+        "Sprzęt",
+        "Higiena i suchość",
+        "Ruch i zespół"
+      ],
+      "pitfall": "Odpowiedź powinna wykraczać poza sam dobór materaca."
+    },
+    {
+      "id": "O-IV-014",
+      "kind": "open",
+      "lecture": "IV",
+      "slide": "68–70",
+      "topic": "Blizny",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Opisz fazy gojenia oraz cechy blizny użyteczne w wykładowym podziale Mustoe.",
+      "answer": "Faza zapalna wiąże się z wysiękiem i powstaniem skrzepu. Podczas proliferacji powstają ziarnina, naskórek i kolagen, a w przebudowie kolagen się porządkuje. Podział Mustoe uwzględnia m.in. kolor, wypukłość, świąd, ból i granice pierwotnej rany, które keloid przekracza.",
+      "mandatory": [
+        "Faza zapalna",
+        "Proliferacja",
+        "Przebudowa",
+        "Cechy blizny i granice rany"
+      ],
+      "pitfall": "Granice rany pomagają odróżnić keloid od przerosłej blizny liniowej."
+    },
+    {
+      "id": "O-IV-015",
+      "kind": "open",
+      "lecture": "IV",
+      "slide": "71–75",
+      "topic": "Blizny",
+      "difficulty": "hard",
+      "priority": true,
+      "question": "Opisz przejście od pracy we wczesnej fazie gojenia do mobilizacji blizny w fazie przebudowy.",
+      "answer": "We wczesnym okresie wykład koncentruje pracę na tkankach otaczających. Po wygojeniu można podjąć delikatną pracę bezpośrednią. W przebudowie najpierw ocenia się ograniczenia ślizgu i wybiera odpowiedni kierunek, a potem nasila bodźce stopniowo, wykorzystując nacisk, rozciąganie lub rytmiczną mobilizację.",
+      "mandatory": [
+        "Tkanki otaczające we wczesnej fazie",
+        "Wygojenie przed pracą bezpośrednią",
+        "Kierunek ograniczenia",
+        "Stopniowanie i dobór techniki"
+      ],
+      "pitfall": "Moment rozpoczęcia pracy bezpośredniej wykład wiąże z gojeniem rany."
+    },
+    {
+      "id": "O-IV-016",
+      "kind": "open",
+      "lecture": "IV",
+      "slide": "83–84",
+      "topic": "Torakochirurgia",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Wyjaśnij cel i warianty stabilizacji okolicy rany podczas kaszlu według wykładu.",
+      "answer": "Stabilizacja ma ograniczać ból i ułatwiać odkrztuszanie. Stosuje się jedną lub obie ręce zależnie od zabiegu, niekiedy z pomocą terapeuty lub poduszki. Po sternotomii wykład opisuje stabilizację oburącz, na okolicy cięcia albo po jego obu stronach.",
+      "mandatory": [
+        "Cel stabilizacji",
+        "Warianty ręczne i poduszka",
+        "Oburęczna stabilizacja po sternotomii"
+      ],
+      "pitfall": "Slajdy opisują stabilizację w trakcie kaszlu."
+    },
+    {
+      "id": "O-IV-017",
+      "kind": "open",
+      "lecture": "IV",
+      "slide": "89–96",
+      "topic": "Torakochirurgia",
+      "difficulty": "hard",
+      "priority": true,
+      "question": "Jak wykład opisuje pierwsze etapy rehabilitacji po torakotomii?",
+      "answer": "W dobie zerowej półleżenie lub półsiad, kontrola drenażu i ćwiczenia przeponowe, przeciwzakrzepowe oraz kaszel ze stabilizacją rany. W pierwszej dobie kontynuacja ćwiczeń, ruch kończyn i obręczy barkowej oraz pionizacja. Chodzenie zależy m.in. od przeciwwskazań i możliwości bezpiecznego postępowania z drenażem.",
+      "mandatory": [
+        "Półleżenie lub półsiad",
+        "Ćwiczenia w dobie zerowej",
+        "Kontrola drenażu",
+        "Pionizacja i warunki chodzenia"
+      ],
+      "pitfall": "Wykład wymaga zachowania integralności zestawu drenażowego podczas fizjoterapii."
+    },
+    {
+      "id": "O-IV-018",
+      "kind": "open",
+      "lecture": "IV",
+      "slide": "90,92,96",
+      "topic": "Torakochirurgia",
+      "difficulty": "hard",
+      "priority": true,
+      "question": "Jakie wykładowe sygnały alarmowe obserwuje się po torakotomii i podczas pionizacji?",
+      "answer": "Narastająca ilość krwi w butli drenażowej wymaga konsultacji lekarskiej, a krwotok lub żywoczerwona krew w plwocinie wykluczają ćwiczenia według wykładu. Zasinienie warg lub pod paznokciami sugeruje niedotlenienie. Kropelkowe pocenie się wskazuje możliwą niewydolność krążenia i jest przesłanką do zmniejszenia bądź przerwania wysiłku.",
+      "mandatory": [
+        "Krwisty drenaż i plwocina",
+        "Sinica i możliwe niedotlenienie",
+        "Pocenie kropelkowe i zmiana wysiłku"
+      ],
+      "pitfall": "Opisz osobno obserwacje krwawienia i objawy wysiłkowe."
+    },
+    {
+      "id": "O-IV-019",
+      "kind": "open",
+      "lecture": "IV",
+      "slide": "98–105,122",
+      "topic": "Angiochirurgia tętnicza",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Porównaj przewlekłe niedokrwienie tętnicze i ostre niedokrwienie w zakresie wykładu.",
+      "answer": "W przewlekłym przebiegu pojawia się chromanie, później ból spoczynkowy i zmiany troficzne. Ostre niedokrwienie może wynikać z urazu, zakrzepu lub zatoru. W części o operacjach porównano m.in. udrożnienie tętnicy, pomostowanie i usunięcie materiału zatorowego.",
+      "mandatory": [
+        "Przewlekłe objawy",
+        "Trzy przyczyny ostre",
+        "Przykładowe typy leczenia operacyjnego"
+      ],
+      "pitfall": "Odróżnij zamknięcie przez materiał zatorowy od miejscowego zakrzepu."
+    },
+    {
+      "id": "O-IV-020",
+      "kind": "open",
+      "lecture": "IV",
+      "slide": "105–106,112,126–128",
+      "topic": "Angiochirurgia tętnicza",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Porównaj przygotowanie do operacji tętnic, okres szpitalny i późny.",
+      "answer": "Przed operacją edukacja, ćwiczenia oddechowe, kaszel, profilaktyka zakrzepowa i przygotowanie do zmian pozycji. W okresie szpitalnym kontynuacja ćwiczeń, stopniowe uruchamianie, nauka chodu lub obciążania kikuta. W późnym okresie wykład wskazuje trening m.in. dla wydłużenia dystansu chromania, poprawy koordynacji i wydolności.",
+      "mandatory": [
+        "Przygotowanie",
+        "Usprawnianie szpitalne",
+        "Cele okresu późnego"
+      ],
+      "pitfall": "Przed planowaną amputacją wykład opisuje naukę chodu o kulach. Po operacji omawia przygotowanie kikuta do zaprotezowania."
+    },
+    {
+      "id": "O-IV-021",
+      "kind": "open",
+      "lecture": "IV",
+      "slide": "113–115,129–130,136",
+      "topic": "Angiochirurgia tętnicza",
+      "difficulty": "hard",
+      "priority": true,
+      "question": "Jak wykład porządkuje opis treningu marszowego w przewlekłym niedokrwieniu i jego przeciwwskazań?",
+      "answer": "Opis obejmuje częstotliwość kroków, dystans i odpoczynek. Dystans chromania odnosi się do odcinka zakończonego bólem wymuszającym przerwę. Możliwości zależą m.in. od lokalizacji i stadium niedokrwienia, wydolności i chorób towarzyszących. Przeciwwskazania wymienione w wykładzie to m.in. ból spoczynkowy, III lub IV stadium oraz ostre niedokrwienie.",
+      "mandatory": [
+        "Trzy parametry marszu",
+        "Definicja dystansu chromania",
+        "Czynniki doboru",
+        "Przeciwwskazania"
+      ],
+      "pitfall": "Ustalenie tolerowanego wysiłku zależy od kontekstu i stadium niedokrwienia."
+    },
+    {
+      "id": "O-IV-022",
+      "kind": "open",
+      "lecture": "IV",
+      "slide": "116–125",
+      "topic": "Angiochirurgia tętnicza",
+      "difficulty": "hard",
+      "priority": false,
+      "question": "Opisz działanie przerywanej kompresji pneumatycznej i nazwij parametry analizowane w wykładzie.",
+      "answer": "Cykl napełniania i opróżniania nogawicy naśladuje część działania pompy mięśniowej. Wykład opisuje dobór ciśnienia, czasu ucisku, czasu i ciśnienia przerwy oraz czasu zabiegu. Wśród przeciwwskazań wymienia ostre zapalenie naczyń, ostre zakrzepowe zapalenie żył i niewydolność krążenia.",
+      "mandatory": [
+        "Cykliczny ucisk",
+        "Ciśnienie, czasy i przerwy",
+        "Przykłady przeciwwskazań"
+      ],
+      "pitfall": "Parametry omawiano w odrębnych kontekstach klinicznych."
+    },
+    {
+      "id": "O-IV-023",
+      "kind": "open",
+      "lecture": "IV",
+      "slide": "132–136",
+      "topic": "Angiochirurgia tętnicza",
+      "difficulty": "hard",
+      "priority": true,
+      "question": "Opisz cztery części schematu Horodyńskiego oraz sposób reagowania na ból w materiale.",
+      "answer": "Po ćwiczeniach oddechowych i izometrii (2 sekundy napięcia, 4 rozluźnienia) następuje wzmacnianie tułowia i kończyn. Trzeci etap obejmuje ćwiczenia naczyniowe, a czwarty oddech i rozluźnienie. W ramach schematu po osiągnięciu granicy bólu wykład przewiduje 2–3 minuty odpoczynku. Ból spoczynkowy wymienia osobno jako przeciwwskazanie do treningu.",
+      "mandatory": [
+        "Oddech i izometria",
+        "Wzmacnianie",
+        "Ukierunkowanie naczyniowe",
+        "Rozluźnienie",
+        "Przerwa przy bólu i przeciwwskazanie"
+      ],
+      "pitfall": "Rozróżnij ból w trakcie wykładowego schematu i ból spoczynkowy."
+    },
+    {
+      "id": "O-IV-024",
+      "kind": "open",
+      "lecture": "IV",
+      "slide": "139–145",
+      "topic": "Choroby żył",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jak wykład opisuje nasilenie zmian żylnych i rehabilitację okołooperacyjną?",
+      "answer": "Skala od C0 do C6 przechodzi od braku objawów przez teleangiektazje, żylaki, obrzęk i zmiany skóry do wygojonych, a następnie czynnych owrzodzeń. W rehabilitacji przewidziano ćwiczenia nóg, izometrię, ćwiczenia oddechowe, wczesne spacery i kompresję.",
+      "mandatory": [
+        "Kolejność klas",
+        "Różnica C5 i C6",
+        "Pompa mięśniowa i kompresja"
+      ],
+      "pitfall": "Obrzęk w klasie C3 i stadium obrzęku chłonnego należą do różnych podziałów."
+    },
+    {
+      "id": "O-IV-025",
+      "kind": "open",
+      "lecture": "IV",
+      "slide": "146–154",
+      "topic": "Obrzęk chłonny",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Porównaj rodzaje obrzęku chłonnego i przedstaw logikę usprawniania w części wykładu.",
+      "answer": "Pierwotny wynika z zaburzeń rozwojowych, wtórny z nabytych przyczyn. Postępowanie łączy drenaż, krótkie ćwiczenia ułatwiające odpływ, pozycje ułożeniowe i kompresję. Drenaż zaczyna się od obszarów bliższych, kolejne obejmują dalsze, a chłonkę mobilizuje się dosercowo.",
+      "mandatory": [
+        "Pierwotny i wtórny",
+        "Drenaż, ruch i kompresja",
+        "Bliższe odcinki najpierw",
+        "Kierunek dosercowy"
+      ],
+      "pitfall": "Rozróżnij kierunek opracowywania odcinków i kierunek mobilizacji chłonki."
+    },
+    {
+      "id": "O-IV-026",
+      "kind": "open",
+      "lecture": "IV",
+      "slide": "155–162",
+      "topic": "Testy naczyniowe",
+      "difficulty": "hard",
+      "priority": false,
+      "question": "Przyporządkuj sześć testów naczyniowych z wykładu do ich omawianych celów.",
+      "answer": "Perthesa opisano w ocenie żył głębokich i przeszywających, a Trendelenburga w ocenie wydolności układu żylnego. Lowenberga i Homansa przyporządkowano do oceny zakrzepicy kończyny dolnej. Allena powiązano z przepływem tętniczym ręki, a Ratschowa–Boergera z oceną naczyń kończyn na podstawie reakcji na pracę stóp i zmianę ułożenia.",
+      "mandatory": [
+        "Perthesa i Trendelenburga",
+        "Lowenberga i Homansa",
+        "Allena",
+        "Ratschowa–Boergera"
+      ],
+      "pitfall": "Zadanie sprawdza zakres testów opisanych w prezentacji."
+    },
+    {
+      "id": "O-IV-027",
+      "kind": "open",
+      "lecture": "IV",
+      "slide": "113–115,129–130",
+      "topic": "Angiochirurgia tętnicza",
+      "difficulty": "hard",
+      "priority": false,
+      "question": "Jak odróżnić dwa wykładowe opisy dawkowania marszu przy przewlekłym niedokrwieniu tętniczym?",
+      "answer": "Slajd 114 przedstawia odcinki równe około 2/3 dystansu chromania z 2–3 minutami odpoczynku. Slajd 130 w zaleceniach treningowych opisuje nieprzerwany marsz do bólu submaksymalnego lub maksymalnego. Są to dwie przedstawione w wykładzie formy dawkowania.",
+      "mandatory": [
+        "Odcinek 2/3 dystansu i przerwa na slajdzie 114",
+        "Zakończenie marszu według nasilenia bólu na slajdzie 130"
+      ],
+      "pitfall": "Przypisz sposób dawkowania do właściwego fragmentu prezentacji."
+    }
+  ],
+  "cases": [
+    {
+      "id": "C-IV-001",
+      "kind": "case",
+      "lecture": "IV",
+      "slide": "6–7,16,82",
+      "topic": "Cele i powikłania pooperacyjne",
+      "difficulty": "medium",
+      "priority": true,
+      "title": "Ból i zalegająca wydzielina",
+      "scenario": "W scenariuszu po zabiegu w nadbrzuszu chory z powodu bólu oddycha płytko i powstrzymuje kaszel. Pojawia się problem z odkrztuszaniem.",
+      "question": "Jak połączyć te obserwacje z wykładowym mechanizmem powikłań płucnych?",
+      "answer": "Ból ogranicza głębokość oddechu i skuteczność kaszlu, co sprzyja zaleganiu wydzieliny. Wykład uzasadnia tym wcześniejszą naukę oddechu i efektywnego kaszlu.",
+      "mandatory": [
+        "Płytki oddech",
+        "Unikanie kaszlu i zaleganie wydzieliny",
+        "Cel wcześniejszej nauki"
+      ],
+      "pitfall": "Ból wpływa zarówno na wentylację, jak i na samo oczyszczanie oskrzeli."
+    },
+    {
+      "id": "C-IV-002",
+      "kind": "case",
+      "lecture": "IV",
+      "slide": "16–17,82,109",
+      "topic": "Kinezyterapia i fizykoterapia",
+      "difficulty": "medium",
+      "priority": true,
+      "title": "Przygotowanie do efektywnego kaszlu",
+      "scenario": "Pacjent przed operacją ma opanować wariant kaszlu z długim wydechem. Może przyjąć siad i wykonać polecenia terapeuty.",
+      "question": "Jaka pozycja i kolejność faz odpowiadają wykładowemu opisowi?",
+      "answer": "Siad woźnicy z tułowiem pochylonym w przód. Po krótkim głębokim wdechu nosem następuje długi wydech ustami i seria kaszlnięć przy końcu wydechu. W odmianie można opisać wydech przerywany.",
+      "mandatory": [
+        "Siad woźnicy",
+        "Krótki wdech nosem",
+        "Długi wydech ustami",
+        "Kaszel pod koniec wydechu"
+      ],
+      "pitfall": "Wykład omawia oba warianty wydechu."
+    },
+    {
+      "id": "C-IV-003",
+      "kind": "case",
+      "lecture": "IV",
+      "slide": "32,37",
+      "topic": "Przygotowanie, uruchamianie i pionizacja",
+      "difficulty": "hard",
+      "priority": true,
+      "title": "Kroplówka a wczesne ćwiczenia",
+      "scenario": "W pytaniu egzaminacyjnym pojawiają się dwa slajdy. Na jednym wczesne ćwiczenia są ograniczone m.in. przez podłączoną kroplówkę, a drugi omawia elastyczne wkłucia.",
+      "question": "Jak pogodzić te zapisy przy odpowiedzi na egzaminie?",
+      "answer": "Slajd 32 zalicza kroplówkę do względnych przeciwwskazań. Slajd 37 podaje, że przy stosowanych wkłuciach sama obecność kroplówki ćwiczeń nie wyklucza i opisuje odłączenie przez pielęgniarkę, jeśli jest potrzebne.",
+      "mandatory": [
+        "Względne przeciwwskazanie na slajdzie 32",
+        "Doprecyzowanie ze slajdu 37",
+        "Rola pielęgniarki"
+      ],
+      "pitfall": "Dwa zapisy dotyczą tego samego zagadnienia z różną szczegółowością."
+    },
+    {
+      "id": "C-IV-004",
+      "kind": "case",
+      "lecture": "IV",
+      "slide": "35,40,42",
+      "topic": "Przygotowanie, uruchamianie i pionizacja",
+      "difficulty": "hard",
+      "priority": true,
+      "title": "Uruchamianie po operacji brzucha",
+      "scenario": "W pierwszej dobie chory ma zabezpieczone dreny, oceniono jego stan i w ćwiczeniu założono brak przeciwwskazań. Obawia się naprężania brzucha przy przejściu do siadu.",
+      "question": "Jaką sekwencję zmiany pozycji i warunki spaceru opisuje wykład?",
+      "answer": "Przejście z leżenia do siadu przez ułożenie na boku oszczędza tłocznię brzuszną. Przed pionizacją sprawdza się aparaturę, a po pionizacji spacer odbywa się z fizjoterapeutą, na dystansie dopasowanym do aktualnych możliwości i bólu.",
+      "mandatory": [
+        "Bok przed siadem",
+        "Mechanizm oszczędzenia tłoczni",
+        "Zabezpieczenie aparatury",
+        "Tolerancja i opieka podczas spaceru"
+      ],
+      "pitfall": "Wykład warunkuje pionizację gotowością pacjenta i zabezpieczeniem sprzętu."
+    },
+    {
+      "id": "C-IV-005",
+      "kind": "case",
+      "lecture": "IV",
+      "slide": "46–48",
+      "topic": "Niedodma i profilaktyka zakrzepicy",
+      "difficulty": "hard",
+      "priority": true,
+      "title": "Zakrzepica a plan profilaktyki",
+      "scenario": "Na zajęciach porównuje się wcześniejszy plan ćwiczeń przeciwzakrzepowych w łóżku z sytuacją, w której po operacji stwierdzono zakrzepicę żył głębokich.",
+      "question": "Jak zmienia się rola ćwiczeń kończyn dolnych w odpowiedzi opartej na wykładzie?",
+      "answer": "W profilaktyce czynny ruch kończyn i wczesna pionizacja należą do metod fizykalnych. W opisie występującej zakrzepicy slajd 46 wyłącza te ćwiczenia ze względu na ryzyko zatorowości, pozostawiając ćwiczenia oddechowe i efektywny kaszel.",
+      "mandatory": [
+        "Ćwiczenia w profilaktyce",
+        "Opis odrębnego etapu po rozpoznaniu",
+        "Wyjątki w wykładzie"
+      ],
+      "pitfall": "W pytaniu trzeba rozpoznać, że wykład omawia dwa różne konteksty."
+    },
+    {
+      "id": "C-IV-006",
+      "kind": "case",
+      "lecture": "IV",
+      "slide": "55–58,63–65",
+      "topic": "Odleżyny",
+      "difficulty": "medium",
+      "priority": true,
+      "title": "Nieblednący rumień nad piętą",
+      "scenario": "U osoby długotrwale leżącej widoczny jest nieblednący rumień przy pięcie. W opisie występują wilgotna pościel i niewielkie otarcie.",
+      "question": "Jakie cechy z wykładu powiążesz z oceną zmiany i profilaktyką?",
+      "answer": "Nieblednący rumień i możliwe otarcie odpowiadają opisowi II stopnia w pokazanej skali Thorrance’a. Pięta jest miejscem narażonym na ucisk. W działaniach profilaktycznych wykład wskazuje odciążenie, zmianę pozycji i utrzymanie suchej skóry oraz pościeli.",
+      "mandatory": [
+        "Stopień II w skali wykładowej",
+        "Pięta jako punkt ucisku",
+        "Odciążenie i suchość"
+      ],
+      "pitfall": "Ocena dotyczy wskazanej w pytaniu klasyfikacji z prezentacji."
+    },
+    {
+      "id": "C-IV-007",
+      "kind": "case",
+      "lecture": "IV",
+      "slide": "69–75",
+      "topic": "Blizny",
+      "difficulty": "hard",
+      "priority": true,
+      "title": "Wygojona blizna z ograniczonym ślizgiem",
+      "scenario": "Po zamknięciu i wygojeniu rany dydaktyczny opis wskazuje ograniczenie poprzecznego ślizgu blizny w fazie przebudowy.",
+      "question": "Jaka kolejność oceny i doboru pracy odpowiada wykładowi?",
+      "answer": "Ocenia się ślizg wzdłużny, poprzeczny, rotacyjny i względem tkanek głębszych. Dla potwierdzonego ograniczenia poprzecznego dobiera się ukierunkowaną pracę od delikatnego nacisku lub mobilizacji i stopniuje nasilenie.",
+      "mandatory": [
+        "Wygojenie",
+        "Ocena ślizgu",
+        "Ukierunkowanie poprzeczne",
+        "Ostrożna progresja"
+      ],
+      "pitfall": "Kierunek pracy wynika z badania ruchomości."
+    },
+    {
+      "id": "C-IV-008",
+      "kind": "case",
+      "lecture": "IV",
+      "slide": "83–84",
+      "topic": "Torakochirurgia",
+      "difficulty": "medium",
+      "priority": true,
+      "title": "Kaszel po sternotomii",
+      "scenario": "W opisie po operacji przez przecięcie mostka chory odkłada kaszel, obawiając się bólu i rozejścia rany.",
+      "question": "Jaki rodzaj stabilizacji i jego cel podaje wykład?",
+      "answer": "Stabilizację oburącz, przez ułożenie obu rąk na okolicy cięcia albo dłoni po jego dwóch stronach. Stabilizacja okolicy rany ma zmniejszać ból i umożliwić skuteczniejsze odkrztuszanie.",
+      "mandatory": [
+        "Stabilizacja oburącz",
+        "Dwa możliwe ułożenia rąk",
+        "Cel związany z kaszlem"
+      ],
+      "pitfall": "Dostęp przez mostek jest cechą rozstrzygającą w tym zadaniu."
+    },
+    {
+      "id": "C-IV-009",
+      "kind": "case",
+      "lecture": "IV",
+      "slide": "89–92",
+      "topic": "Torakochirurgia",
+      "difficulty": "hard",
+      "priority": true,
+      "title": "Narastający krwisty drenaż",
+      "scenario": "Podczas sprawdzania zestawu po torakotomii zauważono, że ilość krwi w butli wyraźnie wzrosła w porównaniu z poprzednią obserwacją.",
+      "question": "Jak wykład każe interpretować zmianę i co oznacza dla planowanych ćwiczeń?",
+      "answer": "Wyraźny przyrost może wskazywać na krwotok i wymaga konsultacji lekarskiej. Krwotok jest w wykładzie bezwzględnym przeciwwskazaniem do ćwiczeń. W trakcie oceny zachowuje się integralność układu drenażowego.",
+      "mandatory": [
+        "Narastanie krwi",
+        "Możliwy krwotok i konsultacja",
+        "Przeciwwskazanie do ćwiczeń",
+        "Integralność zestawu"
+      ],
+      "pitfall": "Pytanie dotyczy wyraźnej zmiany ilości krwi w czasie."
+    },
+    {
+      "id": "C-IV-010",
+      "kind": "case",
+      "lecture": "IV",
+      "slide": "96",
+      "topic": "Torakochirurgia",
+      "difficulty": "hard",
+      "priority": true,
+      "title": "Objawy przy pierwszej pionizacji",
+      "scenario": "Po operacji klatki piersiowej w opisie próby pionizacji pojawiają się zasinienie warg i krople potu na skroniach.",
+      "question": "Z jakimi zjawiskami wykład wiąże te objawy i jak wpływają one na ocenę wysiłku?",
+      "answer": "Sinica jest w wykładzie sygnałem niedotlenienia. Kropelkowe pocenie się może wskazywać na niewydolność krążenia i uzasadnia zmniejszenie lub przerwanie wysiłku. Oba objawy mają znaczenie dla oceny tolerancji pionizacji.",
+      "mandatory": [
+        "Sinica i niedotlenienie",
+        "Kropelkowe pocenie i krążenie",
+        "Zmiana intensywności lub przerwanie"
+      ],
+      "pitfall": "W przykładzie chodzi o niepokojące objawy przy uruchamianiu."
+    },
+    {
+      "id": "C-IV-011",
+      "kind": "case",
+      "lecture": "IV",
+      "slide": "129,132–136",
+      "topic": "Angiochirurgia tętnicza",
+      "difficulty": "hard",
+      "priority": true,
+      "title": "Ból spoczynkowy przed treningiem",
+      "scenario": "W zadaniu o niedokrwieniu tętniczym pacjent opisuje ból jeszcze przed rozpoczęciem treningu, w spoczynku. Zespół na ćwiczeniach ma omówić kwalifikację do schematu Horodyńskiego.",
+      "question": "Jak wykład odnosi ból spoczynkowy do stopnia Fontaine’a i do treningu?",
+      "answer": "Slajd 129 łączy ból spoczynkowy ze stopniem III, w którym wymienia też początek zmian troficznych. Slajd 136 podaje ból spoczynkowy jako przeciwwskazanie do treningu. Przerwa po osiągnięciu granicy bólu w schemacie dotyczy innej sytuacji.",
+      "mandatory": [
+        "III stopień w opisie",
+        "Przeciwwskazanie do treningu",
+        "Różnica między bólem spoczynkowym a wysiłkowym"
+      ],
+      "pitfall": "Odniesienie do stopnia III jest przyporządkowaniem wykładowym."
+    },
+    {
+      "id": "C-IV-012",
+      "kind": "case",
+      "lecture": "IV",
+      "slide": "140",
+      "topic": "Choroby żył",
+      "difficulty": "medium",
+      "priority": true,
+      "title": "Wygojone a czynne owrzodzenie żylne",
+      "scenario": "Dwa opisy pokazują osoby z podobnymi zmianami troficznymi. U pierwszej pozostała blizna po owrzodzeniu, u drugiej widoczne jest czynne owrzodzenie przy kostce.",
+      "question": "Które wykładowe klasy kliniczne odpowiadają tym opisom?",
+      "answer": "Pierwsza sytuacja odpowiada C5, a druga C6. Różnicę wyznacza stan owrzodzenia.",
+      "mandatory": [
+        "C5 po wygojeniu",
+        "C6 przy czynnym owrzodzeniu"
+      ],
+      "pitfall": "Oba opisy mogą obejmować inne objawy niewydolności żylnej."
+    },
+    {
+      "id": "C-IV-013",
+      "kind": "case",
+      "lecture": "IV",
+      "slide": "150–153",
+      "topic": "Obrzęk chłonny",
+      "difficulty": "medium",
+      "priority": true,
+      "title": "Kolejność opracowania obrzęku chłonnego",
+      "scenario": "Na zajęciach ktoś proponuje rozpoczęcie pracy od najbardziej obrzękniętej części dalszej i przesuwanie chłonki ku obwodowi.",
+      "question": "Co zmienić, żeby opis odpowiadał wykładowi?",
+      "answer": "Zacząć od obszarów bliższych i stopniowo przechodzić do dalszych, utrzymując mobilizację chłonki w kierunku dosercowym. Wykład łączy drenaż z ułożeniem wspierającym odpływ i ćwiczeniami o niewielkiej intensywności.",
+      "mandatory": [
+        "Najpierw odcinki bliższe",
+        "Potem dalsze",
+        "Mobilizacja dosercowa",
+        "Ułożenie i mała intensywność"
+      ],
+      "pitfall": "Kolejność obszarów pracy to osobna kwestia od kierunku mobilizacji."
+    },
+    {
+      "id": "C-IV-014",
+      "kind": "case",
+      "lecture": "IV",
+      "slide": "159–162",
+      "topic": "Testy naczyniowe",
+      "difficulty": "medium",
+      "priority": false,
+      "title": "Wybór testu do celu badania",
+      "scenario": "Na egzaminie opisano powrót przekrwienia dłoni po zwolnieniu ucisku na naczynia oraz niezależnie szybkie wypełnianie żylaków po zdjęciu opaski z uda.",
+      "question": "Do jakich dwóch testów pasują te obserwacje?",
+      "answer": "Powrót przekrwienia dłoni odpowiada testowi Allena. Wypełnianie żylaków przed zwolnieniem opaski i po jej zwolnieniu należy do opisu testu Trendelenburga.",
+      "mandatory": [
+        "Test Allena i ręka",
+        "Test Trendelenburga i żylaki"
+      ],
+      "pitfall": "Rozpoznaj test po obszarze i obserwacji wymienionej w opisie."
+    }
+  ],
+  "coverage": [
+    {
+      "name": "Etapy rehabilitacji i pionizacji",
+      "status": "OMÓWIONE",
+      "slide": "27–42, 89–96, 112, 126–128",
+      "note": "Przygotowanie przed operacją, doba zerowa, pierwsza doba, zmiana pozycji, pionizacja i spacer. Osobne opisy po torakotomii i operacjach tętnic."
+    },
+    {
+      "name": "Przeciwwskazania do pionizacji",
+      "status": "CZĘŚCIOWO",
+      "slide": "32, 35, 37, 40, 43–44, 90, 92, 96",
+      "note": "Ogólne ograniczenia wczesnych ćwiczeń, warunki zabezpieczenia aparatury, przykład zależny od rodzaju zabiegu i sygnały alarmowe po torakotomii. Wykład opisuje je w kilku kontekstach, bez jednego katalogu pionizacji."
+    },
+    {
+      "name": "Kiedy przerwać trening / ćwiczenia",
+      "status": "OMÓWIONE",
+      "slide": "46, 90, 92, 96, 132, 136",
+      "note": "Wykładowe ograniczenia przy zakrzepicy i krwawieniu, objawy przy pionizacji po torakotomii oraz przeciwwskazania i granica bólu w treningu w niedokrwieniu tętniczym."
+    },
+    {
+      "name": "Charakterystyka wad postawy",
+      "status": "BRAK",
+      "slide": "",
+      "note": "Część torakochirurgiczna wspomina zniekształcenia klatki piersiowej, a angiochirurgiczna korekcję postawy i chodu. Charakterystykę wad postawy zawiera wykład V."
+    },
+    {
+      "name": "Etapy przy stwardnieniu",
+      "status": "BRAK",
+      "slide": "",
+      "note": "Wykład skupia się na rehabilitacji chirurgicznej. Zagadnienie choroby i rehabilitacji w stwardnieniu rozsianym nie występuje w materiale."
+    },
+    {
+      "name": "Techniki wykonywania ćwiczeń",
+      "status": "OMÓWIONE",
+      "slide": "13–19, 39–42, 71–75, 81–84, 107–111, 132–135",
+      "note": "Omówiono m.in. oddech, kaszel, ruch stóp, transfery, mobilizację blizny i ćwiczenia naczyniowe. Slajdy 20–22, 41 i 85 zawierają fotografie lub ryciny uzupełniające opisy technik."
+    },
+    {
+      "name": "Nauka efektywnego kaszlu",
+      "status": "OMÓWIONE",
+      "slide": "16–17, 82–84, 93–94, 109–110",
+      "note": "Nauka przed operacją, pozycja woźnicy i dopuszczalny półsiad po operacji brzucha, warianty kaszlu oraz stabilizacja i techniki wspomagające."
+    },
+    {
+      "name": "Postępowanie RAJS",
+      "status": "BRAK",
+      "slide": "",
+      "note": "Nie znaleziono terminu RAJS ani opisu takiej procedury. Rajstopy uciskowe na slajdach 143–144 dotyczą kompresjoterapii."
+    },
+    {
+      "name": "Zabezpieczenie rany przed pionizacją",
+      "status": "CZĘŚCIOWO",
+      "slide": "35, 39–42, 83–84, 90, 96",
+      "note": "Przed uruchamianiem sprawdza się aparaturę i ogranicza obciążenie tłoczni brzusznej przy transferze. Stabilizację okolicy rany rękami lub przez poduszkę opisano podczas kaszlu. Szczegółowego protokołu zabezpieczenia samej rany do pionizacji nie podano."
+    },
+    {
+      "name": "Odleżyny i blizny – ocena",
+      "status": "OMÓWIONE",
+      "slide": "53–76",
+      "note": "Tekst opisuje okolice narażone na ucisk, wykładową skalę Thorrance’a, kolory ran, podział Mustoe i ocenę ślizgu blizny. W galerii pokazano miejsca narażone na ucisk w leżeniu tyłem i na boku (59–60). Slajdy 61–62 zawierają fotografie ran bez podpisów."
+    },
+    {
+      "name": "Mobilizacja blizny",
+      "status": "OMÓWIONE",
+      "slide": "71–75",
+      "note": "Opisano wczesną pracę z otoczeniem rany, mobilizację po wygojeniu, ocenę kierunku ograniczenia ślizgu i stopniowanie technik."
+    }
+  ],
+  "images": [
+    {
+      "lecture": "Wykład IV",
+      "slide": 42,
+      "title": "Przejście z leżenia do siadu po operacji",
+      "alt": "Schemat trzech pozycji: leżenie tyłem, leżenie na boku i siad.",
+      "caption": "Schemat na podstawie opisu przejścia przez leżenie na boku, które ogranicza angażowanie tłoczni brzusznej.",
+      "src": "../../images/wyklad-iv-transfer.svg"
+    },
+    {
+      "lecture": "Wykład IV",
+      "slide": 59,
+      "title": "Miejsca narażone na ucisk w leżeniu tyłem",
+      "alt": "Rysunek zaznacza m.in. potylicę, łopatki, łokcie, okolice kości ogonowej oraz pięty.",
+      "caption": "Porównaj zaznaczone okolice z rozmieszczeniem miejsc ucisku w ułożeniu na boku.",
+      "src": "../../images/wyklad-iv-slajd-59.jpg"
+    },
+    {
+      "lecture": "Wykład IV",
+      "slide": 60,
+      "title": "Miejsca narażone na ucisk w leżeniu na boku",
+      "alt": "Rysunek zaznacza okolice uszu, ramion, bioder, przyśrodkowych i bocznych stron kolan oraz kostek.",
+      "caption": "Miejsca narażone na ucisk zmieniają się wraz z pozycją ciała.",
+      "src": "../../images/wyklad-iv-slajd-60.jpg"
+    },
+    {
+      "lecture": "Wykład IV",
+      "slide": 68,
+      "title": "Trzy fazy gojenia rany",
+      "alt": "Kolejno faza zapalna 48–72 godziny, proliferacja 3–6 tygodni i przebudowa od trzeciego tygodnia.",
+      "caption": "Kolejność faz, procesy tkankowe i ramy czasowe podane w wykładzie.",
+      "src": "../../images/wyklad-iv-gojenie.svg"
+    }
+  ]
+}

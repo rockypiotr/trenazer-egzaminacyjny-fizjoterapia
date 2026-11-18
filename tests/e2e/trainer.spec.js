@@ -157,14 +157,51 @@ test("pokazuje ilustracje w galerii i ładuje pliki obrazów", async ({
   await openTrainer(page);
   await navigate(page, "gallery");
   await expect(
-    page.getByRole("heading", { name: "Schematy z prezentacji" }),
+    page.getByRole("heading", { name: "Ilustracje i schematy" }),
   ).toBeVisible();
-  const images = page.locator(".gallery img");
-  await expect(images).toHaveCount(6);
-  for (const image of await images.all()) {
+  const gallery = page.locator(".gallery");
+  for (const lecture of ["III", "IV", "V", "VI", "VII"]) {
+    await expect(gallery.getByText(`Wykład ${lecture} ·`).first()).toBeVisible();
+  }
+  for (const image of await gallery.getByRole("img").all()) {
     await image.scrollIntoViewIfNeeded();
     await image.evaluate((element) => element.decode());
   }
+});
+
+test("pokazuje nowe wykłady w banku pytań, zakresie i próbnym egzaminie", async ({
+  page,
+}) => {
+  await openTrainer(page);
+  await navigate(page, "coverage");
+  for (const lecture of ["III", "IV", "VII"]) {
+    await expect(
+      page.getByRole("heading", { name: new RegExp(`^Wykład ${lecture} –`) }),
+    ).toBeVisible();
+  }
+
+  await navigate(page, "catalog");
+  const catalogFilter = page.getByLabel("Wykład", { exact: true });
+  const kindFilter = page.getByLabel("Typ", { exact: true });
+  for (const lecture of ["III", "IV", "VII"]) {
+    await catalogFilter.selectOption(lecture);
+    for (const kind of ["card", "quiz", "open", "case"]) {
+      await kindFilter.selectOption(kind);
+      await expect(page.locator(".catalog-item").first()).toContainText(
+        `Wykład ${lecture} ·`,
+      );
+    }
+  }
+
+  await navigate(page, "exam");
+  const examFilter = page.getByLabel("Wybierz materiał");
+  await expect(examFilter.locator('option[value="both"]')).toHaveText(
+    "Wszystkie wykłady",
+  );
+  await expect(examFilter.locator("option")).toHaveCount(6);
+  await examFilter.selectOption("VII");
+  await page.getByRole("button", { name: /Rozpocznij egzamin/ }).click();
+  await expect(page.locator(".source")).toContainText("Wykład VII");
 });
 
 test("obsługuje dodatkowy zestaw w quizie i egzaminie oraz przywraca zapisane pytanie", async ({

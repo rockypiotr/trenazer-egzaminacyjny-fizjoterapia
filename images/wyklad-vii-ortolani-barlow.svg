@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="382" viewBox="0 0 720 382" role="img" aria-labelledby="title desc">
+  <title id="title">Kierunek przemieszczenia głowy kości udowej w próbach Ortolaniego i Barlowa</title>
+  <desc id="desc">Po lewej pokazano wyczuwalny powrót głowy kości udowej do panewki w dodatnim objawie Ortolaniego. Po prawej pokazano jej wysunięcie z panewki w dodatniej próbie Barlowa. Okrąg przerywany oznacza położenie początkowe.</desc>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M1 1l7 4-7 4" fill="none" stroke="#0f766e" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+    <path id="socket" d="M196 159C145 110 65 142 65 200s80 90 131 41l-18-23c-34 30-83 14-83-18s49-48 83-18z"/>
+  </defs>
+  <rect width="720" height="382" fill="#f3faf9"/>
+  <g fill="#fff" stroke="#c7e3df" stroke-width="2">
+    <rect x="16" y="16" width="336" height="318" rx="18"/>
+    <rect x="368" y="16" width="336" height="318" rx="18"/>
+  </g>
+  <g fill="#132c3d" text-anchor="middle" font-family="system-ui, sans-serif">
+    <g font-size="29" font-weight="700">
+      <text x="184" y="57">Ortolani</text>
+      <text x="536" y="57">Barlow</text>
+    </g>
+    <g font-size="23">
+      <text x="184" y="287">Głowa wraca</text>
+      <text x="184" y="315">do panewki</text>
+      <text x="536" y="287">Głowa wysuwa się</text>
+      <text x="536" y="315">z panewki</text>
+    </g>
+  </g>
+  <g fill="#dbe7f1" stroke="#547493" stroke-width="3.5" stroke-linejoin="round">
+    <use href="#socket"/>
+    <use href="#socket" x="352"/>
+  </g>
+  <g fill="none" stroke="#547493" stroke-width="3.5" stroke-dasharray="6 6">
+    <circle cx="258" cy="200" r="30"/>
+    <circle cx="488" cy="200" r="30"/>
+  </g>
+  <g fill="#bde8e1" stroke="#0f766e" stroke-width="4">
+    <circle cx="136" cy="200" r="30"/>
+    <circle cx="610" cy="200" r="30"/>
+  </g>
+  <g fill="none" stroke="#0f766e" stroke-width="4" stroke-linecap="round" marker-end="url(#arrow)">
+    <path d="M258 138Q206 79 144 119"/>
+    <path d="M488 119Q549 79 609 137"/>
+  </g>
+  <circle cx="169" cy="358" r="9" fill="none" stroke="#547493" stroke-width="2.5" stroke-dasharray="4 3"/>
+  <circle cx="384" cy="358" r="9" fill="#bde8e1" stroke="#0f766e" stroke-width="2.5"/>
+  <g fill="#132c3d" font-family="system-ui, sans-serif" font-size="20">
+    <text x="185" y="365">Położenie przed</text>
+    <text x="400" y="365">Położenie po</text>
+  </g>
+</svg>

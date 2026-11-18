@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 510" role="img" aria-labelledby="title desc">
+  <title id="title">Stadia Hoehna i Yahra</title>
+  <desc id="desc">Stadium pierwsze — objawy jednostronne. Drugie — objawy obustronne z zachowaną równowagą. Trzecie — zaburzenia odruchów postawnych. Czwarte — ciężka niesprawność z możliwością stania i chodzenia. Piąte — wózek lub łóżko i stała pomoc.</desc>
+  <rect width="520" height="510" fill="#f5faf9"/>
+  <g font-family="system-ui, sans-serif">
+    <text x="30" y="44" font-size="27" font-weight="720" fill="#123930">Stadia Hoehna i Yahra</text>
+    <text x="30" y="75" font-size="20" font-weight="550" fill="#315b53">Choroba Parkinsona</text>
+
+    <g font-size="20" font-weight="650" fill="#123930">
+      <rect x="30" y="103" width="460" height="56" rx="11" fill="#e0efeb"/>
+      <rect x="42" y="114" width="48" height="34" rx="9" fill="#287265"/>
+      <text x="66" y="138" text-anchor="middle" font-size="18" fill="#fff">I</text>
+      <text x="108" y="138">Objawy jednostronne</text>
+
+      <rect x="30" y="176" width="460" height="56" rx="11" fill="#e0efeb"/>
+      <rect x="42" y="187" width="48" height="34" rx="9" fill="#287265"/>
+      <text x="66" y="211" text-anchor="middle" font-size="18" fill="#fff">II</text>
+      <text x="108" y="200">Objawy obustronne</text>
+      <text x="108" y="222" font-size="17" font-weight="530" fill="#315b53">Równowaga zachowana</text>
+
+      <rect x="30" y="249" width="460" height="56" rx="11" fill="#d2e8e2" stroke="#4f8c7e"/>
+      <rect x="42" y="260" width="48" height="34" rx="9" fill="#225f54"/>
+      <text x="66" y="284" text-anchor="middle" font-size="18" fill="#fff">III</text>
+      <text x="108" y="273">Zaburzenia odruchów postawnych</text>
+      <text x="108" y="295" font-size="17" font-weight="530" fill="#315b53">Możliwe samodzielne funkcjonowanie</text>
+
+      <rect x="30" y="322" width="460" height="56" rx="11" fill="#e0efeb"/>
+      <rect x="42" y="333" width="48" height="34" rx="9" fill="#287265"/>
+      <text x="66" y="357" text-anchor="middle" font-size="18" fill="#fff">IV</text>
+      <text x="108" y="346">Znaczne ograniczenia sprawności</text>
+      <text x="108" y="368" font-size="17" font-weight="530" fill="#315b53">Stanie i chodzenie nadal możliwe</text>
+
+      <rect x="30" y="395" width="460" height="56" rx="11" fill="#e0efeb"/>
+      <rect x="42" y="406" width="48" height="34" rx="9" fill="#287265"/>
+      <text x="66" y="430" text-anchor="middle" font-size="18" fill="#fff">V</text>
+      <text x="108" y="419">Wózek lub łóżko</text>
+      <text x="108" y="441" font-size="17" font-weight="530" fill="#315b53">Potrzebna stała pomoc</text>
+    </g>
+    <text x="30" y="488" font-size="15" fill="#315b53">Wykład III · slajd 146</text>
+  </g>
+</svg>
