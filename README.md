@@ -14,6 +14,18 @@ python3 -m http.server 8000 --directory ..
 
 Otwórz [http://localhost:8000/trenazer-egzaminacyjny-fizjoterapia/](http://localhost:8000/trenazer-egzaminacyjny-fizjoterapia/). Jeśli katalog repozytorium ma inną nazwę, użyj jej w adresie. Strona pobiera zestawy przez HTTP.
 
+## Testy E2E
+
+W katalogu repozytorium uruchom poniższe polecenia. Potrzebujesz Node.js 20 lub nowszego oraz Pythona 3.
+
+```sh
+npm ci
+npx playwright install chromium
+npm run test:e2e
+```
+
+Playwright uruchamia lokalny serwer i testuje stronę w Chromium na komputerze oraz w emulacji telefonu. Dodatkowy zestaw jest wczytywany tylko w przeglądarce testowej.
+
 ## Dopisanie pytania
 
 Otwórz plik zestawu, np. `data/sets/wyklad-v.json`. Dodaj obiekt do tablicy odpowiadającej trybowi. Najprościej skopiować pytanie tego samego typu i zmienić jego pola.

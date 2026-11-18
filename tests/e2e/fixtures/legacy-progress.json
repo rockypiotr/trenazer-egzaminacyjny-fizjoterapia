@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "cards": {
+    "F-V-001": {
+      "reps": 2,
+      "ease": 2.74,
+      "interval": 6,
+      "due": 1736208000000,
+      "right": 2,
+      "wrong": 0,
+      "last": 1735689600000
+    }
+  },
+  "records": {
+    "F-V-001": { "right": 2, "wrong": 0, "last": 1735689600000 }
+  },
+  "sessions": [
+    {
+      "time": 1735689600000,
+      "mode": "flash",
+      "lecture": "V",
+      "items": 1,
+      "autoCorrect": 0,
+      "autoTotal": 0,
+      "selfGood": 0,
+      "selfTotal": 0,
+      "wrongIds": []
+    }
+  ],
+  "theme": "dark",
+  "bookmarks": ["F-V-001"],
+  "exported": "2025-01-01T00:00:00.000Z",
+  "content": "Progress: fisioterapia studies; no questions exported",
+  "app_version": 1
+}

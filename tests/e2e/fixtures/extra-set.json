@@ -1,0 +1,31 @@
+{
+  "cards": [
+    {
+      "id": "F-E2E-VII-001",
+      "kind": "card",
+      "lecture": "E2E-VII",
+      "slide": "3",
+      "topic": "Terminologia testowa",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Co oznacza skrót ROM?",
+      "answer": "Zakres ruchu."
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "Q-E2E-VII-001",
+      "kind": "quiz",
+      "lecture": "E2E-VII",
+      "slide": "3",
+      "topic": "Terminologia testowa",
+      "difficulty": "basic",
+      "priority": false,
+      "qtype": "single",
+      "question": "Co opisuje ROM?",
+      "options": ["Zakres ruchu", "Częstość oddechów"],
+      "correct": 0,
+      "why": "ROM oznacza zakres ruchu."
+    }
+  ]
+}
