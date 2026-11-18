@@ -1,0 +1,47 @@
+<div class="eyebrow">WYNIKI I USTAWIENIA</div>
+<h1>Twój postęp</h1>
+<p class="lead">Wyniki są zapisywane na tym urządzeniu w pamięci przeglądarki.</p>
+<div class="grid two">
+  <div class="panel">
+    <h2>Kopia postępów</h2>
+    <p class="sm">Zapisz plik JSON i przenieś go na inne urządzenie lub przywróć po wyczyszczeniu przeglądarki.</p>
+    <div class="btn-row">
+      <button class="btn" (click)="exportBackup.emit()">↓ Eksportuj JSON</button>
+      <button class="btn secondary" (click)="file.click()">↑ Importuj JSON</button>
+    </div>
+    <input #file class="hidden" type="file" id="import-file" accept="application/json,.json" (change)="selectFile(file)">
+  </div>
+  <div class="panel">
+    <h2>Reset wyników</h2><p class="sm">Usuwa postęp fiszek, błędy, oceny i historię.</p>
+    <button class="btn warn" (click)="reset.emit()">Wyczyść dane nauki</button>
+  </div>
+</div>
+<div class="section-head"><h2>Skuteczność według tematów</h2></div>
+<div class="panel scrollable-table" tabindex="0" role="region" aria-label="Skuteczność według tematów">
+  <table class="data-table">
+    <thead><tr><th>Temat</th><th>Próby</th><th>Poprawne</th><th>Odwiedzone pytania</th></tr></thead>
+    <tbody>
+      @for (row of topics(); track row.topic) {
+        <tr><td>{{ row.topic }}</td><td>{{ row.right + row.wrong }}</td>
+          <td>{{ score(row.right, row.right + row.wrong) }}</td><td>{{ row.seen }} / {{ row.items }}</td></tr>
+      }
+    </tbody>
+  </table>
+</div>
+<div class="section-head"><h2>Ostatnie sesje</h2></div>
+<div class="panel">
+  @if (history().length) {
+    <div class="scrollable-table" tabindex="0" role="region" aria-label="Ostatnie sesje">
+      <table class="data-table">
+        <thead><tr><th>Data</th><th>Tryb</th><th>Pytania</th><th>Wynik autom.</th><th>Samoocena</th></tr></thead>
+        <tbody>
+          @for (session of history(); track $index) {
+            <tr><td>{{ date(session.time) }}</td><td>{{ session.mode }}</td><td>{{ session.items }}</td>
+              <td>{{ score(session.autoCorrect, session.autoTotal) }}</td>
+              <td>{{ session.selfTotal ? session.selfGood + '/' + session.selfTotal : '–' }}</td></tr>
+          }
+        </tbody>
+      </table>
+    </div>
+  } @else { <p>Brak ukończonych sesji. Historia pojawi się po pierwszej nauce.</p> }
+</div>

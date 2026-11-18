@@ -1,0 +1,55 @@
+<div class="eyebrow">CAŁY MATERIAŁ</div>
+<h1>Przeglądaj bank pytań</h1>
+<p class="lead">Znajdź temat, obejrzyj wzorcową odpowiedź lub rozpocznij pojedyncze pytanie. Możesz zapisać trudne zadania do osobnej sesji.</p>
+<div class="catalog-controls" (change)="changeFilters()">
+  <div class="field wide" (input)="changeFilters()">
+    <label for="catalog-search">Szukaj w pytaniach i odpowiedziach</label>
+    <input id="catalog-search" type="search" placeholder="np. pionizacja, skolioza, kaszel…" [formField]="filterForm.search">
+  </div>
+  <div class="field">
+    <label for="catalog-lecture">Wykład</label>
+    <select id="catalog-lecture" [formField]="filterForm.lecture">
+      @for (option of lectureOptions(); track option.value) {
+        <option [value]="option.value">{{ option.label }}</option>
+      }
+    </select>
+  </div>
+  <div class="field">
+    <label for="catalog-kind">Typ</label>
+    <select id="catalog-kind" [formField]="filterForm.kind">
+      @for (option of kindOptions; track option.value) {
+        <option [value]="option.value">{{ option.label }}</option>
+      }
+    </select>
+  </div>
+  <label class="filter-check"><input type="checkbox" id="catalog-priority" [formField]="filterForm.priority"> Tylko priorytety</label>
+</div>
+@if (showResults()) {
+  <div id="catalog-list" class="catalog-list">
+    <div class="sm muted catalog-count">{{ countLabel() }}</div>
+    @for (row of displayRows(); track row.question.id) {
+      @let question = row.question;
+      <article class="catalog-item">
+        <div class="catalog-head">
+          <span class="tag prime">{{ row.lecture }}</span><span class="tag">{{ row.typeLabel }}</span>
+          <span class="tag">{{ row.slideLabel }}</span>
+          @if (question.priority) { <span class="tag warn">Priorytet</span> }
+        </div>
+        @if (question.kind === 'case') { <p class="tiny muted">{{ question.scenario }}</p> }
+        <h3>{{ question.question }}</h3><div class="sm muted">{{ row.topicLabel }}</div>
+        <details class="catalog-answer">
+          <summary>Sprawdź odpowiedź</summary><p>{{ row.answer }}</p>
+          @if (question.kind === 'quiz' && question.why) { <p class="sm muted">{{ question.why }}</p> }
+        </details>
+        <div class="btn-row">
+          <button class="btn small" (click)="practice.emit(question)">Przećwicz pytanie</button>
+          <button class="btn secondary small" [attr.aria-label]="row.bookmarkAriaLabel"
+            [attr.aria-pressed]="row.saved" (click)="bookmark.emit(question.id)">{{ row.bookmarkLabel }}</button>
+        </div>
+      </article>
+    }
+    @if (hasMore()) {
+      <div class="btn-row catalog-pagination"><button class="btn secondary" (click)="more.emit()">Pokaż kolejne pytania</button></div>
+    }
+  </div>
+}

@@ -1,0 +1,61 @@
+<div class="app-shell">
+  <aside class="sidebar" aria-label="Nawigacja">
+    <div class="brand">
+      <div class="brandmark">✚</div>
+      <div><strong>Trenażer</strong><small>Fizjoterapia · egzamin</small></div>
+    </div>
+    <div>
+      <div class="navlabel">NAUKA</div>
+      <nav id="desktop-nav">
+        @for (item of navigation(); track item.mode) {
+          <button type="button" class="navitem" [class.active]="item.active" [attr.data-mode]="item.mode"
+            [attr.aria-current]="item.ariaCurrent" (click)="navigate(item.path)">
+            <span class="navico" aria-hidden="true">{{ item.icon }}</span><span>{{ item.label }}</span>
+          </button>
+        }
+      </nav>
+    </div>
+    <div class="sidebar-foot">
+      <b>Twoje postępy</b>
+      <div id="side-stats">{{ sideStats() }}</div>
+      <div class="progressline"><i id="side-progress" [style.width.%]="masteredPercent()"></i></div>
+      @if (sourceSummary(); as summary) {
+        <p class="sidebar-source"><span id="source-summary">{{ summary }}</span><br>Materiał dydaktyczny, nie instrukcja kliniczna.</p>
+      }
+    </div>
+  </aside>
+  <main class="main">
+    <div class="topbar">
+      <div class="bread"><span>Fizjoterapia</span><span>›</span><b id="crumb">{{ breadcrumb() }}</b></div>
+      <div class="top-actions">
+        <span class="tag" id="storage-indicator">{{ storageLabel() }}</span>
+        <button class="iconbtn" id="theme-toggle" type="button" [title]="theme().title"
+          aria-label="Zmień motyw" (click)="progress.toggleTheme()">{{ theme().icon }}</button>
+      </div>
+    </div>
+    <div id="root" aria-live="polite">
+      @if (registry.hasValue()) {
+        <router-outlet />
+      } @else {
+        <app-study-load-state [loading]="registry.isLoading()" [failed]="!!registry.error()"
+          (retry)="bank.retryRegistry()" />
+      }
+    </div>
+  </main>
+</div>
+<div class="mobile-nav" id="mobile-nav">
+  @for (item of mobileNavigation(); track item.mode) {
+    <button type="button" [attr.data-mode]="item.mode" [class.active]="item.active"
+      [attr.aria-label]="item.label" [attr.aria-current]="item.ariaCurrent" (click)="navigate(item.path)">
+      <span class="mi" aria-hidden="true">{{ item.icon }}</span>{{ item.label }}
+    </button>
+  }
+  <button type="button" aria-label="Więcej" aria-controls="mobile-menu" [attr.aria-expanded]="mobileMenu()"
+    (click)="mobileMenu.set(!mobileMenu())"><span class="mi" aria-hidden="true">☰</span>Więcej</button>
+</div>
+<div class="mobile-menu" id="mobile-menu" [class.hidden]="!mobileMenu()">
+  @for (item of additionalNavigation; track item.mode) {
+    <button type="button" [attr.data-mode]="item.mode" (click)="navigate(item.path)">{{ item.icon }}&nbsp; {{ item.label }}</button>
+  }
+</div>
+<div class="toast" id="toast" role="status" [class.hidden]="!notice.message()">{{ notice.message() }}</div>

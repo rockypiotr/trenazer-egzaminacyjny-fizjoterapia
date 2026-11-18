@@ -1,0 +1,55 @@
+@let model = result();
+@let summary = model.summary;
+<div class="eyebrow">KONIEC SESJI</div>
+<h1>{{ model.timeout ? 'Czas upłynął' : 'Podsumowanie nauki' }}</h1>
+<p class="lead">Przerobiono {{ model.results.length }} odpowiedzi z {{ summary.items }} przygotowanych pytań.</p>
+<div class="grid metrics">
+  <div class="panel metric"><div class="meta">Wynik automatyczny</div><div class="big">{{ score(summary.autoCorrect, summary.autoTotal) }}</div><small>{{ summary.autoCorrect }}/{{ summary.autoTotal }} poprawnych testowych</small></div>
+  <div class="panel metric"><div class="meta">Samoocena odpowiedzi otwartych</div><div class="big">{{ score(summary.selfGood, summary.selfTotal) }}</div><small>{{ summary.selfGood }}/{{ summary.selfTotal }} częściowo lub poprawnie</small></div>
+  <div class="panel metric"><div class="meta">Pytania wymagające powtórki</div><div class="big">{{ model.mistakes.length }}</div><small>W tym pominięte pytania</small></div>
+  <div class="panel metric"><div class="meta">Czas sesji</div><div class="big">{{ rounded(model.duration / 60000) }} min</div><small>Sesja zapisana lokalnie</small></div>
+</div>
+<div class="grid two">
+  <div class="panel">
+    <h2>Wynik według wykładu</h2>
+    @for (lecture of model.lectures; track lecture.title) {
+      <div class="statrow"><span>{{ lecture.title }}</span>
+        <strong>{{ lecture.total ? score(lecture.correct, lecture.total) + ' · ' + lecture.correct + '/' + lecture.total : 'brak pytań testowych' }}</strong>
+      </div>
+    }
+    <p class="sm muted lecture-results-note">Procent dotyczy pytań testowych.</p>
+  </div>
+  <div class="panel"><h2>Co dalej?</h2>
+    <div class="btn-row"><button class="btn" (click)="navigate.emit('/hard')">Powtórz błędy</button>
+      <button class="btn secondary" (click)="navigate.emit('/')">Panel główny</button></div>
+  </div>
+</div>
+@if (summary.mode === 'exam') {
+  <details class="panel result-review">
+    <summary><strong>Przejrzyj odpowiedzi do wszystkich pytań egzaminu</strong></summary>
+    @for (item of model.review; track $index) {
+      <div class="result-entry">
+        <div class="tag" [class.ok]="item.good" [class.fail]="!item.good">
+          {{ $index + 1 }}. {{ item.good ? 'Poprawnie' : item.unanswered ? 'Pominięte' : 'Błąd' }}
+        </div>
+        <h3>{{ item.question }}</h3><div class="sm"><strong>Wzór:</strong> {{ item.correctText }}</div>
+        @if (item.source) { <div class="sm muted">{{ item.source }}</div> }
+      </div>
+    }
+  </details>
+}
+@if (model.mistakes.length) {
+  <div class="section-head"><h2>Pytania do powtórzenia</h2></div>
+  <div class="panel">
+    @for (item of model.mistakes.slice(0, 35); track $index) {
+      <div class="result-mistake">
+        <div class="tag warn">{{ item.unanswered ? 'Pominięte' : 'Do powtórki' }} · {{ item.lecture }}</div>
+        <h3 class="result-mistake-question">{{ item.question }}</h3>
+        @if (item.correctText) { <div class="sm"><b>Wzór:</b> {{ item.correctText }}</div> }
+        @if (item.why) { <div class="sm muted result-mistake-explanation">{{ item.why }}</div> }
+      </div>
+    }
+  </div>
+} @else {
+  <div class="feedback success result-success">Wszystkie udzielone odpowiedzi oceniono pozytywnie.</div>
+}

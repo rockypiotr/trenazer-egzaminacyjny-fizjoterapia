@@ -1,0 +1,42 @@
+<div class="eyebrow">PRÓBNY EGZAMIN</div>
+<h1>Sprawdź gotowość</h1>
+<p class="lead">Zestaw bez powtórzeń, z opcjonalnym limitem czasu. Pytania testowe ocenia aplikacja, a zadania otwarte oceniasz po porównaniu z wzorem.</p>
+<form class="panel exam-setup" [formRoot]="examForm">
+  <div class="grid two">
+    <div class="field" (change)="changeSelection()">
+      <label for="exam-lecture">Wybierz materiał</label>
+      <select id="exam-lecture" [formField]="examForm.lecture">
+        @for (option of lectures(); track option.value) {
+          <option [value]="option.value">{{ option.label }}</option>
+        }
+      </select>
+    </div>
+    <div class="field" (change)="changeSelection()">
+      <label for="exam-type">Rodzaj pytań</label>
+      <select id="exam-type" [formField]="examForm.which">
+        @for (option of types; track option.value) {
+          <option [value]="option.value">{{ option.label }}</option>
+        }
+      </select>
+    </div>
+    <div class="field">
+      <label for="exam-size">Liczba pytań</label>
+      <select id="exam-size" [formField]="examForm.size">
+        @for (option of sizes; track option.value) {
+          <option [value]="option.value">{{ option.label }}</option>
+        }
+      </select>
+    </div>
+    <div class="field">
+      <label for="exam-time">Limit czasu</label>
+      <select id="exam-time" [formField]="examForm.limit">
+        @for (option of limits; track option.value) {
+          <option [value]="option.value">{{ option.label }}</option>
+        }
+      </select>
+    </div>
+  </div>
+  <p class="sm exam-pool-summary" role="status">{{ poolSummary() }}</p>
+  <button class="btn" type="submit" [disabled]="startDisabled()">Rozpocznij egzamin →</button>
+</form>
+<div class="notice exam-notice"><strong>Ocena wyników</strong>Wynik procentowy obejmuje pytania testowe. Odpowiedzi otwarte i sytuacje praktyczne mają osobny wynik samooceny. Prawidłowe odpowiedzi testowe zobaczysz na końcu.</div>

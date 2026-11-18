@@ -3,9 +3,32 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "test:e2e": "playwright test"
+    "test:e2e": "ng build --configuration production,e2e && playwright test",
+    "start": "ng serve",
+    "build": "ng build",
+    "typecheck": "ngc --noEmit -p tsconfig.app.json",
+    "validate:data": "node scripts/validate-data.mjs",
+    "test:unit": "vitest run --config tests/unit/vitest.config.ts"
   },
   "devDependencies": {
-    "@playwright/test": "1.65.1"
+    "@angular/build": "22.2.7",
+    "@angular/cli": "22.2.7",
+    "@angular/compiler-cli": "22.2.7",
+    "@playwright/test": "1.65.1",
+    "typescript": "6.0.3",
+    "vitest": "5.1.1"
+  },
+  "engines": {
+    "node": "^22.22.3 || ^24.15.0 || ^26.0.0"
+  },
+  "dependencies": {
+    "@angular/common": "22.2.7",
+    "@angular/compiler": "22.2.7",
+    "@angular/core": "22.2.7",
+    "@angular/forms": "22.2.7",
+    "@angular/platform-browser": "22.2.7",
+    "@angular/router": "22.2.7",
+    "rxjs": "7.8.2",
+    "tslib": "2.8.1"
   }
 }

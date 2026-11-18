@@ -25,6 +25,8 @@ async function navigate(page, mode) {
     await page.getByRole("button", { name: "Więcej", exact: true }).tap();
     await page.locator(`#mobile-menu [data-mode="${mode}"]`).tap();
   }
+  const path = mode === "home" ? "" : mode;
+  await expect(page).toHaveURL(new RegExp(`#/${path}$`));
 }
 
 async function openTrainer(page) {
@@ -134,10 +136,16 @@ test("wczytuje stary format z localStorage", async ({ page }) => {
     ({ key, state }) => localStorage.setItem(key, JSON.stringify(state)),
     {
       key: storageKey,
-      state: { cards, records, sessions, theme, bookmarks, version },
+      state: {
+        cards: { ...cards, "F-V-99999": cards["F-V-001"] },
+        records: { ...records, "Q-V-99999": records["F-V-001"] },
+        sessions, theme, bookmarks, version,
+      },
     },
   );
   await openTrainer(page);
+  await expect(page.locator(".metric").filter({ hasText: "Fiszki opanowane" }).locator(".big")).toHaveText(/^1\s*\//);
+  await expect(page.locator(".metric").filter({ hasText: "Odpowiedzi testowe" }).locator(".big")).toHaveText("0");
   await assertLegacyProgress(page);
 });
 
@@ -263,3 +271,106 @@ async function answerExtraQuiz(page) {
   await page.getByRole("button", { name: /Zakres ruchu/ }).click();
   await page.getByRole("button", { name: "Zatwierdź odpowiedź" }).click();
 }
+
+test("ładuje tylko rejestr na starcie i używa tego samego zestawu w kolejnych widokach", async ({ page }) => {
+  const json = [];
+  page.on("request", (request) => {
+    const path = new URL(request.url()).pathname;
+    if (path.endsWith(".json")) json.push(path.split("/data/").at(-1));
+  });
+
+  await openTrainer(page);
+  expect(json).toEqual(["sets.json"]);
+  await page.locator(".card-lect").filter({ hasText: "Wady postawy" })
+    .getByRole("button", { name: "Ucz się z tego wykładu" }).click();
+  await page.getByRole("button", { name: "Rozpocznij sesję" }).click();
+  await expect(page.locator(".source")).toContainText("Wykład V");
+  await page.getByRole("button", { name: /Pokaż odpowiedź/ }).click();
+  await page.getByRole("button", { name: /Bardzo łatwe/ }).click();
+  await navigate(page, "quiz");
+  await expect(page.getByText(/dostępnych pytań/)).toBeVisible();
+  expect(json).toEqual(["sets.json", "sets/wyklad-v.json"]);
+  await page.reload();
+  await expect(page.getByRole("heading", { name: "Sprawdź się w quizie" })).toBeVisible();
+  expect(await page.evaluate((key) => Object.keys(JSON.parse(localStorage.getItem(key)).cards).length, storageKey)).toBe(1);
+});
+
+test("odrzuca spóźnioną odpowiedź i ponawia nieudane pobranie wykładu", async ({ page }) => {
+  let release;
+  const delayed = new Promise((resolve) => { release = resolve; });
+  await page.route("**/data/sets/wyklad-iii.json", async (route) => {
+    const response = await route.fetch();
+    await delayed;
+    await route.fulfill({ response });
+  });
+  await page.route("**/data/sets/wyklad-vii.json", (route) => route.fulfill({ status: 503 }), { times: 1 });
+
+  await openTrainer(page);
+  await page.locator(".card-lect").filter({ hasText: "Wady postawy" })
+    .getByRole("button", { name: "Ucz się z tego wykładu" }).click();
+  try {
+    const lecture = page.getByLabel("Wykład", { exact: true });
+    const request = page.waitForRequest("**/data/sets/wyklad-iii.json");
+    await lecture.selectOption("III");
+    await request;
+    await expect(page.getByText("Wczytywanie zestawów…", { exact: true }).last()).toBeVisible();
+    await lecture.selectOption("VI");
+    await expect(page.getByText(/dostępnych pytań/)).toBeVisible();
+    release();
+    await page.getByRole("button", { name: "Rozpocznij sesję" }).click();
+    await expect(page.locator(".source")).toContainText("Wykład VI");
+    await navigate(page, "flash");
+    await lecture.selectOption("VII");
+    await expect(page.getByRole("button", { name: "Rozpocznij sesję" })).toBeDisabled();
+    await page.getByRole("button", { name: "Spróbuj ponownie" }).click();
+    await page.getByRole("button", { name: "Rozpocznij sesję" }).click();
+    await expect(page.locator(".source")).toContainText("Wykład VII");
+  } finally {
+    release();
+  }
+});
+
+test("klawiatura zatwierdza opcję quizu wybraną skrótem", async ({ page, baseURL }) => {
+  await addSetForTest(page, baseURL);
+  await openTrainer(page);
+  await navigate(page, "quiz");
+  await page.getByLabel("Wykład", { exact: true }).selectOption(extraSetId);
+  await page.getByRole("button", { name: "Rozpocznij sesję" }).click();
+  await page.getByRole("button", { name: /Częstość oddechów/ }).focus();
+  await page.keyboard.press("1");
+  await page.keyboard.press("Enter");
+  await expect(page.getByText("✓ Poprawnie", { exact: true })).toBeVisible();
+  await page.getByRole("button", { name: /Zobacz wyniki/ }).click();
+  await navigate(page, "settings");
+  page.once("dialog", (dialog) => dialog.accept());
+  await page.getByRole("button", { name: "Wyczyść dane nauki" }).click();
+  await expect(page.getByRole("status")).toHaveText("Wyzerowano postępy.");
+  await page.goBack();
+  await expect(page.getByRole("heading", { name: /Ucz się aktywnie/ })).toBeVisible();
+});
+
+test("po anulowaniu wyjścia z egzaminu zachowuje miejsce w historii", async ({ page }) => {
+  const sets = [];
+  page.on("request", (request) => {
+    const path = new URL(request.url()).pathname;
+    if (path.includes("/data/sets/")) sets.push(path.split("/").at(-1));
+  });
+  await openTrainer(page);
+  await navigate(page, "exam");
+  const lecture = page.getByLabel("Wybierz materiał");
+  await expect(lecture).toBeVisible();
+  expect(sets).toEqual([]);
+  await lecture.selectOption("V");
+  await page.getByRole("button", { name: /Rozpocznij egzamin/ }).click();
+  await expect(page.locator(".source")).toContainText("Wykład V");
+  expect(sets).toEqual(["wyklad-v.json"]);
+  const leavePrompt = page.waitForEvent("dialog");
+  await page.evaluate(() => history.back());
+  await (await leavePrompt).dismiss();
+  await expect(page).toHaveURL(/#\/session$/);
+
+  page.once("dialog", (dialog) => dialog.accept());
+  await page.evaluate(() => history.back());
+  await expect(page.getByRole("heading", { name: "Sprawdź gotowość" })).toBeVisible();
+  await expect(page).toHaveURL(/#\/exam$/);
+});

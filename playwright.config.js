@@ -1,11 +1,7 @@
-import { basename, dirname } from "node:path";
-import { fileURLToPath } from "node:url";
 import { defineConfig, devices } from "@playwright/test";
 
-const projectDirectory = dirname(fileURLToPath(import.meta.url));
 const port = 4173;
-const projectPath = encodeURIComponent(basename(projectDirectory));
-const baseURL = `http://127.0.0.1:${port}/${projectPath}/`;
+const baseURL = `http://127.0.0.1:${port}/trenazer-egzaminacyjny-fizjoterapia/`;
 
 export default defineConfig({
   testDir: "./tests/e2e",
@@ -15,8 +11,7 @@ export default defineConfig({
     trace: "retain-on-failure",
   },
   webServer: {
-    command: `python3 -m http.server ${port} --bind 127.0.0.1 --directory ..`,
-    cwd: projectDirectory,
+    command: `python3 -m http.server ${port} --bind 127.0.0.1 --directory dist/e2e`,
     url: baseURL,
   },
   projects: [

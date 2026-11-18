@@ -1,0 +1,75 @@
+@let item = question();
+@let state = session();
+<div class="session-wrap">
+  <div class="sessiontop">
+    <div><div class="eyebrow">{{ modeLabel() }}</div><h2>{{ title() }}</h2></div>
+    <div class="btn-row">
+      @if (remaining()) { <span class="tag warn" aria-live="off">⌛ <span id="remaining">{{ remaining() }}</span></span> }
+      <button class="btn secondary small" (click)="exit.emit()">Zakończ sesję</button>
+    </div>
+  </div>
+  <div class="qnum">Pytanie {{ state.index + 1 }} z {{ state.items.length }}</div>
+  <div class="meter"><span [style.width.%]="100 * state.index / state.items.length"></span></div>
+  <div class="panel sessionbig">
+    <div class="source">
+      <span class="tag prime">{{ source() }}</span><span class="tag">{{ item.topic }}</span>
+      <span class="tag">{{ difficulties[item.difficulty] }}</span>
+      @if (item.priority) { <span class="tag warn">Priorytet egzaminacyjny</span> }
+    </div>
+    <div class="session-bookmark">
+      <button class="btn secondary small" [attr.aria-pressed]="saved()" (click)="bookmark.emit()">{{ bookmarkLabel() }}</button>
+    </div>
+    @if (item.kind === 'case') { <div class="casebox"><strong>{{ item.title }}</strong>{{ item.scenario }}</div> }
+    <div class="question">{{ item.question }}</div>
+    @if (item.kind === 'quiz') {
+      <app-quiz-question [question]="item" [session]="state" (choose)="choose.emit($event)"
+        (move)="move.emit($event)" (check)="check.emit()" (next)="next.emit()" />
+    } @else if (item.kind === 'card') {
+      @if (state.phase === 'ask') {
+        <div class="answerbox flash-prompt">
+          <p class="sm muted">Najpierw przypomnij sobie odpowiedź bez podpowiedzi.</p>
+          <button class="btn" (click)="reveal.emit()">Pokaż odpowiedź <span>⤵</span></button>
+        </div>
+      } @else {
+        <div class="answerbox"><strong>Odpowiedź</strong><p>{{ item.answer }}</p>
+          <div class="flash-rating-label">Na ile dobrze udało Ci się odpowiedzieć?</div>
+          <div class="rate-grid">
+            @for (rating of ratings; track rating.grade) {
+              <button class="ratebtn" [class]="rating.style" (click)="rate.emit(rating.grade)">{{ rating.label }}<small>{{ rating.detail }}</small></button>
+            }
+          </div>
+        </div>
+      }
+    } @else if (state.phase === 'ask') {
+      <textarea #answer class="textarea" id="written-answer" placeholder="Zapisz własną odpowiedź z pamięci…" aria-label="Twoja odpowiedź"
+        [value]="state.draft" (input)="draft.emit(answer.value)"></textarea>
+      <div class="btn-row written-answer-actions">
+        <button class="btn" (click)="reveal.emit()">Porównaj z odpowiedzią wzorcową</button>
+        <span class="sm muted">Liczy się treść odpowiedzi.</span>
+      </div>
+    } @else {
+      <div class="answerbox">
+        <div class="tag">Twoja odpowiedź</div>
+        <p class="written-answer-preview">{{ draftPreview() }}</p>
+        <strong>Odpowiedź wzorcowa</strong><p>{{ item.answer }}</p>
+        <strong>Elementy obowiązkowe</strong>
+        <ul class="checklist">@for (point of item.mandatory; track $index) { <li>{{ point }}</li> }</ul>
+        @if (item.pitfall) { <div class="feedback"><b>Na co uważać?</b>{{ item.pitfall }}</div> }
+        <p class="sm muted">Czy Twoja odpowiedź zawierała wszystkie najważniejsze elementy?</p>
+        <div class="btn-row">
+          <button class="btn secondary" (click)="grade.emit(0)">Nie umiem</button>
+          <button class="btn secondary" (click)="grade.emit(1)">Częściowo</button>
+          <button class="btn" (click)="grade.emit(2)">Poprawnie</button>
+        </div>
+      </div>
+    }
+  </div>
+  <p class="tiny muted session-shortcuts">
+    @switch (item.kind) {
+      @case ('card') { Skróty: spacja – pokaż, po odsłonięciu 1–4 – oceń. }
+      @case ('quiz') { Skróty: 1–4 – zaznacz odpowiedź, Enter – zatwierdź. }
+      @default { Skrót: Ctrl+Enter – pokaż odpowiedź. }
+    }
+    · Źródłem odpowiedzi jest wskazany slajd.
+  </p>
+</div>
