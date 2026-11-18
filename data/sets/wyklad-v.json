@@ -1,0 +1,1827 @@
+{
+  "cards": [
+    {
+      "id": "F-V-001",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "5",
+      "topic": "Postawa i rozwój",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Jak w prezentacji zdefiniowano postawę ciała?",
+      "answer": "Układ poszczególnych odcinków ciała przyjmowany w swobodnej, niewymuszonej pozycji pionowej."
+    },
+    {
+      "id": "F-V-002",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "6",
+      "topic": "Postawa i rozwój",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Czym różni się postawa nawykowa od bacznej?",
+      "answer": "Nawykowa jest naturalna i niewymuszona; baczna jest świadomie korygowana napięciem mięśni."
+    },
+    {
+      "id": "F-V-003",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "6",
+      "topic": "Postawa i rozwój",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Który rodzaj postawy powinien być przede wszystkim oceniany w badaniu?",
+      "answer": "Postawa nawykowa, ponieważ najlepiej odzwierciedla naturalne ustawienie ciała."
+    },
+    {
+      "id": "F-V-004",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "7",
+      "topic": "Postawa i rozwój",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Jak powinien być ustawiony kręgosłup w płaszczyźnie czołowej przy prawidłowej postawie?",
+      "answer": "Powinien być prosty, bez skrzywienia bocznego."
+    },
+    {
+      "id": "F-V-005",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "7",
+      "topic": "Postawa i rozwój",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Wymień trzy cechy prawidłowej postawy widoczne od przodu.",
+      "answer": "Prosta głowa, barki na jednym poziomie, symetryczna miednica; prawidłowe ustawienie kończyn i stóp."
+    },
+    {
+      "id": "F-V-006",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "8",
+      "topic": "Postawa i rozwój",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Przez jakie okolice przebiega pion w ocenie prawidłowej postawy z boku?",
+      "answer": "Od otworu słuchowego przez stawy ramienny i biodrowy, nieco przed kolanem i stawem skokowym, ku środkowi stóp."
+    },
+    {
+      "id": "F-V-007",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "10",
+      "topic": "Postawa i rozwój",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Wymień cztery fizjologiczne krzywizny kręgosłupa.",
+      "answer": "Lordoza szyjna, kifoza piersiowa, lordoza lędźwiowa, kifoza krzyżowa."
+    },
+    {
+      "id": "F-V-008",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "11",
+      "topic": "Postawa i rozwój",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Jakie krzywizny nasilają się wraz z pionizacją małego dziecka?",
+      "answer": "Kifoza piersiowa i lordoza lędźwiowa."
+    },
+    {
+      "id": "F-V-009",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "13",
+      "topic": "Postawa i rozwój",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie są dwa okresy zwiększonego ryzyka wad postawy u dzieci szkolnych?",
+      "answer": "6–7 lat (początek siedzącego trybu szkolnego) oraz skok pokwitaniowy: dziewczęta 11–13 lat, chłopcy 13–14 lat."
+    },
+    {
+      "id": "F-V-010",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "16",
+      "topic": "Postawa i rozwój",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Kiedy według wykładu zaczyna powstawać lordoza szyjna?",
+      "answer": "W 3.–4. miesiącu życia, wraz z unoszeniem głowy."
+    },
+    {
+      "id": "F-V-011",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "16",
+      "topic": "Postawa i rozwój",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Kiedy kształtuje się lordoza lędźwiowa u dziecka?",
+      "answer": "Około 9.–12. miesiąca życia, w związku z pionizacją."
+    },
+    {
+      "id": "F-V-012",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "16",
+      "topic": "Postawa i rozwój",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Kiedy następuje względna stabilizacja krzywizn kręgosłupa?",
+      "answer": "Około trzeciego roku życia."
+    },
+    {
+      "id": "F-V-013",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "18",
+      "topic": "Postawa i rozwój",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jak długo trwa I stadium zgięciowe według Vojty?",
+      "answer": "Od urodzenia do około 6. tygodnia życia; przeważa napięcie zginaczy."
+    },
+    {
+      "id": "F-V-014",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "18",
+      "topic": "Postawa i rozwój",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jaki okres obejmuje I stadium wyprostne według Vojty?",
+      "answer": "7.–16. tydzień życia; pojawia się prostowanie kończyn i unoszenie głowy w podporze."
+    },
+    {
+      "id": "F-V-015",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "19",
+      "topic": "Postawa i rozwój",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jakie umiejętności rozwijają się w II stadium zgięciowym Vojty?",
+      "answer": "Przygotowanie do lokomocji: siady, obroty i podporowe ustawienie kończyn, około 5.–8. miesiąca."
+    },
+    {
+      "id": "F-V-016",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "19",
+      "topic": "Postawa i rozwój",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Co wyróżnia II stadium wyprostne Vojty?",
+      "answer": "Około 9.–12. miesiąca rozwija się wyprost bioder i stanie najpierw z podparciem."
+    },
+    {
+      "id": "F-V-017",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "24",
+      "topic": "Etiologia i diagnostyka",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Jakie trzy grupy czynników prowadzących do wad postawy wymienia wykład?",
+      "answer": "Czynniki fizjologiczne/nawykowe, morfologiczne oraz środowiskowe."
+    },
+    {
+      "id": "F-V-018",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "26",
+      "topic": "Etiologia i diagnostyka",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Podaj trzy środowiskowe czynniki sprzyjające wadom postawy.",
+      "answer": "Długie siedzenie, mała aktywność ruchowa i nieprawidłowo dopasowane stanowisko nauki/pracy."
+    },
+    {
+      "id": "F-V-019",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "28",
+      "topic": "Etiologia i diagnostyka",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie elementy ocenia się w oglądaniu postawy od przodu?",
+      "answer": "Oś ciała, poziom uszu i barków, symetrię talii i miednicy oraz ustawienie kolan i stóp."
+    },
+    {
+      "id": "F-V-020",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "30",
+      "topic": "Etiologia i diagnostyka",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Co ocenia się podczas obserwacji postawy z boku?",
+      "answer": "Ustawienie głowy, barków, klatki i brzucha, krzywizny kręgosłupa, nachylenie miednicy oraz kolana i stopy."
+    },
+    {
+      "id": "F-V-021",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "32",
+      "topic": "Etiologia i diagnostyka",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Co obserwuje się w ocenie postawy od tyłu?",
+      "answer": "Oś wyrostków kolczystych, poziom barków i łopatek, symetrię talerzy biodrowych, fałdów i pięt."
+    },
+    {
+      "id": "F-V-022",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "34",
+      "topic": "Etiologia i diagnostyka",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Na czym polega metoda punktowa Kasperczyka?",
+      "answer": "Na wzrokowej ocenie elementów postawy i przypisywaniu im punktów za wielkość odchylenia."
+    },
+    {
+      "id": "F-V-023",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "36",
+      "topic": "Etiologia i diagnostyka",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Co oznacza wyższa suma punktów w metodzie Kasperczyka?",
+      "answer": "Większe nieprawidłowości postawy, czyli gorszą ocenę."
+    },
+    {
+      "id": "F-V-024",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "42",
+      "topic": "Etiologia i diagnostyka",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie trzy rodziny sylwetek wyróżnia metoda Wolańskiego?",
+      "answer": "Kifotyczne K, lordotyczne L i równoważne R; każda w trzech odmianach."
+    },
+    {
+      "id": "F-V-025",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "44",
+      "topic": "Analiza chodu",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Jak w wykładzie zdefiniowano cykl chodu?",
+      "answer": "Czas od jednego kontaktu danej pięty z podłożem do kolejnego kontaktu tej samej pięty."
+    },
+    {
+      "id": "F-V-026",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "44",
+      "topic": "Analiza chodu",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Jaki procent cyklu chodu obejmują fazy podporowa i przenoszenia?",
+      "answer": "Podporowa około 60%, przenoszenia około 40%."
+    },
+    {
+      "id": "F-V-027",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "45",
+      "topic": "Analiza chodu",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Co obejmuje faza podporowa chodu?",
+      "answer": "Kontakt początkowy, przyjmowanie ciężaru, środkowy i końcowy podpór oraz okres przed przenoszeniem."
+    },
+    {
+      "id": "F-V-028",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "46",
+      "topic": "Analiza chodu",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie trzy części obejmuje faza przenoszenia (swing)?",
+      "answer": "Initial swing, mid swing i terminal swing, czyli przenoszenie wstępne, środkowe i końcowe."
+    },
+    {
+      "id": "F-V-029",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "51",
+      "topic": "Analiza chodu",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Czym charakteryzuje się chód antalgiczny?",
+      "answer": "Skróceniem obciążania kończyny bolesnej i oszczędzaniem jej podczas podporu."
+    },
+    {
+      "id": "F-V-030",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "52",
+      "topic": "Analiza chodu",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Czym charakteryzuje się chód brodzący (bociani)?",
+      "answer": "Wysokim unoszeniem kolana, aby nie zahaczyć stopą opadającą podczas przenoszenia."
+    },
+    {
+      "id": "F-V-031",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "53",
+      "topic": "Analiza chodu",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Co oznacza chód kaczkowaty?",
+      "answer": "Kołysanie tułowia i miednicy związane m.in. z osłabieniem mięśni obręczy biodrowej."
+    },
+    {
+      "id": "F-V-032",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "55",
+      "topic": "Analiza chodu",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Czym charakteryzuje się chód koszący?",
+      "answer": "Niedowładna kończyna zatacza łuk na zewnątrz podczas przenoszenia, np. przy spastyczności po udarze."
+    },
+    {
+      "id": "F-V-033",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "58",
+      "topic": "Analiza chodu",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Jak rozpoznać chód ataktyczny?",
+      "answer": "Niepewny, chwiejny chód z zaburzoną koordynacją, często na szerokiej podstawie."
+    },
+    {
+      "id": "F-V-034",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "61",
+      "topic": "Wady kręgosłupa",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Jaka krzywizna jest pogłębiona przy plecach okrągłych?",
+      "answer": "Kifoza piersiowa; często współistnieje wysunięcie głowy i barków do przodu."
+    },
+    {
+      "id": "F-V-035",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "63",
+      "topic": "Wady kręgosłupa",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jakie mięśnie bywają przykurczone przy plecach okrągłych według wykładu?",
+      "answer": "Mięśnie piersiowe większe i mniejsze oraz część mięśni przedniej ściany klatki piersiowej."
+    },
+    {
+      "id": "F-V-036",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "65",
+      "topic": "Wady kręgosłupa",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "W jakim kierunku prowadzi się korekcję pleców okrągłych?",
+      "answer": "Rozciąga się struktury przykurczone z przodu klatki i wzmacnia osłabione mięśnie grzbietu, ucząc prawidłowej postawy."
+    },
+    {
+      "id": "F-V-037",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "66",
+      "topic": "Wady kręgosłupa",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Co wyróżnia plecy wklęsłe?",
+      "answer": "Pogłębiona lordoza lędźwiowa, często przodopochylenie miednicy i uwypuklony brzuch."
+    },
+    {
+      "id": "F-V-038",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "68",
+      "topic": "Wady kręgosłupa",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Które grupy mięśniowe są osłabione przy plecach wklęsłych?",
+      "answer": "W wykładzie wymieniono m.in. mięśnie brzucha, pośladkowe i kulszowo-goleniowe."
+    },
+    {
+      "id": "F-V-039",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "68",
+      "topic": "Wady kręgosłupa",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jakie mięśnie są przykurczone w przypadku pleców wklęsłych?",
+      "answer": "M.in. biodrowo-lędźwiowy, prosty uda i prostowniki lędźwiowe."
+    },
+    {
+      "id": "F-V-040",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "71",
+      "topic": "Wady kręgosłupa",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Czym charakteryzują się plecy okrągło-wklęsłe?",
+      "answer": "Jednoczesnym pogłębieniem kifozy piersiowej i lordozy lędźwiowej."
+    },
+    {
+      "id": "F-V-041",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "75",
+      "topic": "Wady kręgosłupa",
+      "difficulty": "hard",
+      "priority": true,
+      "question": "Jaka zasada stabilizacji obowiązuje przy korekcji pleców okrągło-wklęsłych?",
+      "answer": "Korygując jedną krzywiznę, stabilizuje się drugi odcinek kręgosłupa, unikając kompensacji i hiperkorekcji."
+    },
+    {
+      "id": "F-V-042",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "76",
+      "topic": "Wady kręgosłupa",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Czym są plecy płaskie?",
+      "answer": "Postawą ze spłyconymi fizjologicznymi krzywiznami kręgosłupa."
+    },
+    {
+      "id": "F-V-043",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "79",
+      "topic": "Wady kręgosłupa",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jakie funkcjonalne następstwo może mieć spłaszczenie krzywizn kręgosłupa?",
+      "answer": "Zmniejszenie amortyzacji i ruchomości kręgosłupa oraz większa podatność na przeciążenia."
+    },
+    {
+      "id": "F-V-044",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "80",
+      "topic": "Wady kręgosłupa",
+      "difficulty": "hard",
+      "priority": true,
+      "question": "Jakich rodzajów ćwiczeń odradza wykład przy plecach płaskich?",
+      "answer": "M.in. zwisów, przeprostów, nadmiernej elongacji i niektórych ćwiczeń gibkościowych; jest to zalecenie dla tej wady, nie przeciwwskazanie do pionizacji."
+    },
+    {
+      "id": "F-V-045",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "81",
+      "topic": "Skolioza",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Dlaczego skolioza jest wadą trójwymiarową?",
+      "answer": "Obejmuje boczne skrzywienie kręgosłupa oraz rotację i torsję kręgów."
+    },
+    {
+      "id": "F-V-046",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "85",
+      "topic": "Skolioza",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Czym różni się rotacja od torsji kręgów?",
+      "answer": "Rotacja to obrót kręgu wokół osi długiej, a torsja – utrwalona zmiana jego kształtu podczas skręcenia."
+    },
+    {
+      "id": "F-V-047",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "88",
+      "topic": "Skolioza",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jaki zakres kąta Cobba odpowiada postawie skoliotycznej w podziale z wykładu?",
+      "answer": "Do 10°."
+    },
+    {
+      "id": "F-V-048",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "88",
+      "topic": "Skolioza",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jaki zakres kąta Cobba przypisano skoliozie II stopnia w wykładzie?",
+      "answer": "31–60°; podział ten jest klasyfikacją przedstawioną na slajdzie."
+    },
+    {
+      "id": "F-V-049",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "89",
+      "topic": "Skolioza",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jak wyznacza się kąt Cobba na zdjęciu RTG?",
+      "answer": "Z linii granicznych wybranych kręgów krańcowych i kąta między prostopadłymi do tych linii."
+    },
+    {
+      "id": "F-V-050",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "92",
+      "topic": "Skolioza",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Czym wyróżnia się skolioza czynnościowa?",
+      "answer": "Odwracalnym, nieutrwalonym skrzywieniem bez zmian strukturalnych i trwałej torsji."
+    },
+    {
+      "id": "F-V-051",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "93",
+      "topic": "Skolioza",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Czym charakteryzuje się skolioza strukturalna?",
+      "answer": "Utrwalonymi zmianami kręgów i tułowia z rotacją oraz torsją."
+    },
+    {
+      "id": "F-V-052",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "90",
+      "topic": "Skolioza",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Jak dzieli się skoliozy według liczby łuków?",
+      "answer": "Na jednołukowe, dwułukowe i wielołukowe."
+    },
+    {
+      "id": "F-V-053",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "98",
+      "topic": "Skolioza",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Wymień dwa możliwe następstwa zaawansowanej skoliozy.",
+      "answer": "Ból i asymetria tułowia; w dużych deformacjach także zaburzenia oddychania i wydolności krążeniowej."
+    },
+    {
+      "id": "F-V-054",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "100",
+      "topic": "Skolioza",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Kiedy według wykładu rozważa się gorset w postępującej skoliozie?",
+      "answer": "Przy progresji skrzywienia i kącie Cobba powyżej około 25° u osoby z niedojrzałym szkieletem."
+    },
+    {
+      "id": "F-V-055",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "101",
+      "topic": "Skolioza",
+      "difficulty": "hard",
+      "priority": true,
+      "question": "Jakie są końcowe dwa elementy sześciostopniowej korekcji skoliozy?",
+      "answer": "Wzmocnienie osłabionych mięśni i utrwalenie nawyku prawidłowej postawy."
+    },
+    {
+      "id": "F-V-056",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "103",
+      "topic": "Skolioza",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Co oznaczają litery FED w metodzie korekcji skoliozy?",
+      "answer": "Fiksacja, elongacja, derotacja."
+    },
+    {
+      "id": "F-V-057",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "105",
+      "topic": "Skolioza",
+      "difficulty": "hard",
+      "priority": true,
+      "question": "Jakie trzy części zabiegu FED podaje prezentacja?",
+      "answer": "Przygotowanie fizykoterapeutyczne, praca w urządzeniu FED oraz indywidualne ćwiczenia."
+    },
+    {
+      "id": "F-V-058",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "108",
+      "topic": "Wady klatki piersiowej",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Jaka jest główna cecha klatki piersiowej lejkowatej?",
+      "answer": "Zapadnięcie mostka i przyległych żeber do wnętrza klatki piersiowej."
+    },
+    {
+      "id": "F-V-059",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "113",
+      "topic": "Wady klatki piersiowej",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jakie ćwiczenia wymienia wykład przy klatce piersiowej lejkowatej?",
+      "answer": "Rozciąganie mięśni piersiowych, wzmacnianie mięśni grzbietu, poprawa ruchomości klatki i ćwiczenia oddechowe."
+    },
+    {
+      "id": "F-V-060",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "114",
+      "topic": "Wady klatki piersiowej",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Czym różni się klatka piersiowa kurza od lejkowatej?",
+      "answer": "W kurzej mostek uwypukla się do przodu; w lejkowatej jest zapadnięty."
+    },
+    {
+      "id": "F-V-061",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "119",
+      "topic": "Wady kolan i stóp",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Jak rozpoznać koślawość kolan?",
+      "answer": "Kolana zbliżają się do siebie, natomiast kostki przyśrodkowe są od siebie oddalone."
+    },
+    {
+      "id": "F-V-062",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "119",
+      "topic": "Wady kolan i stóp",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jaką granicę koślawości kolan wykład określa jako patologiczną?",
+      "answer": "Powyżej 10°; podano także dystans między kostkami powyżej 5 cm jako cechę wady."
+    },
+    {
+      "id": "F-V-063",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "124",
+      "topic": "Wady kolan i stóp",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Jak rozpoznać szpotawość kolan?",
+      "answer": "Kolana są od siebie oddalone, a kończyny dolne ustawiają się łukowato."
+    },
+    {
+      "id": "F-V-064",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "126",
+      "topic": "Wady kolan i stóp",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jakiego siadu wykład odradza przy szpotawości kolan?",
+      "answer": "Siadu skrzyżnego; wymienia także stanie ze skrzyżowanymi nogami."
+    },
+    {
+      "id": "F-V-065",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "128",
+      "topic": "Wady kolan i stóp",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Czym charakteryzuje się stopa płaska?",
+      "answer": "Obniżonymi lub niewidocznymi łukami podłużnym i poprzecznym stopy."
+    },
+    {
+      "id": "F-V-066",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "131",
+      "topic": "Wady kolan i stóp",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Wymień główne elementy stopy końsko-szpotawej.",
+      "answer": "Ustawienie końskie, szpotawość pięty, przywiedzenie przodostopia i wysokie wysklepienie."
+    },
+    {
+      "id": "F-V-067",
+      "kind": "card",
+      "lecture": "V",
+      "slide": "135",
+      "topic": "Wady kolan i stóp",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Co wyróżnia stopę koślawą?",
+      "answer": "Odchylenie pięty na zewnątrz z obniżeniem łuku podłużnego."
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "Q-V-001",
+      "kind": "quiz",
+      "lecture": "V",
+      "slide": "6",
+      "topic": "Postawa i rozwój",
+      "difficulty": "basic",
+      "priority": false,
+      "qtype": "single",
+      "question": "Która postawa najlepiej odzwierciedla naturalne ułożenie ciała?",
+      "options": [
+        "Nawykowa",
+        "Baczna",
+        "Defensywna",
+        "Wymuszona"
+      ],
+      "correct": 0,
+      "why": "Slajd 6 odróżnia naturalną postawę nawykową od świadomie korygowanej bacznej."
+    },
+    {
+      "id": "Q-V-002",
+      "kind": "quiz",
+      "lecture": "V",
+      "slide": "10",
+      "topic": "Postawa i rozwój",
+      "difficulty": "basic",
+      "priority": true,
+      "qtype": "single",
+      "question": "Która para krzywizn jest zgodna z fizjologią?",
+      "options": [
+        "Szyjna kifoza, piersiowa lordoza",
+        "Szyjna lordoza, piersiowa kifoza",
+        "Lędźwiowa kifoza, krzyżowa lordoza",
+        "Wszystkie odcinki są proste"
+      ],
+      "correct": 1,
+      "why": "Szyjna i lędźwiowa to lordozy, piersiowa i krzyżowa to kifozy."
+    },
+    {
+      "id": "Q-V-003",
+      "kind": "quiz",
+      "lecture": "V",
+      "slide": "13",
+      "topic": "Postawa i rozwój",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "multi",
+      "question": "Które okresy wykład wskazuje jako krytyczne dla wad postawy u dzieci?",
+      "options": [
+        "6–7 lat",
+        "11–13 lat u dziewcząt",
+        "13–14 lat u chłopców",
+        "22–25 lat"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ],
+      "why": "Ryzyko rośnie wraz ze zmianą trybu życia i skokiem pokwitaniowym."
+    },
+    {
+      "id": "Q-V-004",
+      "kind": "quiz",
+      "lecture": "V",
+      "slide": "16",
+      "topic": "Postawa i rozwój",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "order",
+      "question": "Ułóż zdarzenia rozwoju krzywizn w chronologicznym porządku.",
+      "options": [
+        "Dominacja kifozy w życiu płodowym",
+        "Rozwój lordozy szyjnej w 3.–4. miesiącu",
+        "Rozwój lordozy lędźwiowej w 9.–12. miesiącu",
+        "Względna stabilizacja w 3. roku życia"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "why": "Chronologia rozwoju krzywizn została podana na slajdzie 16."
+    },
+    {
+      "id": "Q-V-005",
+      "kind": "quiz",
+      "lecture": "V",
+      "slide": "18",
+      "topic": "Postawa i rozwój",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "single",
+      "question": "Co dominuje w pierwszym stadium zgięciowym Vojty?",
+      "options": [
+        "Prostowniki biodra",
+        "Zginacze",
+        "Ruchy biegowe",
+        "Kontrola stania"
+      ],
+      "correct": 1,
+      "why": "Wykład opisuje przewagę napięcia zginaczy w pierwszych sześciu tygodniach."
+    },
+    {
+      "id": "Q-V-006",
+      "kind": "quiz",
+      "lecture": "V",
+      "slide": "18",
+      "topic": "Postawa i rozwój",
+      "difficulty": "hard",
+      "priority": true,
+      "qtype": "order",
+      "question": "Ułóż stadia rozwojowe według Vojty.",
+      "options": [
+        "I zgięciowe",
+        "I wyprostne",
+        "II zgięciowe",
+        "II wyprostne"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "why": "Dwa stadia zgięciowe przeplatają się z dwoma wyprostnymi."
+    },
+    {
+      "id": "Q-V-007",
+      "kind": "quiz",
+      "lecture": "V",
+      "slide": "24",
+      "topic": "Etiologia i diagnostyka",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "multi",
+      "question": "Jakie grupy czynników etiologicznych wad postawy wymienia wykład?",
+      "options": [
+        "Fizjologiczne/nawykowe",
+        "Morfologiczne",
+        "Środowiskowe",
+        "Astronomiczne"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ],
+      "why": "Podział na trzy główne grupy występuje na slajdach 24–26."
+    },
+    {
+      "id": "Q-V-008",
+      "kind": "quiz",
+      "lecture": "V",
+      "slide": "28",
+      "topic": "Etiologia i diagnostyka",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "single",
+      "question": "Który punkt anatomiczny powinien przecinać pion w ocenie sylwetki od przodu?",
+      "options": [
+        "Środek brody",
+        "Wyrostek sutkowaty kości skroniowej",
+        "Krętarz większy",
+        "Głowa strzałki"
+      ],
+      "correct": 0,
+      "why": "Slajd 28 wymienia środek brody, wcięcie jarzmowe mostka i spojenie łonowe jako punkty linii pionu od przodu."
+    },
+    {
+      "id": "Q-V-009",
+      "kind": "quiz",
+      "lecture": "V",
+      "slide": "34",
+      "topic": "Etiologia i diagnostyka",
+      "difficulty": "basic",
+      "priority": false,
+      "qtype": "tf",
+      "question": "W metodzie Kasperczyka większa liczba punktów oznacza korzystniejszą postawę.",
+      "options": [],
+      "correct": false,
+      "why": "Wyższa punktacja odzwierciedla większe odchylenie postawy."
+    },
+    {
+      "id": "Q-V-010",
+      "kind": "quiz",
+      "lecture": "V",
+      "slide": "42",
+      "topic": "Etiologia i diagnostyka",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "single",
+      "question": "Jaki oznacznik odpowiada sylwetce równoważnej według Wolańskiego?",
+      "options": [
+        "K",
+        "L",
+        "R",
+        "S"
+      ],
+      "correct": 2,
+      "why": "W metodzie sylwetkowej K oznacza kifotyczną, L lordotyczną, R równoważną."
+    },
+    {
+      "id": "Q-V-011",
+      "kind": "quiz",
+      "lecture": "V",
+      "slide": "44",
+      "topic": "Analiza chodu",
+      "difficulty": "basic",
+      "priority": false,
+      "qtype": "single",
+      "question": "Ile procent cyklu chodu trwa w przybliżeniu faza podporowa?",
+      "options": [
+        "20%",
+        "40%",
+        "60%",
+        "80%"
+      ],
+      "correct": 2,
+      "why": "Wykład: 60% podpór i 40% przenoszenie."
+    },
+    {
+      "id": "Q-V-012",
+      "kind": "quiz",
+      "lecture": "V",
+      "slide": "45",
+      "topic": "Analiza chodu",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "order",
+      "question": "Ułóż pierwsze etapy fazy podporowej w cyklu chodu.",
+      "options": [
+        "Initial contact",
+        "Loading response",
+        "Mid stance",
+        "Terminal stance"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "why": "Porządek kolejnych faz podporu zgodny z analizą chodu."
+    },
+    {
+      "id": "Q-V-013",
+      "kind": "quiz",
+      "lecture": "V",
+      "slide": "52",
+      "topic": "Analiza chodu",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "single",
+      "question": "Który wzorzec chodu wiąże się z opadaniem stopy i wysokim unoszeniem kolana?",
+      "options": [
+        "Brodzący",
+        "Parkinsonowski",
+        "Ataktyczny",
+        "Kaczkowaty"
+      ],
+      "correct": 0,
+      "why": "Wysokie unoszenie kolana kompensuje opadającą stopę."
+    },
+    {
+      "id": "Q-V-014",
+      "kind": "quiz",
+      "lecture": "V",
+      "slide": "55",
+      "topic": "Analiza chodu",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "single",
+      "question": "W którym typie chodu noga wykonuje łuk na zewnątrz podczas przenoszenia?",
+      "options": [
+        "Koszący",
+        "Brodzący",
+        "Antalgiczny",
+        "Kłaniający"
+      ],
+      "correct": 0,
+      "why": "Chód koszący jest typowym obrazem jednostronnego spastycznego niedowładu."
+    },
+    {
+      "id": "Q-V-015",
+      "kind": "quiz",
+      "lecture": "V",
+      "slide": "61",
+      "topic": "Wady kręgosłupa",
+      "difficulty": "basic",
+      "priority": true,
+      "qtype": "single",
+      "question": "Najważniejszy wyróżnik pleców okrągłych to:",
+      "options": [
+        "Pogłębiona lordoza lędźwiowa",
+        "Pogłębiona kifoza piersiowa",
+        "Spłycenie wszystkich krzywizn",
+        "Boczna rotacja miednicy"
+      ],
+      "correct": 1,
+      "why": "Slajd 61 opisuje zwiększoną kifozę piersiową."
+    },
+    {
+      "id": "Q-V-016",
+      "kind": "quiz",
+      "lecture": "V",
+      "slide": "66",
+      "topic": "Wady kręgosłupa",
+      "difficulty": "basic",
+      "priority": true,
+      "qtype": "single",
+      "question": "Czym najłatwiej odróżnić plecy wklęsłe?",
+      "options": [
+        "Pogłębieniem lordozy lędźwiowej",
+        "Spłyceniem lordozy szyjnej",
+        "Zapadnięciem mostka",
+        "Szpotawością kolan"
+      ],
+      "correct": 0,
+      "why": "Slajd 66 opisuje pogłębioną lordozę lędźwiową."
+    },
+    {
+      "id": "Q-V-017",
+      "kind": "quiz",
+      "lecture": "V",
+      "slide": "71",
+      "topic": "Wady kręgosłupa",
+      "difficulty": "basic",
+      "priority": true,
+      "qtype": "tf",
+      "question": "Plecy okrągło-wklęsłe łączą nadmierną kifozę piersiową i lordozę lędźwiową.",
+      "options": [],
+      "correct": true,
+      "why": "To połączenie cech pleców okrągłych i wklęsłych."
+    },
+    {
+      "id": "Q-V-018",
+      "kind": "quiz",
+      "lecture": "V",
+      "slide": "75",
+      "topic": "Wady kręgosłupa",
+      "difficulty": "hard",
+      "priority": true,
+      "qtype": "single",
+      "question": "Co jest najważniejsze podczas korekcji jednej krzywizny w plecach okrągło-wklęsłych?",
+      "options": [
+        "Brak stabilizacji innych odcinków",
+        "Stabilizacja sąsiedniego odcinka i unikanie kompensacji",
+        "Zawsze maksymalny przeprost",
+        "Ćwiczenie wyłącznie na stojąco"
+      ],
+      "correct": 1,
+      "why": "Wykład zaleca stabilizację odcinkową i unikanie hiperkorekcji."
+    },
+    {
+      "id": "Q-V-019",
+      "kind": "quiz",
+      "lecture": "V",
+      "slide": "76",
+      "topic": "Wady kręgosłupa",
+      "difficulty": "basic",
+      "priority": true,
+      "qtype": "single",
+      "question": "Spłycenie fizjologicznych krzywizn kręgosłupa to:",
+      "options": [
+        "Plecy okrągłe",
+        "Plecy płaskie",
+        "Plecy wklęsłe",
+        "Klatka kurza"
+      ],
+      "correct": 1,
+      "why": "Plecy płaskie charakteryzują się zmniejszeniem krzywizn."
+    },
+    {
+      "id": "Q-V-020",
+      "kind": "quiz",
+      "lecture": "V",
+      "slide": "80",
+      "topic": "Wady kręgosłupa",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "tf",
+      "question": "Wykład zaleca zwisy i nadmierną elongację jako podstawową metodę przy plecach płaskich.",
+      "options": [],
+      "correct": false,
+      "why": "Na slajdzie 80 zwisy i nadmierną elongację wymieniono jako niewskazane w tej wadzie."
+    },
+    {
+      "id": "Q-V-021",
+      "kind": "quiz",
+      "lecture": "V",
+      "slide": "81",
+      "topic": "Skolioza",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "multi",
+      "question": "Jakie składowe są charakterystyczne dla skoliozy strukturalnej?",
+      "options": [
+        "Odchylenie boczne",
+        "Rotacja kręgów",
+        "Torsja kręgów",
+        "Wyłącznie zwiększona lordoza"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ],
+      "why": "Skolioza jest wielopłaszczyznowa, nie tylko boczna."
+    },
+    {
+      "id": "Q-V-022",
+      "kind": "quiz",
+      "lecture": "V",
+      "slide": "88",
+      "topic": "Skolioza",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "single",
+      "question": "Jaki zakres przypisano skoliozie II stopnia według klasyfikacji ze slajdu 88?",
+      "options": [
+        "0–10°",
+        "11–20°",
+        "31–60°",
+        "Powyżej 90°"
+      ],
+      "correct": 2,
+      "why": "To podział przedstawiony w wykładzie, nie uniwersalny współczesny algorytm decyzji."
+    },
+    {
+      "id": "Q-V-023",
+      "kind": "quiz",
+      "lecture": "V",
+      "slide": "89",
+      "topic": "Skolioza",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "single",
+      "question": "Jakiej metody pomiaru używa się do określenia kąta skoliozy na RTG?",
+      "options": [
+        "Kąta Cobba",
+        "Skali Borg",
+        "Metody PEP",
+        "Testu Vojty"
+      ],
+      "correct": 0,
+      "why": "Kąt Cobba wyznacza się na zdjęciu radiologicznym."
+    },
+    {
+      "id": "Q-V-024",
+      "kind": "quiz",
+      "lecture": "V",
+      "slide": "92",
+      "topic": "Skolioza",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "tf",
+      "question": "W skoliozie czynnościowej zawsze występuje trwała deformacja kształtu trzonów kręgów.",
+      "options": [],
+      "correct": false,
+      "why": "Skolioza czynnościowa nie wymaga zmian strukturalnych."
+    },
+    {
+      "id": "Q-V-025",
+      "kind": "quiz",
+      "lecture": "V",
+      "slide": "101",
+      "topic": "Skolioza",
+      "difficulty": "hard",
+      "priority": true,
+      "qtype": "order",
+      "question": "Ułóż sześć elementów korekcji skoliozy według wykładu.",
+      "options": [
+        "Uświadomienie wady",
+        "Optymalizacja warunków środowiskowych",
+        "Rozciąganie przykurczonych mięśni",
+        "Nauka postawy skorygowanej",
+        "Wzmacnianie osłabionych mięśni",
+        "Utrwalanie nawyku prawidłowej postawy"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "why": "To kolejność punktów programu korekcji na slajdzie 101."
+    },
+    {
+      "id": "Q-V-026",
+      "kind": "quiz",
+      "lecture": "V",
+      "slide": "103",
+      "topic": "Skolioza",
+      "difficulty": "basic",
+      "priority": true,
+      "qtype": "single",
+      "question": "Rozwinięcie skrótu FED to:",
+      "options": [
+        "Fiksacja, elongacja, derotacja",
+        "Fleksja, ekspiracja, drenaż",
+        "Faza, ekspansja, dyfuzja",
+        "Fiksacja, ekscentryka, depresja"
+      ],
+      "correct": 0,
+      "why": "FED = fiksacja, elongacja, derotacja."
+    },
+    {
+      "id": "Q-V-027",
+      "kind": "quiz",
+      "lecture": "V",
+      "slide": "108",
+      "topic": "Wady klatki piersiowej",
+      "difficulty": "basic",
+      "priority": true,
+      "qtype": "single",
+      "question": "W której wadzie mostek jest zapadnięty ku wnętrzu klatki?",
+      "options": [
+        "Kurzej",
+        "Lejkowatej",
+        "Szpotawości stóp",
+        "Płaskostopiu"
+      ],
+      "correct": 1,
+      "why": "Klatka lejkowata to zagłębienie mostka."
+    },
+    {
+      "id": "Q-V-028",
+      "kind": "quiz",
+      "lecture": "V",
+      "slide": "114",
+      "topic": "Wady klatki piersiowej",
+      "difficulty": "basic",
+      "priority": true,
+      "qtype": "single",
+      "question": "W której wadzie mostek jest uwypuklony ku przodowi?",
+      "options": [
+        "Lejkowatej",
+        "Kurzej",
+        "Plecy płaskie",
+        "Skoliozie czynnościowej"
+      ],
+      "correct": 1,
+      "why": "Klatka kurza ma uwypuklony mostek."
+    },
+    {
+      "id": "Q-V-029",
+      "kind": "quiz",
+      "lecture": "V",
+      "slide": "119",
+      "topic": "Wady kolan i stóp",
+      "difficulty": "basic",
+      "priority": true,
+      "qtype": "single",
+      "question": "Koślawość kolan charakteryzuje:",
+      "options": [
+        "Oddalone kolana i stykające się kostki",
+        "Kolana zbliżone i oddalone kostki",
+        "Jedynie obniżony łuk stopy",
+        "Przodopochylenie miednicy"
+      ],
+      "correct": 1,
+      "why": "Oś kończyny w koślawości ma kształt X."
+    },
+    {
+      "id": "Q-V-030",
+      "kind": "quiz",
+      "lecture": "V",
+      "slide": "124",
+      "topic": "Wady kolan i stóp",
+      "difficulty": "basic",
+      "priority": true,
+      "qtype": "single",
+      "question": "W szpotawości kolan stwierdza się:",
+      "options": [
+        "Oddalone kolana",
+        "Stykające się kolana",
+        "Zawsze opadającą stopę",
+        "Zapadnięcie mostka"
+      ],
+      "correct": 0,
+      "why": "Szpotawość daje łukowate ustawienie typu O."
+    },
+    {
+      "id": "Q-V-031",
+      "kind": "quiz",
+      "lecture": "V",
+      "slide": "131",
+      "topic": "Wady kolan i stóp",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "multi",
+      "question": "Jakie cechy występują w stopie końsko-szpotawej?",
+      "options": [
+        "Ustawienie końskie",
+        "Szpotawość pięty",
+        "Przywiedzenie przodostopia",
+        "Zawsze prawidłowe wysklepienie"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ],
+      "why": "To charakterystyczne elementy deformacji stopy."
+    }
+  ],
+  "opens": [
+    {
+      "id": "O-V-001",
+      "kind": "open",
+      "lecture": "V",
+      "slide": "7",
+      "topic": "Postawa i rozwój",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Opisz pięć najważniejszych cech prawidłowej postawy ciała.",
+      "answer": "Głowa prosto, barki symetryczne, kręgosłup bez odchylenia w płaszczyźnie czołowej i z fizjologicznymi krzywiznami, miednica symetryczna, poprawne osie kończyn i wysklepienie stóp.",
+      "mandatory": [
+        "Głowa i barki",
+        "Kręgosłup",
+        "Miednica",
+        "Kończyny dolne i stopy"
+      ],
+      "pitfall": "Nie myl wymuszonej postawy bacznej z nawykową."
+    },
+    {
+      "id": "O-V-002",
+      "kind": "open",
+      "lecture": "V",
+      "slide": "16",
+      "topic": "Postawa i rozwój",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Opisz chronologicznie powstawanie fizjologicznych krzywizn kręgosłupa.",
+      "answer": "Życie płodowe: dominuje kifoza; 3.–4. miesiąc: lordoza szyjna; 9.–12. miesiąc: lordoza lędźwiowa; 12.–14. miesiąc: widoczne krzywizny; 3. rok: względna stabilizacja; około 7. roku: ukształtowanie.",
+      "mandatory": [
+        "Okres płodowy",
+        "3.–4. miesiąc",
+        "9.–12. miesiąc",
+        "3. rok i 7. rok"
+      ],
+      "pitfall": "Nie utożsamiaj rozwoju dziecka z kliniczną pionizacją chorego po operacji."
+    },
+    {
+      "id": "O-V-003",
+      "kind": "open",
+      "lecture": "V",
+      "slide": "18-19",
+      "topic": "Postawa i rozwój",
+      "difficulty": "hard",
+      "priority": true,
+      "question": "Wymień i scharakteryzuj cztery stadia rozwoju wg Vojty.",
+      "answer": "I zgięciowe (urodzenie–6. tydz., przewaga zginaczy), I wyprostne (7.–16. tydz., unoszenie głowy, wyprost kończyn), II zgięciowe (5.–8. miesiąc, siady i podporowe ustawienie), II wyprostne (9.–12. miesiąc, wyprost bioder i stawanie).",
+      "mandatory": [
+        "I zgięciowe",
+        "I wyprostne",
+        "II zgięciowe",
+        "II wyprostne"
+      ],
+      "pitfall": "Pamiętaj o naprzemienności zgięcie–wyprost."
+    },
+    {
+      "id": "O-V-004",
+      "kind": "open",
+      "lecture": "V",
+      "slide": "28",
+      "topic": "Etiologia i diagnostyka",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jak przeprowadzić oględziny postawy w trzech płaszczyznach obserwacji?",
+      "answer": "Z przodu: oś, poziom barków i miednicy, kolana/stopy; z boku: głowa, kifoza/lordoza, miednica, brzuch; z tyłu: wyrostki kolczyste, łopatki, biodra, fałdy, pięty.",
+      "mandatory": [
+        "Widok z przodu",
+        "Widok z boku",
+        "Widok z tyłu"
+      ],
+      "pitfall": "Nie opieraj się wyłącznie na jednym widoku."
+    },
+    {
+      "id": "O-V-005",
+      "kind": "open",
+      "lecture": "V",
+      "slide": "44",
+      "topic": "Analiza chodu",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Wyjaśnij, jak dzieli się cykl chodu i jakie ma proporcje.",
+      "answer": "Cykl trwa od kontaktu pięty do kolejnego kontaktu tej samej pięty. Faza podporowa to ok. 60%, faza przenoszenia ok. 40%. W podporze następuje przyjęcie i przeniesienie ciężaru; w swing kończyna przesuwa się do przodu.",
+      "mandatory": [
+        "Definicja cyklu",
+        "Faza podporowa 60%",
+        "Faza przenoszenia 40%"
+      ],
+      "pitfall": "Nie zamieniaj wartości 60% i 40%."
+    },
+    {
+      "id": "O-V-006",
+      "kind": "open",
+      "lecture": "V",
+      "slide": "51,52,55",
+      "topic": "Analiza chodu",
+      "difficulty": "hard",
+      "priority": false,
+      "question": "Porównaj chód antalgiczny, brodzący i koszący.",
+      "answer": "Antalgiczny: skrócenie obciążania bolesnej nogi; brodzący: wysokie unoszenie kolana przez opadanie stopy; koszący: zataczanie łuku sztywną niedowładną nogą.",
+      "mandatory": [
+        "Antalgiczny",
+        "Brodzący",
+        "Koszący"
+      ],
+      "pitfall": "Przyczyny i wzorzec ruchu są różne."
+    },
+    {
+      "id": "O-V-007",
+      "kind": "open",
+      "lecture": "V",
+      "slide": "61",
+      "topic": "Wady kręgosłupa",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Scharakteryzuj plecy okrągłe i ogólny kierunek korekcji.",
+      "answer": "Pogłębiona kifoza piersiowa, protrakcyjna głowa i barki, przykurczone mięśnie piersiowe i osłabione mięśnie grzbietu. Korekcja: rozciąganie przykurczonych struktur, wzmacnianie osłabionych, edukacja postawy.",
+      "mandatory": [
+        "Pogłębiona kifoza",
+        "Protrakcja",
+        "Grupy mięśniowe",
+        "Kierunek korekcji"
+      ],
+      "pitfall": "Nie myl z pogłębioną lordozą."
+    },
+    {
+      "id": "O-V-008",
+      "kind": "open",
+      "lecture": "V",
+      "slide": "66",
+      "topic": "Wady kręgosłupa",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Scharakteryzuj plecy wklęsłe oraz główne grupy mięśniowe.",
+      "answer": "Pogłębiona lordoza lędźwiowa i przodopochylenie miednicy; osłabienie brzucha i pośladków, przykurcze zginaczy bioder i prostowników lędźwi. Korekcja miednicy oraz równowaga siły i długości mięśni.",
+      "mandatory": [
+        "Lordoza i miednica",
+        "Osłabione mięśnie",
+        "Przykurczone mięśnie",
+        "Korekcja"
+      ],
+      "pitfall": "Nie myl lordozy szyjnej z lędźwiową."
+    },
+    {
+      "id": "O-V-009",
+      "kind": "open",
+      "lecture": "V",
+      "slide": "71-80",
+      "topic": "Wady kręgosłupa",
+      "difficulty": "hard",
+      "priority": true,
+      "question": "Jak odróżnić plecy okrągło-wklęsłe od płaskich i jakie są zasady korekcji?",
+      "answer": "Okrągło-wklęsłe: zwiększone obie krzywizny, korekcja odcinkowa z ustabilizowaniem drugiego odcinka. Płaskie: krzywizny zmniejszone, gorsza amortyzacja; ćwiczenia dobrane do ograniczenia ruchomości, bez nadmiernej elongacji opisanej jako niewskazana.",
+      "mandatory": [
+        "Okrągło-wklęsłe",
+        "Płaskie",
+        "Stabilizacja odcinkowa",
+        "Unikanie hiperkorekcji"
+      ],
+      "pitfall": "Nie stosuj jednej metody korekcji obu wad."
+    },
+    {
+      "id": "O-V-010",
+      "kind": "open",
+      "lecture": "V",
+      "slide": "81",
+      "topic": "Skolioza",
+      "difficulty": "hard",
+      "priority": true,
+      "question": "Wyjaśnij, dlaczego skolioza jest deformacją wielopłaszczyznową, oraz podaj podstawowe objawy.",
+      "answer": "Boczne odchylenie kręgosłupa łączy się z rotacją i torsją kręgów. Objawy obejmują nierówne barki/łopatki, asymetrię talii, garb żebrowy i zaburzenie osi tułowia.",
+      "mandatory": [
+        "Odchylenie boczne",
+        "Rotacja",
+        "Torsja",
+        "Asymetria lub garb żebrowy"
+      ],
+      "pitfall": "Nie opisuj skoliozy tylko jako łuku w płaszczyźnie czołowej."
+    },
+    {
+      "id": "O-V-011",
+      "kind": "open",
+      "lecture": "V",
+      "slide": "88",
+      "topic": "Skolioza",
+      "difficulty": "hard",
+      "priority": true,
+      "question": "Podaj cztery poziomy zaawansowania skrzywienia według wykładowego podziału z kątem Cobba.",
+      "answer": "Postawa skoliotyczna do 10°; I stopień do 30°; II 31–60°; III powyżej 60°. Są to progi podane w konkretnym wykładzie.",
+      "mandatory": [
+        "Do 10°",
+        "Do 30°",
+        "31–60°",
+        "Powyżej 60°"
+      ],
+      "pitfall": "Nie przedstawiaj tego wykładowego podziału jako jedynego standardu klinicznego."
+    },
+    {
+      "id": "O-V-012",
+      "kind": "open",
+      "lecture": "V",
+      "slide": "101",
+      "topic": "Skolioza",
+      "difficulty": "hard",
+      "priority": true,
+      "question": "Wymień sześć elementów postępowania korekcyjnego w skoliozie.",
+      "answer": "Uświadomienie wady; poprawa warunków środowiskowych; rozciąganie przykurczonych mięśni; nauka pozycji skorygowanej; wzmacnianie osłabionych grup; utrwalenie prawidłowego nawyku.",
+      "mandatory": [
+        "Uświadomienie",
+        "Środowisko",
+        "Rozciąganie",
+        "Pozycja skorygowana",
+        "Wzmacnianie",
+        "Nawyk"
+      ],
+      "pitfall": "Zachowaj kolejność pracy nad korekcją."
+    },
+    {
+      "id": "O-V-013",
+      "kind": "open",
+      "lecture": "V",
+      "slide": "103,105",
+      "topic": "Skolioza",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Wyjaśnij skrót FED i etapy sesji opisane w wykładzie.",
+      "answer": "FED oznacza fiksację, elongację i derotację. Wykład przedstawia przygotowanie fizykoterapeutyczne, działanie aparatu oraz indywidualne ćwiczenia po zabiegu.",
+      "mandatory": [
+        "Fiksacja, elongacja, derotacja",
+        "Przygotowanie",
+        "Aparat",
+        "Ćwiczenia"
+      ],
+      "pitfall": "Nie myl FED z techniką FET stosowaną oddechowo."
+    },
+    {
+      "id": "O-V-014",
+      "kind": "open",
+      "lecture": "V",
+      "slide": "108,114",
+      "topic": "Wady klatki piersiowej",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Porównaj klatkę piersiową lejkowatą i kurzą.",
+      "answer": "Lejkowata: zapadnięty mostek; kurza: mostek uwypuklony do przodu. Obie mogą pogarszać mechanikę oddychania i wymagać indywidualnej korekcji postawy, ruchomości i mięśni klatki.",
+      "mandatory": [
+        "Lejkowata",
+        "Kurza",
+        "Wpływ na mechanikę oddechu"
+      ],
+      "pitfall": "Nie odwracaj kierunku deformacji mostka."
+    },
+    {
+      "id": "O-V-015",
+      "kind": "open",
+      "lecture": "V",
+      "slide": "119,124",
+      "topic": "Wady kolan i stóp",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Odróżnij koślawość od szpotawości kolan i podaj podstawowe cechy.",
+      "answer": "Koślawość: kolana zbliżone, kostki przyśrodkowe oddalone (X). Szpotawość: kolana oddalone, kończyny łukowate (O).",
+      "mandatory": [
+        "Koślawość X",
+        "Szpotawość O"
+      ],
+      "pitfall": "W skojarzeniu zapamiętaj ustawienie kolan, a nie tylko stóp."
+    }
+  ],
+  "cases": [
+    {
+      "id": "C-V-001",
+      "kind": "case",
+      "lecture": "V",
+      "slide": "61",
+      "topic": "Wady kręgosłupa",
+      "difficulty": "medium",
+      "priority": true,
+      "title": "Rozpoznanie pleców okrągłych",
+      "scenario": "Podczas oceny sylwetki widzisz mocno zarysowaną kifozę piersiową oraz głowę i barki wysunięte do przodu. Jaki typ wady opisuje wykład i jaki ogólny kierunek korekcji podaje?",
+      "question": "Jak rozpoznać wadę i jaki ogólny kierunek korekcji podaje wykład?",
+      "answer": "To plecy okrągłe. Wykład proponuje rozciąganie przykurczonych mięśni piersiowych, wzmacnianie osłabionych mięśni grzbietu i edukację postawy.",
+      "mandatory": [
+        "Rozpoznanie pleców okrągłych",
+        "Zwiększona kifoza",
+        "Kierunek korekcji"
+      ],
+      "pitfall": "Scenariusz dydaktyczny na podstawie cech wady, nie indywidualne rozpoznanie."
+    },
+    {
+      "id": "C-V-002",
+      "kind": "case",
+      "lecture": "V",
+      "slide": "66",
+      "topic": "Wady kręgosłupa",
+      "difficulty": "medium",
+      "priority": true,
+      "title": "Rozpoznanie pleców wklęsłych",
+      "scenario": "Pacjent ma znacznie pogłębioną lordozę lędźwiową, uwypuklony brzuch i przodopochylenie miednicy. Jaka to wada i które grupy mięśni obejmuje wykładowa korekcja?",
+      "question": "Jaka wada odpowiada tym cechom i które grupy mięśni dotyczą korekcji?",
+      "answer": "To plecy wklęsłe. Wykład omawia wzmacnianie mięśni brzucha i pośladków oraz rozciąganie skróconych zginaczy bioder i prostowników lędźwiowych.",
+      "mandatory": [
+        "Plecy wklęsłe",
+        "Lordoza i przodopochylenie",
+        "Dobór grup mięśni"
+      ],
+      "pitfall": "Ćwiczenia trzeba indywidualizować."
+    },
+    {
+      "id": "C-V-003",
+      "kind": "case",
+      "lecture": "V",
+      "slide": "75",
+      "topic": "Wady kręgosłupa",
+      "difficulty": "hard",
+      "priority": true,
+      "title": "Korekcja kompensacji",
+      "scenario": "Podczas próby zmniejszenia kifozy piersiowej pacjent nadmiernie pogłębia lordozę lędźwiową. Jaką zasadę ćwiczeń wskazuje wykład o plecach okrągło-wklęsłych?",
+      "question": "Jaką zasadę stabilizacji zastosować zgodnie z wykładem?",
+      "answer": "Podczas korekcji jednej krzywizny trzeba stabilizować drugi odcinek, zapobiegając kompensacji; należy unikać hiperkorekcji.",
+      "mandatory": [
+        "Stabilizacja drugiego odcinka",
+        "Bez hiperkorekcji"
+      ],
+      "pitfall": "Ćwiczenie jest ilustracją zasady odcinkowej stabilizacji."
+    },
+    {
+      "id": "C-V-004",
+      "kind": "case",
+      "lecture": "V",
+      "slide": "88",
+      "topic": "Skolioza",
+      "difficulty": "medium",
+      "priority": true,
+      "title": "Interpretacja wykładowych zakresów",
+      "scenario": "W opisie RTG skoliozy podano kąt Cobba 45°. Do jakiej kategorii w podziale ze slajdu 88 należy ten wynik?",
+      "question": "Jaki stopień skoliozy odpowiada podanemu wynikowi według slajdu?",
+      "answer": "Do II stopnia skoliozy według wykładowego podziału 31–60°. Nie jest to automatyczna decyzja o leczeniu.",
+      "mandatory": [
+        "45° leży w 31–60°",
+        "II stopień"
+      ],
+      "pitfall": "Odpowiedź dotyczy wyłącznie klasyfikacji z prezentacji."
+    },
+    {
+      "id": "C-V-005",
+      "kind": "case",
+      "lecture": "V",
+      "slide": "119",
+      "topic": "Wady kolan i stóp",
+      "difficulty": "basic",
+      "priority": true,
+      "title": "Rozpoznanie koślawości kolan",
+      "scenario": "Podczas stania kolana zbliżają się do siebie, a kostki przyśrodkowe pozostają rozdzielone. Co opisano?",
+      "question": "Jak nazywa się opisana wada osi kończyn?",
+      "answer": "Koślawość kolan, typ X. Szpotawość jest odwrotna: kolana są oddalone.",
+      "mandatory": [
+        "Koślawość",
+        "Kolana blisko",
+        "Kostki daleko"
+      ],
+      "pitfall": "To ćwiczenie rozpoznawania cechy sylwetki."
+    },
+    {
+      "id": "C-V-006",
+      "kind": "case",
+      "lecture": "V",
+      "slide": "131",
+      "topic": "Wady kolan i stóp",
+      "difficulty": "medium",
+      "priority": true,
+      "title": "Rozpoznanie stopy końsko-szpotawej",
+      "scenario": "U dziecka opisano przywiedzenie przodostopia, szpotawość pięty i ustawienie końskie. Jaką wadę przedstawia wykład?",
+      "question": "Jaką wadę stopy opisują wymienione cechy?",
+      "answer": "Stopę końsko-szpotawą. Prezentacja wymienia m.in. postępowanie gipsowe, ortezy i ćwiczenia ukierunkowane na ustawienie stopy.",
+      "mandatory": [
+        "Stopa końsko-szpotawa",
+        "Trzy składowe"
+      ],
+      "pitfall": "Opis ma charakter edukacyjny."
+    }
+  ],
+  "coverage": [
+    {
+      "name": "Etapy rehabilitacji i pionizacji",
+      "status": "CZĘŚCIOWO",
+      "slide": "16–19, 44–46, 101, 103–105",
+      "note": "Etapy rozwoju, chodu i korekcji; brak klinicznego schematu pionizacji."
+    },
+    {
+      "name": "Przeciwwskazania do pionizacji",
+      "status": "BRAK",
+      "slide": "",
+      "note": "Nie podano odrębnych przeciwwskazań do pionizacji."
+    },
+    {
+      "name": "Kiedy przerwać trening / ćwiczenia",
+      "status": "BRAK",
+      "slide": "",
+      "note": "Nie podano ogólnych kryteriów zakończenia treningu."
+    },
+    {
+      "name": "Charakterystyka wad postawy",
+      "status": "OMÓWIONE",
+      "slide": "23–26, 59–138",
+      "note": "Charakterystyka wad kręgosłupa, klatki, kolan i stóp."
+    },
+    {
+      "name": "Etapy przy stwardnieniu",
+      "status": "BRAK",
+      "slide": "",
+      "note": "Nie występują etapy stwardnienia."
+    },
+    {
+      "name": "Techniki wykonywania ćwiczeń",
+      "status": "CZĘŚCIOWO",
+      "slide": "65, 70, 75, 80, 99–105, 113, 117, 123, 126, 130–138",
+      "note": "Kierunki korekcji, ale na ogół bez pełnego instruktażu ruchowego."
+    },
+    {
+      "name": "Nauka efektywnego kaszlu",
+      "status": "BRAK",
+      "slide": "",
+      "note": "Brak instruktażu efektywnego kaszlu; patrz wykład VI."
+    },
+    {
+      "name": "Postępowanie RAJS",
+      "status": "BRAK",
+      "slide": "",
+      "note": "Nie znaleziono terminu ani rozwinięcia RAJS."
+    },
+    {
+      "name": "Zabezpieczenie rany przed pionizacją",
+      "status": "BRAK",
+      "slide": "",
+      "note": "Brak stabilizacji rany pooperacyjnej i protokołu opatrunku."
+    },
+    {
+      "name": "Odleżyny i blizny – ocena",
+      "status": "BRAK",
+      "slide": "",
+      "note": "Brak klasyfikacji odleżyn i oceny blizn."
+    },
+    {
+      "name": "Mobilizacja blizny",
+      "status": "BRAK",
+      "slide": "",
+      "note": "Brak technik mobilizacji blizny."
+    }
+  ],
+  "images": [
+    {
+      "lecture": "Wykład V",
+      "slide": 43,
+      "title": "Sylwetki wg Wolańskiego",
+      "alt": "Porównanie typów K, L i R",
+      "caption": "Wzorce postawy kifotycznej, lordotycznej i równoważnej.",
+      "src": "../../images/wyklad-v-slajd-43.jpg"
+    },
+    {
+      "lecture": "Wykład V",
+      "slide": 47,
+      "title": "Fazy chodu",
+      "alt": "Schemat cyklu chodu",
+      "caption": "Odniesienie do fazy stance i swing.",
+      "src": "../../images/wyklad-v-slajd-47.jpg"
+    },
+    {
+      "lecture": "Wykład V",
+      "slide": 91,
+      "title": "Lokalizacje skoliozy",
+      "alt": "Podział skoliozy wg umiejscowienia",
+      "caption": "Wykładowa ilustracja różnych łuków skrzywienia.",
+      "src": "../../images/wyklad-v-slajd-91.jpg"
+    }
+  ]
+}

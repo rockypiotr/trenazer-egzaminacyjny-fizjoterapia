@@ -1,0 +1,2012 @@
+{
+  "cards": [
+    {
+      "id": "F-VI-001",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "2",
+      "topic": "Oddychanie i wentylacja",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Co jest głównym mięśniem wdechowym?",
+      "answer": "Przepona."
+    },
+    {
+      "id": "F-VI-002",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "2",
+      "topic": "Oddychanie i wentylacja",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Czy wdech w spoczynku jest czynny czy bierny?",
+      "answer": "Czynny – wynika m.in. ze skurczu przepony i mięśni międzyżebrowych zewnętrznych."
+    },
+    {
+      "id": "F-VI-003",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "3",
+      "topic": "Oddychanie i wentylacja",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Jaki charakter ma spokojny wydech?",
+      "answer": "Bierny, związany z rozkurczem mięśni wdechowych i sprężystym powrotem układu oddechowego."
+    },
+    {
+      "id": "F-VI-004",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "3",
+      "topic": "Oddychanie i wentylacja",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Jaką relację czasu wydechu do wdechu podaje wykład?",
+      "answer": "Wydech jest około dwukrotnie dłuższy od wdechu."
+    },
+    {
+      "id": "F-VI-005",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "9",
+      "topic": "Oddychanie i wentylacja",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Jakie trzy podstawowe tory oddechu omawia wykład?",
+      "answer": "Górnożebrowy, dolnożebrowy i przeponowy; dodatkowo tor mieszany."
+    },
+    {
+      "id": "F-VI-006",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "9",
+      "topic": "Oddychanie i wentylacja",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jak rozpoznać oddychanie górnożebrowe?",
+      "answer": "Unosi się górna część klatki piersiowej, mostek i obojczyki."
+    },
+    {
+      "id": "F-VI-007",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "9",
+      "topic": "Oddychanie i wentylacja",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jak rozpoznać oddychanie dolnożebrowe?",
+      "answer": "Dolne żebra rozszerzają się na boki i ku górze."
+    },
+    {
+      "id": "F-VI-008",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "9",
+      "topic": "Oddychanie i wentylacja",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Co porusza się podczas wdechu torem przeponowym?",
+      "answer": "Przepona obniża się, a ściana brzucha uwypukla do przodu."
+    },
+    {
+      "id": "F-VI-009",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "15",
+      "topic": "Oddychanie i wentylacja",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Która pozycja według wykładu ułatwia spokojny oddech i odkrztuszanie?",
+      "answer": "Pozycja półsiedząca."
+    },
+    {
+      "id": "F-VI-010",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "20",
+      "topic": "Techniki oddechowe",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Od jakiej fazy oddechu rozpoczyna się ćwiczenie oddechowe według wykładu?",
+      "answer": "Od wydechu."
+    },
+    {
+      "id": "F-VI-011",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "20",
+      "topic": "Techniki oddechowe",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Jaką drogą należy wykonywać wdech i wydech w podstawowym ćwiczeniu?",
+      "answer": "Wdech nosem, wydech ustami."
+    },
+    {
+      "id": "F-VI-012",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "20",
+      "topic": "Techniki oddechowe",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Ile powtórzeń w serii zaleca podstawowy instruktaż oddechowy w wykładzie?",
+      "answer": "3–4, z przerwami, aby nie powodować hiperwentylacji."
+    },
+    {
+      "id": "F-VI-013",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "22",
+      "topic": "Techniki oddechowe",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Czym różnią się ćwiczenia oddechowe statyczne od dynamicznych?",
+      "answer": "Statyczne nie wymagają ruchu kończyn; dynamiczne łączą oddech z ruchami kończyn lub tułowia."
+    },
+    {
+      "id": "F-VI-014",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "24",
+      "topic": "Techniki oddechowe",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "W jaki sposób można zwiększyć opór oddechu?",
+      "answer": "Ręką terapeuty, ułożeniem ciała, woreczkiem z obciążeniem albo wydechem przez rurkę do wody."
+    },
+    {
+      "id": "F-VI-015",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "25",
+      "topic": "Oczyszczanie dróg oddechowych",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Jaki jest cel drenażu ułożeniowego?",
+      "answer": "Ułatwienie przemieszczania wydzieliny z oskrzeli przez wykorzystanie grawitacji."
+    },
+    {
+      "id": "F-VI-016",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "28",
+      "topic": "Oczyszczanie dróg oddechowych",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Czym różni się drenaż dynamiczny od statycznego?",
+      "answer": "W dynamicznym pacjent kontrolowanie pochyla tułów w różnych kierunkach; statyczny opiera się na utrzymaniu pozycji."
+    },
+    {
+      "id": "F-VI-017",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "30",
+      "topic": "Oczyszczanie dróg oddechowych",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Wymień dwa przeciwwskazania do drenażu ułożeniowego z prezentacji.",
+      "answer": "Na przykład świeży zawał, niewydolność krążenia, krwawienie, świeży udar lub nietolerancja pozycji odwróconej."
+    },
+    {
+      "id": "F-VI-018",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "34",
+      "topic": "Oczyszczanie dróg oddechowych",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Ile może trwać pojedyncza seria oklepywania według slajdu 34?",
+      "answer": "Nie dłużej niż 3–4 min na raz, w 2–3 seriach."
+    },
+    {
+      "id": "F-VI-019",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "34",
+      "topic": "Oczyszczanie dróg oddechowych",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Jakich miejsc nie należy oklepywać podczas drenażu klatki?",
+      "answer": "Kręgosłupa oraz okolicy nerek."
+    },
+    {
+      "id": "F-VI-020",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "36",
+      "topic": "Oczyszczanie dróg oddechowych",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Wymień dwa przeciwwskazania do oklepywania.",
+      "answer": "Np. złamanie żeber, zaawansowana osteoporoza, krwawienie, niezdrenowana odma opłucnowa."
+    },
+    {
+      "id": "F-VI-021",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "37",
+      "topic": "Efektywny kaszel",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "Wymień dwa rodzaje kaszlu omawiane w wykładzie.",
+      "answer": "Kaszel podwójny, kontrolowany lub wzmocniony."
+    },
+    {
+      "id": "F-VI-022",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "38",
+      "topic": "Efektywny kaszel",
+      "difficulty": "hard",
+      "priority": true,
+      "question": "U jakiego pacjenta może być potrzebne wspomaganie kaszlu przez terapeutę?",
+      "answer": "U pacjenta z osłabionymi mięśniami oddechowymi, np. neurologicznego, z płytkim i mało efektywnym kaszlem."
+    },
+    {
+      "id": "F-VI-023",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "39",
+      "topic": "Efektywny kaszel",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Na czym polega technika FET (huff)?",
+      "answer": "Wdech nosem i natężony wydech przez otwarte usta z głoską „h”, aby przesuwać wydzielinę."
+    },
+    {
+      "id": "F-VI-024",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "39",
+      "topic": "Efektywny kaszel",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Przy jakiej reaktywności kaszlu wykład odradza FET?",
+      "answer": "Przy nadreaktywności kaszlu, gdy forsowny wydech jest źle tolerowany."
+    },
+    {
+      "id": "F-VI-025",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "43",
+      "topic": "Oczyszczanie dróg oddechowych",
+      "difficulty": "hard",
+      "priority": true,
+      "question": "Wymień trzy elementy aktywnego cyklu oddechowego (ACBT).",
+      "answer": "Kontrola oddechu przeponowego, ćwiczenia ekspansji klatki piersiowej, technika natężonego wydechu FET."
+    },
+    {
+      "id": "F-VI-026",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "44",
+      "topic": "Oczyszczanie dróg oddechowych",
+      "difficulty": "hard",
+      "priority": true,
+      "question": "Jakie są trzy fazy drenażu autogennego?",
+      "answer": "Rozluźnienie wydzieliny w małych oskrzelach, transport do większych oskrzeli, przemieszczenie do gardła i odkrztuszenie."
+    },
+    {
+      "id": "F-VI-027",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "50",
+      "topic": "Oczyszczanie dróg oddechowych",
+      "difficulty": "hard",
+      "priority": true,
+      "question": "Wymień cztery etapy usuwania wydzieliny z dróg oddechowych.",
+      "answer": "Rozrzedzenie śluzu, oderwanie od ściany oskrzela, przesunięcie do dużych dróg oddechowych, wykrztuszenie."
+    },
+    {
+      "id": "F-VI-028",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "53",
+      "topic": "Choroby płuc",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Na czym polega zaburzenie restrykcyjne oddychania?",
+      "answer": "Na ograniczeniu rozprężania płuc/klatki piersiowej i zmniejszeniu możliwej objętości wdechowej."
+    },
+    {
+      "id": "F-VI-029",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "55",
+      "topic": "Choroby płuc",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Na czym polega zaburzenie obturacyjne oddychania?",
+      "answer": "Na zwiększonym oporze przepływu przez zwężone drogi oddechowe, zwłaszcza podczas wydechu."
+    },
+    {
+      "id": "F-VI-030",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "61",
+      "topic": "Choroby płuc",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Jaką chorobą jest astma oskrzelowa według wykładu?",
+      "answer": "Przewlekłym zapaleniem oskrzeli z nadreaktywnością i zwykle odwracalną obturacją."
+    },
+    {
+      "id": "F-VI-031",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "62",
+      "topic": "Choroby płuc",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Wymień trzy typowe objawy astmy.",
+      "answer": "Świsty, napadowa duszność i kaszel, często z wydłużonym wydechem."
+    },
+    {
+      "id": "F-VI-032",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "64",
+      "topic": "Choroby płuc",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Co oznacza wydech przez zasznurowane usta?",
+      "answer": "Spokojny, wydłużony wydech przez zwężone wargi, bez nadmiernego parcia."
+    },
+    {
+      "id": "F-VI-033",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "65",
+      "topic": "Choroby płuc",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jak wygląda pozycja woźnicy?",
+      "answer": "Siad z tułowiem lekko pochylonym do przodu oraz przedramionami podpartymi na udach lub podporze."
+    },
+    {
+      "id": "F-VI-034",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "70",
+      "topic": "Choroby płuc",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Czym są rozstrzenie oskrzeli?",
+      "answer": "Trwałym rozszerzeniem oskrzeli, zwykle ze stanem zapalnym i utrudnionym oczyszczaniem wydzieliny."
+    },
+    {
+      "id": "F-VI-035",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "72",
+      "topic": "Choroby płuc",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jaki kaszel jest typowy dla rozstrzeni oskrzeli?",
+      "answer": "Przewlekły kaszel wilgotny z obfitą plwociną, niekiedy cuchnącą."
+    },
+    {
+      "id": "F-VI-036",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "78",
+      "topic": "Choroby płuc",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie trzy typy rozedmy wyróżnia wykład?",
+      "answer": "Rozedma centralnej części płacika, całego płacika i przegrodowa."
+    },
+    {
+      "id": "F-VI-037",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "80",
+      "topic": "Choroby płuc",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Wymień dwie charakterystyczne cechy rozedmy płuc.",
+      "answer": "Postępująca duszność i beczkowata klatka piersiowa; mogą występować świsty i szybka męczliwość."
+    },
+    {
+      "id": "F-VI-038",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "84",
+      "topic": "Choroby płuc",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Dlaczego w rozedmie uczy się wydechu przez zwężone usta?",
+      "answer": "Niewielki opór wydechowy pomaga utrzymać drożność małych dróg oddechowych."
+    },
+    {
+      "id": "F-VI-039",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "85",
+      "topic": "Choroby płuc",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Czego wykład nie zaleca przy wydechu osoby z rozedmą?",
+      "answer": "Silnego parcia i nadmuchiwania balonika, ponieważ zwiększają ciśnienie wydechowe."
+    },
+    {
+      "id": "F-VI-040",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "88",
+      "topic": "Choroby płuc",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Co oznacza skrót POChP?",
+      "answer": "Przewlekła obturacyjna choroba płuc."
+    },
+    {
+      "id": "F-VI-041",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "89",
+      "topic": "Choroby płuc",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Jakie stadia POChP przedstawia historyczny podział z wykładu?",
+      "answer": "0 – zagrożenie, I – lekkie, II – umiarkowane, III – ciężkie, IV – bardzo ciężkie."
+    },
+    {
+      "id": "F-VI-042",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "92",
+      "topic": "Choroby płuc",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Czym charakteryzuje się wykładowy typ POChP „różowy sapacz”?",
+      "answer": "Nasiloną dusznością, wychudzeniem i rozdęciem płuc bez wyraźnej sinicy."
+    },
+    {
+      "id": "F-VI-043",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "92",
+      "topic": "Choroby płuc",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Czym charakteryzuje się wykładowy typ POChP „niebieski dmuchacz”?",
+      "answer": "Sinicą, obfitą wydzieliną i nierzadko obrzękami oraz nadwagą."
+    },
+    {
+      "id": "F-VI-044",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "95",
+      "topic": "Choroby płuc",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Co obejmuje zapalenie płuc?",
+      "answer": "Stan zapalny miąższu płuca, w tym pęcherzyków płucnych."
+    },
+    {
+      "id": "F-VI-045",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "97",
+      "topic": "Choroby płuc",
+      "difficulty": "basic",
+      "priority": false,
+      "question": "Czym jest wysiękowe zapalenie opłucnej?",
+      "answer": "Stanem z gromadzeniem płynu w jamie opłucnej, który ogranicza rozprężanie płuca."
+    },
+    {
+      "id": "F-VI-046",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "101",
+      "topic": "Choroby płuc",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Co zaleca wykład przy gorączce i utrzymującym się wysięku opłucnowym?",
+      "answer": "Pozostawanie w łóżku do ustąpienia ostrej fazy, według opisanego schematu wykładowego."
+    },
+    {
+      "id": "F-VI-047",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "114",
+      "topic": "Choroby płuc",
+      "difficulty": "hard",
+      "priority": true,
+      "question": "Czy przeciwwskazania ze slajdu 114 są tożsame z przeciwwskazaniami do każdej pionizacji?",
+      "answer": "Nie. Slajd 114 dotyczy usprawniania w określonym kontekście onkologicznym i nie stanowi osobnej pełnej listy przeciwwskazań do pionizacji."
+    },
+    {
+      "id": "F-VI-048",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "119",
+      "topic": "Efektywny kaszel",
+      "difficulty": "basic",
+      "priority": true,
+      "question": "W jakiej pozycji wykład proponuje naukę efektywnego kaszlu po zabiegu?",
+      "answer": "W pozycji woźnicy, jeśli pacjent ją toleruje."
+    },
+    {
+      "id": "F-VI-049",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "119",
+      "topic": "Efektywny kaszel",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Kiedy w schemacie pooperacyjnym prowokuje się kaszel?",
+      "answer": "Na szczycie wydechu, po ćwiczeniach oddechowych torem przeponowym."
+    },
+    {
+      "id": "F-VI-050",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "119",
+      "topic": "Efektywny kaszel",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Ile kaszlnięć i serii podaje slajd dotyczący kaszlu pooperacyjnego?",
+      "answer": "3–4 kaszlnięcia pod rząd w 2–3 seriach."
+    },
+    {
+      "id": "F-VI-051",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "122",
+      "topic": "Torakochirurgia i pionizacja",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Kiedy według wykładu najlepiej rozpocząć przygotowanie przedoperacyjne?",
+      "answer": "Około 1–2 tygodni przed planowaną operacją, jeśli jest to możliwe."
+    },
+    {
+      "id": "F-VI-052",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "122",
+      "topic": "Torakochirurgia i pionizacja",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jakie dwie umiejętności należy przećwiczyć przed operacją z myślą o okresie pooperacyjnym?",
+      "answer": "Efektywne odkrztuszanie oraz stabilizowanie rany pooperacyjnej podczas kaszlu."
+    },
+    {
+      "id": "F-VI-053",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "122-125",
+      "topic": "Rana, blizna i odleżyny",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jakie sposoby stabilizacji okolicy operowanej omawia wykład?",
+      "answer": "Autostabilizację własnymi rękami, podparcie rękami terapeuty oraz pas lub szelki stabilizujące klatkę."
+    },
+    {
+      "id": "F-VI-054",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "130",
+      "topic": "Rana, blizna i odleżyny",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Po co prowadzi się stopniowe rozciąganie blizny w rehabilitacji pooperacyjnej?",
+      "answer": "Aby przeciwdziałać ograniczeniom ruchomości i przykurczom tkanek, zgodnie z celami wykładu."
+    },
+    {
+      "id": "F-VI-055",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "130",
+      "topic": "Rana, blizna i odleżyny",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Czy slajdy podają szczegółowy schemat oceny odleżyn i blizn?",
+      "answer": "Nie. Wspominają o profilaktyce odleżyn i problemach z blizną, ale bez pełnej klasyfikacji i badania."
+    },
+    {
+      "id": "F-VI-056",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "131",
+      "topic": "Torakochirurgia i pionizacja",
+      "difficulty": "hard",
+      "priority": true,
+      "question": "Co obejmuje usprawnianie w dobie zerowej po torakochirurgii?",
+      "answer": "Półsiad, ćwiczenia przeponowe i statyczne z oporem, kaszel ze stabilizacją rany, oklepywanie po stronie nieoperowanej, ruchy bierne lub czynno-bierne."
+    },
+    {
+      "id": "F-VI-057",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "131",
+      "topic": "Torakochirurgia i pionizacja",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Co włącza się do rehabilitacji w dobach 1–3?",
+      "answer": "Ćwiczenia czynne kończyn od części dystalnych, samowspomagane ćwiczenia barku, ćwiczenia izometryczne i stopniową pionizację."
+    },
+    {
+      "id": "F-VI-058",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "132",
+      "topic": "Torakochirurgia i pionizacja",
+      "difficulty": "hard",
+      "priority": true,
+      "question": "Wymień kolejność pionizacji pacjenta po zabiegu według slajdu 132.",
+      "answer": "Siad płaski w łóżku, siad z nogami spuszczonymi, stanie przy łóżku, pełna pionizacja z asekuracją terapeuty."
+    },
+    {
+      "id": "F-VI-059",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "132",
+      "topic": "Bezpieczeństwo ćwiczeń",
+      "difficulty": "hard",
+      "priority": true,
+      "question": "Jakie objawy podczas pionizacji nakazują natychmiast przerwać ćwiczenia?",
+      "answer": "Oznaki niedotlenienia: zasinienie warg, końców palców i paznokci oraz krople potu na czole."
+    },
+    {
+      "id": "F-VI-060",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "132",
+      "topic": "Torakochirurgia i pionizacja",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Co obejmuje rehabilitacja w dobach 4–6?",
+      "answer": "Bardziej intensywne ćwiczenia, siad/stanie, zwiększanie ruchomości barku, pionizację i spacery z asekuracją."
+    },
+    {
+      "id": "F-VI-061",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "133",
+      "topic": "Torakochirurgia i pionizacja",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jakie pomiary zaleca wykład podczas treningu po 6. dobie?",
+      "answer": "Tętno, ciśnienie krwi oraz liczbę oddechów przed, w trakcie i po ćwiczeniach."
+    },
+    {
+      "id": "F-VI-062",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "133",
+      "topic": "Torakochirurgia i pionizacja",
+      "difficulty": "hard",
+      "priority": true,
+      "question": "Jakie ćwiczenia slajd dopuszcza w dobie usunięcia drenu?",
+      "answer": "Ćwiczenia oddechowe torem przeponowym i ćwiczenia przeciwzakrzepowe."
+    },
+    {
+      "id": "F-VI-063",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "133",
+      "topic": "Bezpieczeństwo ćwiczeń",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jakie ograniczenia do ćwiczeń pooperacyjnych wymienia slajd 133?",
+      "answer": "Podwyższoną temperaturę ciała oraz ogólny lub miejscowy stan zapalny; slajd robi wyjątek dla ćwiczeń oddechowych i skutecznego kaszlu."
+    },
+    {
+      "id": "F-VI-064",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "33",
+      "topic": "Rana, blizna i odleżyny",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Czy slajd opisuje mobilizację tkanek na świeżej niezagojonej ranie?",
+      "answer": "Nie. Wskazuje działania na okolicy po zagojeniu rany, nie pełny protokół manualny."
+    },
+    {
+      "id": "F-VI-065",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "148",
+      "topic": "Mukowiscydoza",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Co oznacza FET w fizjoterapii mukowiscydozy?",
+      "answer": "Technika natężonego, forsownego wydechu (huff)."
+    },
+    {
+      "id": "F-VI-066",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "149",
+      "topic": "Mukowiscydoza",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jaką wartość oporu/ciśnienia PEP wymienia wykład?",
+      "answer": "Około 10–20 cm H₂O podczas wydechu przez maskę PEP."
+    },
+    {
+      "id": "F-VI-067",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "151",
+      "topic": "Mukowiscydoza",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jak działa Flutter w oczyszczaniu dróg oddechowych?",
+      "answer": "Wydech przez ustnik generuje drgania i dodatnie ciśnienie, co ułatwia mobilizację wydzieliny."
+    },
+    {
+      "id": "F-VI-068",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "152-153",
+      "topic": "Mukowiscydoza",
+      "difficulty": "hard",
+      "priority": true,
+      "question": "Jak zmienia się objętość oddechowa w fazach drenażu autogennego?",
+      "answer": "Od małej przez średnią do dużej, wraz z przemieszczaniem wydzieliny ku większym drogom oddechowym."
+    },
+    {
+      "id": "F-VI-069",
+      "kind": "card",
+      "lecture": "VI",
+      "slide": "154",
+      "topic": "Mukowiscydoza",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jak działa kamizelka do oscylacyjnego ucisku klatki?",
+      "answer": "Wytwarza rytmiczne drgania/uciski klatki, ułatwiające przemieszczanie wydzieliny."
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "Q-VI-001",
+      "kind": "quiz",
+      "lecture": "VI",
+      "slide": "2",
+      "topic": "Oddychanie i wentylacja",
+      "difficulty": "basic",
+      "priority": false,
+      "qtype": "single",
+      "question": "Główny mięsień spokojnego wdechu to:",
+      "options": [
+        "Mięsień prosty brzucha",
+        "Przepona",
+        "Czworoboczny lędźwi",
+        "Mięsień najszerszy grzbietu"
+      ],
+      "correct": 1,
+      "why": "Przepona odpowiada za zasadniczą część mechaniki wdechowej."
+    },
+    {
+      "id": "Q-VI-002",
+      "kind": "quiz",
+      "lecture": "VI",
+      "slide": "3",
+      "topic": "Oddychanie i wentylacja",
+      "difficulty": "basic",
+      "priority": false,
+      "qtype": "tf",
+      "question": "Spokojny wydech wymaga stałego silnego skurczu mięśni brzucha.",
+      "options": [],
+      "correct": false,
+      "why": "Spokojny wydech jest zwykle bierny."
+    },
+    {
+      "id": "Q-VI-003",
+      "kind": "quiz",
+      "lecture": "VI",
+      "slide": "9",
+      "topic": "Oddychanie i wentylacja",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "multi",
+      "question": "Jakie tory oddechowe opisano w wykładzie?",
+      "options": [
+        "Górnożebrowy",
+        "Dolnożebrowy",
+        "Przeponowy",
+        "Obwodowo-nerkowy"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ],
+      "why": "Wyróżniono także tor mieszany."
+    },
+    {
+      "id": "Q-VI-004",
+      "kind": "quiz",
+      "lecture": "VI",
+      "slide": "15",
+      "topic": "Oddychanie i wentylacja",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "single",
+      "question": "Która pozycja ułatwia odkrztuszanie wydzieliny?",
+      "options": [
+        "Półsiedząca",
+        "Pozycja z unieruchomioną klatką",
+        "Obowiązkowo pozycja głową w dół",
+        "Wyłącznie leżenie płasko"
+      ],
+      "correct": 0,
+      "why": "Slajd 15 podkreśla korzystny wpływ półsiadu."
+    },
+    {
+      "id": "Q-VI-005",
+      "kind": "quiz",
+      "lecture": "VI",
+      "slide": "20",
+      "topic": "Techniki oddechowe",
+      "difficulty": "basic",
+      "priority": true,
+      "qtype": "single",
+      "question": "Od jakiej fazy zaczyna się instruktaż oddychania?",
+      "options": [
+        "Wdechu przez usta",
+        "Wydechu",
+        "Bezdechu",
+        "Kasłania"
+      ],
+      "correct": 1,
+      "why": "Wykład zaleca rozpoczynanie ćwiczenia od wydechu."
+    },
+    {
+      "id": "Q-VI-006",
+      "kind": "quiz",
+      "lecture": "VI",
+      "slide": "20",
+      "topic": "Techniki oddechowe",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "single",
+      "question": "Ile oddechów zaleca wykład w krótkiej serii ćwiczeń?",
+      "options": [
+        "3–4",
+        "20–30",
+        "50",
+        "100"
+      ],
+      "correct": 0,
+      "why": "Krótka seria ogranicza ryzyko hiperwentylacji."
+    },
+    {
+      "id": "Q-VI-007",
+      "kind": "quiz",
+      "lecture": "VI",
+      "slide": "23",
+      "topic": "Techniki oddechowe",
+      "difficulty": "basic",
+      "priority": true,
+      "qtype": "tf",
+      "question": "Ćwiczenia oddechowe dynamiczne łączą oddech z ruchem kończyn.",
+      "options": [],
+      "correct": true,
+      "why": "Slajd 23 definiuje ćwiczenia dynamiczne jako oddech wspomagany czynnymi ruchami kończyn."
+    },
+    {
+      "id": "Q-VI-008",
+      "kind": "quiz",
+      "lecture": "VI",
+      "slide": "25",
+      "topic": "Oczyszczanie dróg oddechowych",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "single",
+      "question": "Jaki mechanizm wykorzystuje drenaż ułożeniowy?",
+      "options": [
+        "Grawitację",
+        "Wyłącznie impuls elektryczny",
+        "Stały ucisk naczyń",
+        "Wstrzymanie oddechu na minutę"
+      ],
+      "correct": 0,
+      "why": "Ułożenie segmentów płuc pomaga transportowi wydzieliny."
+    },
+    {
+      "id": "Q-VI-009",
+      "kind": "quiz",
+      "lecture": "VI",
+      "slide": "30",
+      "topic": "Oczyszczanie dróg oddechowych",
+      "difficulty": "hard",
+      "priority": true,
+      "qtype": "multi",
+      "question": "Które stany wykład wymienia jako przeciwwskazania do drenażu ułożeniowego?",
+      "options": [
+        "Świeży zawał",
+        "Krwawienie z dróg oddechowych",
+        "Niewydolność krążenia",
+        "Prawidłowy oddech przeponowy"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ],
+      "why": "To przeciwwskazania do drenażu, a nie pełna lista przeciwwskazań do pionizacji."
+    },
+    {
+      "id": "Q-VI-010",
+      "kind": "quiz",
+      "lecture": "VI",
+      "slide": "34",
+      "topic": "Oczyszczanie dróg oddechowych",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "single",
+      "question": "Maksymalny czas pojedynczego oklepywania na slajdzie 34 to:",
+      "options": [
+        "Do 3–4 minut",
+        "Co najmniej 30 minut",
+        "Dwie godziny",
+        "Cała doba"
+      ],
+      "correct": 0,
+      "why": "Wykład podaje do 3–4 minut w serii."
+    },
+    {
+      "id": "Q-VI-011",
+      "kind": "quiz",
+      "lecture": "VI",
+      "slide": "36",
+      "topic": "Oczyszczanie dróg oddechowych",
+      "difficulty": "hard",
+      "priority": true,
+      "qtype": "multi",
+      "question": "Które przeciwwskazania dotyczą oklepywania?",
+      "options": [
+        "Złamanie żeber",
+        "Zaawansowana osteoporoza",
+        "Krwawienie",
+        "Prawidłowe ustawienie barków"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ],
+      "why": "Slajd 36 wymienia ryzyko urazu i krwawień."
+    },
+    {
+      "id": "Q-VI-012",
+      "kind": "quiz",
+      "lecture": "VI",
+      "slide": "39",
+      "topic": "Efektywny kaszel",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "single",
+      "question": "Jak powstaje wydech w technice FET?",
+      "options": [
+        "Przez otwarte usta z głoską „h”",
+        "Przez całkowicie zamknięte usta",
+        "Z wyłącznie biernym bezdechem",
+        "Tylko przy zanurzonym nosie"
+      ],
+      "correct": 0,
+      "why": "FET (huff) to forsowny/natężony wydech z głoską „h”."
+    },
+    {
+      "id": "Q-VI-013",
+      "kind": "quiz",
+      "lecture": "VI",
+      "slide": "43",
+      "topic": "Oczyszczanie dróg oddechowych",
+      "difficulty": "hard",
+      "priority": true,
+      "qtype": "order",
+      "question": "Ułóż etapy aktywnego cyklu oddechowego.",
+      "options": [
+        "Kontrolowane oddychanie",
+        "Ćwiczenia ekspansji klatki piersiowej",
+        "Natężony wydech FET"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ],
+      "why": "Na slajdzie 43 podano trzy elementy aktywnego cyklu."
+    },
+    {
+      "id": "Q-VI-014",
+      "kind": "quiz",
+      "lecture": "VI",
+      "slide": "44",
+      "topic": "Oczyszczanie dróg oddechowych",
+      "difficulty": "hard",
+      "priority": true,
+      "qtype": "order",
+      "question": "Ułóż fazy drenażu autogennego.",
+      "options": [
+        "Rozluźnianie wydzieliny w małych oskrzelach",
+        "Przesuwanie do większych oskrzeli",
+        "Transport do gardła i odkrztuszenie"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ],
+      "why": "Objętość oddechu stopniowo rośnie od fazy pierwszej do trzeciej."
+    },
+    {
+      "id": "Q-VI-015",
+      "kind": "quiz",
+      "lecture": "VI",
+      "slide": "50",
+      "topic": "Oczyszczanie dróg oddechowych",
+      "difficulty": "hard",
+      "priority": true,
+      "qtype": "order",
+      "question": "Ułóż cztery etapy ewakuacji wydzieliny.",
+      "options": [
+        "Rozrzedzenie wydzieliny",
+        "Oderwanie od ścian oskrzeli",
+        "Przesunięcie do większych dróg oddechowych",
+        "Wykrztuszenie"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "why": "Schemat czterech działań opisano na slajdzie 50."
+    },
+    {
+      "id": "Q-VI-016",
+      "kind": "quiz",
+      "lecture": "VI",
+      "slide": "53",
+      "topic": "Choroby płuc",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "single",
+      "question": "W restrykcji głównym problemem jest:",
+      "options": [
+        "Ograniczenie rozprężania płuc",
+        "Wyłącznie zbyt szybki przepływ powietrza",
+        "Nadmiernie duża objętość płuc",
+        "Brak możliwości ruchu stopy"
+      ],
+      "correct": 0,
+      "why": "Restrykcja ogranicza dostępną objętość oddechową."
+    },
+    {
+      "id": "Q-VI-017",
+      "kind": "quiz",
+      "lecture": "VI",
+      "slide": "55",
+      "topic": "Choroby płuc",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "single",
+      "question": "Obturacja oznacza przede wszystkim:",
+      "options": [
+        "Zwiększony opór przepływu powietrza",
+        "Utratę krzywizn kręgosłupa",
+        "Wyłącznie zrosty skórne",
+        "Nadmiar elastyczności żeber"
+      ],
+      "correct": 0,
+      "why": "Obturacja utrudnia przepływ przez drogi oddechowe."
+    },
+    {
+      "id": "Q-VI-018",
+      "kind": "quiz",
+      "lecture": "VI",
+      "slide": "61",
+      "topic": "Choroby płuc",
+      "difficulty": "basic",
+      "priority": false,
+      "qtype": "single",
+      "question": "Która choroba jest związana z nadreaktywnością oskrzeli?",
+      "options": [
+        "Astma",
+        "Płaskostopie",
+        "Skolioza czynnościowa",
+        "Koślawość kolan"
+      ],
+      "correct": 0,
+      "why": "Astma jest przewlekłą zapalną chorobą oskrzeli."
+    },
+    {
+      "id": "Q-VI-019",
+      "kind": "quiz",
+      "lecture": "VI",
+      "slide": "70",
+      "topic": "Choroby płuc",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "single",
+      "question": "Co wyróżnia rozstrzenie oskrzeli?",
+      "options": [
+        "Trwałe poszerzenie oskrzeli",
+        "Zapadnięcie mostka",
+        "Utrwalona szpotawość kolan",
+        "Pogrubienie ścięgna Achillesa"
+      ],
+      "correct": 0,
+      "why": "Rozstrzenie wiążą się z trwałym poszerzeniem oskrzeli."
+    },
+    {
+      "id": "Q-VI-020",
+      "kind": "quiz",
+      "lecture": "VI",
+      "slide": "78",
+      "topic": "Choroby płuc",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "multi",
+      "question": "Które odmiany rozedmy podaje prezentacja?",
+      "options": [
+        "Centralnej części płacika",
+        "Całego płacika",
+        "Przegrodowa",
+        "Podeszwowa"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ],
+      "why": "Slajd 78 wymienia trzy typy rozedmy."
+    },
+    {
+      "id": "Q-VI-021",
+      "kind": "quiz",
+      "lecture": "VI",
+      "slide": "85",
+      "topic": "Choroby płuc",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "tf",
+      "question": "W rozedmie wykład zaleca jak najsilniejsze parcie podczas wydechu i nadmuchiwanie balonów.",
+      "options": [],
+      "correct": false,
+      "why": "Wykład odradza forsowny wydech z dużym oporem."
+    },
+    {
+      "id": "Q-VI-022",
+      "kind": "quiz",
+      "lecture": "VI",
+      "slide": "89",
+      "topic": "Choroby płuc",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "single",
+      "question": "Jakie jest ostatnie stadium w historycznym podziale POChP na slajdzie?",
+      "options": [
+        "III",
+        "IV",
+        "VI",
+        "X"
+      ],
+      "correct": 1,
+      "why": "Wykład przedstawia stadia 0–IV."
+    },
+    {
+      "id": "Q-VI-023",
+      "kind": "quiz",
+      "lecture": "VI",
+      "slide": "92",
+      "topic": "Choroby płuc",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "single",
+      "question": "Która charakterystyka odpowiada „niebieskiemu dmuchaczowi”?",
+      "options": [
+        "Sinica i obfitsza plwocina",
+        "Brak plwociny i duże wychudzenie",
+        "Wyłącznie ból kolana",
+        "Brak duszności u wszystkich pacjentów"
+      ],
+      "correct": 0,
+      "why": "To historyczny typ kliniczny przedstawiony na slajdzie."
+    },
+    {
+      "id": "Q-VI-024",
+      "kind": "quiz",
+      "lecture": "VI",
+      "slide": "101",
+      "topic": "Choroby płuc",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "tf",
+      "question": "W ostrej fazie wysiękowego zapalenia opłucnej z gorączką wykład zaleca nieograniczony trening wytrzymałościowy.",
+      "options": [],
+      "correct": false,
+      "why": "Slajd 101 podaje odpoczynek w łóżku podczas gorączki i utrzymującego się wysięku."
+    },
+    {
+      "id": "Q-VI-025",
+      "kind": "quiz",
+      "lecture": "VI",
+      "slide": "114",
+      "topic": "Bezpieczeństwo ćwiczeń",
+      "difficulty": "hard",
+      "priority": true,
+      "qtype": "tf",
+      "question": "Lista przeciwwskazań do usprawniania na slajdzie 114 jest pełną listą przeciwwskazań do każdej pionizacji.",
+      "options": [],
+      "correct": false,
+      "why": "Slajd dotyczy szczególnego kontekstu usprawniania, nie całej pionizacji."
+    },
+    {
+      "id": "Q-VI-026",
+      "kind": "quiz",
+      "lecture": "VI",
+      "slide": "119",
+      "topic": "Efektywny kaszel",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "single",
+      "question": "Ile kaszlnięć następujących po sobie przewiduje ćwiczenie pooperacyjne?",
+      "options": [
+        "3–4",
+        "10–20",
+        "Co najmniej 50",
+        "Dokładnie jedno na dobę"
+      ],
+      "correct": 0,
+      "why": "Wykład proponuje 3–4 kaszlnięcia w 2–3 seriach."
+    },
+    {
+      "id": "Q-VI-027",
+      "kind": "quiz",
+      "lecture": "VI",
+      "slide": "122",
+      "topic": "Torakochirurgia i pionizacja",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "single",
+      "question": "Kiedy zaleca się rozpocząć przygotowanie do planowanej operacji?",
+      "options": [
+        "1–2 tygodnie wcześniej",
+        "Wyłącznie po operacji",
+        "Dopiero po wygojeniu blizny",
+        "Nigdy przed operacją"
+      ],
+      "correct": 0,
+      "why": "Slajd 122 zaleca wczesne przygotowanie przed zabiegiem."
+    },
+    {
+      "id": "Q-VI-028",
+      "kind": "quiz",
+      "lecture": "VI",
+      "slide": "122-125",
+      "topic": "Rana, blizna i odleżyny",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "multi",
+      "question": "Jakie sposoby stabilizacji miejsca operowanego pokazuje wykład?",
+      "options": [
+        "Własnymi rękami chorego",
+        "Rękami terapeuty",
+        "Pasem/szelkami stabilizującymi",
+        "Dowolnym uciskiem niezagojonej rany"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ],
+      "why": "Wykład opisuje stabilizację, ale nie pełną procedurę opatrunkową."
+    },
+    {
+      "id": "Q-VI-029",
+      "kind": "quiz",
+      "lecture": "VI",
+      "slide": "131",
+      "topic": "Torakochirurgia i pionizacja",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "single",
+      "question": "W dobie zerowej po operacji oklepywanie klatki wykonuje się według wykładu:",
+      "options": [
+        "Tylko po stronie nieoperowanej",
+        "Wyłącznie po stronie operowanej",
+        "Zawsze jednocześnie po obu stronach",
+        "Wyłącznie po kończynach dolnych"
+      ],
+      "correct": 0,
+      "why": "Slajd 131 wymienia ograniczenie do strony nieoperowanej."
+    },
+    {
+      "id": "Q-VI-030",
+      "kind": "quiz",
+      "lecture": "VI",
+      "slide": "132",
+      "topic": "Torakochirurgia i pionizacja",
+      "difficulty": "hard",
+      "priority": true,
+      "qtype": "order",
+      "question": "Ułóż etapy pionizacji po operacji.",
+      "options": [
+        "Siad płaski w łóżku",
+        "Siad z nogami spuszczonymi",
+        "Stanie przy łóżku",
+        "Pełna pionizacja z asekuracją"
+      ],
+      "correct": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "why": "To kolejność podana wprost na slajdzie 132."
+    },
+    {
+      "id": "Q-VI-031",
+      "kind": "quiz",
+      "lecture": "VI",
+      "slide": "132",
+      "topic": "Bezpieczeństwo ćwiczeń",
+      "difficulty": "hard",
+      "priority": true,
+      "qtype": "multi",
+      "question": "Jakie objawy według wykładu wymagają przerwania ćwiczeń podczas pionizacji?",
+      "options": [
+        "Zasinienie warg",
+        "Zasinienie palców/paznokci",
+        "Krople potu na czole",
+        "Prawidłowa symetria barków"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ],
+      "why": "Slajd 132 wymienia oznaki niedotlenienia."
+    },
+    {
+      "id": "Q-VI-032",
+      "kind": "quiz",
+      "lecture": "VI",
+      "slide": "133",
+      "topic": "Torakochirurgia i pionizacja",
+      "difficulty": "hard",
+      "priority": true,
+      "qtype": "single",
+      "question": "Co zaleca się wykonywać w dobie odłączenia drenu według wykładu?",
+      "options": [
+        "Tylko ćwiczenia przeponowe i przeciwzakrzepowe",
+        "Tylko intensywne bieganie",
+        "Wyłącznie skakanie",
+        "Nieprzerwany trening siłowy"
+      ],
+      "correct": 0,
+      "why": "To ograniczenie podano na slajdzie 133."
+    },
+    {
+      "id": "Q-VI-033",
+      "kind": "quiz",
+      "lecture": "VI",
+      "slide": "133",
+      "topic": "Bezpieczeństwo ćwiczeń",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "multi",
+      "question": "Które parametry trzeba kontrolować przed, w trakcie i po wysiłku?",
+      "options": [
+        "Tętno",
+        "Ciśnienie tętnicze",
+        "Liczbę oddechów",
+        "Kolor butów"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ],
+      "why": "Wykład wymienia tętno, ciśnienie i częstość oddychania."
+    },
+    {
+      "id": "Q-VI-034",
+      "kind": "quiz",
+      "lecture": "VI",
+      "slide": "130",
+      "topic": "Rana, blizna i odleżyny",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "tf",
+      "question": "Slajd 130 zawiera szczegółową, stopniowaną klasyfikację odleżyn.",
+      "options": [],
+      "correct": false,
+      "why": "Slajd wymienia profilaktykę odleżyn, ale bez klasyfikacji."
+    },
+    {
+      "id": "Q-VI-035",
+      "kind": "quiz",
+      "lecture": "VI",
+      "slide": "135",
+      "topic": "Rana, blizna i odleżyny",
+      "difficulty": "medium",
+      "priority": true,
+      "qtype": "tf",
+      "question": "Prezentacja daje pełny opis techniki manualnej mobilizacji blizny.",
+      "options": [],
+      "correct": false,
+      "why": "Wspomina o bliznach i ruchomości, ale nie podaje kompletnej procedury."
+    },
+    {
+      "id": "Q-VI-036",
+      "kind": "quiz",
+      "lecture": "VI",
+      "slide": "149",
+      "topic": "Mukowiscydoza",
+      "difficulty": "medium",
+      "priority": false,
+      "qtype": "single",
+      "question": "Jaki zakres ciśnienia PEP podaje wykład?",
+      "options": [
+        "10–20 cm H₂O",
+        "1–2 atm",
+        "100–200 mm Hg",
+        "0 cm H₂O zawsze"
+      ],
+      "correct": 0,
+      "why": "Slajd opisuje maskę PEP z oporem wydechowym."
+    },
+    {
+      "id": "Q-VI-037",
+      "kind": "quiz",
+      "lecture": "VI",
+      "slide": "152-153",
+      "topic": "Mukowiscydoza",
+      "difficulty": "hard",
+      "priority": true,
+      "qtype": "order",
+      "question": "Ułóż zakresy objętości oddechowej w drenażu autogennym.",
+      "options": [
+        "Mała objętość",
+        "Średnia objętość",
+        "Duża objętość"
+      ],
+      "correct": [
+        0,
+        1,
+        2
+      ],
+      "why": "Praca odbywa się od oddechów małoobjętościowych do dużych."
+    }
+  ],
+  "opens": [
+    {
+      "id": "O-VI-001",
+      "kind": "open",
+      "lecture": "VI",
+      "slide": "9",
+      "topic": "Oddychanie i wentylacja",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Wymień i opisz trzy tory oddychania oraz tor mieszany.",
+      "answer": "Górnożebrowy: ruch górnej klatki; dolnożebrowy: rozszerzanie dolnych żeber na boki; przeponowy: uwypuklenie brzucha; mieszany: współudział piersi i przepony.",
+      "mandatory": [
+        "Górnożebrowy",
+        "Dolnożebrowy",
+        "Przeponowy",
+        "Mieszany"
+      ],
+      "pitfall": "W prezentacji tor mieszany jest wskazany jako szczególnie efektywny."
+    },
+    {
+      "id": "O-VI-002",
+      "kind": "open",
+      "lecture": "VI",
+      "slide": "20",
+      "topic": "Techniki oddechowe",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Opisz podstawowe zasady nauki prawidłowego oddychania.",
+      "answer": "Rozpoczęcie wydechem, wdech nosem, dłuższy wydech ustami (zwykle 1:2), świadoma kontrola toru, krótka seria 3–4 powtórzeń i przerwy dla uniknięcia hiperwentylacji.",
+      "mandatory": [
+        "Start od wydechu",
+        "Nos/usta",
+        "Dłuższy wydech",
+        "3–4 powtórzenia",
+        "Ochrona przed hiperwentylacją"
+      ],
+      "pitfall": "Nie wprowadzaj bez potrzeby szybkich głębokich oddechów."
+    },
+    {
+      "id": "O-VI-003",
+      "kind": "open",
+      "lecture": "VI",
+      "slide": "25",
+      "topic": "Oczyszczanie dróg oddechowych",
+      "difficulty": "hard",
+      "priority": true,
+      "question": "Wyjaśnij różnicę między drenażem statycznym i dynamicznym oraz podaj ważne ograniczenie.",
+      "answer": "Statyczny polega na utrzymaniu pozycji wykorzystującej grawitację; dynamiczny wykorzystuje kontrolowane pochylenia tułowia. Przeciwwskazania do drenażu obejmują m.in. świeży zawał, krwawienie i zaburzenia krążenia.",
+      "mandatory": [
+        "Drenaż statyczny",
+        "Drenaż dynamiczny",
+        "Przykład przeciwwskazania"
+      ],
+      "pitfall": "Przeciwwskazania do drenażu nie są tożsame z przeciwwskazaniami do pionizacji."
+    },
+    {
+      "id": "O-VI-004",
+      "kind": "open",
+      "lecture": "VI",
+      "slide": "34",
+      "topic": "Oczyszczanie dróg oddechowych",
+      "difficulty": "hard",
+      "priority": true,
+      "question": "Opisz podstawowe zasady oklepywania i trzy przeciwwskazania.",
+      "answer": "Oklepywanie nad segmentami klatki, poza kręgosłupem i nerkami, zwykle do 3–4 min w serii. Przeciwwskazania to np. złamane żebra, osteoporoza, krwawienie, niezdrenowana odma.",
+      "mandatory": [
+        "Omijanie kręgosłupa i nerek",
+        "Czas",
+        "Przeciwwskazania"
+      ],
+      "pitfall": "Wykład opisuje procedurę terapeutyczną, nie zabieg dla nieprzeszkolonej osoby."
+    },
+    {
+      "id": "O-VI-005",
+      "kind": "open",
+      "lecture": "VI",
+      "slide": "39",
+      "topic": "Efektywny kaszel",
+      "difficulty": "hard",
+      "priority": true,
+      "question": "Porównaj efektywny kaszel i FET oraz powiedz, kiedy kaszel może wymagać wspomagania.",
+      "answer": "Kaszel ma usunąć wydzielinę. FET to natężony wydech przez otwarte usta z głoską „h”. Kaszel wspomagany może być potrzebny przy słabej sile mięśni oddechowych; wykład przestrzega przed FET przy nadreaktywności kaszlu.",
+      "mandatory": [
+        "Cel kaszlu",
+        "FET",
+        "Słaby kaszel",
+        "Nadreaktywność"
+      ],
+      "pitfall": "Nie utożsamiaj FET z każdym kaszlnięciem."
+    },
+    {
+      "id": "O-VI-006",
+      "kind": "open",
+      "lecture": "VI",
+      "slide": "43,44,50",
+      "topic": "Oczyszczanie dróg oddechowych",
+      "difficulty": "hard",
+      "priority": true,
+      "question": "Podaj kolejność elementów ACBT, drenażu autogennego i ewakuacji śluzu.",
+      "answer": "ACBT: kontrola oddechu → ekspansja klatki → FET. Drenaż autogenny: małe → średnie → duże objętości. Ewakuacja śluzu: rozrzedzenie → oderwanie → przesunięcie → odkrztuszenie.",
+      "mandatory": [
+        "ACBT 3 etapy",
+        "Autogenny 3 fazy",
+        "Śluz 4 kroki"
+      ],
+      "pitfall": "To trzy różne sekwencje, nie jedna procedura."
+    },
+    {
+      "id": "O-VI-007",
+      "kind": "open",
+      "lecture": "VI",
+      "slide": "55",
+      "topic": "Choroby płuc",
+      "difficulty": "medium",
+      "priority": false,
+      "question": "Porównaj restrykcję i obturację oraz podaj przykłady.",
+      "answer": "Restrykcja ogranicza rozprężanie i objętość płuc, np. przy zniekształceniach klatki. Obturacja zwiększa opór dróg oddechowych, zwłaszcza w wydechu, np. w astmie i POChP.",
+      "mandatory": [
+        "Restrykcja",
+        "Obturacja",
+        "Przykłady"
+      ],
+      "pitfall": "Nie myl ograniczenia objętości z oporem przepływu."
+    },
+    {
+      "id": "O-VI-008",
+      "kind": "open",
+      "lecture": "VI",
+      "slide": "84",
+      "topic": "Choroby płuc",
+      "difficulty": "hard",
+      "priority": true,
+      "question": "Jakie zasady wydechu są ważne w usprawnianiu osoby z rozedmą według wykładu?",
+      "answer": "Krótki spokojny wdech, wydłużony wydech przez zwężone wargi bez nadmiernego parcia; unikanie nadmuchiwania balonika w schemacie wykładowym.",
+      "mandatory": [
+        "Krótki wdech",
+        "Wydłużony wydech",
+        "Zasznurowane usta",
+        "Unikanie parcia"
+      ],
+      "pitfall": "Nie interpretuj tego jako samodzielnego programu terapeutycznego."
+    },
+    {
+      "id": "O-VI-009",
+      "kind": "open",
+      "lecture": "VI",
+      "slide": "114",
+      "topic": "Bezpieczeństwo ćwiczeń",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Wyjaśnij różnicę między przeciwwskazaniami do usprawniania a przeciwwskazaniami do pionizacji.",
+      "answer": "Wykład podaje listy przeciwwskazań do drenażu, oklepywania i określonego usprawniania; nie ma pełnej odrębnej listy do każdej pionizacji. Podczas pionizacji wymaga obserwacji oznak niedotlenienia.",
+      "mandatory": [
+        "Rozróżnienie list",
+        "Brak pełnej listy pionizacji",
+        "Obserwacja pacjenta"
+      ],
+      "pitfall": "Nie przenoś automatycznie przeciwwskazań z jednej procedury na drugą."
+    },
+    {
+      "id": "O-VI-010",
+      "kind": "open",
+      "lecture": "VI",
+      "slide": "119",
+      "topic": "Efektywny kaszel",
+      "difficulty": "hard",
+      "priority": true,
+      "question": "Przedstaw naukę efektywnego kaszlu po torakochirurgii zgodnie ze slajdami.",
+      "answer": "Wyjaśnienie celu i przygotowanie chusteczek; pozycja woźnicy; ćwiczenia przeponowe; kaszlnięcia prowokowane na szczycie wydechu (3–4 w 2–3 seriach); stabilizacja operowanej okolicy.",
+      "mandatory": [
+        "Cel i przygotowanie",
+        "Pozycja",
+        "Oddech przeponowy",
+        "Kaszlnięcia",
+        "Stabilizacja rany"
+      ],
+      "pitfall": "Ból rany może utrudniać kaszel."
+    },
+    {
+      "id": "O-VI-011",
+      "kind": "open",
+      "lecture": "VI",
+      "slide": "122-125",
+      "topic": "Rana, blizna i odleżyny",
+      "difficulty": "hard",
+      "priority": true,
+      "question": "Jak wykład opisuje stabilizację rany i czego nie wyjaśnia?",
+      "answer": "Stabilizacja okolicy operowanej własnymi rękami, przez terapeutę albo specjalnym pasem/szelkami; dobrana do dostępu operacyjnego. Nie opisano kompletnej procedury zmiany opatrunku, zabezpieczenia szwów i drenów przed pionizacją.",
+      "mandatory": [
+        "Metody stabilizacji",
+        "Dobór do dostępu",
+        "Brak protokołu opatrunku"
+      ],
+      "pitfall": "Nie dopisuj samodzielnie instrukcji opatrunkowej."
+    },
+    {
+      "id": "O-VI-012",
+      "kind": "open",
+      "lecture": "VI",
+      "slide": "131",
+      "topic": "Torakochirurgia i pionizacja",
+      "difficulty": "hard",
+      "priority": true,
+      "question": "Wymień etapy usprawniania po torakochirurgii według dób.",
+      "answer": "Doba 0: półsiad, oddech, kaszel ze stabilizacją, ruchy bierne. Doby 1–3: ruchy czynne, pionizacja. Doby 4–6: większe ćwiczenia, spacery. Od 6. doby: trening wytrzymałościowy. Później dom i rehabilitacja ambulatoryjna.",
+      "mandatory": [
+        "Doba 0",
+        "Doby 1–3",
+        "Doby 4–6",
+        "Od 6. doby",
+        "Kontynuacja"
+      ],
+      "pitfall": "Nie pomijaj asekuracji i monitorowania."
+    },
+    {
+      "id": "O-VI-013",
+      "kind": "open",
+      "lecture": "VI",
+      "slide": "132",
+      "topic": "Torakochirurgia i pionizacja",
+      "difficulty": "hard",
+      "priority": true,
+      "question": "Wymień kolejne etapy pionizacji po operacji i zasady bezpieczeństwa.",
+      "answer": "Siad płaski → siad ze spuszczonymi nogami → stanie przy łóżku → pełna pionizacja z asekuracją. Pacjenta obserwuje się pod kątem zasinienia warg/palców/paznokci i potu na czole; przy tych objawach ćwiczenia natychmiast się przerywa.",
+      "mandatory": [
+        "Siad płaski",
+        "Nogi spuszczone",
+        "Stanie przy łóżku",
+        "Asekuracja",
+        "Oznaki niedotlenienia"
+      ],
+      "pitfall": "Nie pomyl objawów alarmowych z przewidywalnym zmęczeniem."
+    },
+    {
+      "id": "O-VI-014",
+      "kind": "open",
+      "lecture": "VI",
+      "slide": "133",
+      "topic": "Bezpieczeństwo ćwiczeń",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jakie parametry i ograniczenia monitorować po 6. dobie po operacji?",
+      "answer": "Tętno, ciśnienie, liczba oddechów przed, w trakcie i po ćwiczeniach. W dobie usunięcia drenu wykład pozwala tylko na ćwiczenia przeponowe i przeciwzakrzepowe; wymienia gorączkę i stan zapalny jako ograniczenia ćwiczeń.",
+      "mandatory": [
+        "Tętno",
+        "Ciśnienie",
+        "Oddechy",
+        "Dren",
+        "Gorączka/stan zapalny"
+      ],
+      "pitfall": "Brak liczbowych progów saturacji w prezentacji."
+    },
+    {
+      "id": "O-VI-015",
+      "kind": "open",
+      "lecture": "VI",
+      "slide": "130",
+      "topic": "Rana, blizna i odleżyny",
+      "difficulty": "medium",
+      "priority": true,
+      "question": "Jakie informacje dotyczące odleżyn i blizn można znaleźć w prezentacji?",
+      "answer": "Wykład wymienia profilaktykę odleżyn, zapobieganie przykurczom, stopniowe rozciąganie blizny i usprawnianie przy ograniczeniach ruchu. Nie omawia pełnej oceny rany, stopni odleżyn ani konkretnego protokołu mobilizacji blizny.",
+      "mandatory": [
+        "Profilaktyka",
+        "Stopniowe rozciąganie",
+        "Brak oceny i techniki"
+      ],
+      "pitfall": "Odróżniaj cele rehabilitacji od szczegółowej procedury."
+    },
+    {
+      "id": "O-VI-016",
+      "kind": "open",
+      "lecture": "VI",
+      "slide": "138-154",
+      "topic": "Mukowiscydoza",
+      "difficulty": "hard",
+      "priority": true,
+      "question": "Wymień metody oczyszczania oskrzeli w mukowiscydozie opisane w wykładzie.",
+      "answer": "Kaszel i kaszel wspomagany, drenaż ułożeniowy, FET, aktywny cykl oddechowy, drenaż autogenny, PEP, Flutter i oscylacyjny ucisk klatki.",
+      "mandatory": [
+        "Kaszel",
+        "Drenaż",
+        "FET/ACBT",
+        "PEP/Flutter",
+        "Drenaż autogenny"
+      ],
+      "pitfall": "Dobór techniki zależy od tolerancji i stanu chorego."
+    }
+  ],
+  "cases": [
+    {
+      "id": "C-VI-001",
+      "kind": "case",
+      "lecture": "VI",
+      "slide": "132",
+      "topic": "Torakochirurgia i pionizacja",
+      "difficulty": "hard",
+      "priority": true,
+      "title": "Pierwsze uruchamianie po operacji",
+      "scenario": "Pacjent po zabiegu jest jeszcze w łóżku. Jaką kolejność uruchamiania przedstawia slajd 132?",
+      "question": "W jakiej kolejności prowadzi się pionizację według wykładu?",
+      "answer": "Siad płaski w łóżku, następnie siad ze spuszczonymi nogami, stanie przy łóżku, pełna pionizacja z asekuracją terapeuty.",
+      "mandatory": [
+        "Siad płaski",
+        "Nogi spuszczone",
+        "Stanie",
+        "Asekuracja"
+      ],
+      "pitfall": "To kolejność ze slajdu, nie uniwersalny schemat dla każdego pacjenta."
+    },
+    {
+      "id": "C-VI-002",
+      "kind": "case",
+      "lecture": "VI",
+      "slide": "132",
+      "topic": "Bezpieczeństwo ćwiczeń",
+      "difficulty": "hard",
+      "priority": true,
+      "title": "Objawy alarmowe podczas pionizacji",
+      "scenario": "W czasie pionizacji pojawia się zasinienie warg, końców palców i krople potu na czole. Co wynika z wykładu?",
+      "question": "Jak powinien zareagować terapeuta według slajdu?",
+      "answer": "Należy natychmiast przerwać ćwiczenia, ponieważ slajd wskazuje te objawy jako oznaki niedotlenienia.",
+      "mandatory": [
+        "Przerwanie ćwiczeń",
+        "Oznaki niedotlenienia"
+      ],
+      "pitfall": "Nie kontynuować ćwiczenia dla osiągnięcia planowanej liczby powtórzeń."
+    },
+    {
+      "id": "C-VI-003",
+      "kind": "case",
+      "lecture": "VI",
+      "slide": "119",
+      "topic": "Efektywny kaszel",
+      "difficulty": "hard",
+      "priority": true,
+      "title": "Kaszel po zabiegu",
+      "scenario": "Pacjent po torakochirurgii ma trudność z odkrztuszaniem z powodu bólu w miejscu cięcia. Jakie działania przygotowawcze opisuje wykład?",
+      "question": "Jakie czynności ułatwiające odkrztuszanie opisano w materiale?",
+      "answer": "Ćwiczenia oddechu przeponowego, nauka kaszlu w dogodnej pozycji oraz stabilizacja okolicy operowanej przez chorego, terapeutę lub odpowiedni pas/szelki.",
+      "mandatory": [
+        "Oddech przeponowy",
+        "Pozycja",
+        "Stabilizacja rany"
+      ],
+      "pitfall": "Wykład nie podaje kompletnej procedury opatrunkowej."
+    },
+    {
+      "id": "C-VI-004",
+      "kind": "case",
+      "lecture": "VI",
+      "slide": "133",
+      "topic": "Torakochirurgia i pionizacja",
+      "difficulty": "medium",
+      "priority": true,
+      "title": "Doba usunięcia drenu",
+      "scenario": "Pacjentowi po operacji usunięto dren. Jakie ograniczenie ćwiczeń podaje slajd 133?",
+      "question": "Jaki zakres ćwiczeń podano na ten dzień?",
+      "answer": "W dniu usunięcia drenu wykład ogranicza ćwiczenia do przeponowych i przeciwzakrzepowych.",
+      "mandatory": [
+        "Przeponowe",
+        "Przeciwzakrzepowe"
+      ],
+      "pitfall": "To zapis wykładu, nie indywidualne zlecenie kliniczne."
+    },
+    {
+      "id": "C-VI-005",
+      "kind": "case",
+      "lecture": "VI",
+      "slide": "39",
+      "topic": "Efektywny kaszel",
+      "difficulty": "hard",
+      "priority": true,
+      "title": "Nadreaktywność kaszlu",
+      "scenario": "U osoby z nasilonym odruchem kaszlowym terapeuta rozważa technikę FET. Co sugeruje wykład?",
+      "question": "Czy FET jest właściwą techniką w takiej sytuacji według wykładu?",
+      "answer": "Wykład odradza FET przy nadreaktywności kaszlu i podkreśla, że jest techniką obciążającą; należy ją dobrać do tolerancji.",
+      "mandatory": [
+        "Nadreaktywność",
+        "Ograniczenie FET"
+      ],
+      "pitfall": "Nie jest to zalecenie zastępowania oceny terapeuty."
+    },
+    {
+      "id": "C-VI-006",
+      "kind": "case",
+      "lecture": "VI",
+      "slide": "36",
+      "topic": "Oczyszczanie dróg oddechowych",
+      "difficulty": "hard",
+      "priority": true,
+      "title": "Ryzyko oklepywania",
+      "scenario": "Chory ma świeże złamanie żebra i planowane jest oklepywanie klatki. Co mówi lista przeciwwskazań w prezentacji?",
+      "question": "Czy oklepywanie jest właściwe w tej sytuacji według wykładowych przeciwwskazań?",
+      "answer": "Złamanie żeber jest na liście przeciwwskazań do oklepywania. Nie należy traktować oklepywania jako bezpiecznego automatycznie u każdego chorego.",
+      "mandatory": [
+        "Złamanie żeber",
+        "Przeciwwskazanie do oklepywania"
+      ],
+      "pitfall": "Nie przenoś tego jako odrębnej zasady pionizacji."
+    },
+    {
+      "id": "C-VI-007",
+      "kind": "case",
+      "lecture": "VI",
+      "slide": "30",
+      "topic": "Oczyszczanie dróg oddechowych",
+      "difficulty": "hard",
+      "priority": true,
+      "title": "Drenaż i krwawienie",
+      "scenario": "Osoba z aktywnym krwawieniem z dróg oddechowych ma zostać ułożona w pozycji drenażowej. Co mówi wykład?",
+      "question": "Jaką decyzję uzasadnia lista przeciwwskazań do drenażu?",
+      "answer": "Krwawienie z dróg oddechowych znajduje się wśród przeciwwskazań do drenażu ułożeniowego.",
+      "mandatory": [
+        "Krwawienie",
+        "Przeciwwskazanie do drenażu"
+      ],
+      "pitfall": "Scenariusz ilustruje ograniczenie z określonej procedury."
+    },
+    {
+      "id": "C-VI-008",
+      "kind": "case",
+      "lecture": "VI",
+      "slide": "130",
+      "topic": "Rana, blizna i odleżyny",
+      "difficulty": "medium",
+      "priority": true,
+      "title": "Weryfikacja brakującej wiedzy",
+      "scenario": "Student ma podać pełną klasyfikację stopni odleżyn wyłącznie na podstawie obu prezentacji. Jak powinien odpowiedzieć?",
+      "question": "Czy można wskazać stopnie odleżyn wyłącznie z dostępnych slajdów?",
+      "answer": "Nie ma podstaw do odtworzenia pełnej klasyfikacji z tych materiałów. Wykład VI wspomina o profilaktyce odleżyn, ale nie podaje stopni i szczegółowej oceny.",
+      "mandatory": [
+        "Wskazanie braku",
+        "Wspomniana profilaktyka"
+      ],
+      "pitfall": "Nie wymyślaj klasyfikacji, jeśli celem jest nauka z tych slajdów."
+    }
+  ],
+  "coverage": [
+    {
+      "name": "Etapy rehabilitacji i pionizacji",
+      "status": "OMÓWIONE",
+      "slide": "25, 43–45, 50, 130–135, 152–153",
+      "note": "Etapy uruchamiania, rehabilitacji, ACBT i drenażu autogennego."
+    },
+    {
+      "name": "Przeciwwskazania do pionizacji",
+      "status": "CZĘŚCIOWO",
+      "slide": "114, 132–133",
+      "note": "Brak pełnej osobnej listy przeciwwskazań do pionizacji; nie utożsamiaj z listami dla innych zabiegów."
+    },
+    {
+      "name": "Kiedy przerwać trening / ćwiczenia",
+      "status": "OMÓWIONE",
+      "slide": "20, 43, 81–82, 114, 132–133",
+      "note": "Oznaki niedotlenienia i hiperwentylacji; brak progów liczbowych przerwania."
+    },
+    {
+      "name": "Charakterystyka wad postawy",
+      "status": "CZĘŚCIOWO",
+      "slide": "54, 58, 64, 94, 130, 135",
+      "note": "Wady postawy jako czynnik zaburzeń oddychania; pełna klasyfikacja w wykładzie V."
+    },
+    {
+      "name": "Etapy przy stwardnieniu",
+      "status": "BRAK",
+      "slide": "",
+      "note": "Nie występują etapy stwardnienia; stadia POChP to inny temat."
+    },
+    {
+      "name": "Techniki wykonywania ćwiczeń",
+      "status": "OMÓWIONE",
+      "slide": "9–46, 64–69, 81–87, 101–106, 118–121, 148–154",
+      "note": "Opis ćwiczeń i technik oddechowych, z przykładami dawkowania."
+    },
+    {
+      "name": "Nauka efektywnego kaszlu",
+      "status": "OMÓWIONE",
+      "slide": "37–39, 119, 122, 138–140",
+      "note": "Efektywny kaszel, wspomaganie i kaszel pooperacyjny."
+    },
+    {
+      "name": "Postępowanie RAJS",
+      "status": "BRAK",
+      "slide": "",
+      "note": "Nie znaleziono terminu ani rozwinięcia RAJS."
+    },
+    {
+      "name": "Zabezpieczenie rany przed pionizacją",
+      "status": "CZĘŚCIOWO",
+      "slide": "119, 122–125, 130–132",
+      "note": "Stabilizacja operowanej okolicy; brak protokołu opatrunku i drenów."
+    },
+    {
+      "name": "Odleżyny i blizny – ocena",
+      "status": "CZĘŚCIOWO",
+      "slide": "33, 130, 135",
+      "note": "Profilaktyka odleżyn i praca z blizną, bez pełnej oceny."
+    },
+    {
+      "name": "Mobilizacja blizny",
+      "status": "CZĘŚCIOWO",
+      "slide": "33, 130, 135",
+      "note": "Wspomniane rozciąganie blizny po zagojeniu, bez techniki manualnej."
+    }
+  ],
+  "images": [
+    {
+      "lecture": "Wykład VI",
+      "slide": 65,
+      "title": "Pozycja ułatwiająca oddychanie",
+      "alt": "Pozycja woźnicy",
+      "caption": "Ilustracja postawy wykorzystywanej w nauce oddychania.",
+      "src": "../../images/wyklad-vi-slajd-65.jpg"
+    },
+    {
+      "lecture": "Wykład VI",
+      "slide": 124,
+      "title": "Stabilizacja rany",
+      "alt": "Samodzielna stabilizacja okolicy pooperacyjnej",
+      "caption": "Schemat z wykładu, nie instrukcja opatrunkowa.",
+      "src": "../../images/wyklad-vi-slajd-124.jpg"
+    },
+    {
+      "lecture": "Wykład VI",
+      "slide": 132,
+      "title": "Pionizacja po operacji",
+      "alt": "Kolejność uruchamiania i oznaki niedotlenienia",
+      "caption": "Kluczowy slajd dotyczący pionizacji.",
+      "src": "../../images/wyklad-vi-slajd-132.jpg"
+    }
+  ]
+}

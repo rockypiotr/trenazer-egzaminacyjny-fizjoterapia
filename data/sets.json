@@ -1,0 +1,16 @@
+[
+  {
+    "id": "V",
+    "label": "Wykład V",
+    "title": "Wady postawy",
+    "file": "sets/wyklad-v.json",
+    "coverageTitle": "Wykład V – Wady postawy"
+  },
+  {
+    "id": "VI",
+    "label": "Wykład VI",
+    "title": "Rehabilitacja pulmonologiczna",
+    "file": "sets/wyklad-vi.json",
+    "coverageTitle": "Wykład VI – Pulmonologia"
+  }
+]
